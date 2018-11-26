@@ -1,0 +1,246 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,2,Matt Ladrech,Daniel Amaral,Curve,72.5,Hit Into Play - Out,-
+1,2,1,Matt Ladrech,Jake Hirabayashi,2 Seam,82.9,Ball,-
+1,2,2,Matt Ladrech,Jake Hirabayashi,4 Seam,82.1,Foul,74
+1,2,3,Matt Ladrech,Jake Hirabayashi,4 Seam,82,Ball,-
+1,2,4,Matt Ladrech,Jake Hirabayashi,Slider,74.3,Swinging Strike,-
+1,2,5,Matt Ladrech,Jake Hirabayashi,Slider,73.2,Hit Into Play - Out,66.1
+1,3,1,Matt Ladrech,Michael Toglia,2 Seam,83.1,Ball,-
+1,3,2,Matt Ladrech,Michael Toglia,4 Seam,83.3,Foul,-
+1,3,3,Matt Ladrech,Michael Toglia,Cutter,81.7,Ball,-
+1,3,4,Matt Ladrech,Michael Toglia,Slider,72.2,Called Strike,-
+1,3,5,Matt Ladrech,Michael Toglia,Slider,72.9,Foul,79.8
+1,3,6,Matt Ladrech,Michael Toglia,4 Seam,82,Hit Into Play,105.7
+1,4,1,Matt Ladrech,Chase Strumpf,Cutter,73.8,Ball,-
+1,4,2,Matt Ladrech,Chase Strumpf,4 Seam,82.8,Ball,-
+1,4,3,Matt Ladrech,Chase Strumpf,4 Seam,82.3,Foul,-
+1,4,4,Matt Ladrech,Chase Strumpf,Slider,74.3,Hit Into Play - Out,87.8
+1,5,1,Jake Bird,Tyrus Greene,2 Seam,89.7,Ball,-
+1,5,2,Jake Bird,Tyrus Greene,Changeup,82.1,Called Strike,-
+1,5,3,Jake Bird,Tyrus Greene,2 Seam,89.8,Called Strike,-
+1,5,4,Jake Bird,Tyrus Greene,Curve,76.5,Hit Into Play,93.6
+1,6,1,Jake Bird,Jeffery Mitchell Jr.,Cutter,83.7,Hit Into Play - Out,19.9
+1,7,1,Jake Bird,Andrew Vaughn,2 Seam,88.2,Ball,-
+1,7,2,Jake Bird,Andrew Vaughn,2 Seam,88.3,Ball,-
+1,7,3,Jake Bird,Andrew Vaughn,Cutter,85.8,Called Strike,-
+1,7,4,Jake Bird,Andrew Vaughn,4 Seam,84.8,Foul,-
+1,7,5,Jake Bird,Andrew Vaughn,4 Seam,87.4,Ball,-
+1,7,6,Jake Bird,Andrew Vaughn,Cutter,89.3,Hit Into Play,104.6
+1,8,1,Jake Bird,Tanner Dodson,Changeup,80.5,Hit Into Play - Out,66.9
+2,9,1,Matt Ladrech,Jack Stronach,4 Seam,81,Called Strike,-
+2,9,2,Matt Ladrech,Jack Stronach,Curve,68.6,Ball,-
+2,9,3,Matt Ladrech,Jack Stronach,Slider,72.8,Hit Into Play - Out,84.8
+2,10,1,Matt Ladrech,Jake Pries,4 Seam,82,Ball,-
+2,10,2,Matt Ladrech,Jake Pries,Cutter,73.9,Swinging Strike,-
+2,10,3,Matt Ladrech,Jake Pries,Cutter,74,Foul,-
+2,10,4,Matt Ladrech,Jake Pries,4 Seam,82.6,Foul,89.1
+2,10,5,Matt Ladrech,Jake Pries,4 Seam,81.8,Ball,-
+2,10,6,Matt Ladrech,Jake Pries,Slider,73.6,Foul,-
+2,10,7,Matt Ladrech,Jake Pries,4 Seam,83.1,Ball,-
+2,10,8,Matt Ladrech,Jake Pries,Slider,73.7,Swinging Strike,-
+2,11,1,Matt Ladrech,Garrett Mitchell,4 Seam,82.4,Called Strike,-
+2,11,2,Matt Ladrech,Garrett Mitchell,Curve,68.1,Swinging Strike,-
+2,11,3,Matt Ladrech,Garrett Mitchell,2 Seam,82.5,Ball,-
+2,11,4,Matt Ladrech,Garrett Mitchell,Slider,70.3,Ball,-
+2,11,5,Matt Ladrech,Garrett Mitchell,4 Seam,82,Ball,-
+2,11,6,Matt Ladrech,Garrett Mitchell,Cutter,73.1,Called Strike,-
+2,12,1,Jake Bird,Jonah Davis,2 Seam,89.5,Hit Into Play,80.3
+2,13,1,Jake Bird,Korey Lee,4 Seam,84.6,Ball,-
+2,13,2,Jake Bird,Korey Lee,Changeup,83.5,Ball,-
+2,13,3,Jake Bird,Korey Lee,2 Seam,89.1,Swinging Strike,-
+2,13,4,Jake Bird,Korey Lee,2 Seam,88.1,Hit Into Play - Out,60.3
+2,14,1,Jake Bird,Darren Baker,2 Seam,90.2,Ball,-
+2,14,2,Jake Bird,Darren Baker,Changeup,81.8,Ball,-
+2,14,3,Jake Bird,Darren Baker,2 Seam,89,Ball,-
+2,14,4,Jake Bird,Darren Baker,2 Seam,89,Called Strike,-
+2,14,5,Jake Bird,Darren Baker,2 Seam,89.2,Hit Into Play,88.1
+2,15,1,Jake Bird,Sam Wezniak,4 Seam,83.4,Swinging Strike,-
+2,15,2,Jake Bird,Sam Wezniak,Cutter,82.6,Hit Into Play,92.9
+2,16,1,Jake Bird,Cameron Eden,2 Seam,87.1,Foul,-
+2,16,2,Jake Bird,Cameron Eden,2 Seam,87.6,Foul,-
+2,16,3,Jake Bird,Cameron Eden,Cutter,84.6,Ball,-
+2,16,4,Jake Bird,Cameron Eden,Cutter,85.4,Ball,-
+2,16,5,Jake Bird,Cameron Eden,Cutter,84,Called Strike,-
+3,17,1,Matt Ladrech,Ryan Kreidler,Cutter,80.6,Called Strike,-
+3,17,2,Matt Ladrech,Ryan Kreidler,Cutter,73.2,Swinging Strike,-
+3,17,3,Matt Ladrech,Ryan Kreidler,Cutter,71.9,Foul,55
+3,17,4,Matt Ladrech,Ryan Kreidler,4 Seam,82.3,Hit Into Play - Out,77.2
+3,18,1,Matt Ladrech,Will McInerny,4 Seam,82.2,Called Strike,-
+3,18,2,Matt Ladrech,Will McInerny,Cutter,72.7,Swinging Strike,-
+3,18,3,Matt Ladrech,Will McInerny,Cutter,73.6,Hit Into Play - Out,-
+3,18,4,Matt Ladrech,Will McInerny,Changeup,74.3,Swinging Strike,-
+3,19,1,Matt Ladrech,Daniel Amaral,2 Seam,81.9,Foul,-
+3,19,2,Matt Ladrech,Daniel Amaral,4 Seam,82.2,Ball,-
+3,19,3,Matt Ladrech,Daniel Amaral,Curve,70.8,Hit Into Play - Out,92.5
+3,20,1,Jake Bird,Tyrus Greene,2 Seam,89.8,Foul,-
+3,20,2,Jake Bird,Tyrus Greene,2 Seam,89.2,Hit Into Play - Out,33.3
+3,21,1,Jake Bird,Jeffery Mitchell Jr.,4 Seam,86.4,Foul,-
+3,21,2,Jake Bird,Jeffery Mitchell Jr.,4 Seam,89.2,Ball,-
+3,21,3,Jake Bird,Jeffery Mitchell Jr.,4 Seam,88.9,Foul,-
+3,21,4,Jake Bird,Jeffery Mitchell Jr.,Cutter,84,Swinging Strike,-
+3,22,1,Jake Bird,Andrew Vaughn,2 Seam,89.7,Hit Into Play,57
+3,23,1,Jake Bird,Tanner Dodson,2 Seam,87.5,Hit Into Play,49.4
+3,24,1,Jake Bird,Jonah Davis,2 Seam,89.1,Foul,-
+3,24,2,Jake Bird,Jonah Davis,2 Seam,90,Ball,-
+3,24,3,Jake Bird,Jonah Davis,2 Seam,90.3,Hit Into Play - Run Scored,36.7
+3,25,1,Jake Bird,Korey Lee,4 Seam,84.3,Swinging Strike,-
+3,25,2,Jake Bird,Korey Lee,2 Seam,88.3,Ball,-
+3,25,3,Jake Bird,Korey Lee,Cutter,82.8,Called Strike,-
+3,25,4,Jake Bird,Korey Lee,Changeup,83.2,Swinging Strike,-
+4,26,1,Matt Ladrech,Jake Hirabayashi,Changeup,72.1,Called Strike,-
+4,26,2,Matt Ladrech,Jake Hirabayashi,4 Seam,81.1,Hit Into Play - Out,91
+4,27,1,Matt Ladrech,Michael Toglia,4 Seam,82.1,Called Strike,-
+4,27,2,Matt Ladrech,Michael Toglia,4 Seam,81.7,Ball,-
+4,27,3,Matt Ladrech,Michael Toglia,Changeup,74.7,Ball,-
+4,27,4,Matt Ladrech,Michael Toglia,Cutter,73.1,Foul,86
+4,27,5,Matt Ladrech,Michael Toglia,Slider,71.1,Ball,-
+4,27,6,Matt Ladrech,Michael Toglia,Cutter,71.8,Hit Into Play - Out,77.6
+4,28,1,Matt Ladrech,Chase Strumpf,Cutter,81.4,Hit Into Play - Out,53.5
+4,29,1,Jake Bird,Darren Baker,2 Seam,88.2,Ball,-
+4,29,2,Jake Bird,Darren Baker,Changeup,80.2,Ball,-
+4,29,3,Jake Bird,Darren Baker,2 Seam,89,Foul,-
+4,29,4,Jake Bird,Darren Baker,2 Seam,88.4,Hit Into Play - Out,79.9
+4,30,1,Jake Bird,Sam Wezniak,4 Seam,88,Ball,-
+4,30,2,Jake Bird,Sam Wezniak,2 Seam,89.2,Ball,-
+4,30,3,Jake Bird,Sam Wezniak,Cutter,88.1,Foul,-
+4,30,4,Jake Bird,Sam Wezniak,Cutter,84.2,Ball,-
+4,30,5,Jake Bird,Sam Wezniak,4 Seam,87.3,Called Strike,-
+4,30,6,Jake Bird,Sam Wezniak,4 Seam,86.8,Hit Into Play,96.6
+4,31,1,Jake Bird,Cameron Eden,4 Seam,86.4,Hit Into Play - Run Scored,71
+4,32,1,Jake Bird,Tyrus Greene,Changeup,82.5,Pitchout,-
+4,32,2,Jake Bird,Tyrus Greene,2 Seam,85.9,Hit Into Play - Out,85.1
+4,33,1,Jake Bird,Jeffery Mitchell Jr.,4 Seam,87.1,Swinging Strike,-
+4,33,2,Jake Bird,Jeffery Mitchell Jr.,Cutter,86.6,Hit Into Play,97.9
+4,34,1,Jake Bird,Andrew Vaughn,2 Seam,87.2,Ball,-
+4,34,2,Jake Bird,Andrew Vaughn,Slider,82.4,Swinging Strike,-
+4,34,3,Jake Bird,Andrew Vaughn,2 Seam,86.9,Called Strike,-
+4,34,4,Jake Bird,Andrew Vaughn,Cutter,83.1,Ball,-
+4,34,5,Jake Bird,Andrew Vaughn,2 Seam,87.1,Ball,-
+4,34,6,Jake Bird,Andrew Vaughn,2 Seam,88.7,Foul,-
+4,34,7,Jake Bird,Andrew Vaughn,2 Seam,87.7,Hit Into Play - Run Scored,-
+4,35,1,Jake Bird,Tanner Dodson,2 Seam,89.1,Foul,-
+4,35,2,Jake Bird,Tanner Dodson,2 Seam,89.4,Ball,-
+4,35,3,Jake Bird,Tanner Dodson,Cutter,83.4,Ball,-
+4,35,4,Jake Bird,Tanner Dodson,Changeup,79.6,Hit By Pitch,-
+4,36,1,Jake Bird,Jonah Davis,2 Seam,88.4,Hit Into Play - Run Scored,106.5
+4,37,1,Jake Bird,Korey Lee,2 Seam,87.1,Ball,-
+4,37,2,Jake Bird,Korey Lee,Cutter,82.4,Called Strike,-
+4,37,3,Jake Bird,Korey Lee,Cutter,82.3,Foul,-
+4,37,4,Jake Bird,Korey Lee,Changeup,83.1,Ball,-
+4,37,5,Jake Bird,Korey Lee,Slider,83.5,Ball,-
+4,37,6,Jake Bird,Korey Lee,Cutter,83.9,Foul,-
+4,37,7,Jake Bird,Korey Lee,Cutter,84,Hit Into Play - Out,-
+5,38,1,Matt Ladrech,Jack Stronach,Changeup,79.9,Hit Into Play,22.9
+5,39,1,Matt Ladrech,Jake Pries,Changeup,73.7,Foul,19
+5,39,2,Matt Ladrech,Jake Pries,Cutter,75.1,Hit Into Play - Out,77.6
+5,40,1,Matt Ladrech,Garrett Mitchell,Cutter,80.8,Ball,-
+5,40,2,Matt Ladrech,Garrett Mitchell,4 Seam,80.8,Hit Into Play,24.6
+5,41,1,Matt Ladrech,Ryan Kreidler,Changeup,73.9,Swinging Strike,-
+5,41,2,Matt Ladrech,Ryan Kreidler,4 Seam,81.4,Ball,-
+5,41,3,Matt Ladrech,Ryan Kreidler,Changeup,73.8,Hit Into Play - Run Scored,90.9
+5,42,1,Matt Ladrech,Will McInerny,2 Seam,82.2,Called Strike,-
+5,42,2,Matt Ladrech,Will McInerny,Cutter,71.7,Hit Into Play - Out,93.7
+5,43,1,Jake Bird,Darren Baker,4 Seam,86.2,Hit Into Play,16.3
+5,44,1,Jake Bird,Sam Wezniak,2 Seam,86,Ball,-
+5,44,2,Jake Bird,Sam Wezniak,Slider,81.6,Called Strike,-
+5,44,3,Jake Bird,Sam Wezniak,2 Seam,85.8,Hit Into Play - Out,23.4
+5,45,1,Jake Bird,Cameron Eden,4 Seam,84.3,Hit Into Play - Out,78.7
+5,46,1,Jake Bird,Tyrus Greene,2 Seam,85.7,Ball,-
+5,46,2,Jake Bird,Tyrus Greene,Changeup,78.1,Called Strike,-
+5,46,3,Jake Bird,Tyrus Greene,2 Seam,86.1,Foul,-
+5,46,4,Jake Bird,Tyrus Greene,Changeup,83.9,Ball,-
+5,46,5,Jake Bird,Tyrus Greene,Cutter,82.7,Swinging Strike,-
+6,47,1,Matt Ladrech,Daniel Amaral,Changeup,73.3,Hit Into Play - Out,39
+6,48,1,Matt Ladrech,Jake Hirabayashi,4 Seam,82.3,Ball,-
+6,48,2,Matt Ladrech,Jake Hirabayashi,4 Seam,80.9,Called Strike,-
+6,48,3,Matt Ladrech,Jake Hirabayashi,Cutter,72.5,Hit Into Play - Out,82.8
+6,49,1,Matt Ladrech,Michael Toglia,4 Seam,82.2,Foul,85.2
+6,49,2,Matt Ladrech,Michael Toglia,Slider,71.4,Foul,97.9
+6,49,3,Matt Ladrech,Michael Toglia,Slider,74.2,Ball,-
+6,49,4,Matt Ladrech,Michael Toglia,Cutter,74,Hit Into Play - Out,72.8
+6,50,1,Jake Bird,Jeffery Mitchell Jr.,Changeup,83,Called Strike,-
+6,50,2,Jake Bird,Jeffery Mitchell Jr.,2 Seam,87.4,Called Strike,-
+6,50,3,Jake Bird,Jeffery Mitchell Jr.,Changeup,83.9,Ball,-
+6,50,4,Jake Bird,Jeffery Mitchell Jr.,Slider,83.9,Foul,-
+6,50,5,Jake Bird,Jeffery Mitchell Jr.,Slider,82.3,Foul,-
+6,50,6,Jake Bird,Jeffery Mitchell Jr.,2 Seam,86.5,Hit By Pitch,-
+6,51,1,Jake Bird,Andrew Vaughn,Changeup,81.3,Ball,-
+6,51,2,Jake Bird,Andrew Vaughn,Cutter,81.2,Called Strike,-
+6,51,3,Jake Bird,Andrew Vaughn,Cutter,81,Called Strike,-
+6,51,4,Jake Bird,Andrew Vaughn,4 Seam,86.9,Hit Into Play - Out,71.8
+6,52,1,Jake Bird,Tanner Dodson,2 Seam,87.6,Called Strike,-
+6,52,2,Jake Bird,Tanner Dodson,2 Seam,88.3,Hit Into Play - Out,94.6
+7,53,1,Matt Ladrech,Chase Strumpf,Cutter,73,Called Strike,-
+7,53,2,Matt Ladrech,Chase Strumpf,2 Seam,81,Ball,-
+7,53,3,Matt Ladrech,Chase Strumpf,Slider,74.2,Hit Into Play - Run Scored,97.8
+7,54,1,Matt Ladrech,Jack Stronach,4 Seam,81.6,Called Strike,-
+7,54,2,Matt Ladrech,Jack Stronach,4 Seam,81.3,Ball,-
+7,54,3,Matt Ladrech,Jack Stronach,4 Seam,81.6,Ball,-
+7,54,4,Matt Ladrech,Jack Stronach,4 Seam,81.4,Hit Into Play,82.7
+7,55,1,Zayne Patino,Jake Pries,4 Seam,85.2,Foul,-
+7,55,2,Zayne Patino,Jake Pries,4 Seam,84.5,Hit Into Play,22.2
+7,56,1,Zayne Patino,Garrett Mitchell,Cutter,86.4,Ball,-
+7,56,2,Zayne Patino,Garrett Mitchell,Cutter,86,L,-
+7,56,3,Zayne Patino,Garrett Mitchell,4 Seam,85.6,Ball,-
+7,56,4,Zayne Patino,Garrett Mitchell,Cutter,83.2,Hit Into Play - Out,-
+7,57,1,Zayne Patino,Ryan Kreidler,4 Seam,84.9,Hit Into Play - Out,63.8
+7,58,1,Zayne Patino,Kyle Cuellar,4 Seam,85.6,Called Strike,-
+7,58,2,Zayne Patino,Kyle Cuellar,Slider,77,Swinging Strike,-
+7,58,3,Zayne Patino,Kyle Cuellar,Slider,78.3,Swinging Strike,-
+7,59,1,Jake Bird,Jonah Davis,Curve,72.7,Called Strike,-
+7,59,2,Jake Bird,Jonah Davis,Curve,74.1,Called Strike,-
+7,59,3,Jake Bird,Jonah Davis,Cutter,82.7,Ball,-
+7,59,4,Jake Bird,Jonah Davis,Cutter,81.4,Foul,-
+7,59,5,Jake Bird,Jonah Davis,Curve,74.7,Foul,-
+7,59,6,Jake Bird,Jonah Davis,Cutter,82.4,Hit Into Play,108.7
+7,60,1,Jake Bird,Korey Lee,Cutter,79.6,Called Strike,-
+7,60,2,Jake Bird,Korey Lee,2 Seam,85.7,Hit Into Play - Out,24.2
+7,61,1,Jake Bird,Darren Baker,2 Seam,85.9,Foul,-
+7,61,2,Jake Bird,Darren Baker,Changeup,84.1,Hit Into Play - Out,90.8
+7,62,1,Jake Bird,Sam Wezniak,2 Seam,87,Foul,-
+7,62,2,Jake Bird,Sam Wezniak,2 Seam,85.8,Foul,96.1
+7,62,3,Jake Bird,Sam Wezniak,Cutter,84.2,Ball,-
+7,62,4,Jake Bird,Sam Wezniak,Changeup,82.3,Ball,-
+7,62,5,Jake Bird,Sam Wezniak,Curve,75.7,Ball,-
+7,62,6,Jake Bird,Sam Wezniak,Cutter,82.1,Called Strike,-
+8,63,1,Tanner Dodson,Daniel Amaral,2 Seam,91.1,Ball,-
+8,63,2,Tanner Dodson,Daniel Amaral,2 Seam,92.8,Ball,-
+8,63,3,Tanner Dodson,Daniel Amaral,2 Seam,92.6,Called Strike,-
+8,63,4,Tanner Dodson,Daniel Amaral,2 Seam,92.3,Hit Into Play - Out,69.4
+8,64,1,Tanner Dodson,Jake Hirabayashi,2 Seam,93.9,Called Strike,-
+8,64,2,Tanner Dodson,Jake Hirabayashi,2 Seam,94.1,Swinging Strike,-
+8,64,3,Tanner Dodson,Jake Hirabayashi,2 Seam,95.3,Ball,-
+8,64,4,Tanner Dodson,Jake Hirabayashi,2 Seam,94.9,Foul,-
+8,64,5,Tanner Dodson,Jake Hirabayashi,Changeup,85.5,Hit Into Play - Out,-
+8,65,1,Tanner Dodson,Michael Toglia,2 Seam,92.9,Called Strike,-
+8,65,2,Tanner Dodson,Michael Toglia,2 Seam,94.6,Swinging Strike,-
+8,65,3,Tanner Dodson,Michael Toglia,Cutter,84.4,Swinging Strike,-
+8,66,1,Nick Scheidler,Cameron Eden,Cutter,87.4,Ball,-
+8,66,2,Nick Scheidler,Cameron Eden,Cutter,86.5,Swinging Strike,-
+8,66,3,Nick Scheidler,Cameron Eden,Slider,76.5,Foul,48.2
+8,66,4,Nick Scheidler,Cameron Eden,Slider,78.8,Ball,-
+8,66,5,Nick Scheidler,Cameron Eden,Slider,79.7,Hit Into Play - Out,94.9
+8,67,1,Nick Scheidler,Tyrus Greene,Cutter,87.1,Hit By Pitch,-
+8,68,1,Nick Scheidler,Jeffery Mitchell Jr.,Cutter,86.3,Ball,-
+8,68,2,Nick Scheidler,Jeffery Mitchell Jr.,Cutter,86.1,Ball,-
+8,68,3,Nick Scheidler,Jeffery Mitchell Jr.,Cutter,85.5,Foul,85.1
+8,68,4,Nick Scheidler,Jeffery Mitchell Jr.,Cutter,86.3,Called Strike,-
+8,68,5,Nick Scheidler,Jeffery Mitchell Jr.,Cutter,86,Foul,86.9
+8,68,6,Nick Scheidler,Jeffery Mitchell Jr.,Slider,78.9,Swinging Strike,-
+8,69,1,Chase Farrell,Andrew Vaughn,2 Seam,86.9,Ball,-
+8,69,2,Chase Farrell,Andrew Vaughn,Slider,78.2,Ball,-
+8,69,3,Chase Farrell,Andrew Vaughn,2 Seam,86.9,Called Strike,-
+8,69,4,Chase Farrell,Andrew Vaughn,2 Seam,87.2,Hit Into Play - Out,108
+9,70,1,Tanner Dodson,Chase Strumpf,2 Seam,91.8,Foul,-
+9,70,2,Tanner Dodson,Chase Strumpf,2 Seam,91.6,Ball,-
+9,70,3,Tanner Dodson,Chase Strumpf,2 Seam,92.9,Ball,-
+9,70,4,Tanner Dodson,Chase Strumpf,2 Seam,92,Foul,75.6
+9,70,5,Tanner Dodson,Chase Strumpf,2 Seam,93.4,Hit Into Play - Out,88.8
+9,71,1,Tanner Dodson,Jack Stronach,2 Seam,92.6,Foul,79.5
+9,71,2,Tanner Dodson,Jack Stronach,2 Seam,92.9,Ball,-
+9,71,3,Tanner Dodson,Jack Stronach,2 Seam,92.3,Hit Into Play - Out,91.3
+9,72,1,Tanner Dodson,Jake Pries,2 Seam,93.5,Called Strike,-
+9,72,2,Tanner Dodson,Jake Pries,2 Seam,93.7,Foul,-
+9,72,3,Tanner Dodson,Jake Pries,Cutter,84.3,Hit Into Play,94.1
+9,73,1,Tanner Dodson,Garrett Mitchell,2 Seam,92.6,Called Strike,-
+9,73,2,Tanner Dodson,Garrett Mitchell,2 Seam,94.3,Hit Into Play - Out,87.1

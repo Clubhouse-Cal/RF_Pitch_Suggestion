@@ -1,0 +1,269 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Matt Ladrech,Sam Grigo,2 Seam,80,Hit Into Play,-
+1,2,1,Matt Ladrech,Louis Gaitley,2 Seam,79.8,Hit Into Play - Out,-
+1,3,1,Matt Ladrech,Cameron Deere,4 Seam,81.7,Called Strike,-
+1,3,2,Matt Ladrech,Cameron Deere,Changeup,71.6,Foul,87.4
+1,3,3,Matt Ladrech,Cameron Deere,4 Seam,82.4,Ball,-
+1,3,4,Matt Ladrech,Cameron Deere,Cutter,82,Foul,-
+1,3,5,Matt Ladrech,Cameron Deere,4 Seam,82.5,Ball,-
+1,3,6,Matt Ladrech,Cameron Deere,Curve,69.2,Hit Into Play - Out,84.9
+1,4,1,Will Tomlinson,Tyrus Greene,4 Seam,88.9,Called Strike,-
+1,4,2,Will Tomlinson,Tyrus Greene,2 Seam,89.9,Hit Into Play - Out,-
+1,5,1,Will Tomlinson,Sam Wezniak,2 Seam,90,Ball,-
+1,5,2,Will Tomlinson,Sam Wezniak,2 Seam,88.4,Swinging Strike,-
+1,5,3,Will Tomlinson,Sam Wezniak,Curve,71.8,Ball,-
+1,5,4,Will Tomlinson,Sam Wezniak,2 Seam,89.1,Swinging Strike,-
+1,5,5,Will Tomlinson,Sam Wezniak,2 Seam,91.1,Ball,-
+1,5,6,Will Tomlinson,Sam Wezniak,2 Seam,89.9,Hit Into Play,-
+1,6,1,Will Tomlinson,Andrew Vaughn,2 Seam,90.4,Hit Into Play - Out,-
+1,7,1,Will Tomlinson,Tanner Dodson,2 Seam,89.5,Ball,-
+1,7,2,Will Tomlinson,Tanner Dodson,2 Seam,89,Hit Into Play - Out,-
+2,8,1,Matt Ladrech,Willy Homza,Cutter,70.2,Ball,-
+2,8,2,Matt Ladrech,Willy Homza,4 Seam,80.4,Hit Into Play,97.3
+2,9,1,Matt Ladrech,Garett Delano,2 Seam,80.6,Swinging Strike,-
+2,9,2,Matt Ladrech,Garett Delano,Cutter,70.5,Swinging Strike,-
+2,9,3,Matt Ladrech,Garett Delano,4 Seam,81.1,Called Strike,-
+2,10,1,Matt Ladrech,Richard Ciufo,Cutter,69.6,Called Strike,-
+2,10,2,Matt Ladrech,Richard Ciufo,4 Seam,81.4,Ball,-
+2,10,3,Matt Ladrech,Richard Ciufo,Changeup,79.8,Hit Into Play,-
+2,11,1,Matt Ladrech,Parke Phillips,4 Seam,80.8,Hit Into Play - Out,-
+2,12,1,Matt Ladrech,Jake Rosander,Cutter,68.9,Called Strike,-
+2,12,2,Matt Ladrech,Jake Rosander,Slider,70.6,Ball,-
+2,12,3,Matt Ladrech,Jake Rosander,2 Seam,80.5,Called Strike,-
+2,12,4,Matt Ladrech,Jake Rosander,4 Seam,82,Foul,-
+2,12,5,Matt Ladrech,Jake Rosander,Cutter,69.1,Hit Into Play - Run Scored,-
+2,13,1,Matt Ladrech,Joe Lomuscio,4 Seam,81.6,Foul,-
+2,13,2,Matt Ladrech,Joe Lomuscio,4 Seam,79.7,Foul,-
+2,13,3,Matt Ladrech,Joe Lomuscio,Slider,68.2,Swinging Strike,-
+2,14,1,Will Tomlinson,Jonah Davis,2 Seam,88,Ball,-
+2,14,2,Will Tomlinson,Jonah Davis,2 Seam,88.4,Ball,-
+2,14,3,Will Tomlinson,Jonah Davis,2 Seam,88.7,Ball,-
+2,14,4,Will Tomlinson,Jonah Davis,2 Seam,86,Ball,-
+2,15,1,Will Tomlinson,Quentin Selma,2 Seam,87.7,Ball,-
+2,15,2,Will Tomlinson,Quentin Selma,2 Seam,88.2,Ball,-
+2,15,3,Will Tomlinson,Quentin Selma,2 Seam,87.4,Called Strike,-
+2,15,4,Will Tomlinson,Quentin Selma,2 Seam,87.3,Foul,-
+2,15,5,Will Tomlinson,Quentin Selma,2 Seam,88.7,Ball,-
+2,15,6,Will Tomlinson,Quentin Selma,2 Seam,87.5,Ball,-
+2,16,1,Will Tomlinson,John Lagattuta,2 Seam,88.3,Ball,-
+2,16,2,Will Tomlinson,John Lagattuta,2 Seam,88.1,Swinging Strike,-
+2,16,3,Will Tomlinson,John Lagattuta,2 Seam,87.5,Foul,76.6
+2,16,4,Will Tomlinson,John Lagattuta,2 Seam,88.5,Ball,-
+2,16,5,Will Tomlinson,John Lagattuta,2 Seam,88.1,Swinging Strike,-
+2,17,1,Will Tomlinson,Ripken Reyes,2 Seam,88.1,Ball,-
+2,17,2,Will Tomlinson,Ripken Reyes,2 Seam,86.8,Ball,-
+2,17,3,Will Tomlinson,Ripken Reyes,2 Seam,87,Foul,-
+2,17,4,Will Tomlinson,Ripken Reyes,2 Seam,87.6,Ball,-
+2,17,5,Will Tomlinson,Ripken Reyes,2 Seam,87.8,Foul,-
+2,17,6,Will Tomlinson,Ripken Reyes,2 Seam,87.5,Foul,-
+2,17,7,Will Tomlinson,Ripken Reyes,2 Seam,87.8,Ball,-
+2,18,1,Will Tomlinson,Cameron Eden,2 Seam,88.2,Ball,-
+2,18,2,Will Tomlinson,Cameron Eden,2 Seam,87.8,Foul,-
+2,18,3,Will Tomlinson,Cameron Eden,2 Seam,88.4,Hit Into Play - Run Scored,-
+2,19,1,Will Tomlinson,Tyrus Greene,2 Seam,87.1,Ball,-
+2,19,2,Will Tomlinson,Tyrus Greene,2 Seam,87,Ball,-
+2,19,3,Will Tomlinson,Tyrus Greene,2 Seam,86.6,Ball,-
+2,19,4,Will Tomlinson,Tyrus Greene,2 Seam,86.5,Ball,-
+2,20,1,Will Tomlinson,Sam Wezniak,2 Seam,87.7,Called Strike,-
+2,20,2,Will Tomlinson,Sam Wezniak,2 Seam,89,Foul,-
+2,20,3,Will Tomlinson,Sam Wezniak,2 Seam,90,Ball,-
+2,20,4,Will Tomlinson,Sam Wezniak,Curve,72.5,Swinging Strike,-
+3,21,1,Matt Ladrech,Sam Grigo,Cutter,70.1,Called Strike,-
+3,21,2,Matt Ladrech,Sam Grigo,4 Seam,80.1,Hit Into Play - Out,-
+3,22,1,Matt Ladrech,Louis Gaitley,4 Seam,81,Called Strike,-
+3,22,2,Matt Ladrech,Louis Gaitley,Cutter,71.4,Foul,-
+3,22,3,Matt Ladrech,Louis Gaitley,Curve,65.7,Foul,-
+3,22,4,Matt Ladrech,Louis Gaitley,4 Seam,82,Foul,-
+3,22,5,Matt Ladrech,Louis Gaitley,4 Seam,81.8,Ball,-
+3,22,6,Matt Ladrech,Louis Gaitley,Slider,69.5,Swinging Strike,-
+3,23,1,Matt Ladrech,Cameron Deere,Slider,69.3,Ball,-
+3,23,2,Matt Ladrech,Cameron Deere,4 Seam,81.2,Hit Into Play - Out,-
+3,24,1,Matt Ladrech,Willy Homza,Cutter,80.2,Ball,-
+3,24,2,Matt Ladrech,Willy Homza,4 Seam,80.3,Called Strike,-
+3,24,3,Matt Ladrech,Willy Homza,Changeup,79.6,Hit Into Play,-
+3,25,1,Matt Ladrech,Garett Delano,4 Seam,81.3,Hit Into Play - Out,-
+3,26,1,Will Tomlinson,Andrew Vaughn,2 Seam,88.3,Ball,-
+3,26,2,Will Tomlinson,Andrew Vaughn,2 Seam,89.3,Ball,-
+3,26,3,Will Tomlinson,Andrew Vaughn,2 Seam,89.1,Foul,-
+3,26,4,Will Tomlinson,Andrew Vaughn,2 Seam,89.3,Hit Into Play - Out,-
+3,27,1,Will Tomlinson,Tanner Dodson,2 Seam,89,Foul,-
+3,27,2,Will Tomlinson,Tanner Dodson,Curve,72.8,Ball,-
+3,27,3,Will Tomlinson,Tanner Dodson,2 Seam,88.9,Foul,-
+3,27,4,Will Tomlinson,Tanner Dodson,Curve,73.5,Ball,-
+3,27,5,Will Tomlinson,Tanner Dodson,2 Seam,89.3,Hit Into Play - Out,-
+3,28,1,Will Tomlinson,Jonah Davis,Curve,68.9,Ball,-
+3,28,2,Will Tomlinson,Jonah Davis,2 Seam,89,Ball,-
+3,28,3,Will Tomlinson,Jonah Davis,2 Seam,88.5,Hit Into Play - Out,87.8
+4,29,1,Matt Ladrech,Richard Ciufo,Curve,61.4,Called Strike,-
+4,29,2,Matt Ladrech,Richard Ciufo,Cutter,70.9,Swinging Strike,-
+4,29,3,Matt Ladrech,Richard Ciufo,4 Seam,80.9,Hit Into Play - Out,-
+4,30,1,Matt Ladrech,Parke Phillips,4 Seam,80.7,Hit Into Play - Out,-
+4,31,1,Matt Ladrech,Jake Rosander,4 Seam,81.4,Called Strike,-
+4,31,2,Matt Ladrech,Jake Rosander,4 Seam,80,Ball,-
+4,31,3,Matt Ladrech,Jake Rosander,4 Seam,79.8,Foul,-
+4,31,4,Matt Ladrech,Jake Rosander,Curve,58.2,Ball,-
+4,31,5,Matt Ladrech,Jake Rosander,Slider,69.7,Foul,-
+4,31,6,Matt Ladrech,Jake Rosander,4 Seam,81.3,Foul,-
+4,31,7,Matt Ladrech,Jake Rosander,Changeup,66.3,Ball,-
+4,31,8,Matt Ladrech,Jake Rosander,4 Seam,79.8,Ball,-
+4,32,1,Matt Ladrech,Joe Lomuscio,Slider,67.2,Swinging Strike,-
+4,32,2,Matt Ladrech,Joe Lomuscio,4 Seam,79.8,Hit Into Play,-
+4,33,1,Matt Ladrech,Sam Grigo,Curve,64.3,Ball,-
+4,33,2,Matt Ladrech,Sam Grigo,Cutter,69.7,Hit Into Play - Run Scored,-
+4,34,1,Matt Ladrech,Louis Gaitley,2 Seam,79.9,Hit Into Play - Out,-
+4,35,1,Will Tomlinson,Quentin Selma,2 Seam,87,L,-
+4,35,2,Will Tomlinson,Quentin Selma,Curve,69.3,Ball,-
+4,35,3,Will Tomlinson,Quentin Selma,2 Seam,87.8,Ball,-
+4,35,4,Will Tomlinson,Quentin Selma,2 Seam,86.4,Ball,-
+4,35,5,Will Tomlinson,Quentin Selma,2 Seam,86.1,Ball,-
+4,36,1,Will Tomlinson,John Lagattuta,2 Seam,86.6,Ball,-
+4,36,2,Will Tomlinson,John Lagattuta,4 Seam,86.9,Called Strike,-
+4,36,3,Will Tomlinson,John Lagattuta,2 Seam,86.1,Ball,-
+4,36,4,Will Tomlinson,John Lagattuta,4 Seam,86.2,Ball,-
+4,36,5,Will Tomlinson,John Lagattuta,2 Seam,86.2,Ball,-
+4,37,1,Will Tomlinson,Ripken Reyes,2 Seam,87.1,Ball,-
+4,37,2,Will Tomlinson,Ripken Reyes,4 Seam,86.6,Ball,-
+4,37,3,Will Tomlinson,Ripken Reyes,2 Seam,86.6,Ball,-
+4,37,4,Will Tomlinson,Ripken Reyes,2 Seam,84.8,Called Strike,-
+4,37,5,Will Tomlinson,Ripken Reyes,2 Seam,86.9,Ball,-
+4,38,1,Dante Bosnic,Cameron Eden,2 Seam,82.6,Ball,-
+4,38,2,Dante Bosnic,Cameron Eden,2 Seam,82.6,Ball,-
+4,38,3,Dante Bosnic,Cameron Eden,2 Seam,83.9,Foul,-
+4,38,4,Dante Bosnic,Cameron Eden,2 Seam,83.3,Ball,-
+4,38,5,Dante Bosnic,Cameron Eden,2 Seam,83.7,Ball,-
+4,39,1,Dante Bosnic,Tyrus Greene,2 Seam,83.5,Ball,-
+4,39,2,Dante Bosnic,Tyrus Greene,2 Seam,84.4,Hit Into Play - Out,97.1
+4,40,1,Dante Bosnic,Sam Wezniak,2 Seam,83.7,Foul,88.5
+4,40,2,Dante Bosnic,Sam Wezniak,Slider,70.5,Ball,-
+4,40,3,Dante Bosnic,Sam Wezniak,Curve,73.9,Ball,-
+4,40,4,Dante Bosnic,Sam Wezniak,4 Seam,83.8,Foul,-
+4,40,5,Dante Bosnic,Sam Wezniak,Slider,73.3,Hit Into Play,26.7
+4,41,1,Dante Bosnic,Andrew Vaughn,Slider,73.4,Ball,-
+4,41,2,Dante Bosnic,Andrew Vaughn,Slider,71,Ball,-
+4,41,3,Dante Bosnic,Andrew Vaughn,Slider,71.9,Called Strike,-
+4,41,4,Dante Bosnic,Andrew Vaughn,Curve,69.3,Ball,-
+4,41,5,Dante Bosnic,Andrew Vaughn,Slider,72.3,Called Strike,-
+4,41,6,Dante Bosnic,Andrew Vaughn,Changeup,74.9,Foul,-
+4,41,7,Dante Bosnic,Andrew Vaughn,Slider,72.6,Hit Into Play - Out,-
+5,42,1,Matt Ladrech,Cameron Deere,Slider,71.1,Ball,-
+5,42,2,Matt Ladrech,Cameron Deere,Slider,69.7,Swinging Strike,-
+5,42,3,Matt Ladrech,Cameron Deere,4 Seam,80.2,Ball,-
+5,42,4,Matt Ladrech,Cameron Deere,4 Seam,79.6,Hit Into Play - Out,-
+5,43,1,Matt Ladrech,Willy Homza,Cutter,80.7,Ball,-
+5,43,2,Matt Ladrech,Willy Homza,Cutter,70.5,Swinging Strike,-
+5,43,3,Matt Ladrech,Willy Homza,4 Seam,80.1,Ball,-
+5,43,4,Matt Ladrech,Willy Homza,4 Seam,79.3,Called Strike,-
+5,43,5,Matt Ladrech,Willy Homza,Cutter,69.4,Foul,-
+5,43,6,Matt Ladrech,Willy Homza,Curve,69,Foul,-
+5,43,7,Matt Ladrech,Willy Homza,Slider,69.2,Hit Into Play - Out,87.5
+5,44,1,Matt Ladrech,Garett Delano,Cutter,80.4,Ball,-
+5,44,2,Matt Ladrech,Garett Delano,4 Seam,79.7,Ball,-
+5,44,3,Matt Ladrech,Garett Delano,4 Seam,79.5,Foul,97.9
+5,44,4,Matt Ladrech,Garett Delano,Changeup,79.5,Foul,45.9
+5,44,5,Matt Ladrech,Garett Delano,Cutter,69.9,Swinging Strike,-
+5,45,1,Dante Bosnic,Tanner Dodson,2 Seam,81.7,Ball,-
+5,45,2,Dante Bosnic,Tanner Dodson,Changeup,80,Ball,-
+5,45,3,Dante Bosnic,Tanner Dodson,2 Seam,81.9,Hit Into Play - Out,-
+5,46,1,Dante Bosnic,Jonah Davis,4 Seam,80.7,Called Strike,-
+5,46,2,Dante Bosnic,Jonah Davis,Slider,69.3,Ball,-
+5,46,3,Dante Bosnic,Jonah Davis,Slider,71.9,Called Strike,-
+5,46,4,Dante Bosnic,Jonah Davis,2 Seam,82.9,Hit Into Play - Out,67.5
+5,47,1,Dante Bosnic,Quentin Selma,Changeup,75.6,Ball,-
+5,47,2,Dante Bosnic,Quentin Selma,4 Seam,82.6,Hit Into Play - Out,-
+6,48,1,Matt Ladrech,Richard Ciufo,4 Seam,79.8,Hit Into Play - Out,89.1
+6,49,1,Matt Ladrech,Parke Phillips,Cutter,79,Called Strike,-
+6,49,2,Matt Ladrech,Parke Phillips,Changeup,70.3,Swinging Strike,-
+6,49,3,Matt Ladrech,Parke Phillips,Cutter,70.1,Ball,-
+6,49,4,Matt Ladrech,Parke Phillips,Changeup,71.3,Ball,-
+6,49,5,Matt Ladrech,Parke Phillips,4 Seam,79.6,Foul,-
+6,49,6,Matt Ladrech,Parke Phillips,Cutter,70.6,Ball,-
+6,49,7,Matt Ladrech,Parke Phillips,Cutter,78,Ball,-
+6,50,1,Matt Ladrech,Jake Rosander,4 Seam,79.5,Ball,-
+6,50,2,Matt Ladrech,Jake Rosander,4 Seam,79.7,Hit Into Play - Out,96.9
+6,51,1,Dante Bosnic,John Lagattuta,2 Seam,81.3,Foul,-
+6,51,2,Dante Bosnic,John Lagattuta,2 Seam,82,Hit Into Play - Out,71.9
+6,52,1,Dante Bosnic,Ripken Reyes,4 Seam,81.7,Hit Into Play - Out,79.2
+6,53,1,Dante Bosnic,Cameron Eden,2 Seam,80.7,Called Strike,-
+6,53,2,Dante Bosnic,Cameron Eden,Slider,72.8,Ball,-
+6,53,3,Dante Bosnic,Cameron Eden,2 Seam,83.4,Hit Into Play,88
+6,54,1,Dante Bosnic,Tyrus Greene,2 Seam,81,Ball,-
+6,54,2,Dante Bosnic,Tyrus Greene,2 Seam,81.7,Foul,-
+6,54,3,Dante Bosnic,Tyrus Greene,2 Seam,82.7,Foul,-
+6,54,4,Dante Bosnic,Tyrus Greene,Changeup,74.5,Swinging Strike,-
+7,55,1,Matt Ladrech,Joe Lomuscio,2 Seam,79.6,Called Strike,-
+7,55,2,Matt Ladrech,Joe Lomuscio,Slider,69.9,Hit Into Play - Out,-
+7,56,1,Matt Ladrech,Sam Grigo,Curve,63.3,Ball,-
+7,56,2,Matt Ladrech,Sam Grigo,Cutter,70.4,Swinging Strike,-
+7,56,3,Matt Ladrech,Sam Grigo,Cutter,80,Hit Into Play,-
+7,57,1,Matt Ladrech,Louis Gaitley,Changeup,79.9,Hit Into Play - Out,84.3
+7,58,1,Matt Ladrech,Cameron Deere,4 Seam,80.8,Foul,-
+7,58,2,Matt Ladrech,Cameron Deere,Changeup,78.9,Ball,-
+7,58,3,Matt Ladrech,Cameron Deere,Changeup,68.4,Foul,88.4
+7,58,4,Matt Ladrech,Cameron Deere,Cutter,69.4,Ball,-
+7,58,5,Matt Ladrech,Cameron Deere,Changeup,79,Ball,-
+7,58,6,Matt Ladrech,Cameron Deere,Slider,69.3,Hit Into Play,84.1
+7,59,1,Matt Ladrech,Willy Homza,Cutter,68.2,Swinging Strike,-
+7,59,2,Matt Ladrech,Willy Homza,Curve,68.3,Swinging Strike,-
+7,59,3,Matt Ladrech,Willy Homza,Slider,67.4,Foul,-
+7,59,4,Matt Ladrech,Willy Homza,Changeup,80,Hit Into Play - Out,36.2
+7,60,1,Dante Bosnic,Sam Wezniak,2 Seam,80.8,Ball,-
+7,60,2,Dante Bosnic,Sam Wezniak,2 Seam,81.2,Hit Into Play,96.2
+7,61,1,Dante Bosnic,Andrew Vaughn,Slider,73.3,Hit By Pitch,-
+7,62,1,Dante Bosnic,Tanner Dodson,2 Seam,82.9,Called Strike,-
+7,62,2,Dante Bosnic,Tanner Dodson,Curve,68.4,Ball,-
+7,62,3,Dante Bosnic,Tanner Dodson,2 Seam,82.7,Hit Into Play - Out,87.4
+7,63,1,JJ Sliepka,Jonah Davis,2 Seam,86.2,Called Strike,-
+7,63,2,JJ Sliepka,Jonah Davis,Curve,68.4,Ball,-
+7,63,3,JJ Sliepka,Jonah Davis,2 Seam,86.2,Ball,-
+7,63,4,JJ Sliepka,Jonah Davis,2 Seam,86.3,Foul,-
+7,63,5,JJ Sliepka,Jonah Davis,2 Seam,86.3,Hit Into Play - Out,53.1
+7,64,1,JJ Sliepka,Korey Lee,2 Seam,85.9,Ball,-
+7,64,2,JJ Sliepka,Korey Lee,2 Seam,85.7,Ball,-
+7,64,3,JJ Sliepka,Korey Lee,2 Seam,85.3,Hit Into Play - Out,87.5
+8,65,1,Erik Martinez,Garett Delano,4 Seam,85.9,Hit Into Play,-
+8,66,1,Erik Martinez,Richard Ciufo,4 Seam,85.8,Hit Into Play - Out,33.6
+8,67,1,Erik Martinez,Parke Phillips,Slider,77,Ball,-
+8,67,2,Erik Martinez,Parke Phillips,4 Seam,86.8,Ball,-
+8,67,3,Erik Martinez,Parke Phillips,4 Seam,85.7,Foul,-
+8,67,4,Erik Martinez,Parke Phillips,Cutter,86.2,Hit Into Play,93.4
+8,68,1,Erik Martinez,Hunter Carey,2 Seam,85.4,Hit Into Play - Run Scored,24
+8,69,1,Erik Martinez,Joe Lomuscio,2 Seam,86.3,Ball,-
+8,69,2,Erik Martinez,Joe Lomuscio,4 Seam,84.7,Foul,-
+8,69,3,Erik Martinez,Joe Lomuscio,Curve,73.2,Ball,-
+8,69,4,Erik Martinez,Joe Lomuscio,4 Seam,85.9,Foul,-
+8,69,5,Erik Martinez,Joe Lomuscio,Curve,75.9,Hit Into Play - Out,97.3
+8,70,1,Zayne Patino,Sam Grigo,Curve,70.3,Ball,-
+8,70,2,Zayne Patino,Sam Grigo,4 Seam,84.4,Ball,-
+8,70,3,Zayne Patino,Sam Grigo,4 Seam,84,Foul,55.3
+8,70,4,Zayne Patino,Sam Grigo,4 Seam,83.7,Hit Into Play - Out,99.9
+8,71,1,JJ Sliepka,Darren Baker,2 Seam,86.8,Called Strike,-
+8,71,2,JJ Sliepka,Darren Baker,2 Seam,87.3,Hit Into Play - Out,94.1
+8,72,1,JJ Sliepka,Ripken Reyes,2 Seam,86.8,Ball,-
+8,72,2,JJ Sliepka,Ripken Reyes,2 Seam,86.3,Hit Into Play - Out,95.2
+8,73,1,JJ Sliepka,Cameron Eden,2 Seam,86.6,Foul,-
+8,73,2,JJ Sliepka,Cameron Eden,2 Seam,87,Foul,-
+8,73,3,JJ Sliepka,Cameron Eden,Curve,70.9,Ball,-
+8,73,4,JJ Sliepka,Cameron Eden,Slider,72.2,Ball,-
+8,73,5,JJ Sliepka,Cameron Eden,2 Seam,86.9,Ball,-
+8,73,6,JJ Sliepka,Cameron Eden,2 Seam,86.8,Ball,-
+8,74,1,JJ Sliepka,Tyrus Greene,2 Seam,85.6,Ball,-
+8,74,2,JJ Sliepka,Tyrus Greene,4 Seam,84.9,Swinging Strike,-
+8,74,3,JJ Sliepka,Tyrus Greene,2 Seam,85.3,Hit Into Play - Run Scored,98.7
+8,75,1,Brennan Vasquez,Sam Wezniak,4 Seam,84.2,Foul,-
+8,75,2,Brennan Vasquez,Sam Wezniak,4 Seam,86.3,Swinging Strike,-
+8,75,3,Brennan Vasquez,Sam Wezniak,4 Seam,84.9,Ball,-
+8,75,4,Brennan Vasquez,Sam Wezniak,Changeup,69.9,Hit Into Play - Out,28.7
+9,76,1,Tanner Dodson,Louis Gaitley,2 Seam,92.5,Ball,-
+9,76,2,Tanner Dodson,Louis Gaitley,2 Seam,91.7,Called Strike,-
+9,76,3,Tanner Dodson,Louis Gaitley,Changeup,82.6,Swinging Strike,-
+9,76,4,Tanner Dodson,Louis Gaitley,2 Seam,94,Called Strike,-
+9,77,1,Tanner Dodson,Cameron Deere,2 Seam,92.5,Hit Into Play - Out,51.2
+9,78,1,Tanner Dodson,Willy Homza,2 Seam,94,Swinging Strike,-
+9,78,2,Tanner Dodson,Willy Homza,Curve,75,Ball,-
+9,78,3,Tanner Dodson,Willy Homza,2 Seam,93.9,Ball,-
+9,78,4,Tanner Dodson,Willy Homza,Slider,79.1,Called Strike,-
+9,78,5,Tanner Dodson,Willy Homza,2 Seam,94.2,Swinging Strike,-
+9,79,1,Tanner Dodson,Garett Delano,2 Seam,93.6,Ball,-
+9,79,2,Tanner Dodson,Garett Delano,2 Seam,93.5,Called Strike,-
+9,79,3,Tanner Dodson,Garett Delano,2 Seam,93.9,Swinging Strike,-
+9,79,4,Tanner Dodson,Garett Delano,2 Seam,95.8,Swinging Strike,-

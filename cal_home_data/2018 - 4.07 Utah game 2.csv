@@ -1,0 +1,310 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Rogelio Reyes,Jonathan Allen,2 Seam,88.4,Hit Into Play - Run Scored,-
+1,2,1,Rogelio Reyes,Riley Helland,2 Seam,88.8,Ball,-
+1,2,2,Rogelio Reyes,Riley Helland,Changeup,81.8,Ball,-
+1,2,3,Rogelio Reyes,Riley Helland,4 Seam,89,Foul,-
+1,2,4,Rogelio Reyes,Riley Helland,2 Seam,88.6,Ball,-
+1,2,5,Rogelio Reyes,Riley Helland,2 Seam,88.3,Swinging Strike,-
+1,2,6,Rogelio Reyes,Riley Helland,4 Seam,89.3,Foul,81.2
+1,2,7,Rogelio Reyes,Riley Helland,2 Seam,89.3,Foul,-
+1,2,8,Rogelio Reyes,Riley Helland,Changeup,83.1,Foul,36.8
+1,2,9,Rogelio Reyes,Riley Helland,Changeup,82.4,Ball,-
+1,3,1,Rogelio Reyes,Michael Perri,2 Seam,89.6,Hit Into Play,95.8
+1,4,1,Rogelio Reyes,Ross Puskarich,Curve,73.2,Ball,-
+1,4,2,Rogelio Reyes,Ross Puskarich,2 Seam,89.8,Hit Into Play - Run Scored,106.4
+1,5,1,Rogelio Reyes,RJ Cordeiro,Changeup,81.5,Swinging Strike,-
+1,5,2,Rogelio Reyes,RJ Cordeiro,Changeup,81.7,Ball,-
+1,7,1,Daniel Slominski,Tyrus Greene,2 Seam,88.8,Called Strike,-
+1,7,2,Daniel Slominski,Tyrus Greene,2 Seam,88.4,Ball,-
+1,7,3,Daniel Slominski,Tyrus Greene,2 Seam,90.1,Ball,-
+1,7,4,Daniel Slominski,Tyrus Greene,2 Seam,89.7,Called Strike,-
+1,7,5,Daniel Slominski,Tyrus Greene,Changeup,78.8,Called Strike,-
+1,8,1,Daniel Slominski,Tanner Dodson,2 Seam,90.4,Swinging Strike,-
+1,8,2,Daniel Slominski,Tanner Dodson,Changeup,78.6,Hit Into Play - Out,-
+1,9,1,Daniel Slominski,Andrew Vaughn,2 Seam,91,Called Strike,-
+1,9,2,Daniel Slominski,Andrew Vaughn,2 Seam,92,Ball,-
+1,9,3,Daniel Slominski,Andrew Vaughn,Changeup,79.7,Foul,-
+1,9,4,Daniel Slominski,Andrew Vaughn,2 Seam,91.3,Ball,-
+1,9,5,Daniel Slominski,Andrew Vaughn,Changeup,81.4,Ball,-
+1,9,6,Daniel Slominski,Andrew Vaughn,2 Seam,89.6,Hit By Pitch,-
+1,10,1,Daniel Slominski,Jonah Davis,2 Seam,89.4,Hit Into Play - Out,-
+1,11,1,Daniel Slominski,Jeff Mitchell Jr,2 Seam,89.5,Foul,-
+1,11,2,Daniel Slominski,Jeff Mitchell Jr,Changeup,77.9,Ball,-
+1,11,3,Daniel Slominski,Jeff Mitchell Jr,2 Seam,89,Called Strike,-
+1,11,4,Daniel Slominski,Jeff Mitchell Jr,Changeup,81.3,Ball,-
+1,11,5,Daniel Slominski,Jeff Mitchell Jr,Changeup,80.8,Ball,-
+1,11,6,Daniel Slominski,Jeff Mitchell Jr,2 Seam,89.3,Hit Into Play - Out,-
+2,12,1,Rogelio Reyes,Thomas McCarthy,2 Seam,88.7,Hit Into Play,85.2
+2,13,1,Rogelio Reyes,Jack Winkler,2 Seam,87.5,Ball,-
+2,13,2,Rogelio Reyes,Jack Winkler,Changeup,78.5,Ball,-
+2,13,3,Rogelio Reyes,Jack Winkler,2 Seam,88.1,Hit Into Play - Out,-
+2,14,1,Rogelio Reyes,Tyler Villaroman,Curve,72.3,Ball,-
+2,14,2,Rogelio Reyes,Tyler Villaroman,Changeup,80.2,Ball,-
+2,14,3,Rogelio Reyes,Tyler Villaroman,2 Seam,88.8,Ball,-
+2,14,4,Rogelio Reyes,Tyler Villaroman,2 Seam,88.5,Called Strike,-
+2,14,5,Rogelio Reyes,Tyler Villaroman,2 Seam,88.2,L,-
+2,14,6,Rogelio Reyes,Tyler Villaroman,2 Seam,88.7,Foul,-
+2,14,7,Rogelio Reyes,Tyler Villaroman,2 Seam,88.3,Foul,-
+2,14,8,Rogelio Reyes,Tyler Villaroman,Changeup,81,Hit Into Play - Out,-
+2,15,1,Andrew Buckley,Jonathan Allen,Changeup,79.1,Called Strike,-
+2,15,2,Andrew Buckley,Jonathan Allen,2 Seam,83.1,Called Strike,-
+2,15,3,Andrew Buckley,Jonathan Allen,4 Seam,80.7,Foul,75.3
+2,15,4,Andrew Buckley,Jonathan Allen,2 Seam,84.9,Swinging Strike,-
+2,16,1,Daniel Slominski,Darren Baker,2 Seam,87,Foul,-
+2,16,2,Daniel Slominski,Darren Baker,Changeup,76.3,Called Strike,-
+2,16,3,Daniel Slominski,Darren Baker,Changeup,76.8,Foul,-
+2,16,4,Daniel Slominski,Darren Baker,Changeup,74.5,Hit Into Play - Out,58
+2,17,1,Daniel Slominski,Sam Wezniak,2 Seam,89,Swinging Strike,-
+2,17,2,Daniel Slominski,Sam Wezniak,2 Seam,90.3,Ball,-
+2,17,3,Daniel Slominski,Sam Wezniak,2 Seam,88.7,Called Strike,-
+2,17,4,Daniel Slominski,Sam Wezniak,Changeup,79.8,Ball,-
+2,17,5,Daniel Slominski,Sam Wezniak,2 Seam,89.1,Foul,-
+2,17,6,Daniel Slominski,Sam Wezniak,Changeup,79.8,Swinging Strike,-
+2,18,1,Daniel Slominski,Korey Lee,2 Seam,88.9,Ball,-
+2,18,2,Daniel Slominski,Korey Lee,2 Seam,89.2,Foul,93.1
+2,18,3,Daniel Slominski,Korey Lee,Changeup,79.6,Ball,-
+2,18,4,Daniel Slominski,Korey Lee,2 Seam,88.9,Ball,-
+2,18,5,Daniel Slominski,Korey Lee,2 Seam,89,Hit Into Play - Out,92.1
+3,19,1,Andrew Buckley,Riley Helland,2 Seam,82.8,Ball,-
+3,19,2,Andrew Buckley,Riley Helland,Changeup,79.7,Foul,-
+3,19,3,Andrew Buckley,Riley Helland,2 Seam,83,Ball,-
+3,19,4,Andrew Buckley,Riley Helland,2 Seam,82.4,Ball,-
+3,19,5,Andrew Buckley,Riley Helland,2 Seam,82.8,Ball,-
+3,20,1,Andrew Buckley,Michael Perri,Slider,70.9,Called Strike,-
+3,20,2,Andrew Buckley,Michael Perri,2 Seam,83.5,Hit Into Play - Run Scored,94.8
+3,21,1,Andrew Buckley,Ross Puskarich,2 Seam,82.6,Ball,-
+3,21,2,Andrew Buckley,Ross Puskarich,2 Seam,81.9,Ball,-
+3,21,3,Andrew Buckley,Ross Puskarich,2 Seam,83.3,Ball,-
+3,21,4,Andrew Buckley,Ross Puskarich,2 Seam,82.4,Hit Into Play - Run Scored,103.2
+3,22,1,Andrew Buckley,RJ Cordeiro,2 Seam,83.5,Called Strike,-
+3,22,2,Andrew Buckley,RJ Cordeiro,Changeup,78.6,Foul,52.5
+3,22,3,Andrew Buckley,RJ Cordeiro,2 Seam,83.5,Foul,-
+3,22,4,Andrew Buckley,RJ Cordeiro,2 Seam,81.4,Ball,-
+3,22,5,Andrew Buckley,RJ Cordeiro,Changeup,79.2,Ball,-
+3,22,6,Andrew Buckley,RJ Cordeiro,Changeup,78.9,Ball,-
+3,22,7,Andrew Buckley,RJ Cordeiro,2 Seam,82.1,Foul,-
+3,22,8,Andrew Buckley,RJ Cordeiro,2 Seam,81.9,Foul,72.5
+3,22,9,Andrew Buckley,RJ Cordeiro,2 Seam,81.7,Ball,-
+3,23,1,Andrew Buckley,Matt Campos,2 Seam,80.7,Hit Into Play - Out,71
+3,24,1,Andrew Buckley,Thomas McCarthy,Slider,70.3,Ball,-
+3,24,2,Andrew Buckley,Thomas McCarthy,Changeup,71.9,Ball,-
+3,24,3,Andrew Buckley,Thomas McCarthy,2 Seam,81,Swinging Strike,-
+3,24,4,Andrew Buckley,Thomas McCarthy,2 Seam,81.1,Called Strike,-
+3,24,5,Andrew Buckley,Thomas McCarthy,2 Seam,80.9,Swinging Strike,-
+3,25,1,Andrew Buckley,Jack Winkler,2 Seam,81.3,Called Strike,-
+3,25,3,Andrew Buckley,Jack Winkler,Changeup,73.4,Foul,-
+3,25,2,Andrew Buckley,Jack Winkler,2 Seam,81.1,Called Strike,-
+3,25,4,Andrew Buckley,Jack Winkler,2 Seam,81.1,Ball,-
+3,25,5,Andrew Buckley,Jack Winkler,2 Seam,82.2,Ball,-
+3,25,6,Andrew Buckley,Jack Winkler,2 Seam,82.2,Hit Into Play - Out,79.2
+3,26,1,Daniel Slominski,Cameron Eden,2 Seam,88.7,Hit Into Play - Out,47.7
+3,27,1,Daniel Slominski,Tyrus Greene,2 Seam,89.3,Hit Into Play - Out,86.6
+3,28,1,Daniel Slominski,Tanner Dodson,2 Seam,87.7,Ball,-
+3,28,2,Daniel Slominski,Tanner Dodson,2 Seam,89,Ball,-
+3,28,3,Daniel Slominski,Tanner Dodson,2 Seam,88.2,Ball,-
+3,28,4,Daniel Slominski,Tanner Dodson,2 Seam,88.8,Called Strike,-
+3,28,5,Daniel Slominski,Tanner Dodson,2 Seam,88.7,Foul,-
+3,28,6,Daniel Slominski,Tanner Dodson,2 Seam,87.9,Hit By Pitch,-
+3,29,1,Daniel Slominski,Andrew Vaughn,2 Seam,88.4,Hit Into Play - Run Scored,99.8
+3,30,1,Daniel Slominski,Jonah Davis,Changeup,79.9,Ball,-
+3,30,2,Daniel Slominski,Jonah Davis,2 Seam,88.6,Ball,-
+3,30,3,Daniel Slominski,Jonah Davis,2 Seam,89.1,Hit Into Play - Run Scored,101.2
+3,31,1,Daniel Slominski,Jeff Mitchell Jr,Changeup,75.3,Ball,-
+3,31,2,Daniel Slominski,Jeff Mitchell Jr,2 Seam,89.1,Foul,-
+3,31,3,Daniel Slominski,Jeff Mitchell Jr,Changeup,77.1,Called Strike,-
+3,31,4,Daniel Slominski,Jeff Mitchell Jr,Changeup,80.4,Ball,-
+3,31,5,Daniel Slominski,Jeff Mitchell Jr,2 Seam,89.1,Ball,-
+3,31,6,Daniel Slominski,Jeff Mitchell Jr,Changeup,76.7,Ball,-
+3,32,1,Alex Pham,Darren Baker,2 Seam,85.9,Called Strike,-
+3,32,2,Alex Pham,Darren Baker,4 Seam,86.7,Called Strike,-
+3,32,3,Alex Pham,Darren Baker,Curve,70.4,Ball,-
+3,32,4,Alex Pham,Darren Baker,2 Seam,86.6,Hit Into Play,38.6
+3,33,1,Alex Pham,Sam Wezniak,4 Seam,85.8,Hit Into Play - Out,94
+4,34,1,Joey Matulovich,Tyler Villaroman,2 Seam,89.7,Called Strike,-
+4,34,2,Joey Matulovich,Tyler Villaroman,Slider,80.4,Swinging Strike,-
+4,34,3,Joey Matulovich,Tyler Villaroman,2 Seam,91.8,Ball,-
+4,34,4,Joey Matulovich,Tyler Villaroman,Slider,80.7,Ball,-
+4,34,5,Joey Matulovich,Tyler Villaroman,2 Seam,89.2,Called Strike,-
+4,35,1,Joey Matulovich,Jonathan Allen,2 Seam,90.7,Swinging Strike,-
+4,35,2,Joey Matulovich,Jonathan Allen,2 Seam,90.7,Hit Into Play,-
+4,36,1,Joey Matulovich,Riley Helland,2 Seam,89.4,Swinging Strike,-
+4,36,2,Joey Matulovich,Riley Helland,2 Seam,90.2,Swinging Strike,-
+4,36,3,Joey Matulovich,Riley Helland,2 Seam,91.4,Foul,-
+4,36,4,Joey Matulovich,Riley Helland,2 Seam,84.8,Pitchout,-
+4,36,5,Joey Matulovich,Riley Helland,2 Seam,90.6,Foul Tip,-
+4,37,1,Joey Matulovich,Michael Perri,2 Seam,89.3,Foul,-
+4,37,2,Joey Matulovich,Michael Perri,2 Seam,89,Ball,-
+4,37,3,Joey Matulovich,Michael Perri,2 Seam,89.9,Foul,-
+4,37,4,Joey Matulovich,Michael Perri,2 Seam,91.5,Ball,-
+4,37,5,Joey Matulovich,Michael Perri,2 Seam,88.6,Foul,-
+4,37,6,Joey Matulovich,Michael Perri,2 Seam,90.6,Ball,-
+4,37,7,Joey Matulovich,Michael Perri,4 Seam,88,Hit By Pitch,-
+4,38,1,Joey Matulovich,Ross Puskarich,Changeup,83,Ball,-
+4,38,2,Joey Matulovich,Ross Puskarich,Slider,80.5,Ball,-
+4,38,3,Joey Matulovich,Ross Puskarich,2 Seam,88,Hit Into Play - Run Scored,88.6
+4,39,1,Joey Matulovich,RJ Cordeiro,2 Seam,88.7,Swinging Strike,-
+4,39,2,Joey Matulovich,RJ Cordeiro,2 Seam,89,Foul,-
+4,39,3,Joey Matulovich,RJ Cordeiro,Slider,79.5,Ball,-
+4,39,4,Joey Matulovich,RJ Cordeiro,2 Seam,90.1,Ball,-
+4,39,5,Joey Matulovich,RJ Cordeiro,2 Seam,87.9,Ball,-
+4,39,6,Joey Matulovich,RJ Cordeiro,2 Seam,88.3,Ball,-
+4,40,1,Joey Matulovich,Matt Campos,2 Seam,88.7,Swinging Strike,-
+4,40,2,Joey Matulovich,Matt Campos,2 Seam,88.8,Called Strike,-
+4,40,3,Joey Matulovich,Matt Campos,2 Seam,88.6,Swinging Strike,-
+4,41,1,Alex Pham,Korey Lee,4 Seam,85.3,Hit Into Play - Out,84.7
+4,42,1,Alex Pham,Cameron Eden,2 Seam,85.2,Called Strike,-
+4,42,2,Alex Pham,Cameron Eden,4 Seam,86.4,Hit Into Play - Out,92.2
+4,43,1,Alex Pham,Tyrus Greene,4 Seam,86.6,Ball,-
+4,43,2,Alex Pham,Tyrus Greene,4 Seam,85.9,Ball,-
+4,43,3,Alex Pham,Tyrus Greene,4 Seam,86.4,Hit Into Play - Out,68.2
+5,44,1,Joey Matulovich,Thomas McCarthy,2 Seam,86.2,Called Strike,-
+5,44,2,Joey Matulovich,Thomas McCarthy,2 Seam,86.4,Ball,-
+5,44,3,Joey Matulovich,Thomas McCarthy,2 Seam,87.3,Called Strike,-
+5,44,4,Joey Matulovich,Thomas McCarthy,Slider,77.4,Ball,-
+5,44,5,Joey Matulovich,Thomas McCarthy,2 Seam,87.3,Swinging Strike,-
+5,45,1,Joey Matulovich,Jack Winkler,Slider,77.7,Ball,-
+5,45,2,Joey Matulovich,Jack Winkler,2 Seam,87.7,Ball,-
+5,45,3,Joey Matulovich,Jack Winkler,2 Seam,87.9,Swinging Strike,-
+5,45,4,Joey Matulovich,Jack Winkler,4 Seam,89,Swinging Strike,-
+5,45,5,Joey Matulovich,Jack Winkler,4 Seam,90,Ball,-
+5,45,6,Joey Matulovich,Jack Winkler,4 Seam,87.8,Foul,57.2
+5,45,7,Joey Matulovich,Jack Winkler,2 Seam,88.3,Hit Into Play - Out,82.4
+5,46,1,Joey Matulovich,Tyler Villaroman,2 Seam,88.5,Called Strike,-
+5,46,2,Joey Matulovich,Tyler Villaroman,Slider,74.4,Ball,-
+5,46,3,Joey Matulovich,Tyler Villaroman,4 Seam,89.1,Ball,-
+5,46,4,Joey Matulovich,Tyler Villaroman,2 Seam,87.4,Foul,-
+5,46,5,Joey Matulovich,Tyler Villaroman,2 Seam,90.3,Ball,-
+5,46,6,Joey Matulovich,Tyler Villaroman,2 Seam,87.6,Hit Into Play,-
+5,47,1,Joey Matulovich,Jonathan Allen,2 Seam,86.4,Swinging Strike,-
+5,47,2,Joey Matulovich,Jonathan Allen,2 Seam,88.9,Foul,-
+5,47,3,Joey Matulovich,Jonathan Allen,2 Seam,87.7,Swinging Strike,-
+5,48,1,Alex Pham,Tanner Dodson,2 Seam,86.6,Ball,-
+5,48,2,Alex Pham,Tanner Dodson,2 Seam,86.3,Foul,-
+5,48,3,Alex Pham,Tanner Dodson,Curve,71.5,Ball,-
+5,48,4,Alex Pham,Tanner Dodson,2 Seam,87,Foul,72.7
+5,48,5,Alex Pham,Tanner Dodson,Curve,75.1,Hit Into Play - Out,76.3
+5,49,1,Alex Pham,Andrew Vaughn,Slider,74.7,Called Strike,-
+5,49,2,Alex Pham,Andrew Vaughn,Curve,71.9,Ball,-
+5,49,3,Alex Pham,Andrew Vaughn,Curve,71.1,Called Strike,-
+5,49,4,Alex Pham,Andrew Vaughn,4 Seam,86.9,Called Strike,-
+5,50,1,Alex Pham,Jonah Davis,Curve,70.4,Ball,-
+5,50,2,Alex Pham,Jonah Davis,4 Seam,87.7,Foul,-
+5,50,3,Alex Pham,Jonah Davis,Curve,70,Ball,-
+5,50,4,Alex Pham,Jonah Davis,Curve,69.8,Ball,-
+5,50,5,Alex Pham,Jonah Davis,4 Seam,88,Hit Into Play - Out,82.2
+6,51,1,Joey Matulovich,Riley Helland,2 Seam,87.6,Swinging Strike,-
+6,51,2,Joey Matulovich,Riley Helland,2 Seam,87.6,Ball,-
+6,51,3,Joey Matulovich,Riley Helland,2 Seam,87,Swinging Strike,-
+6,51,4,Joey Matulovich,Riley Helland,2 Seam,89.7,Called Strike,-
+6,52,1,Joey Matulovich,Michael Perri,Slider,79.3,Called Strike,-
+6,52,2,Joey Matulovich,Michael Perri,Slider,76.1,Ball,-
+6,52,3,Joey Matulovich,Michael Perri,2 Seam,88.3,Foul,-
+6,52,4,Joey Matulovich,Michael Perri,Slider,76.9,Hit Into Play - Out,-
+6,53,1,Joey Matulovich,Ross Puskarich,2 Seam,89,Called Strike,-
+6,53,2,Joey Matulovich,Ross Puskarich,2 Seam,88.2,Foul,-
+6,53,3,Joey Matulovich,Ross Puskarich,Slider,73.7,Ball,-
+6,53,4,Joey Matulovich,Ross Puskarich,4 Seam,88.8,Ball,-
+6,53,5,Joey Matulovich,Ross Puskarich,2 Seam,87.5,Ball,-
+6,53,6,Joey Matulovich,Ross Puskarich,2 Seam,86,Foul,-
+6,53,7,Joey Matulovich,Ross Puskarich,2 Seam,86.7,Hit Into Play - Out,-
+6,54,1,Alex Pham,Jeff Mitchell Jr,4 Seam,86.6,Ball,-
+6,54,2,Alex Pham,Jeff Mitchell Jr,2 Seam,85,Ball,-
+6,54,3,Alex Pham,Jeff Mitchell Jr,4 Seam,86.6,Ball,-
+6,54,4,Alex Pham,Jeff Mitchell Jr,2 Seam,85.6,Called Strike,-
+6,54,5,Alex Pham,Jeff Mitchell Jr,2 Seam,85.9,Foul,-
+6,54,6,Alex Pham,Jeff Mitchell Jr,4 Seam,87.1,Hit Into Play - Out,57.1
+6,55,1,Alex Pham,Darren Baker,2 Seam,85.7,Hit Into Play,58.8
+6,56,1,Alex Pham,Sam Wezniak,Slider,73.1,Swinging Strike,-
+6,56,2,Alex Pham,Sam Wezniak,Curve,70.5,Ball,-
+6,56,3,Alex Pham,Sam Wezniak,2 Seam,86.2,Hit Into Play,92.6
+6,57,1,Alex Pham,Korey Lee,Slider,72.6,Ball,-
+6,57,2,Alex Pham,Korey Lee,4 Seam,86,Hit Into Play - Run Scored,89
+6,58,1,Scott Parker,Cameron Eden,Slider,79.3,Ball,-
+6,58,2,Scott Parker,Cameron Eden,4 Seam,83.9,Hit Into Play - Out,92.2
+7,59,1,Joey Matulovich,RJ Cordeiro,2 Seam,86.3,Called Strike,-
+7,59,2,Joey Matulovich,RJ Cordeiro,2 Seam,86.3,Ball,-
+7,59,3,Joey Matulovich,RJ Cordeiro,2 Seam,87.6,Swinging Strike,-
+7,59,4,Joey Matulovich,RJ Cordeiro,Curve,76.5,Hit Into Play - Out,-
+7,60,1,Joey Matulovich,Aaron Ping,Slider,74.9,Hit Into Play - Out,-
+7,61,1,Joey Matulovich,Thomas McCarthy,Slider,77.3,Called Strike,-
+7,61,2,Joey Matulovich,Thomas McCarthy,2 Seam,87.4,Called Strike,-
+7,61,3,Joey Matulovich,Thomas McCarthy,Slider,79.2,Ball,-
+7,61,4,Joey Matulovich,Thomas McCarthy,Slider,77.8,Ball,-
+7,61,5,Joey Matulovich,Thomas McCarthy,2 Seam,86.7,Ball,-
+7,61,6,Joey Matulovich,Thomas McCarthy,2 Seam,86.1,Ball,-
+7,62,1,Joey Matulovich,Jack Winkler,2 Seam,85.6,Called Strike,-
+7,62,2,Joey Matulovich,Jack Winkler,2 Seam,86.6,Ball,-
+7,62,3,Joey Matulovich,Jack Winkler,Slider,77.6,Ball,-
+7,62,4,Joey Matulovich,Jack Winkler,2 Seam,86.9,Ball,-
+7,62,5,Joey Matulovich,Jack Winkler,2 Seam,86.4,Ball,-
+7,63,1,Joey Matulovich,Tyler Villaroman,4 Seam,86.8,Foul,-
+7,63,2,Joey Matulovich,Tyler Villaroman,2 Seam,86.3,Ball,-
+7,63,3,Joey Matulovich,Tyler Villaroman,2 Seam,86.4,Foul,-
+7,63,4,Joey Matulovich,Tyler Villaroman,2 Seam,87.7,Ball,-
+7,63,5,Joey Matulovich,Tyler Villaroman,2 Seam,86.7,Ball,-
+7,63,6,Joey Matulovich,Tyler Villaroman,4 Seam,87.7,Foul,-
+7,63,7,Joey Matulovich,Tyler Villaroman,2 Seam,87.4,Foul,-
+7,63,8,Joey Matulovich,Tyler Villaroman,2 Seam,88.9,Hit Into Play - Out,83.8
+7,64,1,Scott Parker,Tyrus Greene,Slider,79.4,Hit Into Play - Run Scored,90.1
+7,65,1,Scott Parker,Tanner Dodson,Curve,70.2,Ball,-
+7,65,2,Scott Parker,Tanner Dodson,Slider,78.4,Hit Into Play - Run Scored,93.9
+7,66,1,Scott Parker,Andrew Vaughn,Curve,70.2,Ball,-
+7,66,2,Scott Parker,Andrew Vaughn,Curve,70.4,Ball,-
+7,66,3,Scott Parker,Andrew Vaughn,Curve,70.9,Called Strike,-
+7,66,4,Scott Parker,Andrew Vaughn,Curve,74.2,Ball,-
+7,66,5,Scott Parker,Andrew Vaughn,Cutter,79.5,Ball,-
+7,67,1,Scott Parker,Jonah Davis,Curve,71.1,Called Strike,-
+7,67,2,Scott Parker,Jonah Davis,4 Seam,78,Ball,-
+7,67,3,Scott Parker,Jonah Davis,Slider,73.4,Ball,-
+7,67,4,Scott Parker,Jonah Davis,Slider,78,Foul,-
+7,67,5,Scott Parker,Jonah Davis,Slider,72.1,Ball,-
+7,67,6,Scott Parker,Jonah Davis,Cutter,83.3,Foul,-
+7,67,7,Scott Parker,Jonah Davis,Slider,73.6,Hit Into Play - Out,44.4
+7,68,1,Joey Steele,Jeff Mitchell Jr,4 Seam,84.8,Ball,-
+7,68,2,Joey Steele,Jeff Mitchell Jr,4 Seam,83.2,Foul,78.5
+7,68,3,Joey Steele,Jeff Mitchell Jr,4 Seam,85.2,Hit Into Play - Out,18.8
+7,69,1,Joey Steele,Darren Baker,Curve,69.6,Called Strike,-
+7,69,2,Joey Steele,Darren Baker,4 Seam,85,Ball,-
+7,69,3,Joey Steele,Darren Baker,Curve,71,Ball,-
+7,69,4,Joey Steele,Darren Baker,Curve,70.8,Hit Into Play - Out,43.8
+8,70,1,Arman Sabouri,Jonathan Allen,Curve,73.3,Called Strike,-
+8,70,2,Arman Sabouri,Jonathan Allen,2 Seam,86.5,Swinging Strike,-
+8,70,3,Arman Sabouri,Jonathan Allen,Curve,74.9,Hit Into Play - Out,-
+8,71,1,Arman Sabouri,Riley Helland,2 Seam,86.7,Foul,-
+8,71,2,Arman Sabouri,Riley Helland,4 Seam,86.4,Hit Into Play - Out,87.5
+8,72,1,Arman Sabouri,Michael Perri,Changeup,77.6,Swinging Strike,-
+8,72,2,Arman Sabouri,Michael Perri,4 Seam,88.2,Foul,-
+8,72,3,Arman Sabouri,Michael Perri,Curve,74.5,Called Strike,-
+8,73,1,Joey Steele,Sam Wezniak,2 Seam,83.5,Hit Into Play - Out,-
+8,74,1,Joey Steele,Korey Lee,4 Seam,84.7,Ball,-
+8,74,2,Joey Steele,Korey Lee,Curve,70.8,Called Strike,-
+8,74,3,Joey Steele,Korey Lee,Curve,69.8,Hit Into Play,100.3
+8,75,1,Joey Steele,Cameron Eden,4 Seam,85,Swinging Strike,-
+8,75,2,Joey Steele,Cameron Eden,Curve,68.4,Called Strike,-
+8,75,3,Joey Steele,Cameron Eden,4 Seam,85.5,Swinging Strike,-
+8,76,1,Haydn King,Tyrus Greene,Cutter,85,Ball,-
+8,76,2,Haydn King,Tyrus Greene,Cutter,85,Swinging Strike,-
+8,76,3,Haydn King,Tyrus Greene,Slider,74.3,Hit Into Play,83.7
+8,77,1,Haydn King,Tanner Dodson,Cutter,86,Ball,-
+8,77,2,Haydn King,Tanner Dodson,4 Seam,84.6,Ball,-
+8,77,3,Haydn King,Tanner Dodson,Cutter,83.6,Called Strike,-
+8,77,4,Haydn King,Tanner Dodson,Slider,76.7,Swinging Strike,-
+8,77,5,Haydn King,Tanner Dodson,Slider,78.2,Foul,-
+8,77,6,Haydn King,Tanner Dodson,Cutter,87.1,Ball,-
+8,77,7,Haydn King,Tanner Dodson,Slider,76.6,Foul,-
+8,77,8,Haydn King,Tanner Dodson,Curve,69.9,Ball,-
+8,78,1,Grant Goodman,Andrew Vaughn,2 Seam,90,Hit Into Play - Out,67.8
+9,79,1,Arman Sabouri,Ross Puskarich,2 Seam,85.4,Hit Into Play,98.1
+9,80,1,Arman Sabouri,RJ Cordeiro,2 Seam,86.1,Ball,-
+9,80,2,Arman Sabouri,RJ Cordeiro,4 Seam,86.2,Called Strike,-
+9,80,3,Arman Sabouri,RJ Cordeiro,4 Seam,85.7,Ball,-
+9,80,4,Arman Sabouri,RJ Cordeiro,Curve,74.4,Called Strike,-
+9,80,5,Arman Sabouri,RJ Cordeiro,Curve,74.4,Ball,-
+9,80,6,Arman Sabouri,RJ Cordeiro,2 Seam,88.4,Ball,-
+9,81,1,Tanner Dodson,Aaron Ping,2 Seam,93.1,Hit Into Play - Out,31.7
+9,82,1,Tanner Dodson,Brady Bate,2 Seam,93.9,Ball,-
+9,82,2,Tanner Dodson,Brady Bate,2 Seam,94.3,Ball,-
+9,82,3,Tanner Dodson,Brady Bate,2 Seam,93.3,Swinging Strike,-
+9,82,4,Tanner Dodson,Brady Bate,2 Seam,94.4,Swinging Strike,-
+9,82,5,Tanner Dodson,Brady Bate,2 Seam,94.5,Ball,-
+9,82,6,Tanner Dodson,Brady Bate,2 Seam,94.9,Swinging Strike,-

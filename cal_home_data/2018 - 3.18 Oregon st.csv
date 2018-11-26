@@ -1,0 +1,307 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Rogelio Reyes,Tanner Murray,2 Seam,88.1,Hit Into Play,-
+1,2,1,Rogelio Reyes,Brad Pluschkell,2 Seam,88.6,Hit Into Play - Out,-
+1,3,1,Rogelio Reyes,Ryan Anderson,2 Seam,89.5,Foul,-
+1,3,2,Rogelio Reyes,Ryan Anderson,Changeup,81.9,Hit Into Play - Out,-
+1,4,1,Rogelio Reyes,Logan Denholm,Changeup,80.2,Swinging Strike,-
+1,4,2,Rogelio Reyes,Logan Denholm,Changeup,81.5,Ball,-
+1,4,3,Rogelio Reyes,Logan Denholm,2 Seam,90,Foul,-
+1,4,5,Rogelio Reyes,Logan Denholm,Changeup,82.5,Swinging Strike,-
+1,5,1,Blake Hannah,Tyrus Greene,2 Seam,85.3,Called Strike,-
+1,5,2,Blake Hannah,Tyrus Greene,Changeup,76.6,Hit Into Play,85
+1,6,1,Blake Hannah,Jeffery Mitchell Jr.,Changeup,75.9,Called Strike,-
+1,6,2,Blake Hannah,Jeffery Mitchell Jr.,2 Seam,85.1,Called Strike,-
+1,6,3,Blake Hannah,Jeffery Mitchell Jr.,2 Seam,84.6,Ball,-
+1,6,4,Blake Hannah,Jeffery Mitchell Jr.,Slider,72.5,Ball,-
+1,6,5,Blake Hannah,Jeffery Mitchell Jr.,Curve,71.8,Ball,-
+1,6,6,Blake Hannah,Jeffery Mitchell Jr.,2 Seam,83.1,Ball,-
+1,7,1,Blake Hannah,Andrew Vaughn,Changeup,76.1,Ball,-
+1,7,2,Blake Hannah,Andrew Vaughn,2 Seam,83.9,Called Strike,-
+1,7,3,Blake Hannah,Andrew Vaughn,2 Seam,83.6,Ball,-
+1,7,4,Blake Hannah,Andrew Vaughn,2 Seam,84.8,Ball,-
+1,7,5,Blake Hannah,Andrew Vaughn,2 Seam,82.8,Called Strike,-
+1,7,6,Blake Hannah,Andrew Vaughn,4 Seam,83.5,Foul,-
+1,7,7,Blake Hannah,Andrew Vaughn,2 Seam,83.2,Hit Into Play - Out,83.3
+1,8,1,Blake Hannah,Tanner Dodson,2 Seam,83.9,Hit Into Play - Out,58.4
+1,9,1,Blake Hannah,Jonah Davis,2 Seam,84.5,Hit Into Play - Out,94.6
+2,10,1,Rogelio Reyes,Caleb Van Blake,Changeup,80.8,Swinging Strike,-
+2,10,2,Rogelio Reyes,Caleb Van Blake,Changeup,81.2,Swinging Strike,-
+2,10,3,Rogelio Reyes,Caleb Van Blake,Changeup,80.3,Ball,-
+2,10,4,Rogelio Reyes,Caleb Van Blake,Changeup,80.2,Swinging Strike,-
+2,11,1,Rogelio Reyes,Ryan Hooper,2 Seam,88.1,Foul Tip,-
+2,11,2,Rogelio Reyes,Ryan Hooper,Curve,72,Ball,-
+2,11,3,Rogelio Reyes,Ryan Hooper,2 Seam,87.5,Ball,-
+2,11,4,Rogelio Reyes,Ryan Hooper,2 Seam,86.9,Called Strike,-
+2,11,5,Rogelio Reyes,Ryan Hooper,Curve,71.6,Ball,-
+2,11,6,Rogelio Reyes,Ryan Hooper,2 Seam,88.3,Hit Into Play - Out,85.7
+2,12,1,Rogelio Reyes,Alex Aguiar,2 Seam,87.5,Hit Into Play - Out,86.1
+2,13,1,Blake Hannah,Korey Lee,2 Seam,83.9,Ball,-
+2,13,2,Blake Hannah,Korey Lee,2 Seam,80.7,Called Strike,-
+2,13,3,Blake Hannah,Korey Lee,Changeup,76.7,Ball,-
+2,13,4,Blake Hannah,Korey Lee,4 Seam,83.2,Foul,-
+2,13,5,Blake Hannah,Korey Lee,Curve,63.2,Ball,-
+2,13,6,Blake Hannah,Korey Lee,4 Seam,83.8,Ball,-
+2,14,1,Blake Hannah,Darren Baker,2 Seam,83.7,Ball,-
+2,14,2,Blake Hannah,Darren Baker,2 Seam,81.9,Ball,-
+2,14,3,Blake Hannah,Darren Baker,2 Seam,83.4,Foul,42.3
+2,14,4,Blake Hannah,Darren Baker,Changeup,81.7,Hit Into Play,85.5
+2,15,1,Blake Hannah,Ripken Reyes,Curve,66.9,Called Strike,-
+2,15,2,Blake Hannah,Ripken Reyes,Changeup,74.6,Ball,-
+2,15,3,Blake Hannah,Ripken Reyes,2 Seam,83,Swinging Strike,-
+2,15,4,Blake Hannah,Ripken Reyes,2 Seam,83.9,Hit Into Play - Out,91
+2,16,1,Blake Hannah,Cameron Eden,Changeup,74.5,Hit Into Play - Out,85.9
+3,17,1,Rogelio Reyes,Cameron Briggs,2 Seam,86.6,Ball,-
+3,17,2,Rogelio Reyes,Cameron Briggs,2 Seam,87,Hit Into Play - Out,84.7
+3,18,1,Rogelio Reyes,Garret Kelly,2 Seam,87.5,Foul,-
+3,18,2,Rogelio Reyes,Garret Kelly,Changeup,80.8,Ball,-
+3,18,3,Rogelio Reyes,Garret Kelly,2 Seam,86.9,Foul,93.7
+3,18,4,Rogelio Reyes,Garret Kelly,Curve,70.8,Ball,-
+3,18,5,Rogelio Reyes,Garret Kelly,Changeup,78.8,Foul,49.3
+3,18,6,Rogelio Reyes,Garret Kelly,2 Seam,88.2,Swinging Strike,-
+3,19,1,Rogelio Reyes,Tanner Murray,2 Seam,87.2,Ball,-
+3,19,2,Rogelio Reyes,Tanner Murray,Changeup,80.6,Ball,-
+3,19,3,Rogelio Reyes,Tanner Murray,2 Seam,86.6,Ball,-
+3,19,4,Rogelio Reyes,Tanner Murray,Changeup,78.9,Hit Into Play - Out,31.5
+3,20,2,Andres Lara,Tyrus Greene,2 Seam,84.3,Called Strike,-
+3,20,3,Andres Lara,Tyrus Greene,2 Seam,85.3,Called Strike,-
+3,20,4,Andres Lara,Tyrus Greene,2 Seam,86.4,Foul,68.2
+3,20,5,Andres Lara,Tyrus Greene,2 Seam,81.1,Foul,-
+3,20,6,Andres Lara,Tyrus Greene,2 Seam,86.1,Hit Into Play - Out,82
+3,21,1,Andres Lara,Jeffery Mitchell Jr.,Curve,65.5,Ball,-
+3,21,2,Andres Lara,Jeffery Mitchell Jr.,2 Seam,85.6,Hit Into Play - Out,83.4
+3,22,1,Andres Lara,Andrew Vaughn,2 Seam,85.6,Called Strike,-
+3,22,2,Andres Lara,Andrew Vaughn,2 Seam,86.8,Hit Into Play - Run Scored,104.6
+3,23,1,Andres Lara,Tanner Dodson,Slider,69.6,Called Strike,-
+3,23,2,Andres Lara,Tanner Dodson,Curve,67.4,Ball,-
+3,23,3,Andres Lara,Tanner Dodson,2 Seam,85.9,Hit Into Play,55.4
+3,24,1,Andres Lara,Jonah Davis,2 Seam,81.6,Ball,-
+3,24,2,Andres Lara,Jonah Davis,Slider,68.5,Ball,-
+3,24,3,Andres Lara,Jonah Davis,2 Seam,85.2,Called Strike,-
+3,24,4,Andres Lara,Jonah Davis,Slider,70.9,Called Strike,-
+3,24,5,Andres Lara,Jonah Davis,2 Seam,85.8,Hit Into Play - Out,94.4
+4,25,1,Rogelio Reyes,Brad Pluschkell,Changeup,78.9,Called Strike,-
+4,25,2,Rogelio Reyes,Brad Pluschkell,2 Seam,87.2,Ball,-
+4,25,3,Rogelio Reyes,Brad Pluschkell,Changeup,79.5,Swinging Strike,-
+4,25,4,Rogelio Reyes,Brad Pluschkell,Changeup,79.2,Foul Tip,-
+4,26,1,Rogelio Reyes,Ryan Anderson,Changeup,79.4,Ball,-
+4,26,2,Rogelio Reyes,Ryan Anderson,2 Seam,87.2,Hit Into Play - Out,90.3
+4,27,1,Rogelio Reyes,Logan Denholm,2 Seam,87.2,Hit Into Play,87.8
+4,28,1,Rogelio Reyes,Caleb Van Blake,2 Seam,86.9,Foul,72.4
+4,28,2,Rogelio Reyes,Caleb Van Blake,Changeup,80.7,Ball,-
+4,28,3,Rogelio Reyes,Caleb Van Blake,Changeup,80.2,Foul,97.3
+4,28,4,Rogelio Reyes,Caleb Van Blake,2 Seam,88.1,Ball,-
+4,28,5,Rogelio Reyes,Caleb Van Blake,2 Seam,88.1,Foul,-
+4,28,6,Rogelio Reyes,Caleb Van Blake,Curve,72.2,Hit By Pitch,-
+4,29,1,Rogelio Reyes,Ryan Hooper,Changeup,80.5,Called Strike,-
+4,29,2,Rogelio Reyes,Ryan Hooper,Changeup,79.5,Swinging Strike,-
+4,29,3,Rogelio Reyes,Ryan Hooper,2 Seam,88.5,Called Strike,-
+4,30,1,Andres Lara,Korey Lee,Curve,65.9,Called Strike,-
+4,30,2,Andres Lara,Korey Lee,Curve,66.6,Foul,-
+4,30,3,Andres Lara,Korey Lee,2 Seam,80.6,Swinging Strike,-
+4,31,1,Andres Lara,Darren Baker,2 Seam,81.3,Hit Into Play,46.4
+4,32,1,Andres Lara,Ripken Reyes,Slider,68.1,Ball,-
+4,32,2,Andres Lara,Ripken Reyes,2 Seam,83.4,Called Strike,-
+4,32,3,Andres Lara,Ripken Reyes,Changeup,79.4,Swinging Strike,-
+4,32,4,Andres Lara,Ripken Reyes,2 Seam,85.3,Foul,-
+4,32,5,Andres Lara,Ripken Reyes,Changeup,79.6,Hit Into Play - Out,-
+4,33,1,Andres Lara,Cameron Eden,2 Seam,80.7,Swinging Strike,-
+4,33,2,Andres Lara,Cameron Eden,Changeup,80,Swinging Strike,-
+4,33,3,Andres Lara,Cameron Eden,Changeup,80,Foul,-
+4,33,4,Andres Lara,Cameron Eden,2 Seam,86.2,Hit Into Play - Run Scored,92.7
+4,34,1,Tim Wieser,Tyrus Greene,2 Seam,87.6,Called Strike,-
+4,34,2,Tim Wieser,Tyrus Greene,Curve,71,Ball,-
+4,34,3,Tim Wieser,Tyrus Greene,Curve,70.8,Ball,-
+4,34,4,Tim Wieser,Tyrus Greene,2 Seam,87.5,Ball,-
+4,34,5,Tim Wieser,Tyrus Greene,2 Seam,87.8,Hit Into Play - Out,74.6
+5,35,1,Rogelio Reyes,Alex Aguiar,4 Seam,84,Ball,-
+5,35,2,Rogelio Reyes,Alex Aguiar,2 Seam,85.9,Ball,-
+5,35,3,Rogelio Reyes,Alex Aguiar,4 Seam,84.2,Ball,-
+5,35,4,Rogelio Reyes,Alex Aguiar,2 Seam,81.9,Ball,-
+5,36,1,Rogelio Reyes,Cameron Briggs,2 Seam,84.9,Ball,-
+5,36,2,Rogelio Reyes,Cameron Briggs,2 Seam,84.5,Called Strike,-
+5,36,3,Rogelio Reyes,Cameron Briggs,2 Seam,85.9,Ball,-
+5,36,4,Rogelio Reyes,Cameron Briggs,Changeup,78,Called Strike,-
+5,36,5,Rogelio Reyes,Cameron Briggs,Changeup,79.1,Ball,-
+5,36,6,Rogelio Reyes,Cameron Briggs,Changeup,78.5,Foul,-
+5,36,7,Rogelio Reyes,Cameron Briggs,2 Seam,85.1,Called Strike,-
+5,37,1,Rogelio Reyes,Garret Kelly,2 Seam,86.5,Hit Into Play,23.7
+5,38,1,Rogelio Reyes,Tanner Murray,Changeup,78.6,Hit Into Play,47.3
+5,39,1,Rogelio Reyes,Brad Pluschkell,Changeup,78.8,Ball,-
+5,39,2,Rogelio Reyes,Brad Pluschkell,2 Seam,87.2,Foul,-
+5,39,3,Rogelio Reyes,Brad Pluschkell,Changeup,79.1,Swinging Strike,-
+5,39,4,Rogelio Reyes,Brad Pluschkell,Changeup,79.3,Swinging Strike,-
+5,40,1,Rogelio Reyes,Ryan Anderson,Changeup,80,Ball,-
+5,40,2,Rogelio Reyes,Ryan Anderson,Changeup,79.6,Ball,-
+5,40,3,Rogelio Reyes,Ryan Anderson,2 Seam,87.3,Hit Into Play - Run Scored,98.2
+5,41,1,Rogelio Reyes,Logan Denholm,Changeup,80.4,Ball,-
+5,41,2,Rogelio Reyes,Logan Denholm,2 Seam,88,Ball,-
+5,41,3,Rogelio Reyes,Logan Denholm,Changeup,80,Ball,-
+5,41,4,Rogelio Reyes,Logan Denholm,2 Seam,85.7,Called Strike,-
+5,41,5,Rogelio Reyes,Logan Denholm,2 Seam,86,Foul,57.4
+5,41,6,Rogelio Reyes,Logan Denholm,Changeup,80.6,Ball,-
+5,42,1,Rogelio Reyes,Caleb Van Blake,Changeup,80.4,Hit Into Play - Out,74.3
+5,43,1,Tim Wieser,Jeffery Mitchell Jr.,2 Seam,88.1,Called Strike,-
+5,43,2,Tim Wieser,Jeffery Mitchell Jr.,Curve,71.4,Called Strike,-
+5,43,3,Tim Wieser,Jeffery Mitchell Jr.,Curve,71.3,Ball,-
+5,43,4,Tim Wieser,Jeffery Mitchell Jr.,2 Seam,88.8,Hit Into Play - Out,78.4
+5,44,1,Tim Wieser,Andrew Vaughn,Curve,72.6,Ball,-
+5,44,2,Tim Wieser,Andrew Vaughn,Curve,72.9,Ball,-
+5,44,3,Tim Wieser,Andrew Vaughn,2 Seam,89.2,Called Strike,-
+5,44,4,Tim Wieser,Andrew Vaughn,4 Seam,89.8,Hit Into Play,104.9
+5,45,1,Tim Wieser,Tanner Dodson,2 Seam,88.1,Ball,-
+5,45,2,Tim Wieser,Tanner Dodson,Changeup,76.9,Ball,-
+5,45,3,Tim Wieser,Tanner Dodson,2 Seam,86.8,Foul,-
+5,45,4,Tim Wieser,Tanner Dodson,2 Seam,87.4,Swinging Strike,-
+5,45,5,Tim Wieser,Tanner Dodson,Curve,71.8,Ball,-
+5,45,6,Tim Wieser,Tanner Dodson,Curve,67.8,Ball,-
+5,46,1,Tim Wieser,Jonah Davis,2 Seam,86.3,Hit Into Play - Out,90.4
+5,47,1,Tim Wieser,Korey Lee,4 Seam,86.9,Ball,-
+5,47,2,Tim Wieser,Korey Lee,Curve,71.2,Ball,-
+5,47,3,Tim Wieser,Korey Lee,4 Seam,85.7,Ball,-
+5,47,4,Tim Wieser,Korey Lee,2 Seam,86.1,Called Strike,-
+5,47,5,Tim Wieser,Korey Lee,2 Seam,87.2,Hit Into Play - Out,94.2
+6,48,1,Joey Matulovich,Ryan Hooper,2 Seam,86.8,Hit Into Play - Out,22.4
+6,49,1,Joey Matulovich,Alex Aguiar,2 Seam,87.1,Ball,-
+6,49,2,Joey Matulovich,Alex Aguiar,2 Seam,86.4,Called Strike,-
+6,49,3,Joey Matulovich,Alex Aguiar,2 Seam,87.1,Swinging Strike,-
+6,49,4,Joey Matulovich,Alex Aguiar,2 Seam,87.9,Ball,-
+6,49,5,Joey Matulovich,Alex Aguiar,2 Seam,88.4,Ball,-
+6,49,6,Joey Matulovich,Alex Aguiar,2 Seam,88.4,Foul,-
+6,49,7,Joey Matulovich,Alex Aguiar,2 Seam,88.5,Ball,-
+6,50,1,Joey Matulovich,Cameron Briggs,2 Seam,87,Ball,-
+6,50,2,Joey Matulovich,Cameron Briggs,2 Seam,87.8,Ball,-
+6,50,3,Joey Matulovich,Cameron Briggs,2 Seam,86.7,Ball,-
+6,50,4,Joey Matulovich,Cameron Briggs,2 Seam,86.3,Ball,-
+6,51,1,Joey Matulovich,Garret Kelly,2 Seam,87.7,Called Strike,-
+6,51,2,Joey Matulovich,Garret Kelly,Slider,80.1,Ball,-
+6,51,3,Joey Matulovich,Garret Kelly,2 Seam,88.5,Called Strike,-
+6,51,4,Joey Matulovich,Garret Kelly,2 Seam,89.2,Swinging Strike,-
+6,52,1,Joey Matulovich,Tanner Murray,Slider,78.7,Foul,-
+6,52,2,Joey Matulovich,Tanner Murray,2 Seam,88.1,Swinging Strike,-
+6,52,3,Joey Matulovich,Tanner Murray,2 Seam,89.1,Foul,-
+6,52,4,Joey Matulovich,Tanner Murray,2 Seam,89.8,Foul,-
+6,52,5,Joey Matulovich,Tanner Murray,Slider,76.4,Hit Into Play - Out,58.4
+6,53,1,Brock Moffitt,Darren Baker,Cutter,82.7,Called Strike,-
+6,53,2,Brock Moffitt,Darren Baker,Curve,70.8,Called Strike,-
+6,53,3,Brock Moffitt,Darren Baker,Slider,73.2,Foul,73.3
+6,53,4,Brock Moffitt,Darren Baker,Curve,71.2,Ball,-
+6,53,5,Brock Moffitt,Darren Baker,Cutter,84.5,Swinging Strike,-
+6,54,1,Brock Moffitt,Ripken Reyes,Curve,70.1,Called Strike,-
+6,54,2,Brock Moffitt,Ripken Reyes,Cutter,84.6,Swinging Strike,-
+6,54,3,Brock Moffitt,Ripken Reyes,Curve,72.7,Hit Into Play,46.2
+6,55,1,Brock Moffitt,Cameron Eden,Cutter,82.8,Foul,-
+6,55,2,Brock Moffitt,Cameron Eden,Cutter,83.4,Ball,-
+6,55,3,Brock Moffitt,Cameron Eden,Curve,70.5,Called Strike,-
+6,55,4,Brock Moffitt,Cameron Eden,Cutter,83.5,Foul,-
+6,55,5,Brock Moffitt,Cameron Eden,Curve,72.7,Swinging Strike,-
+6,56,1,Brock Moffitt,Tyrus Greene,Curve,70.2,Ball,-
+6,56,2,Brock Moffitt,Tyrus Greene,Cutter,83.1,Ball,-
+6,56,3,Brock Moffitt,Tyrus Greene,Cutter,82.8,Ball,-
+6,56,4,Brock Moffitt,Tyrus Greene,Cutter,82.4,Called Strike,-
+6,56,5,Brock Moffitt,Tyrus Greene,Cutter,83.2,Ball,-
+6,57,1,Brock Moffitt,Jeffery Mitchell Jr.,Curve,70.8,Ball,-
+6,57,2,Brock Moffitt,Jeffery Mitchell Jr.,Cutter,83.9,Swinging Strike,-
+6,57,3,Brock Moffitt,Jeffery Mitchell Jr.,Cutter,82.8,Ball,-
+6,57,4,Brock Moffitt,Jeffery Mitchell Jr.,Cutter,83,Swinging Strike,-
+6,57,5,Brock Moffitt,Jeffery Mitchell Jr.,Slider,72.2,Ball,-
+6,57,6,Brock Moffitt,Jeffery Mitchell Jr.,Cutter,84.2,Ball,-
+6,58,1,Joseph Torres,Andrew Vaughn,Changeup,74.9,Called Strike,-
+6,58,2,Joseph Torres,Andrew Vaughn,Slider,75.3,Hit Into Play - Run Scored,106.4
+6,59,1,Joseph Torres,Tanner Dodson,Changeup,73.2,Foul,-
+6,59,2,Joseph Torres,Tanner Dodson,Changeup,81.2,Foul,-
+6,59,3,Joseph Torres,Tanner Dodson,2 Seam,83.6,Hit Into Play - Out,63.5
+7,60,1,Joey Matulovich,Brad Pluschkell,Slider,76.1,Ball,-
+7,60,2,Joey Matulovich,Brad Pluschkell,2 Seam,86.2,Hit Into Play - Out,90.7
+7,61,1,Joey Matulovich,Ryan Anderson,Curve,77.7,Called Strike,-
+7,61,2,Joey Matulovich,Ryan Anderson,2 Seam,86.3,Hit Into Play,83.5
+7,62,1,Joey Matulovich,Logan Denholm,2 Seam,86,Called Strike,-
+7,62,2,Joey Matulovich,Logan Denholm,Changeup,75.8,Foul,-
+7,62,3,Joey Matulovich,Logan Denholm,2 Seam,87.5,Called Strike,-
+7,63,1,Joey Matulovich,Caleb Van Blake,2 Seam,86.1,Foul,-
+7,63,2,Joey Matulovich,Caleb Van Blake,2 Seam,88.5,Foul,-
+7,63,3,Joey Matulovich,Caleb Van Blake,2 Seam,88.3,Ball,-
+7,63,4,Joey Matulovich,Caleb Van Blake,2 Seam,88.3,Hit Into Play - Out,-
+7,64,1,Ryan Rodriguez,Jonah Davis,4 Seam,81.7,Ball,-
+7,64,2,Ryan Rodriguez,Jonah Davis,2 Seam,81.7,Foul,65.7
+7,64,3,Ryan Rodriguez,Jonah Davis,2 Seam,83.3,Hit Into Play - Run Scored,104.4
+7,65,1,Ryan Rodriguez,Korey Lee,2 Seam,81.7,Foul,-
+7,65,3,Ryan Rodriguez,Korey Lee,2 Seam,83.6,Ball,-
+7,65,4,Ryan Rodriguez,Korey Lee,2 Seam,80.7,Ball,-
+7,65,5,Ryan Rodriguez,Korey Lee,Curve,70.4,Ball,-
+7,66,1,Ryan Rodriguez,Darren Baker,2 Seam,83.2,Called Strike,-
+7,66,2,Ryan Rodriguez,Darren Baker,2 Seam,82.6,Ball,-
+7,66,3,Ryan Rodriguez,Darren Baker,4 Seam,80,Ball,-
+7,66,4,Ryan Rodriguez,Darren Baker,2 Seam,83,Hit Into Play,91.4
+7,67,1,Ryan Rodriguez,Ripken Reyes,2 Seam,81.9,Foul,-
+7,67,2,Ryan Rodriguez,Ripken Reyes,2 Seam,82.7,Hit Into Play - Out,95.4
+7,68,1,Ryan Rodriguez,Cameron Eden,2 Seam,83.5,Ball,-
+7,68,2,Ryan Rodriguez,Cameron Eden,2 Seam,82.3,Foul,92.6
+7,68,3,Ryan Rodriguez,Cameron Eden,Changeup,74.5,Ball,-
+7,68,4,Ryan Rodriguez,Cameron Eden,2 Seam,83,Ball,-
+7,68,5,Ryan Rodriguez,Cameron Eden,2 Seam,82.3,Ball,-
+7,69,2,Alex Trautner,Tyrus Greene,Changeup,77.1,Called Strike,-
+7,69,3,Alex Trautner,Tyrus Greene,Changeup,69.8,Ball,-
+7,69,4,Alex Trautner,Tyrus Greene,Changeup,79.4,Hit By Pitch,-
+7,70,1,Alex Trautner,Jeffery Mitchell Jr.,Changeup,78.7,Ball,-
+7,70,2,Alex Trautner,Jeffery Mitchell Jr.,Changeup,78.8,Ball,-
+7,70,3,Alex Trautner,Jeffery Mitchell Jr.,4 Seam,79.9,Ball,-
+7,70,4,Alex Trautner,Jeffery Mitchell Jr.,Changeup,77.2,Called Strike,-
+7,70,5,Alex Trautner,Jeffery Mitchell Jr.,Changeup,76.2,Swinging Strike,-
+7,70,6,Alex Trautner,Jeffery Mitchell Jr.,Curve,64.4,Ball,-
+7,71,1,Alex Trautner,Andrew Vaughn,Changeup,77.2,Called Strike,-
+7,71,2,Alex Trautner,Andrew Vaughn,Changeup,69.7,Hit Into Play - Out,44.8
+8,72,1,Joey Matulovich,Caleb Van Blake,2 Seam,86.1,Foul,-
+8,72,2,Joey Matulovich,Caleb Van Blake,2 Seam,87.1,Called Strike,-
+8,72,3,Joey Matulovich,Caleb Van Blake,2 Seam,88.1,Hit Into Play - Out,61.8
+8,73,1,Joey Matulovich,Ryan Hooper,2 Seam,87.9,Swinging Strike,-
+8,73,2,Joey Matulovich,Ryan Hooper,2 Seam,87,Foul,-
+8,73,3,Joey Matulovich,Ryan Hooper,Slider,77.9,Ball,-
+8,73,4,Joey Matulovich,Ryan Hooper,Slider,77.5,Hit Into Play - Run Scored,98.8
+8,74,1,Joey Matulovich,Alex Aguiar,2 Seam,86.3,Ball,-
+8,74,2,Joey Matulovich,Alex Aguiar,2 Seam,85.8,Swinging Strike,-
+8,74,3,Joey Matulovich,Alex Aguiar,2 Seam,86.8,Swinging Strike,-
+8,74,4,Joey Matulovich,Alex Aguiar,Slider,78.8,Called Strike,-
+8,75,1,Joey Matulovich,Cameron Briggs,2 Seam,88.5,Foul,-
+8,75,2,Joey Matulovich,Cameron Briggs,2 Seam,88.1,Ball,-
+8,75,3,Joey Matulovich,Cameron Briggs,2 Seam,87.9,Called Strike,-
+8,75,4,Joey Matulovich,Cameron Briggs,Slider,78.4,Foul,-
+8,75,5,Joey Matulovich,Cameron Briggs,Slider,76.7,Foul,-
+8,75,6,Joey Matulovich,Cameron Briggs,Slider,76.2,Swinging Strike,-
+8,76,1,Dylan Spezia,Tanner Dodson,2 Seam,82,Called Strike,-
+8,76,2,Dylan Spezia,Tanner Dodson,2 Seam,84.1,Ball,-
+8,76,3,Dylan Spezia,Tanner Dodson,2 Seam,81.8,Foul,-
+8,76,4,Dylan Spezia,Tanner Dodson,Curve,65.3,Ball,-
+8,76,5,Dylan Spezia,Tanner Dodson,2 Seam,81.6,Ball,-
+8,76,6,Dylan Spezia,Tanner Dodson,2 Seam,81.4,Foul,-
+8,76,7,Dylan Spezia,Tanner Dodson,Changeup,78.2,Ball,-
+8,77,1,Dylan Spezia,Jonah Davis,Changeup,71.9,Called Strike,-
+8,77,2,Dylan Spezia,Jonah Davis,Slider,69.2,Ball,-
+8,77,3,Dylan Spezia,Jonah Davis,Changeup,77.9,Ball,-
+8,77,4,Dylan Spezia,Jonah Davis,2 Seam,80.5,Ball,-
+8,77,5,Dylan Spezia,Jonah Davis,Changeup,79.3,Ball,-
+8,78,1,Dylan Spezia,Korey Lee,Changeup,80.2,Ball,-
+8,78,2,Dylan Spezia,Korey Lee,Changeup,81.2,Ball,-
+8,78,3,Dylan Spezia,Korey Lee,2 Seam,80.5,Ball,-
+8,78,4,Dylan Spezia,Korey Lee,Changeup,78.9,Ball,-
+8,79,1,Dylan Spezia,Darren Baker,Changeup,71.9,Hit Into Play - Run Scored,58.2
+8,80,1,Dylan Spezia,Ripken Reyes,Changeup,72.9,Called Strike,-
+8,80,2,Dylan Spezia,Ripken Reyes,Changeup,74.5,Ball,-
+8,80,3,Dylan Spezia,Ripken Reyes,2 Seam,80.5,Hit Into Play,98.4
+8,81,1,Dylan Spezia,Cameron Eden,Changeup,72.4,Swinging Strike,-
+8,81,2,Dylan Spezia,Cameron Eden,Changeup,73.3,Called Strike,-
+8,81,3,Dylan Spezia,Cameron Eden,Changeup,74.3,Foul,88.2
+8,81,4,Dylan Spezia,Cameron Eden,Slider,69.1,Ball,-
+8,81,5,Dylan Spezia,Cameron Eden,Changeup,79.9,Swinging Strike,-
+9,82,1,Andrew Buckley,Colton Evans,2 Seam,82.9,Ball,-
+9,82,2,Andrew Buckley,Colton Evans,2 Seam,83.9,Hit Into Play - Out,86.3
+9,83,1,Andrew Buckley,Tanner Murray,2 Seam,84.3,Foul,-
+9,83,2,Andrew Buckley,Tanner Murray,2 Seam,85.8,Ball,-
+9,83,3,Andrew Buckley,Tanner Murray,2 Seam,84.9,Ball,-
+9,83,4,Andrew Buckley,Tanner Murray,2 Seam,84.5,Swinging Strike,-
+9,83,5,Andrew Buckley,Tanner Murray,2 Seam,85.4,Ball,-
+9,83,6,Andrew Buckley,Tanner Murray,2 Seam,84.6,Called Strike,-
+9,84,1,Andrew Buckley,Guillermo Salazar,2 Seam,83.9,Called Strike,-
+9,84,2,Andrew Buckley,Guillermo Salazar,Changeup,77.8,Ball,-
+9,84,3,Andrew Buckley,Guillermo Salazar,Changeup,74,Ball,-
+9,84,4,Andrew Buckley,Guillermo Salazar,2 Seam,83.6,Swinging Strike,-
+9,84,5,Andrew Buckley,Guillermo Salazar,Changeup,74.3,Hit Into Play - Out,79.2

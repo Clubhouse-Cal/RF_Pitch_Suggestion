@@ -1,0 +1,319 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Jared Horn,DaShawn Keirsey Jr.,2 Seam,93.5,Ball,-
+1,1,2,Jared Horn,DaShawn Keirsey Jr.,2 Seam,93.2,Ball,-
+1,1,3,Jared Horn,DaShawn Keirsey Jr.,4 Seam,92.5,Ball,-
+1,1,4,Jared Horn,DaShawn Keirsey Jr.,2 Seam,91.2,Ball,-
+1,2,1,Jared Horn,Oliver Dunn,4 Seam,92.9,Ball,-
+1,2,2,Jared Horn,Oliver Dunn,2 Seam,91.1,Foul,-
+1,2,3,Jared Horn,Oliver Dunn,2 Seam,90.9,Called Strike,-
+1,2,4,Jared Horn,Oliver Dunn,Curve,76.3,Ball,-
+1,2,5,Jared Horn,Oliver Dunn,2 Seam,92.2,Ball,-
+1,2,6,Jared Horn,Oliver Dunn,2 Seam,91.4,Ball,-
+1,3,1,Jared Horn,Rykker Tom,4 Seam,92.4,Ball,-
+1,3,2,Jared Horn,Rykker Tom,4 Seam,90.5,Ball,-
+1,3,3,Jared Horn,Rykker Tom,2 Seam,89.5,Ball,-
+1,3,4,Jared Horn,Rykker Tom,2 Seam,88.7,Ball,-
+1,4,1,Jared Horn,Erick Migueles,2 Seam,92.1,Swinging Strike,-
+1,4,2,Jared Horn,Erick Migueles,2 Seam,92.2,Hit Into Play - Run Scored,-
+1,5,1,Jared Horn,Davis Delorefice,2 Seam,90.8,Ball,-
+1,5,2,Jared Horn,Davis Delorefice,2 Seam,90.9,Ball,-
+1,5,3,Jared Horn,Davis Delorefice,2 Seam,91.1,Foul,-
+1,5,4,Jared Horn,Davis Delorefice,2 Seam,90.4,Ball,-
+1,5,5,Jared Horn,Davis Delorefice,2 Seam,90.1,Ball,-
+1,6,1,Jared Horn,Braden DeBenedictis,4 Seam,92.7,Called Strike,-
+1,6,2,Jared Horn,Braden DeBenedictis,Curve,75.5,Swinging Strike,-
+1,6,3,Jared Horn,Braden DeBenedictis,Curve,75.4,Called Strike,-
+1,7,1,Jared Horn,Wade Gulden,2 Seam,92.5,Ball,-
+1,7,2,Jared Horn,Wade Gulden,2 Seam,91.4,Ball,-
+1,7,3,Jared Horn,Wade Gulden,Changeup,83,Ball,-
+1,7,4,Jared Horn,Wade Gulden,2 Seam,90.8,Hit By Pitch,-
+1,8,1,Jared Horn,Matt Richardson,2 Seam,90,Called Strike,-
+1,8,2,Jared Horn,Matt Richardson,2 Seam,91,Called Strike,-
+1,8,3,Jared Horn,Matt Richardson,Curve,75.3,Ball,-
+1,8,4,Jared Horn,Matt Richardson,Curve,75.3,Ball,-
+1,8,5,Jared Horn,Matt Richardson,2 Seam,91.2,Ball,-
+1,8,6,Jared Horn,Matt Richardson,4 Seam,90.2,Foul,73.1
+1,8,7,Jared Horn,Matt Richardson,2 Seam,89.5,Ball,-
+1,9,1,Jared Horn,"Christopher Rowan, Jr.",2 Seam,91.3,Foul,79
+1,9,2,Jared Horn,"Christopher Rowan, Jr.",2 Seam,91.6,Called Strike,-
+1,9,3,Jared Horn,"Christopher Rowan, Jr.",Curve,75.3,Ball,-
+1,9,4,Jared Horn,"Christopher Rowan, Jr.",Changeup,84.4,Ball,-
+1,9,5,Jared Horn,"Christopher Rowan, Jr.",2 Seam,90.1,Foul,-
+1,9,6,Jared Horn,"Christopher Rowan, Jr.",2 Seam,89.9,Hit Into Play - Out,90.8
+1,10,1,Jared Horn,DaShawn Keirsey Jr.,Changeup,83.6,Called Strike,-
+1,10,2,Jared Horn,DaShawn Keirsey Jr.,Changeup,81.6,Foul,-
+1,10,3,Jared Horn,DaShawn Keirsey Jr.,2 Seam,92.8,Ball,-
+1,10,4,Jared Horn,DaShawn Keirsey Jr.,Curve,75.6,Ball,-
+1,10,5,Jared Horn,DaShawn Keirsey Jr.,Curve,74.4,Called Strike,-
+1,11,1,Tanner Thomas,Tyrus Greene,2 Seam,89.3,Ball,-
+1,11,2,Tanner Thomas,Tyrus Greene,2 Seam,88.5,Hit Into Play,-
+1,12,1,Tanner Thomas,Tanner Dodson,2 Seam,90,Foul,67.4
+1,12,2,Tanner Thomas,Tanner Dodson,2 Seam,88.9,Ball,-
+1,12,3,Tanner Thomas,Tanner Dodson,Changeup,78,Ball,-
+1,12,4,Tanner Thomas,Tanner Dodson,2 Seam,89.6,Called Strike,-
+1,12,5,Tanner Thomas,Tanner Dodson,2 Seam,90.4,Foul,-
+1,12,6,Tanner Thomas,Tanner Dodson,2 Seam,88.6,Foul,-
+1,12,7,Tanner Thomas,Tanner Dodson,2 Seam,88.5,Hit Into Play,-
+1,13,1,Tanner Thomas,Andrew Vaughn,Curve,77.5,Ball,-
+1,13,2,Tanner Thomas,Andrew Vaughn,2 Seam,88.6,Ball,-
+1,13,3,Tanner Thomas,Andrew Vaughn,2 Seam,88,Called Strike,-
+1,13,4,Tanner Thomas,Andrew Vaughn,2 Seam,87.9,Hit Into Play - Out,-
+1,14,1,Tanner Thomas,Jonah Davis,Changeup,79.6,Swinging Strike,-
+1,14,2,Tanner Thomas,Jonah Davis,2 Seam,89.5,Swinging Strike,-
+1,14,3,Tanner Thomas,Jonah Davis,Changeup,82.6,Ball,-
+1,14,4,Tanner Thomas,Jonah Davis,Changeup,79.3,Ball,-
+1,14,5,Tanner Thomas,Jonah Davis,2 Seam,90.5,Ball,-
+1,14,6,Tanner Thomas,Jonah Davis,2 Seam,86.4,Ball,-
+1,15,1,Tanner Thomas,Jeffery Mitchell Jr.,Slider,79,Called Strike,-
+1,15,2,Tanner Thomas,Jeffery Mitchell Jr.,2 Seam,88.5,Foul,-
+1,15,3,Tanner Thomas,Jeffery Mitchell Jr.,2 Seam,89,Swinging Strike,-
+2,16,1,Jared Horn,DaShawn Keirsey Jr.,Changeup,82.4,Called Strike,-
+2,16,2,Jared Horn,DaShawn Keirsey Jr.,2 Seam,90.4,Ball,-
+2,16,3,Jared Horn,DaShawn Keirsey Jr.,Changeup,82.1,Ball,-
+2,16,4,Jared Horn,DaShawn Keirsey Jr.,Changeup,81.8,Hit Into Play - Run Scored,104
+2,17,1,Jared Horn,Oliver Dunn,2 Seam,91.4,Hit Into Play - Out,64.6
+2,18,1,Jared Horn,Rykker Tom,2 Seam,90.2,Hit Into Play - Out,-
+2,19,1,Jared Horn,Erick Migueles,2 Seam,91.1,Hit Into Play - Out,-
+2,20,1,Tanner Thomas,Darren Baker,2 Seam,88.2,Hit Into Play,-
+2,21,1,Tanner Thomas,Sam Wezniak,2 Seam,89.2,Foul,-
+2,21,2,Tanner Thomas,Sam Wezniak,2 Seam,89.4,Called Strike,-
+2,21,3,Tanner Thomas,Sam Wezniak,Curve,79.7,Ball,-
+2,21,4,Tanner Thomas,Sam Wezniak,Slider,76.9,Foul,-
+2,21,5,Tanner Thomas,Sam Wezniak,2 Seam,88.3,Hit Into Play,92.4
+2,22,1,Tanner Thomas,Max Flower,Changeup,77.8,Foul,-
+2,22,2,Tanner Thomas,Max Flower,Slider,77.1,Foul,-
+2,22,3,Tanner Thomas,Max Flower,Curve,78,Swinging Strike,-
+2,23,1,Tanner Thomas,Ripken Reyes,2 Seam,89.1,Ball,-
+2,23,2,Tanner Thomas,Ripken Reyes,2 Seam,88.1,Hit Into Play - Run Scored,118.4
+2,24,1,Tanner Thomas,Tyrus Greene,2 Seam,89.4,Foul,-
+2,24,2,Tanner Thomas,Tyrus Greene,Slider,78,Called Strike,-
+2,24,3,Tanner Thomas,Tyrus Greene,2 Seam,89.2,Foul,-
+2,24,4,Tanner Thomas,Tyrus Greene,2 Seam,89.2,Hit Into Play - Out,-
+3,25,1,Jared Horn,Davis Delorefice,2 Seam,87.1,Hit Into Play,-
+3,26,1,Jared Horn,Braden DeBenedictis,2 Seam,87.8,Hit Into Play - Out,-
+3,27,1,Jared Horn,Wade Gulden,2 Seam,87.7,Hit Into Play - Out,-
+3,28,1,Jared Horn,Matt Richardson,2 Seam,90.5,Ball,-
+3,28,2,Jared Horn,Matt Richardson,2 Seam,90.5,Foul,-
+3,28,3,Jared Horn,Matt Richardson,2 Seam,91.7,Hit Into Play - Out,-
+3,29,1,Tanner Thomas,Tanner Dodson,Slider,78.7,Called Strike,-
+3,29,2,Tanner Thomas,Tanner Dodson,Slider,79.2,Ball,-
+3,29,3,Tanner Thomas,Tanner Dodson,2 Seam,88.3,Foul,-
+3,29,4,Tanner Thomas,Tanner Dodson,Changeup,78.8,Ball,-
+3,29,5,Tanner Thomas,Tanner Dodson,2 Seam,87.4,Foul,80.3
+3,29,6,Tanner Thomas,Tanner Dodson,2 Seam,88.2,Hit Into Play - Out,62.3
+3,30,1,Tanner Thomas,Andrew Vaughn,2 Seam,88.8,Ball,-
+3,30,2,Tanner Thomas,Andrew Vaughn,2 Seam,88.1,Foul,-
+3,30,3,Tanner Thomas,Andrew Vaughn,Slider,78.4,Called Strike,-
+3,30,4,Tanner Thomas,Andrew Vaughn,4 Seam,86.5,Hit Into Play,-
+3,31,1,Tanner Thomas,Jonah Davis,4 Seam,89.6,Foul,-
+3,31,2,Tanner Thomas,Jonah Davis,2 Seam,89,Hit Into Play,-
+3,32,1,Tanner Thomas,Jeffery Mitchell Jr.,2 Seam,88,Ball,-
+3,32,2,Tanner Thomas,Jeffery Mitchell Jr.,Slider,76.2,Called Strike,-
+3,32,3,Tanner Thomas,Jeffery Mitchell Jr.,Cutter,80,Called Strike,-
+3,32,4,Tanner Thomas,Jeffery Mitchell Jr.,Slider,79.7,Swinging Strike,-
+3,33,1,Tanner Thomas,Darren Baker,2 Seam,88.4,Ball,-
+3,33,2,Tanner Thomas,Darren Baker,2 Seam,88.8,Foul,-
+3,33,3,Tanner Thomas,Darren Baker,4 Seam,88,Foul,-
+3,33,4,Tanner Thomas,Darren Baker,2 Seam,87.7,Foul,-
+3,33,5,Tanner Thomas,Darren Baker,2 Seam,88.2,Ball,-
+3,33,6,Tanner Thomas,Darren Baker,2 Seam,86.3,Hit Into Play,-
+3,34,1,Tanner Thomas,Sam Wezniak,Slider,75.8,Called Strike,-
+3,34,2,Tanner Thomas,Sam Wezniak,Slider,78.9,Swinging Strike,-
+3,34,3,Tanner Thomas,Sam Wezniak,2 Seam,88.8,Foul,-
+3,34,4,Tanner Thomas,Sam Wezniak,Slider,78.5,Ball,-
+3,34,5,Tanner Thomas,Sam Wezniak,Slider,78,Called Strike,-
+4,35,1,Jared Horn,"Christopher Rowan, Jr.",2 Seam,88.7,Called Strike,-
+4,35,2,Jared Horn,"Christopher Rowan, Jr.",2 Seam,88.5,Hit Into Play - Out,87.8
+4,36,1,Jared Horn,DaShawn Keirsey Jr.,2 Seam,90.6,Called Strike,-
+4,36,2,Jared Horn,DaShawn Keirsey Jr.,2 Seam,91.2,Ball,-
+4,36,3,Jared Horn,DaShawn Keirsey Jr.,2 Seam,89.6,Foul,-
+4,36,4,Jared Horn,DaShawn Keirsey Jr.,Curve,76.9,Ball,-
+4,36,5,Jared Horn,DaShawn Keirsey Jr.,Changeup,76.3,Ball,-
+4,36,6,Jared Horn,DaShawn Keirsey Jr.,2 Seam,91,Hit Into Play,-
+4,37,1,Jared Horn,Oliver Dunn,2 Seam,91,Ball,-
+4,37,2,Jared Horn,Oliver Dunn,2 Seam,89.9,Called Strike,-
+4,37,3,Jared Horn,Oliver Dunn,2 Seam,89.3,Called Strike,-
+4,37,4,Jared Horn,Oliver Dunn,Changeup,83.7,Ball,-
+4,37,5,Jared Horn,Oliver Dunn,2 Seam,92.5,Foul,-
+4,37,6,Jared Horn,Oliver Dunn,Changeup,84,Hit Into Play,97.1
+4,38,1,Jared Horn,Rykker Tom,2 Seam,90.9,Called Strike,-
+4,38,2,Jared Horn,Rykker Tom,2 Seam,90.2,Called Strike,-
+4,38,3,Jared Horn,Rykker Tom,Curve,75.8,Ball,-
+4,38,4,Jared Horn,Rykker Tom,Curve,76.7,Hit Into Play - Out,-
+4,39,1,Tanner Thomas,Max Flower,2 Seam,87,Hit Into Play - Out,-
+4,40,1,Tanner Thomas,Ripken Reyes,2 Seam,88.2,Ball,-
+4,40,2,Tanner Thomas,Ripken Reyes,2 Seam,86.1,Called Strike,-
+4,40,3,Tanner Thomas,Ripken Reyes,Changeup,74.4,Ball,-
+4,40,4,Tanner Thomas,Ripken Reyes,2 Seam,86.9,Ball,-
+4,40,5,Tanner Thomas,Ripken Reyes,2 Seam,86.5,Foul,-
+4,40,6,Tanner Thomas,Ripken Reyes,2 Seam,86.3,Ball,-
+4,41,1,Tanner Thomas,Tyrus Greene,Slider,77.7,Swinging Strike,-
+4,41,2,Tanner Thomas,Tyrus Greene,4 Seam,87.1,Hit Into Play - Out,80.7
+4,42,1,Tanner Thomas,Tanner Dodson,2 Seam,87.6,Hit Into Play,53.5
+4,43,1,Tanner Thomas,Andrew Vaughn,4 Seam,86.7,Foul,-
+4,43,2,Tanner Thomas,Andrew Vaughn,2 Seam,87.7,Hit Into Play - Out,-
+5,44,1,Jared Horn,Erick Migueles,2 Seam,91.2,Called Strike,-
+5,44,2,Jared Horn,Erick Migueles,2 Seam,90.4,Hit Into Play - Out,-
+5,45,1,Jared Horn,Davis Delorefice,2 Seam,91.1,Called Strike,-
+5,45,2,Jared Horn,Davis Delorefice,Curve,75.4,Swinging Strike,-
+5,45,3,Jared Horn,Davis Delorefice,Curve,76.8,Foul,-
+5,45,4,Jared Horn,Davis Delorefice,4 Seam,93.7,Called Strike,-
+5,46,1,Jared Horn,Braden DeBenedictis,4 Seam,92.4,Ball,-
+5,46,2,Jared Horn,Braden DeBenedictis,2 Seam,91.4,Ball,-
+5,46,3,Jared Horn,Braden DeBenedictis,2 Seam,89.9,Hit Into Play,-
+5,47,1,Jared Horn,Wade Gulden,2 Seam,93.2,Ball,-
+5,47,2,Jared Horn,Wade Gulden,2 Seam,92.5,Ball,-
+5,47,3,Jared Horn,Wade Gulden,2 Seam,90.9,Foul,-
+5,47,4,Jared Horn,Wade Gulden,2 Seam,90.7,Ball,-
+5,47,5,Jared Horn,Wade Gulden,2 Seam,89.6,Foul,-
+5,47,6,Jared Horn,Wade Gulden,2 Seam,90.4,Hit Into Play - Out,-
+5,48,1,Tanner Thomas,Jonah Davis,2 Seam,88.3,Ball,-
+5,48,2,Tanner Thomas,Jonah Davis,2 Seam,88.3,Hit Into Play,102.4
+5,49,1,Tanner Thomas,Jeffery Mitchell Jr.,Slider,75.6,Hit Into Play,-
+5,50,1,Tanner Thomas,Darren Baker,2 Seam,87,Called Strike,-
+5,50,2,Tanner Thomas,Darren Baker,Slider,79.5,Swinging Strike,-
+5,50,3,Tanner Thomas,Darren Baker,2 Seam,88.5,Hit Into Play - Run Scored,-
+5,51,1,Tanner Thomas,Sam Wezniak,Slider,77,Swinging Strike,-
+5,51,2,Tanner Thomas,Sam Wezniak,Curve,76.7,Called Strike,-
+5,51,3,Tanner Thomas,Sam Wezniak,2 Seam,87.1,Hit Into Play - Out,65.1
+5,52,1,Tanner Thomas,Max Flower,Slider,77.6,Foul,-
+5,52,2,Tanner Thomas,Max Flower,Changeup,84.9,Hit Into Play - Out,53.2
+5,53,1,Tanner Thomas,Ripken Reyes,2 Seam,86.8,Ball,-
+5,53,2,Tanner Thomas,Ripken Reyes,2 Seam,87.6,Called Strike,-
+5,53,3,Tanner Thomas,Ripken Reyes,2 Seam,85.8,Hit Into Play - Out,88.8
+6,54,1,Jared Horn,Matt Richardson,2 Seam,90.1,Foul,-
+6,54,2,Jared Horn,Matt Richardson,2 Seam,91,Hit Into Play,-
+6,55,1,Jared Horn,"Christopher Rowan, Jr.",4 Seam,89.5,Hit Into Play,-
+6,56,1,Zayne Patino,DaShawn Keirsey Jr.,Cutter,83.9,Ball,-
+6,56,2,Zayne Patino,DaShawn Keirsey Jr.,Cutter,84,Hit Into Play - Run Scored,-
+6,57,1,Zayne Patino,Oliver Dunn,4 Seam,84.1,Ball,-
+6,57,2,Zayne Patino,Oliver Dunn,4 Seam,84,Hit Into Play,-
+6,58,1,Zayne Patino,Rykker Tom,4 Seam,84.4,Foul,-
+6,58,2,Zayne Patino,Rykker Tom,Slider,76.3,Hit Into Play,-
+6,59,1,Zayne Patino,Erick Migueles,4 Seam,85,Foul,-
+6,59,2,Zayne Patino,Erick Migueles,4 Seam,83.1,Hit Into Play - Out,-
+6,60,1,Zayne Patino,Davis Delorefice,4 Seam,77.7,Hit Into Play - Run Scored,-
+6,61,1,Zayne Patino,Braden DeBenedictis,Cutter,85.6,Ball,-
+6,61,2,Zayne Patino,Braden DeBenedictis,4 Seam,85,Swinging Strike,-
+6,61,3,Zayne Patino,Braden DeBenedictis,4 Seam,85.1,Called Strike,-
+6,61,4,Zayne Patino,Braden DeBenedictis,Slider,77.2,Ball,-
+6,61,5,Zayne Patino,Braden DeBenedictis,4 Seam,85.4,Ball,-
+6,61,6,Zayne Patino,Braden DeBenedictis,4 Seam,85.8,Ball,-
+6,62,1,Zayne Patino,Wade Gulden,4 Seam,85.1,Hit Into Play - Out,-
+6,63,1,Zayne Patino,Matt Richardson,4 Seam,87.1,Ball,-
+6,63,2,Zayne Patino,Matt Richardson,4 Seam,86.7,Ball,-
+6,63,3,Zayne Patino,Matt Richardson,4 Seam,83.7,Hit Into Play - Run Scored,-
+6,64,1,Zayne Patino,"Christopher Rowan, Jr.",Changeup,78.7,Swinging Strike,-
+6,64,2,Zayne Patino,"Christopher Rowan, Jr.",2 Seam,78.8,Ball,-
+6,64,3,Zayne Patino,"Christopher Rowan, Jr.",4 Seam,85.9,Called Strike,-
+6,64,4,Zayne Patino,"Christopher Rowan, Jr.",Slider,78.5,Ball,-
+6,64,5,Zayne Patino,"Christopher Rowan, Jr.",4 Seam,80,Ball,-
+6,64,6,Zayne Patino,"Christopher Rowan, Jr.",4 Seam,87,Swinging Strike,-
+6,65,1,Tanner Thomas,Tyrus Greene,2 Seam,87.4,Ball,-
+6,65,2,Tanner Thomas,Tyrus Greene,2 Seam,86.4,Ball,-
+6,65,3,Tanner Thomas,Tyrus Greene,4 Seam,88,Foul,-
+6,65,4,Tanner Thomas,Tyrus Greene,2 Seam,88.7,Hit Into Play,92.9
+6,66,1,Justin Kelly,Tanner Dodson,2 Seam,87.2,Foul,-
+6,66,2,Justin Kelly,Tanner Dodson,4 Seam,83.8,Hit Into Play - Out,57
+6,67,1,Justin Kelly,Andrew Vaughn,Curve,72.3,Ball,-
+6,67,2,Justin Kelly,Andrew Vaughn,2 Seam,90,Called Strike,-
+6,67,3,Justin Kelly,Andrew Vaughn,2 Seam,87.8,Hit Into Play - Out,98.8
+7,68,1,Zayne Patino,DaShawn Keirsey Jr.,Slider,75.6,Ball,-
+7,68,2,Zayne Patino,DaShawn Keirsey Jr.,4 Seam,86.2,Swinging Strike,-
+7,68,3,Zayne Patino,DaShawn Keirsey Jr.,Cutter,75.7,Swinging Strike,-
+7,68,4,Zayne Patino,DaShawn Keirsey Jr.,Slider,77.2,Swinging Strike,-
+7,69,1,Zayne Patino,Oliver Dunn,Cutter,75.2,Ball,-
+7,69,2,Zayne Patino,Oliver Dunn,4 Seam,85.1,Ball,-
+7,69,3,Zayne Patino,Oliver Dunn,4 Seam,84.1,Ball,-
+7,69,4,Zayne Patino,Oliver Dunn,4 Seam,84.2,Called Strike,-
+7,69,5,Zayne Patino,Oliver Dunn,4 Seam,85.2,Hit Into Play - Out,-
+7,70,1,Zayne Patino,Rykker Tom,4 Seam,86.2,Called Strike,-
+7,70,2,Zayne Patino,Rykker Tom,4 Seam,80,Ball,-
+7,70,3,Zayne Patino,Rykker Tom,2 Seam,79.1,Foul,61.5
+7,70,4,Zayne Patino,Rykker Tom,Slider,76.8,Hit Into Play - Out,45.2
+7,71,1,Justin Kelly,Jonah Davis,4 Seam,83.9,Ball,-
+7,71,2,Justin Kelly,Jonah Davis,2 Seam,89.5,Foul,-
+7,71,3,Justin Kelly,Jonah Davis,Curve,73,Hit By Pitch,-
+7,72,1,Justin Kelly,Matt Ruff,2 Seam,88.6,Hit Into Play,87.4
+7,73,1,Justin Kelly,Darren Baker,2 Seam,88.4,Called Strike,-
+7,73,2,Justin Kelly,Darren Baker,2 Seam,89.8,Called Strike,-
+7,73,3,Justin Kelly,Darren Baker,2 Seam,88.5,Ball,-
+7,73,4,Justin Kelly,Darren Baker,2 Seam,87.7,Foul,-
+7,73,5,Justin Kelly,Darren Baker,Changeup,82.9,Ball,-
+7,73,6,Justin Kelly,Darren Baker,2 Seam,88.6,Hit Into Play - Out,-
+7,74,1,Justin Kelly,Sam Wezniak,2 Seam,89.1,Ball,-
+7,74,2,Justin Kelly,Sam Wezniak,2 Seam,87.9,Called Strike,-
+7,74,3,Justin Kelly,Sam Wezniak,2 Seam,88.1,Ball,-
+7,74,4,Justin Kelly,Sam Wezniak,2 Seam,87.6,Called Strike,-
+7,74,5,Justin Kelly,Sam Wezniak,4 Seam,88.5,Foul,-
+7,74,6,Justin Kelly,Sam Wezniak,2 Seam,89.1,Swinging Strike,-
+7,75,1,Justin Kelly,Max Flower,2 Seam,88.2,Hit Into Play - Run Scored,69.3
+7,76,1,Justin Kelly,Ripken Reyes,2 Seam,88.1,Foul,-
+7,76,2,Justin Kelly,Ripken Reyes,2 Seam,86.7,Foul,32.2
+7,76,3,Justin Kelly,Ripken Reyes,2 Seam,88.8,Ball,-
+7,76,4,Justin Kelly,Ripken Reyes,2 Seam,89.1,Ball,-
+7,76,5,Justin Kelly,Ripken Reyes,2 Seam,90.9,Foul,79.3
+7,76,6,Justin Kelly,Ripken Reyes,2 Seam,89.3,Ball,-
+7,76,7,Justin Kelly,Ripken Reyes,2 Seam,87.9,Hit Into Play - Run Scored,-
+7,77,1,Justin Kelly,Korey Lee,Curve,73.6,Ball,-
+7,77,2,Justin Kelly,Korey Lee,4 Seam,84.9,Ball,-
+7,77,3,Justin Kelly,Korey Lee,2 Seam,87.4,Ball,-
+7,77,4,Justin Kelly,Korey Lee,Changeup,85.4,Called Strike,-
+7,77,5,Justin Kelly,Korey Lee,2 Seam,86.8,Foul,-
+7,77,6,Justin Kelly,Korey Lee,2 Seam,87.4,Ball,-
+7,78,1,Justin Kelly,Tanner Dodson,2 Seam,87.5,Hit Into Play - Run Scored,95.7
+7,79,1,Justin Kelly,Andrew Vaughn,Curve,73.9,Ball,-
+7,79,2,Justin Kelly,Andrew Vaughn,Changeup,82.9,Called Strike,-
+7,79,3,Justin Kelly,Andrew Vaughn,Curve,72.8,Called Strike,-
+7,79,4,Justin Kelly,Andrew Vaughn,2 Seam,87,Foul,-
+7,79,5,Justin Kelly,Andrew Vaughn,2 Seam,89.2,Foul,82.1
+7,79,6,Justin Kelly,Andrew Vaughn,Changeup,72.1,Called Strike,-
+8,80,1,Zayne Patino,Erick Migueles,4 Seam,82.4,Hit Into Play - Out,-
+8,81,1,Zayne Patino,Davis Delorefice,4 Seam,83.4,Called Strike,-
+8,81,2,Zayne Patino,Davis Delorefice,4 Seam,84,Ball,-
+8,81,3,Zayne Patino,Davis Delorefice,4 Seam,83,Foul,-
+8,81,4,Zayne Patino,Davis Delorefice,Slider,76.5,Ball,-
+8,81,5,Zayne Patino,Davis Delorefice,Slider,76.7,Hit By Pitch,-
+8,82,1,Zayne Patino,Braden DeBenedictis,4 Seam,85.2,Ball,-
+8,82,2,Zayne Patino,Braden DeBenedictis,4 Seam,84.5,Swinging Strike,-
+8,82,3,Zayne Patino,Braden DeBenedictis,4 Seam,85.1,Swinging Strike,-
+8,82,4,Zayne Patino,Braden DeBenedictis,Slider,76.7,Ball,-
+8,82,5,Zayne Patino,Braden DeBenedictis,4 Seam,87.5,Swinging Strike,-
+8,83,1,Justin Kelly,Jonah Davis,2 Seam,89.7,Foul,-
+8,83,2,Justin Kelly,Jonah Davis,Changeup,83.4,Called Strike,-
+8,83,3,Justin Kelly,Jonah Davis,2 Seam,88,Ball,-
+8,83,4,Justin Kelly,Jonah Davis,Curve,72.7,Hit Into Play - Out,-
+8,84,1,Justin Kelly,Matt Ruff,2 Seam,88.9,Ball,-
+8,84,2,Justin Kelly,Matt Ruff,2 Seam,88.4,Ball,-
+8,84,3,Justin Kelly,Matt Ruff,2 Seam,87.5,Called Strike,-
+8,84,4,Justin Kelly,Matt Ruff,2 Seam,88,Foul,-
+8,84,5,Justin Kelly,Matt Ruff,Curve,72.2,Called Strike,-
+8,85,1,Justin Kelly,Darren Baker,2 Seam,88.7,Foul,77.3
+8,85,2,Justin Kelly,Darren Baker,2 Seam,89.1,Hit Into Play - Out,60.2
+9,86,1,Zayne Patino,Wade Gulden,Cutter,83.1,Hit By Pitch,-
+9,87,1,Zayne Patino,Matt Richardson,4 Seam,83,Ball,-
+9,87,2,Zayne Patino,Matt Richardson,Cutter,85.7,Hit Into Play - Out,-
+9,88,1,Zayne Patino,"Christopher Rowan, Jr.",Cutter,84.2,Hit Into Play - Out,-
+9,89,1,Zayne Patino,DaShawn Keirsey Jr.,Slider,76.9,Ball,-
+9,89,2,Zayne Patino,DaShawn Keirsey Jr.,Slider,77,Ball,-
+9,89,3,Zayne Patino,DaShawn Keirsey Jr.,Cutter,85.6,Called Strike,-
+9,89,4,Zayne Patino,DaShawn Keirsey Jr.,Slider,77.9,Ball,-
+9,89,5,Zayne Patino,DaShawn Keirsey Jr.,4 Seam,86.6,Called Strike,-
+9,89,6,Zayne Patino,DaShawn Keirsey Jr.,4 Seam,87.2,Ball,-
+9,90,1,Zayne Patino,Oliver Dunn,4 Seam,84,Called Strike,-
+9,90,2,Zayne Patino,Oliver Dunn,Cutter,76.7,Hit Into Play - Out,-
+9,91,1,Trenton Stoltz,Sam Wezniak,2 Seam,83.9,Called Strike,-
+9,91,2,Trenton Stoltz,Sam Wezniak,2 Seam,83.7,Called Strike,-
+9,91,3,Trenton Stoltz,Sam Wezniak,Changeup,77,Ball,-
+9,91,4,Trenton Stoltz,Sam Wezniak,Changeup,76.8,Hit Into Play,-
+9,92,1,Trenton Stoltz,Quentin Selma,2 Seam,84.1,Foul,-
+9,92,2,Trenton Stoltz,Quentin Selma,2 Seam,83.6,Ball,-
+9,92,3,Trenton Stoltz,Quentin Selma,2 Seam,83.8,Hit Into Play - Out,-
+9,93,1,Trenton Stoltz,Ripken Reyes,2 Seam,84.5,Ball,-
+9,93,2,Trenton Stoltz,Ripken Reyes,2 Seam,83.5,Ball,-
+9,93,3,Trenton Stoltz,Ripken Reyes,2 Seam,83,Ball,-
+9,93,4,Trenton Stoltz,Ripken Reyes,2 Seam,85.1,Hit Into Play - Run Scored,-
+9,94,1,Trenton Stoltz,Korey Lee,2 Seam,84,Hit Into Play - Out,-
+9,95,1,Trenton Stoltz,Tanner Dodson,2 Seam,84.7,Foul,-
+9,95,2,Trenton Stoltz,Tanner Dodson,2 Seam,84.9,Ball,-
+9,95,3,Trenton Stoltz,Tanner Dodson,2 Seam,84.3,Hit Into Play - Out,-

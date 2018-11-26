@@ -1,0 +1,332 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Aaron Shortridge,Ryan Altenberger,4 Seam,90.1,Ball,-
+1,1,2,Aaron Shortridge,Ryan Altenberger,4 Seam,90.8,Foul,-
+1,1,3,Aaron Shortridge,Ryan Altenberger,Changeup,81.5,Hit Into Play - Out,64.7
+1,2,1,Aaron Shortridge,Chris Givin,2 Seam,91.3,Foul,73.7
+1,2,2,Aaron Shortridge,Chris Givin,2 Seam,91.2,Called Strike,-
+1,2,3,Aaron Shortridge,Chris Givin,Curve,79.3,Ball,-
+1,2,4,Aaron Shortridge,Chris Givin,Curve,79.8,Ball,-
+1,2,5,Aaron Shortridge,Chris Givin,4 Seam,91.2,Hit Into Play - Out,71.8
+1,3,1,Aaron Shortridge,Conor Grammes,Slider,78,Hit Into Play - Out,54.1
+1,4,1,Nick Zwack,Tyrus Greene,4 Seam,85.7,Ball,-
+1,4,2,Nick Zwack,Tyrus Greene,Cutter,84.8,Called Strike,-
+1,4,3,Nick Zwack,Tyrus Greene,4 Seam,87.2,Ball,-
+1,4,4,Nick Zwack,Tyrus Greene,Cutter,85.6,Called Strike,-
+1,4,5,Nick Zwack,Tyrus Greene,Cutter,88.6,Foul,-
+1,4,6,Nick Zwack,Tyrus Greene,Cutter,86.9,Foul,-
+1,4,7,Nick Zwack,Tyrus Greene,Curve,71.5,Hit Into Play,76.9
+1,5,1,Nick Zwack,Darren Baker,4 Seam,84.1,Foul,-
+1,5,2,Nick Zwack,Darren Baker,Cutter,86.7,Foul,48.9
+1,5,3,Nick Zwack,Darren Baker,Cutter,87.7,Ball,-
+1,5,4,Nick Zwack,Darren Baker,4 Seam,86.7,Hit Into Play - Out,69.2
+1,6,1,Nick Zwack,Andrew Vaughn,4 Seam,85.5,Hit Into Play - Run Scored,102.6
+1,7,1,Nick Zwack,Tanner Dodson,4 Seam,87.6,Ball,-
+1,7,2,Nick Zwack,Tanner Dodson,4 Seam,85.6,Ball,-
+1,7,3,Nick Zwack,Tanner Dodson,Cutter,86.6,Hit Into Play - Out,97
+1,8,1,Nick Zwack,Jonah Davis,Cutter,86.8,Swinging Strike,-
+1,8,2,Nick Zwack,Jonah Davis,Curve,68.8,Called Strike,-
+1,8,3,Nick Zwack,Jonah Davis,Cutter,88.2,Swinging Strike,-
+2,9,1,Aaron Shortridge,Joe Gellenbeck,2 Seam,89.6,Ball,-
+2,9,2,Aaron Shortridge,Joe Gellenbeck,2 Seam,88.6,Ball,-
+2,9,3,Aaron Shortridge,Joe Gellenbeck,4 Seam,90,Foul,-
+2,9,4,Aaron Shortridge,Joe Gellenbeck,2 Seam,90.4,Ball,-
+2,9,5,Aaron Shortridge,Joe Gellenbeck,2 Seam,89.7,Swinging Strike,-
+2,9,6,Aaron Shortridge,Joe Gellenbeck,2 Seam,90,Foul,-
+2,9,7,Aaron Shortridge,Joe Gellenbeck,Changeup,81.2,Hit Into Play,86.3
+2,10,1,Aaron Shortridge,Allbry Major,2 Seam,88.7,Called Strike,-
+2,10,2,Aaron Shortridge,Allbry Major,2 Seam,89.7,Ball,-
+2,10,3,Aaron Shortridge,Allbry Major,Changeup,80.5,Ball,-
+2,10,4,Aaron Shortridge,Allbry Major,2 Seam,89.1,Ball,-
+2,10,5,Aaron Shortridge,Allbry Major,2 Seam,88.9,Hit Into Play - Out,83.2
+2,11,1,Aaron Shortridge,Natale Monastra,Curve,76.8,Called Strike,-
+2,11,2,Aaron Shortridge,Natale Monastra,4 Seam,89.1,Called Strike,-
+2,11,3,Aaron Shortridge,Natale Monastra,Slider,77.1,Foul,-
+2,11,4,Aaron Shortridge,Natale Monastra,2 Seam,90.9,Foul,-
+2,11,5,Aaron Shortridge,Natale Monastra,2 Seam,90.9,Swinging Strike,-
+2,12,1,Nick Zwack,Korey Lee,4 Seam,86.8,Called Strike,-
+2,12,2,Nick Zwack,Korey Lee,Slider,70.7,Ball,-
+2,12,3,Nick Zwack,Korey Lee,Cutter,78.5,Hit Into Play,96.8
+2,13,1,Nick Zwack,Sam Wezniak,4 Seam,85.5,Hit Into Play,96.3
+2,14,1,Nick Zwack,Sam Cachola,Cutter,87.6,Swinging Strike,-
+2,14,2,Nick Zwack,Sam Cachola,4 Seam,88.3,Ball,-
+2,14,3,Nick Zwack,Sam Cachola,4 Seam,86.5,Foul,-
+2,14,4,Nick Zwack,Sam Cachola,4 Seam,88.2,Foul,-
+2,14,5,Nick Zwack,Sam Cachola,Curve,72,Foul,-
+2,14,6,Nick Zwack,Sam Cachola,Curve,71.8,Ball,-
+2,14,7,Nick Zwack,Sam Cachola,Cutter,88.6,Ball,-
+2,14,8,Nick Zwack,Sam Cachola,Cutter,86.1,Hit Into Play - Out,55.5
+2,15,1,Nick Zwack,Cameron Eden,Curve,69.4,Foul,-
+2,15,2,Nick Zwack,Cameron Eden,Cutter,86.9,Called Strike,-
+2,15,3,Nick Zwack,Cameron Eden,Cutter,86.9,Foul,-
+2,15,4,Nick Zwack,Cameron Eden,Curve,69.9,Hit Into Play - Out,77.2
+2,16,1,Nick Zwack,Tyrus Greene,Curve,71.1,Ball,-
+2,16,2,Nick Zwack,Tyrus Greene,Curve,69.8,Called Strike,-
+2,16,3,Nick Zwack,Tyrus Greene,Curve,69.6,Hit Into Play - Out,45.5
+3,17,1,Erik Martinez,Matthew Warkentin,Curve,74.6,Called Strike,-
+3,17,2,Erik Martinez,Matthew Warkentin,Cutter,83.3,Swinging Strike,-
+3,17,3,Erik Martinez,Matthew Warkentin,4 Seam,85.2,Ball,-
+3,17,4,Erik Martinez,Matthew Warkentin,Slider,76.1,Swinging Strike,-
+3,18,1,Erik Martinez,Nate Soria,Cutter,84.1,Hit Into Play,10.4
+3,19,1,Erik Martinez,Mitchell Gallagher,4 Seam,83.1,Ball,-
+3,19,2,Erik Martinez,Mitchell Gallagher,4 Seam,83.4,Hit Into Play - Out,55.7
+3,20,1,Nick Zwack,Darren Baker,Curve,68.7,Hit Into Play,61.6
+3,21,1,Nick Zwack,Andrew Vaughn,4 Seam,86.2,Ball,-
+3,21,2,Nick Zwack,Andrew Vaughn,4 Seam,85.4,Ball,-
+3,21,3,Nick Zwack,Andrew Vaughn,Curve,68.6,Ball,-
+3,21,4,Nick Zwack,Andrew Vaughn,4 Seam,85.4,Ball,-
+3,22,1,Nick Zwack,Tanner Dodson,4 Seam,86.6,Ball,-
+3,22,2,Nick Zwack,Tanner Dodson,4 Seam,85,Hit Into Play,98
+3,23,1,Nick Zwack,Jonah Davis,Cutter,86.4,Swinging Strike,-
+3,23,2,Nick Zwack,Jonah Davis,4 Seam,88.3,Ball,-
+3,23,3,Nick Zwack,Jonah Davis,Slider,68.5,Called Strike,-
+3,23,4,Nick Zwack,Jonah Davis,Curve,71.8,Ball,-
+3,23,5,Nick Zwack,Jonah Davis,Cutter,87.5,Ball,-
+3,23,6,Nick Zwack,Jonah Davis,4 Seam,84.9,Foul,-
+3,23,7,Nick Zwack,Jonah Davis,4 Seam,85.1,Foul,-
+3,23,8,Nick Zwack,Jonah Davis,Cutter,84.7,Foul,-
+3,23,9,Nick Zwack,Jonah Davis,Slider,68.3,Called Strike,-
+3,24,1,Nick Zwack,Korey Lee,Curve,69.4,Called Strike,-
+3,24,2,Nick Zwack,Korey Lee,4 Seam,86,Ball,-
+3,24,3,Nick Zwack,Korey Lee,Cutter,88,Ball,-
+3,24,4,Nick Zwack,Korey Lee,Curve,71.1,Hit Into Play - Run Scored,80
+3,25,1,Nick Zwack,Sam Wezniak,Slider,69,Ball,-
+3,25,2,Nick Zwack,Sam Wezniak,4 Seam,85.8,Swinging Strike,-
+3,25,3,Nick Zwack,Sam Wezniak,Slider,69.3,Foul,82.9
+3,25,4,Nick Zwack,Sam Wezniak,4 Seam,87.8,Ball,-
+3,25,5,Nick Zwack,Sam Wezniak,4 Seam,87.6,Foul,-
+3,25,6,Nick Zwack,Sam Wezniak,Curve,73.4,Ball,-
+3,25,7,Nick Zwack,Sam Wezniak,4 Seam,85.7,Foul,-
+3,25,8,Nick Zwack,Sam Wezniak,Cutter,85.5,Hit Into Play - Run Scored,96.2
+3,26,1,Nick Zwack,Sam Cachola,Cutter,75.9,Ball,-
+3,26,2,Nick Zwack,Sam Cachola,Cutter,86.8,Swinging Strike,-
+3,26,3,Nick Zwack,Sam Cachola,Cutter,87.7,Foul,-
+3,26,4,Nick Zwack,Sam Cachola,Cutter,85.4,Ball,-
+3,26,5,Nick Zwack,Sam Cachola,Curve,68.5,Ball,-
+3,26,6,Nick Zwack,Sam Cachola,Curve,70.5,Called Strike,-
+4,27,1,Zayne Patino,Ryan Altenberger,4 Seam,83.5,Ball,-
+4,27,2,Zayne Patino,Ryan Altenberger,4 Seam,84.7,Ball,-
+4,27,3,Zayne Patino,Ryan Altenberger,4 Seam,86,Foul,-
+4,27,4,Zayne Patino,Ryan Altenberger,4 Seam,86,Foul,-
+4,27,5,Zayne Patino,Ryan Altenberger,Slider,74.9,Hit Into Play - Out,64.9
+4,28,1,Zayne Patino,Chris Givin,Cutter,87.1,L,-
+4,28,2,Zayne Patino,Chris Givin,4 Seam,88.3,Ball,-
+4,28,3,Zayne Patino,Chris Givin,Cutter,86.2,Foul,-
+4,28,4,Zayne Patino,Chris Givin,Changeup,78.4,Ball,-
+4,28,5,Zayne Patino,Chris Givin,Changeup,79.4,Ball,-
+4,28,6,Zayne Patino,Chris Givin,Cutter,87.4,Hit Into Play,87.4
+4,29,1,Zayne Patino,Conor Grammes,Slider,75.2,Hit Into Play - Run Scored,97.3
+4,30,1,Zayne Patino,Joe Gellenbeck,4 Seam,86.9,Called Strike,-
+4,30,2,Zayne Patino,Joe Gellenbeck,4 Seam,88,Ball,-
+4,30,3,Zayne Patino,Joe Gellenbeck,4 Seam,86.4,Swinging Strike,-
+4,30,4,Zayne Patino,Joe Gellenbeck,Slider,77.2,Swinging Strike,-
+4,31,1,Zayne Patino,Allbry Major,4 Seam,87,Called Strike,-
+4,31,2,Zayne Patino,Allbry Major,Cutter,87.4,Foul Tip,-
+4,31,3,Zayne Patino,Allbry Major,Cutter,88.6,Swinging Strike,-
+4,32,1,Nick Zwack,Cameron Eden,Curve,69.5,Called Strike,-
+4,32,2,Nick Zwack,Cameron Eden,4 Seam,85.6,Ball,-
+4,32,3,Nick Zwack,Cameron Eden,4 Seam,84.8,Ball,-
+4,32,4,Nick Zwack,Cameron Eden,Curve,69.4,Ball,-
+4,32,5,Nick Zwack,Cameron Eden,4 Seam,85.3,Called Strike,-
+4,32,6,Nick Zwack,Cameron Eden,Curve,70,Swinging Strike,-
+4,33,1,Nick Zwack,Tyrus Greene,Curve,70.8,Called Strike,-
+4,33,2,Nick Zwack,Tyrus Greene,4 Seam,84.3,Hit Into Play,36.6
+4,34,1,Nick Zwack,Darren Baker,Cutter,84.8,Hit Into Play,82.8
+4,35,1,Nick Zwack,Andrew Vaughn,Cutter,87.5,Swinging Strike,-
+4,35,2,Nick Zwack,Andrew Vaughn,4 Seam,87.7,Hit Into Play - Run Scored,101.4
+4,36,1,Nick Zwack,Tanner Dodson,Cutter,86,Ball,-
+4,36,2,Nick Zwack,Tanner Dodson,Curve,71.6,Called Strike,-
+4,36,3,Nick Zwack,Tanner Dodson,Cutter,86.3,Called Strike,-
+4,36,4,Nick Zwack,Tanner Dodson,Curve,71.2,Foul,69.1
+4,36,5,Nick Zwack,Tanner Dodson,4 Seam,86.8,Ball,-
+4,36,6,Nick Zwack,Tanner Dodson,4 Seam,85.7,Foul,-
+4,36,7,Nick Zwack,Tanner Dodson,4 Seam,86.5,Called Strike,-
+4,37,1,Nick Zwack,Jonah Davis,Slider,71.2,Ball,-
+4,37,2,Nick Zwack,Jonah Davis,Curve,69.8,Called Strike,-
+4,37,3,Nick Zwack,Jonah Davis,Slider,73.4,Ball,-
+4,37,4,Nick Zwack,Jonah Davis,Cutter,86.2,Hit Into Play,76.7
+4,38,1,Nick Zwack,Korey Lee,4 Seam,86,Called Strike,-
+4,38,2,Nick Zwack,Korey Lee,Cutter,86.2,Called Strike,-
+4,38,3,Nick Zwack,Korey Lee,4 Seam,85.8,Ball,-
+4,38,4,Nick Zwack,Korey Lee,4 Seam,85.2,Ball,-
+4,38,5,Nick Zwack,Korey Lee,Curve,74.6,Ball,-
+4,38,6,Nick Zwack,Korey Lee,4 Seam,85.4,Hit Into Play - Run Scored,99
+4,39,1,Nick Zwack,Sam Wezniak,Slider,71.7,Called Strike,-
+4,39,2,Nick Zwack,Sam Wezniak,Cutter,86.3,Called Strike,-
+4,39,3,Nick Zwack,Sam Wezniak,Curve,73.1,Ball,-
+4,39,4,Nick Zwack,Sam Wezniak,Curve,70.3,Foul,90.1
+4,39,5,Nick Zwack,Sam Wezniak,4 Seam,85.9,Foul,72.9
+4,39,6,Nick Zwack,Sam Wezniak,4 Seam,84.4,Foul,-
+4,39,7,Nick Zwack,Sam Wezniak,Changeup,77.1,Foul,-
+4,39,8,Nick Zwack,Sam Wezniak,Cutter,78.5,Ball,-
+4,39,9,Nick Zwack,Sam Wezniak,Curve,70,Swinging Strike,-
+5,40,1,Andrew Buckley,Natale Monastra,2 Seam,85.4,Ball,-
+5,40,2,Andrew Buckley,Natale Monastra,2 Seam,85.2,Ball,-
+5,40,3,Andrew Buckley,Natale Monastra,2 Seam,84.5,Ball,-
+5,40,4,Andrew Buckley,Natale Monastra,2 Seam,83.9,Called Strike,-
+5,40,5,Andrew Buckley,Natale Monastra,2 Seam,84.7,Ball,-
+5,41,1,Andrew Buckley,Sam Flamini,2 Seam,84,Called Strike,-
+5,41,2,Andrew Buckley,Sam Flamini,2 Seam,84.1,Hit Into Play - Out,74
+5,42,1,Andrew Buckley,Nate Soria,2 Seam,83.3,Ball,-
+5,42,2,Andrew Buckley,Nate Soria,2 Seam,84.3,Ball,-
+5,42,3,Andrew Buckley,Nate Soria,2 Seam,84.1,Hit Into Play - Out,77.4
+5,43,1,Andrew Buckley,Mitchell Gallagher,Changeup,73.3,Swinging Strike,-
+5,43,2,Andrew Buckley,Mitchell Gallagher,Changeup,73.4,Ball,-
+5,43,3,Andrew Buckley,Mitchell Gallagher,2 Seam,83.5,Ball,-
+5,43,4,Andrew Buckley,Mitchell Gallagher,2 Seam,82.5,Called Strike,-
+5,43,5,Andrew Buckley,Mitchell Gallagher,Changeup,73.3,Swinging Strike,-
+5,44,1,Allbry Major,John Lagattuta,4 Seam,84.8,Called Strike,-
+5,44,2,Allbry Major,John Lagattuta,4 Seam,84.9,Ball,-
+5,44,3,Allbry Major,John Lagattuta,Changeup,71.7,Called Strike,-
+5,44,4,Allbry Major,John Lagattuta,4 Seam,84.8,Called Strike,-
+5,45,1,Allbry Major,Cameron Eden,Changeup,71.9,Swinging Strike,-
+5,45,2,Allbry Major,Cameron Eden,Changeup,72.8,Swinging Strike,-
+5,45,3,Allbry Major,Cameron Eden,Curve,72.6,Ball,-
+5,45,4,Allbry Major,Cameron Eden,4 Seam,87,Ball,-
+5,45,5,Allbry Major,Cameron Eden,Curve,71.8,Hit Into Play - Out,80.8
+5,46,1,Allbry Major,Matt Ruff,4 Seam,86.3,Swinging Strike,-
+5,46,2,Allbry Major,Matt Ruff,Changeup,75.5,Hit Into Play - Out,92.3
+6,47,1,Rogelio Reyes,Ryan Altenberger,Changeup,78.4,Swinging Strike,-
+6,47,2,Rogelio Reyes,Ryan Altenberger,2 Seam,87,Foul Tip,-
+6,47,3,Rogelio Reyes,Ryan Altenberger,Changeup,79.5,Hit Into Play - Out,66.5
+6,48,1,Rogelio Reyes,Chris Givin,Curve,71.9,Ball,-
+6,48,2,Rogelio Reyes,Chris Givin,2 Seam,86.9,Ball,-
+6,48,3,Rogelio Reyes,Chris Givin,2 Seam,86.9,Foul Tip,-
+6,48,4,Rogelio Reyes,Chris Givin,2 Seam,87.2,Ball,-
+6,48,5,Rogelio Reyes,Chris Givin,2 Seam,86.5,Foul,-
+6,48,6,Rogelio Reyes,Chris Givin,Changeup,80.6,Swinging Strike,-
+6,49,1,Rogelio Reyes,Conor Grammes,2 Seam,87.9,Ball,-
+6,49,2,Rogelio Reyes,Conor Grammes,Changeup,79.8,Foul,-
+6,49,3,Rogelio Reyes,Conor Grammes,2 Seam,88,Hit Into Play,69.9
+6,50,1,Rogelio Reyes,Ryan Fournier,2 Seam,87.5,Ball,-
+6,50,2,Rogelio Reyes,Ryan Fournier,2 Seam,87.1,Ball,-
+6,50,3,Rogelio Reyes,Ryan Fournier,2 Seam,87.5,Swinging Strike,-
+6,50,4,Rogelio Reyes,Ryan Fournier,2 Seam,87.7,Hit Into Play,58.1
+6,51,1,Rogelio Reyes,Allbry Major,2 Seam,88.7,Foul,-
+6,51,2,Rogelio Reyes,Allbry Major,Changeup,79.8,Ball,-
+6,51,3,Rogelio Reyes,Allbry Major,2 Seam,86.4,Foul,-
+6,51,4,Rogelio Reyes,Allbry Major,Changeup,80.8,Ball,-
+6,51,5,Rogelio Reyes,Allbry Major,Changeup,81,Ball,-
+6,51,6,Rogelio Reyes,Allbry Major,Changeup,80.8,Swinging Strike,-
+6,52,1,Evan Miller,Darren Baker,2 Seam,89.5,Swinging Strike,-
+6,52,2,Evan Miller,Darren Baker,Curve,73.9,Ball,-
+6,52,3,Evan Miller,Darren Baker,2 Seam,89.7,Ball,-
+6,52,4,Evan Miller,Darren Baker,2 Seam,89.6,Ball,-
+6,52,5,Evan Miller,Darren Baker,2 Seam,89.7,Foul,-
+6,52,6,Evan Miller,Darren Baker,2 Seam,89.9,Hit Into Play,78
+6,53,1,Evan Miller,Andrew Vaughn,Curve,73.4,Ball,-
+6,53,2,Evan Miller,Andrew Vaughn,Curve,73.7,Ball,-
+6,53,3,Evan Miller,Andrew Vaughn,2 Seam,89.5,Called Strike,-
+6,53,4,Evan Miller,Andrew Vaughn,2 Seam,89,Ball,-
+6,53,5,Evan Miller,Andrew Vaughn,2 Seam,88.7,Ball,-
+6,54,1,Evan Miller,Tanner Dodson,2 Seam,88.2,Called Strike,-
+6,54,2,Evan Miller,Tanner Dodson,2 Seam,89.1,Called Strike,-
+6,54,3,Evan Miller,Tanner Dodson,2 Seam,90.1,Hit Into Play - Run Scored,92
+6,55,1,Evan Miller,Jonah Davis,Curve,76.8,Called Strike,-
+6,55,2,Evan Miller,Jonah Davis,2 Seam,89.7,Hit Into Play - Out,53.3
+6,56,1,Evan Miller,Korey Lee,Curve,75.9,Ball,-
+6,56,2,Evan Miller,Korey Lee,Curve,73.8,Called Strike,-
+6,56,3,Evan Miller,Korey Lee,2 Seam,88.4,Swinging Strike,-
+6,56,4,Evan Miller,Korey Lee,2 Seam,89.5,Ball,-
+6,56,5,Evan Miller,Korey Lee,Curve,74.5,Hit Into Play - Run Scored,95.2
+6,57,1,Evan Miller,Sam Wezniak,Curve,73.6,Called Strike,-
+6,57,2,Evan Miller,Sam Wezniak,2 Seam,89,Hit Into Play - Out,24.7
+7,58,1,Joey Matulovich,Natale Monastra,2 Seam,89.8,Called Strike,-
+7,58,2,Joey Matulovich,Natale Monastra,Curve,77.2,Ball,-
+7,58,3,Joey Matulovich,Natale Monastra,2 Seam,89.6,Swinging Strike,-
+7,58,4,Joey Matulovich,Natale Monastra,Slider,76.8,Foul,-
+7,58,5,Joey Matulovich,Natale Monastra,Curve,76,Foul,-
+7,58,6,Joey Matulovich,Natale Monastra,2 Seam,90.7,Ball,-
+7,58,7,Joey Matulovich,Natale Monastra,2 Seam,90.9,Called Strike,-
+7,59,1,Joey Matulovich,Sam Flamini,2 Seam,90.8,Ball,-
+7,59,2,Joey Matulovich,Sam Flamini,2 Seam,89.4,Foul,-
+7,59,3,Joey Matulovich,Sam Flamini,Curve,76.8,Hit Into Play - Run Scored,89.5
+7,60,1,Joey Matulovich,Nate Soria,2 Seam,89,Swinging Strike,-
+7,60,2,Joey Matulovich,Nate Soria,2 Seam,90.3,Ball,-
+7,60,3,Joey Matulovich,Nate Soria,2 Seam,89.5,Ball,-
+7,60,4,Joey Matulovich,Nate Soria,4 Seam,89.7,Swinging Strike,-
+7,60,5,Joey Matulovich,Nate Soria,2 Seam,90.4,Foul,-
+7,60,6,Joey Matulovich,Nate Soria,2 Seam,89.7,Hit Into Play - Out,67.4
+7,61,1,Joey Matulovich,Mitchell Gallagher,4 Seam,90.3,Ball,-
+7,61,2,Joey Matulovich,Mitchell Gallagher,2 Seam,89.8,Called Strike,-
+7,61,3,Joey Matulovich,Mitchell Gallagher,2 Seam,90,Swinging Strike,-
+7,61,4,Joey Matulovich,Mitchell Gallagher,Curve,75.3,Hit Into Play - Out,47.1
+7,62,1,Conor Grammes,John Lagattuta,2 Seam,94.4,Ball,-
+7,62,2,Conor Grammes,John Lagattuta,2 Seam,93.2,Ball,-
+7,62,3,Conor Grammes,John Lagattuta,2 Seam,93.4,Foul,-
+7,62,4,Conor Grammes,John Lagattuta,2 Seam,93.3,Ball,-
+7,62,5,Conor Grammes,John Lagattuta,2 Seam,93.8,Called Strike,-
+7,62,6,Conor Grammes,John Lagattuta,2 Seam,94.5,Foul,-
+7,62,7,Conor Grammes,John Lagattuta,2 Seam,95.3,Swinging Strike,-
+7,63,1,Conor Grammes,Ripken Reyes,Changeup,84,Called Strike,-
+7,63,2,Conor Grammes,Ripken Reyes,2 Seam,96.4,Foul,-
+7,63,3,Conor Grammes,Ripken Reyes,Slider,76.5,Ball,-
+7,63,4,Conor Grammes,Ripken Reyes,Slider,79.7,Swinging Strike,-
+7,64,1,Conor Grammes,Matt Ruff,Slider,80.6,Ball,-
+7,64,2,Conor Grammes,Matt Ruff,2 Seam,94.1,Foul,-
+7,64,3,Conor Grammes,Matt Ruff,2 Seam,96.3,Ball,-
+7,64,4,Conor Grammes,Matt Ruff,Changeup,82.2,Ball,-
+7,64,5,Conor Grammes,Matt Ruff,2 Seam,92.1,Foul Tip,-
+7,64,6,Conor Grammes,Matt Ruff,2 Seam,95.1,Swinging Strike,-
+8,65,1,Korey Lee,Ryan Altenberger,4 Seam,89.2,Ball,-
+8,65,2,Korey Lee,Ryan Altenberger,4 Seam,89,Ball,-
+8,65,3,Korey Lee,Ryan Altenberger,4 Seam,88.7,Hit Into Play - Out,89.1
+8,66,1,Korey Lee,Andrew Sexton,4 Seam,90.3,Ball,-
+8,66,2,Korey Lee,Andrew Sexton,4 Seam,87.9,Hit Into Play,89
+8,67,1,Korey Lee,Blaine Griffiths,2 Seam,87.3,Ball,-
+8,67,2,Korey Lee,Blaine Griffiths,4 Seam,87.6,Ball,-
+8,67,3,Korey Lee,Blaine Griffiths,4 Seam,86,Ball,-
+8,67,4,Korey Lee,Blaine Griffiths,4 Seam,86.4,Called Strike,-
+8,67,5,Korey Lee,Blaine Griffiths,4 Seam,85.5,Ball,-
+8,68,1,Korey Lee,Ryan Fournier,4 Seam,87.4,Called Strike,-
+8,68,2,Korey Lee,Ryan Fournier,Slider,82.2,Ball,-
+8,68,3,Korey Lee,Ryan Fournier,4 Seam,87.1,Called Strike,-
+8,68,4,Korey Lee,Ryan Fournier,Cutter,81.2,Foul,-
+8,68,5,Korey Lee,Ryan Fournier,Cutter,82.7,Swinging Strike,-
+8,69,1,Korey Lee,Allbry Major,4 Seam,88.2,Ball,-
+8,69,2,Korey Lee,Allbry Major,4 Seam,87.9,Called Strike,-
+8,69,3,Korey Lee,Allbry Major,2 Seam,88.7,Hit Into Play - Run Scored,94.8
+8,70,1,Korey Lee,Natale Monastra,4 Seam,89.2,Hit Into Play - Out,67
+8,71,1,Trey Schramm,Tommy Henderson,Changeup,80.2,Called Strike,-
+8,71,2,Trey Schramm,Tommy Henderson,Slider,78.9,Foul,-
+8,71,3,Trey Schramm,Tommy Henderson,Cutter,80.6,Ball,-
+8,71,4,Trey Schramm,Tommy Henderson,2 Seam,87,Called Strike,-
+8,72,1,Trey Schramm,Quentin Selma,2 Seam,86.6,Ball,-
+8,72,2,Trey Schramm,Quentin Selma,2 Seam,81.4,Swinging Strike,-
+8,72,3,Trey Schramm,Quentin Selma,Cutter,80.4,Called Strike,-
+8,72,4,Trey Schramm,Quentin Selma,2 Seam,85.8,Ball,-
+8,72,5,Trey Schramm,Quentin Selma,Cutter,80.8,Ball,-
+8,72,6,Trey Schramm,Quentin Selma,Changeup,79.6,Ball,-
+8,73,1,Trey Schramm,Jeff Mitchell Jr,2 Seam,86,Hit Into Play,76.8
+8,74,1,Trey Schramm,Cole Lemmel,Changeup,78.8,Swinging Strike,-
+8,74,2,Trey Schramm,Cole Lemmel,4 Seam,85.6,Ball,-
+8,74,3,Trey Schramm,Cole Lemmel,Slider,77.6,Ball,-
+8,74,4,Trey Schramm,Cole Lemmel,2 Seam,86.1,Swinging Strike,-
+8,74,5,Trey Schramm,Cole Lemmel,Slider,79.6,Called Strike,-
+8,75,1,Trey Schramm,Conner Bock,2 Seam,81,Called Strike,-
+8,75,2,Trey Schramm,Conner Bock,4 Seam,78.5,Swinging Strike,-
+8,75,3,Trey Schramm,Conner Bock,2 Seam,85.2,Called Strike,-
+9,76,1,Conor Neumann,Sam Flamini,Cutter,80.9,Called Strike,-
+9,76,2,Conor Neumann,Sam Flamini,Cutter,80.6,Hit Into Play - Out,77.9
+9,77,1,Conor Neumann,Nate Soria,Cutter,81.3,Called Strike,-
+9,77,2,Conor Neumann,Nate Soria,Cutter,76.3,Swinging Strike,-
+9,77,3,Conor Neumann,Nate Soria,Curve,66.5,Ball,-
+9,77,4,Conor Neumann,Nate Soria,Cutter,82.2,Hit Into Play,76.4
+9,78,1,Conor Neumann,Mitchell Gallagher,Cutter,81.4,Ball,-
+9,78,2,Conor Neumann,Mitchell Gallagher,Slider,79.7,Foul,-
+9,78,3,Conor Neumann,Mitchell Gallagher,Cutter,76.1,Ball,-
+9,78,4,Conor Neumann,Mitchell Gallagher,Cutter,80.4,Ball,-
+9,78,5,Conor Neumann,Mitchell Gallagher,Cutter,81,Ball,-
+9,79,1,Conor Neumann,Ryan Altenberger,Cutter,80.2,Ball,-
+9,79,2,Conor Neumann,Ryan Altenberger,Cutter,79.7,Foul,-
+9,79,3,Conor Neumann,Ryan Altenberger,Cutter,80.4,Swinging Strike,-
+9,79,4,Conor Neumann,Ryan Altenberger,Curve,65.6,Ball,-
+9,79,5,Conor Neumann,Ryan Altenberger,Slider,79.5,Swinging Strike,-
+9,80,1,Conor Neumann,Andrew Sexton,Cutter,81.1,Called Strike,-
+9,80,2,Conor Neumann,Andrew Sexton,Curve,65.1,Ball,-
+9,80,3,Conor Neumann,Andrew Sexton,Cutter,81.2,Ball,-
+9,80,4,Conor Neumann,Andrew Sexton,Cutter,80.1,Called Strike,-
+9,80,5,Conor Neumann,Andrew Sexton,Curve,66.8,Ball,-
+9,80,6,Conor Neumann,Andrew Sexton,Cutter,79,Ball,-
+9,81,1,Conor Neumann,Henry Miller,Cutter,79.5,Called Strike,-
+9,81,2,Conor Neumann,Henry Miller,Slider,79.7,Swinging Strike,-
+9,81,3,Conor Neumann,Henry Miller,Cutter,82.1,Swinging Strike,-

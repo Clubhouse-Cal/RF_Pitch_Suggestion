@@ -1,0 +1,387 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Jared Horn,Jake Ortega,2 Seam,93.7,Ball,-
+1,1,2,Jared Horn,Jake Ortega,2 Seam,93.4,Called Strike,-
+1,1,3,Jared Horn,Jake Ortega,2 Seam,92.7,Swinging Strike,-
+1,1,4,Jared Horn,Jake Ortega,2 Seam,93.4,Ball,-
+1,1,5,Jared Horn,Jake Ortega,2 Seam,93.7,Swinging Strike,-
+1,2,1,Jared Horn,Christian Deaton,2 Seam,94.2,Ball,-
+1,2,2,Jared Horn,Christian Deaton,2 Seam,93.3,Ball,-
+1,2,3,Jared Horn,Christian Deaton,2 Seam,92.2,Ball,-
+1,2,4,Jared Horn,Christian Deaton,2 Seam,92.3,Ball,-
+1,3,1,Jared Horn,Andrew Penner,2 Seam,89.8,Hit By Pitch,-
+1,4,1,Jared Horn,Jassen Oliver,2 Seam,91.1,Called Strike,-
+1,4,2,Jared Horn,Jassen Oliver,Curve,76.4,Ball,-
+1,4,3,Jared Horn,Jassen Oliver,2 Seam,90.5,Called Strike,-
+1,4,4,Jared Horn,Jassen Oliver,2 Seam,90.4,Swinging Strike,-
+1,5,1,Jared Horn,Alec Daily,2 Seam,91.7,Called Strike,-
+1,5,2,Jared Horn,Alec Daily,2 Seam,91,Swinging Strike,-
+1,5,3,Jared Horn,Alec Daily,2 Seam,94,Ball,-
+1,5,4,Jared Horn,Alec Daily,2 Seam,92.9,Foul,-
+1,5,5,Jared Horn,Alec Daily,Changeup,86.4,Ball,-
+1,5,6,Jared Horn,Alec Daily,Changeup,86.1,Ball,-
+1,6,1,Aaron Charles,Tyrus Greene,2 Seam,85.6,Foul,-
+1,6,2,Aaron Charles,Tyrus Greene,2 Seam,86.4,Ball,-
+1,6,3,Aaron Charles,Tyrus Greene,4 Seam,80.3,Ball,-
+1,6,4,Aaron Charles,Tyrus Greene,2 Seam,86,Hit Into Play - Out,98.7
+1,7,1,Aaron Charles,Darren Baker,2 Seam,87.4,Ball,-
+1,7,2,Aaron Charles,Darren Baker,2 Seam,86.5,Foul,-
+1,7,3,Aaron Charles,Darren Baker,Slider,77.8,Swinging Strike,-
+1,7,4,Aaron Charles,Darren Baker,2 Seam,86.9,Ball,-
+1,7,5,Aaron Charles,Darren Baker,Changeup,79.7,Foul,-
+1,7,6,Aaron Charles,Darren Baker,4 Seam,85.5,Hit Into Play,85.3
+1,8,1,Aaron Charles,Andrew Vaughn,Cutter,80.5,Called Strike,-
+1,8,2,Aaron Charles,Andrew Vaughn,2 Seam,86.3,Ball,-
+1,8,3,Aaron Charles,Andrew Vaughn,4 Seam,85.9,Swinging Strike,-
+1,8,4,Aaron Charles,Andrew Vaughn,Changeup,79.3,Ball,-
+1,8,5,Aaron Charles,Andrew Vaughn,Changeup,79.8,Ball,-
+1,8,6,Aaron Charles,Andrew Vaughn,4 Seam,80.7,Hit Into Play - Run Scored,98.3
+1,9,1,Aaron Charles,Tanner Dodson,4 Seam,79.4,Ball,-
+1,9,2,Aaron Charles,Tanner Dodson,2 Seam,85.9,Ball,-
+1,9,3,Aaron Charles,Tanner Dodson,2 Seam,88,Foul,81
+1,9,4,Aaron Charles,Tanner Dodson,2 Seam,86.6,Hit Into Play - Out,94.4
+1,10,1,Aaron Charles,Jonah Davis,2 Seam,86,Called Strike,-
+1,10,2,Aaron Charles,Jonah Davis,4 Seam,80.1,Ball,-
+1,10,3,Aaron Charles,Jonah Davis,2 Seam,86.7,Foul,-
+1,10,4,Aaron Charles,Jonah Davis,2 Seam,80.6,Foul,-
+1,10,5,Aaron Charles,Jonah Davis,2 Seam,86.3,Ball,-
+1,10,6,Aaron Charles,Jonah Davis,Changeup,81.4,Foul,-
+1,10,7,Aaron Charles,Jonah Davis,2 Seam,86.9,Foul,-
+1,10,8,Aaron Charles,Jonah Davis,2 Seam,87.3,Foul,-
+1,10,9,Aaron Charles,Jonah Davis,Changeup,81.1,Ball,-
+1,10,10,Aaron Charles,Jonah Davis,2 Seam,86.4,Foul,-
+1,10,11,Aaron Charles,Jonah Davis,4 Seam,86.9,Ball,-
+1,11,1,Aaron Charles,Max Flower,2 Seam,85.2,Ball,-
+1,11,2,Aaron Charles,Max Flower,2 Seam,86.2,Ball,-
+2,12,1,Jared Horn,Alec Daily,2 Seam,90.6,Called Strike,-
+2,12,2,Jared Horn,Alec Daily,Changeup,84.9,Ball,-
+2,12,3,Jared Horn,Alec Daily,2 Seam,90.5,Hit Into Play,68.6
+2,13,1,Jared Horn,Mark Pena,2 Seam,89.3,Foul Tip,-
+2,13,2,Jared Horn,Mark Pena,2 Seam,90.3,Swinging Strike,-
+2,13,3,Jared Horn,Mark Pena,2 Seam,90.4,Ball,-
+2,13,4,Jared Horn,Mark Pena,2 Seam,89.5,catcher_interf,-
+2,13,5,Jared Horn,Mark Pena,Curve,75.8,Ball,-
+2,13,6,Jared Horn,Mark Pena,2 Seam,90.3,Foul,80.1
+2,13,7,Jared Horn,Mark Pena,2 Seam,90.8,Hit Into Play,92.1
+2,14,1,Jared Horn,Noah Barba,2 Seam,88.9,Ball,-
+2,14,2,Jared Horn,Noah Barba,2 Seam,90.2,Called Strike,-
+2,14,3,Jared Horn,Noah Barba,2 Seam,90.4,Hit Into Play - Run Scored,-
+2,15,1,Jared Horn,Evan Berkey,2 Seam,90.2,Called Strike,-
+2,15,2,Jared Horn,Evan Berkey,Changeup,75.8,Called Strike,-
+2,15,3,Jared Horn,Evan Berkey,2 Seam,91,Ball,-
+2,15,4,Jared Horn,Evan Berkey,Curve,76.8,Called Strike,-
+2,16,1,Jared Horn,Lewis Dirkes,2 Seam,91,Called Strike,-
+2,16,2,Jared Horn,Lewis Dirkes,2 Seam,91,Ball,-
+2,16,3,Jared Horn,Lewis Dirkes,Curve,75.3,Ball,-
+2,16,4,Jared Horn,Lewis Dirkes,2 Seam,90.9,Called Strike,-
+2,16,5,Jared Horn,Lewis Dirkes,Curve,76.8,Called Strike,-
+2,17,1,Aaron Charles,Max Flower,2 Seam,84.9,Ball,-
+2,17,2,Aaron Charles,Max Flower,4 Seam,84.9,Called Strike,-
+2,17,3,Aaron Charles,Max Flower,Changeup,78.1,Hit Into Play,-
+2,18,1,Aaron Charles,Quentin Selma,2 Seam,84.2,Foul,-
+2,18,2,Aaron Charles,Quentin Selma,Changeup,78.2,Hit Into Play - Out,-
+2,19,1,Aaron Charles,Ripken Reyes,2 Seam,87.1,Called Strike,-
+2,19,2,Aaron Charles,Ripken Reyes,2 Seam,86,Ball,-
+2,19,3,Aaron Charles,Ripken Reyes,2 Seam,88.5,Ball,-
+2,19,4,Aaron Charles,Ripken Reyes,2 Seam,86.9,Foul,73.6
+2,19,5,Aaron Charles,Ripken Reyes,4 Seam,85.5,Ball,-
+2,19,6,Aaron Charles,Ripken Reyes,2 Seam,85.1,Hit Into Play,87.3
+2,20,1,Aaron Charles,Cameron Eden,2 Seam,86.3,Foul,-
+2,20,2,Aaron Charles,Cameron Eden,Changeup,78,Swinging Strike,-
+2,20,3,Aaron Charles,Cameron Eden,Cutter,78.4,Ball,-
+2,20,4,Aaron Charles,Cameron Eden,4 Seam,86,Ball,-
+2,20,5,Aaron Charles,Cameron Eden,Slider,76.6,Called Strike,-
+3,21,1,Jared Horn,Jake Ortega,2 Seam,90.2,Ball,-
+3,21,2,Jared Horn,Jake Ortega,2 Seam,89.8,Swinging Strike,-
+3,21,3,Jared Horn,Jake Ortega,2 Seam,89.8,Ball,-
+3,21,4,Jared Horn,Jake Ortega,2 Seam,90.3,Foul,-
+3,21,5,Jared Horn,Jake Ortega,Changeup,83.5,Foul,-
+3,21,6,Jared Horn,Jake Ortega,Changeup,83.4,Foul,35.7
+3,21,7,Jared Horn,Jake Ortega,2 Seam,89.4,Called Strike,-
+3,22,1,Jared Horn,Cole Valetta,2 Seam,90.4,Ball,-
+3,22,2,Jared Horn,Cole Valetta,2 Seam,90.1,Called Strike,-
+3,22,3,Jared Horn,Cole Valetta,2 Seam,90.2,Hit Into Play,52.7
+3,23,1,Jared Horn,Andrew Penner,2 Seam,88.3,Ball,-
+3,23,2,Jared Horn,Andrew Penner,2 Seam,87.9,Hit Into Play - Run Scored,88.7
+3,24,1,Jared Horn,Jassen Oliver,2 Seam,91.7,Called Strike,-
+3,24,2,Jared Horn,Jassen Oliver,2 Seam,91.8,Called Strike,-
+3,24,3,Jared Horn,Jassen Oliver,2 Seam,91.9,Called Strike,-
+3,25,1,Jared Horn,Alec Daily,Curve,76.8,Ball,-
+3,25,2,Jared Horn,Alec Daily,2 Seam,90.5,Hit Into Play - Out,56.1
+3,26,1,Aaron Charles,Tyrus Greene,2 Seam,84.8,Ball,-
+3,26,2,Aaron Charles,Tyrus Greene,2 Seam,85.4,Hit Into Play,92.8
+3,27,1,Aaron Charles,Darren Baker,2 Seam,84.4,Ball,-
+3,27,2,Aaron Charles,Darren Baker,2 Seam,83.9,Ball,-
+3,27,3,Aaron Charles,Darren Baker,2 Seam,84.3,Ball,-
+3,27,4,Aaron Charles,Darren Baker,2 Seam,84.5,Ball,-
+3,28,1,Aaron Charles,Andrew Vaughn,Changeup,79.5,Ball,-
+3,28,2,Aaron Charles,Andrew Vaughn,Slider,75.6,Ball,-
+3,28,3,Aaron Charles,Andrew Vaughn,Slider,78,Ball,-
+3,28,4,Aaron Charles,Andrew Vaughn,2 Seam,86.2,Called Strike,-
+3,28,5,Aaron Charles,Andrew Vaughn,2 Seam,85.9,Ball,-
+3,29,1,Aaron Charles,Tanner Dodson,Changeup,79.1,Foul,-
+3,29,2,Aaron Charles,Tanner Dodson,Changeup,78.3,Foul,-
+3,29,3,Aaron Charles,Tanner Dodson,2 Seam,83.9,Ball,-
+3,29,4,Aaron Charles,Tanner Dodson,Slider,77,Ball,-
+3,29,5,Aaron Charles,Tanner Dodson,Changeup,78.4,Hit Into Play - Run Scored,71.6
+3,30,1,Aaron Charles,Jonah Davis,2 Seam,83.8,Foul,-
+3,30,2,Aaron Charles,Jonah Davis,Changeup,78.3,Called Strike,-
+3,30,3,Aaron Charles,Jonah Davis,2 Seam,84.2,Ball,-
+3,30,4,Aaron Charles,Jonah Davis,Changeup,77.3,Foul,75.3
+3,30,5,Aaron Charles,Jonah Davis,2 Seam,85.8,Foul,83.6
+3,30,6,Aaron Charles,Jonah Davis,4 Seam,84,Ball,-
+3,30,7,Aaron Charles,Jonah Davis,Cutter,78.8,Swinging Strike,-
+3,31,1,Aaron Charles,Max Flower,2 Seam,85.7,Hit Into Play - Run Scored,58.2
+3,32,1,Aaron Charles,Quentin Selma,2 Seam,84.6,Foul,-
+3,32,2,Aaron Charles,Quentin Selma,2 Seam,85.2,Ball,-
+3,32,3,Aaron Charles,Quentin Selma,2 Seam,84.5,Ball,-
+3,32,4,Aaron Charles,Quentin Selma,2 Seam,84.6,Called Strike,-
+3,32,5,Aaron Charles,Quentin Selma,Changeup,77,Swinging Strike,-
+4,33,1,Jared Horn,Mark Pena,2 Seam,90.5,Ball,-
+4,33,2,Jared Horn,Mark Pena,2 Seam,89.7,Called Strike,-
+4,33,3,Jared Horn,Mark Pena,2 Seam,92.1,Ball,-
+4,33,4,Jared Horn,Mark Pena,2 Seam,90.1,Called Strike,-
+4,33,5,Jared Horn,Mark Pena,Curve,78.8,Ball,-
+4,33,6,Jared Horn,Mark Pena,2 Seam,91.8,Ball,-
+4,34,1,Jared Horn,Noah Barba,2 Seam,89.4,Ball,-
+4,34,2,Jared Horn,Noah Barba,2 Seam,90.2,Called Strike,-
+4,34,3,Jared Horn,Noah Barba,2 Seam,89.4,Foul,-
+4,34,4,Jared Horn,Noah Barba,Changeup,84.2,Swinging Strike,-
+4,35,1,Jared Horn,Evan Berkey,Curve,75.6,Ball,-
+4,35,2,Jared Horn,Evan Berkey,2 Seam,89.2,Hit Into Play,52.4
+4,36,1,Jared Horn,Lewis Dirkes,2 Seam,89.3,Foul,66.9
+4,36,2,Jared Horn,Lewis Dirkes,2 Seam,88.1,Hit Into Play,21.1
+4,37,1,Jared Horn,Jake Ortega,2 Seam,90,Called Strike,-
+4,37,2,Jared Horn,Jake Ortega,Changeup,84.1,Swinging Strike,-
+4,37,3,Jared Horn,Jake Ortega,2 Seam,91.8,Ball,-
+4,37,4,Jared Horn,Jake Ortega,Curve,77.5,Called Strike,-
+4,38,1,Jared Horn,Cole Valetta,Curve,76.7,Ball,-
+4,38,2,Jared Horn,Cole Valetta,2 Seam,91.8,Foul,53.8
+4,38,3,Jared Horn,Cole Valetta,2 Seam,91.1,Ball,-
+4,38,4,Jared Horn,Cole Valetta,2 Seam,91.3,Hit Into Play - Out,40.9
+4,39,1,Aaron Charles,Ripken Reyes,2 Seam,84.3,Ball,-
+4,39,2,Aaron Charles,Ripken Reyes,2 Seam,85.2,Hit Into Play,83.5
+4,40,1,Aaron Charles,Cameron Eden,2 Seam,85.6,Ball,-
+4,40,2,Aaron Charles,Cameron Eden,2 Seam,83.1,Hit Into Play - Run Scored,90.2
+4,41,1,Aaron Charles,Tyrus Greene,Changeup,78,Hit Into Play,49.7
+4,42,1,Aaron Charles,Darren Baker,2 Seam,83.9,Foul,-
+4,42,2,Aaron Charles,Darren Baker,2 Seam,81,Foul,-
+4,42,3,Aaron Charles,Darren Baker,Changeup,75.5,Ball,-
+4,42,4,Aaron Charles,Darren Baker,Slider,76.1,Hit Into Play - Out,81.9
+4,43,1,Aaron Charles,Andrew Vaughn,2 Seam,83.6,Ball,-
+4,43,2,Aaron Charles,Andrew Vaughn,Changeup,78.2,Ball,-
+4,43,3,Aaron Charles,Andrew Vaughn,Changeup,77.4,Called Strike,-
+4,43,4,Aaron Charles,Andrew Vaughn,Changeup,77.6,Called Strike,-
+4,43,5,Aaron Charles,Andrew Vaughn,2 Seam,84.7,Hit Into Play - Run Scored,99
+4,44,1,Aaron Charles,Tanner Dodson,Changeup,76.2,Hit Into Play - Out,79.5
+4,45,1,Aaron Charles,Jonah Davis,Changeup,78.2,Hit Into Play - Run Scored,68.2
+4,46,1,Aaron Charles,Max Flower,Changeup,75.6,Ball,-
+4,46,2,Aaron Charles,Max Flower,2 Seam,83.8,Hit Into Play - Out,89
+5,48,1,Jared Horn,Andrew Penner,Changeup,83.2,Ball,-
+5,48,2,Jared Horn,Andrew Penner,2 Seam,90.5,Ball,-
+5,48,3,Jared Horn,Andrew Penner,2 Seam,89.8,Called Strike,-
+5,48,4,Jared Horn,Andrew Penner,2 Seam,91.6,Foul,-
+5,48,5,Jared Horn,Andrew Penner,Curve,76,Hit By Pitch,-
+5,49,1,Jared Horn,Jassen Oliver,2 Seam,89.3,Foul,-
+5,49,2,Jared Horn,Jassen Oliver,2 Seam,90,Foul,-
+5,49,3,Jared Horn,Jassen Oliver,2 Seam,90.8,Ball,-
+5,49,4,Jared Horn,Jassen Oliver,Curve,74.4,Ball,-
+5,49,5,Jared Horn,Jassen Oliver,2 Seam,87.9,Hit Into Play - Out,-
+5,50,1,Jared Horn,Alec Daily,2 Seam,89.1,Called Strike,-
+5,50,2,Jared Horn,Alec Daily,Changeup,83,Swinging Strike,-
+5,50,3,Jared Horn,Alec Daily,Changeup,83.7,Swinging Strike,-
+5,51,1,Jared Horn,Mark Pena,2 Seam,87.9,Ball,-
+5,51,2,Jared Horn,Mark Pena,2 Seam,89.7,Called Strike,-
+5,51,3,Jared Horn,Mark Pena,2 Seam,90.4,Hit Into Play - Out,86.2
+5,51,4,Isaiah Moten,Quentin Selma,2 Seam,82.2,Swinging Strike,-
+5,51,5,Isaiah Moten,Quentin Selma,2 Seam,81.4,Ball,-
+5,51,6,Isaiah Moten,Quentin Selma,Changeup,74.9,Hit Into Play - Out,-
+5,52,1,Isaiah Moten,Ripken Reyes,2 Seam,83.3,Foul,-
+5,52,2,Isaiah Moten,Ripken Reyes,2 Seam,83.7,Ball,-
+5,52,3,Isaiah Moten,Ripken Reyes,Changeup,74.6,Foul,-
+5,52,4,Isaiah Moten,Ripken Reyes,2 Seam,82.9,Ball,-
+5,52,5,Isaiah Moten,Ripken Reyes,Changeup,75.3,Foul,-
+5,52,6,Isaiah Moten,Ripken Reyes,2 Seam,83.6,Ball,-
+5,52,7,Isaiah Moten,Ripken Reyes,2 Seam,82.2,Hit Into Play - Out,61.1
+5,53,1,Isaiah Moten,Cameron Eden,2 Seam,83.3,Ball,-
+5,53,2,Isaiah Moten,Cameron Eden,Changeup,75.1,Ball,-
+5,53,3,Isaiah Moten,Cameron Eden,2 Seam,83.7,Hit Into Play - Out,87.6
+6,55,1,Zayne Patino,Noah Barba,4 Seam,83.5,Called Strike,-
+6,55,2,Zayne Patino,Noah Barba,4 Seam,85.7,Ball,-
+6,55,3,Zayne Patino,Noah Barba,4 Seam,84.9,Ball,-
+6,55,4,Zayne Patino,Noah Barba,4 Seam,84.2,Foul,-
+6,55,5,Zayne Patino,Noah Barba,Slider,77.2,Ball,-
+6,55,6,Zayne Patino,Noah Barba,4 Seam,85.1,Called Strike,-
+6,56,1,Zayne Patino,Evan Berkey,4 Seam,85.9,Foul,-
+6,56,2,Zayne Patino,Evan Berkey,Changeup,76.8,Foul,4.2
+6,56,3,Zayne Patino,Evan Berkey,4 Seam,87.9,Foul,-
+6,56,4,Zayne Patino,Evan Berkey,4 Seam,86.2,Hit Into Play,89.4
+6,57,1,Zayne Patino,Lewis Dirkes,4 Seam,84.9,Ball,-
+6,57,2,Zayne Patino,Lewis Dirkes,4 Seam,84.4,Ball,-
+6,57,3,Zayne Patino,Lewis Dirkes,4 Seam,82.8,Ball,-
+6,57,4,Zayne Patino,Lewis Dirkes,4 Seam,84.1,Called Strike,-
+6,57,5,Zayne Patino,Lewis Dirkes,4 Seam,83.6,Foul,34.9
+6,57,6,Zayne Patino,Lewis Dirkes,4 Seam,82.6,Hit Into Play,82.1
+6,58,1,Zayne Patino,Jake Ortega,4 Seam,82.8,Ball,-
+6,58,2,Zayne Patino,Jake Ortega,Slider,73.3,Hit Into Play - Out,36.4
+6,59,1,Zayne Patino,Cole Valetta,4 Seam,84.9,Called Strike,-
+6,59,2,Zayne Patino,Cole Valetta,Changeup,76,Swinging Strike,-
+6,59,3,Zayne Patino,Cole Valetta,Changeup,77.2,Ball,-
+6,59,4,Zayne Patino,Cole Valetta,4 Seam,87,Foul,-
+6,59,5,Zayne Patino,Cole Valetta,Slider,75.7,Ball,-
+6,59,6,Zayne Patino,Cole Valetta,Changeup,77.5,Swinging Strike,-
+6,60,1,Isaiah Moten,Tyrus Greene,Changeup,75,Hit Into Play,85
+6,61,1,Isaiah Moten,Darren Baker,4 Seam,79.9,Ball,-
+6,61,2,Isaiah Moten,Darren Baker,2 Seam,80.9,Ball,-
+6,61,3,Isaiah Moten,Darren Baker,4 Seam,79.8,Called Strike,-
+6,61,4,Isaiah Moten,Darren Baker,2 Seam,80.8,Foul,66.2
+6,61,5,Isaiah Moten,Darren Baker,Changeup,74.8,Foul,-
+6,61,6,Isaiah Moten,Darren Baker,2 Seam,82.5,Hit Into Play - Out,78.8
+6,62,1,Isaiah Moten,Andrew Vaughn,2 Seam,77.7,Intentional Ball,-
+6,62,2,Isaiah Moten,Andrew Vaughn,Changeup,78.6,Intentional Ball,-
+6,62,3,Isaiah Moten,Andrew Vaughn,Changeup,78.8,Intentional Ball,-
+6,62,4,Isaiah Moten,Andrew Vaughn,Changeup,79.4,Intentional Ball,-
+6,63,1,Isaiah Moten,Tanner Dodson,Slider,74.7,Called Strike,-
+6,63,2,Isaiah Moten,Tanner Dodson,2 Seam,82.9,Foul,-
+6,63,3,Isaiah Moten,Tanner Dodson,Changeup,75.2,Ball,-
+6,63,4,Isaiah Moten,Tanner Dodson,Changeup,74.7,Foul,32.4
+6,63,5,Isaiah Moten,Tanner Dodson,2 Seam,82.4,Hit Into Play - Out,84.4
+6,64,1,Isaiah Moten,Jonah Davis,2 Seam,81.7,Foul,-
+6,64,2,Isaiah Moten,Jonah Davis,Changeup,75,Ball,-
+6,64,3,Isaiah Moten,Jonah Davis,2 Seam,82.3,Hit Into Play - Run Scored,104.2
+6,65,1,Isaiah Moten,Max Flower,Changeup,75.8,Ball,-
+6,65,2,Isaiah Moten,Max Flower,2 Seam,83.8,Foul,-
+6,65,3,Isaiah Moten,Max Flower,2 Seam,82.3,Foul,-
+6,65,4,Isaiah Moten,Max Flower,Changeup,79.2,Ball,-
+6,65,5,Isaiah Moten,Max Flower,2 Seam,83.7,Swinging Strike,-
+7,66,1,Aaron Shortridge,Andrew Penner,2 Seam,87.6,Called Strike,-
+7,66,2,Aaron Shortridge,Andrew Penner,Slider,76.1,Ball,-
+7,66,3,Aaron Shortridge,Andrew Penner,Changeup,79.1,Called Strike,-
+7,66,4,Aaron Shortridge,Andrew Penner,4 Seam,88.6,Ball,-
+7,66,5,Aaron Shortridge,Andrew Penner,2 Seam,88.4,Hit Into Play,83.4
+7,67,1,Aaron Shortridge,Jassen Oliver,2 Seam,86,Called Strike,-
+7,67,2,Aaron Shortridge,Jassen Oliver,2 Seam,86.2,Foul,-
+7,67,3,Aaron Shortridge,Jassen Oliver,2 Seam,86,Foul,-
+7,67,4,Aaron Shortridge,Jassen Oliver,Curve,75.2,Foul,-
+7,67,5,Aaron Shortridge,Jassen Oliver,Curve,76.2,Swinging Strike,-
+7,68,1,Aaron Shortridge,Alec Daily,4 Seam,87.3,Called Strike,-
+7,68,2,Aaron Shortridge,Alec Daily,2 Seam,88.6,Called Strike,-
+7,68,3,Aaron Shortridge,Alec Daily,Changeup,79.9,Foul,-
+7,68,4,Aaron Shortridge,Alec Daily,2 Seam,87.4,Ball,-
+7,68,5,Aaron Shortridge,Alec Daily,Changeup,78.7,Swinging Strike,-
+7,69,1,Aaron Shortridge,Mark Pena,Curve,77.2,Called Strike,-
+7,69,2,Aaron Shortridge,Mark Pena,Changeup,77.5,Called Strike,-
+7,69,3,Aaron Shortridge,Mark Pena,Slider,75.5,Swinging Strike,-
+7,70,1,Isaiah Moten,Matt Ruff,Changeup,71.7,Called Strike,-
+7,70,2,Isaiah Moten,Matt Ruff,2 Seam,80.5,Ball,-
+7,70,3,Isaiah Moten,Matt Ruff,2 Seam,80.5,Swinging Strike,-
+7,70,4,Isaiah Moten,Matt Ruff,Changeup,72.8,Ball,-
+7,70,5,Isaiah Moten,Matt Ruff,Changeup,80,Ball,-
+7,70,6,Isaiah Moten,Matt Ruff,4 Seam,80.2,Ball,-
+7,71,1,Isaiah Moten,Ripken Reyes,Changeup,79.5,Ball,-
+7,71,2,Isaiah Moten,Ripken Reyes,Changeup,79.6,Ball,-
+7,71,3,Isaiah Moten,Ripken Reyes,2 Seam,80.4,Ball,-
+7,71,4,Isaiah Moten,Ripken Reyes,2 Seam,80.3,Called Strike,-
+7,71,5,Isaiah Moten,Ripken Reyes,Changeup,79.1,Ball,-
+7,72,1,Isaiah Moten,Cameron Eden,Changeup,73.7,Ball,-
+7,72,2,Isaiah Moten,Cameron Eden,2 Seam,80.6,Called Strike,-
+7,72,3,Isaiah Moten,Cameron Eden,4 Seam,80.1,Called Strike,-
+7,72,4,Isaiah Moten,Cameron Eden,Changeup,74.6,Foul,-
+7,72,5,Isaiah Moten,Cameron Eden,Changeup,74.9,Ball,-
+7,72,6,Isaiah Moten,Cameron Eden,2 Seam,83,Hit Into Play - Out,76.3
+7,73,1,Isaiah Moten,Tyrus Greene,Changeup,73.3,Foul,-
+7,73,2,Isaiah Moten,Tyrus Greene,2 Seam,82.2,Ball,-
+7,73,3,Isaiah Moten,Tyrus Greene,2 Seam,81.4,Ball,-
+7,73,4,Isaiah Moten,Tyrus Greene,2 Seam,82.2,Hit Into Play - Run Scored,91.5
+7,74,1,Isaiah Moten,Darren Baker,2 Seam,80.5,Hit Into Play - Out,85.3
+8,75,1,Andrew Buckley,Noah Barba,2 Seam,83.6,Ball,-
+8,75,2,Andrew Buckley,Noah Barba,2 Seam,83.4,Called Strike,-
+8,75,3,Andrew Buckley,Noah Barba,4 Seam,79.4,Ball,-
+8,75,4,Andrew Buckley,Noah Barba,2 Seam,84.8,Hit Into Play - Out,79.3
+8,76,1,Andrew Buckley,Evan Berkey,2 Seam,84.1,Called Strike,-
+8,76,2,Andrew Buckley,Evan Berkey,2 Seam,84.5,Ball,-
+8,76,3,Andrew Buckley,Evan Berkey,2 Seam,83,Hit Into Play - Out,89.8
+8,77,1,Andrew Buckley,Lewis Dirkes,2 Seam,83.4,Called Strike,-
+8,77,2,Andrew Buckley,Lewis Dirkes,Changeup,78.5,Swinging Strike,-
+8,77,3,Andrew Buckley,Lewis Dirkes,Changeup,80.4,Foul,-
+8,77,4,Andrew Buckley,Lewis Dirkes,2 Seam,83.8,Ball,-
+8,77,5,Andrew Buckley,Lewis Dirkes,Changeup,78.8,Ball,-
+8,77,6,Andrew Buckley,Lewis Dirkes,Changeup,77.6,Hit Into Play,74.3
+8,78,1,Andrew Buckley,Ryan Koch,2 Seam,81.1,Ball,-
+8,78,2,Andrew Buckley,Ryan Koch,2 Seam,81.7,Hit Into Play - Run Scored,97.3
+8,79,1,Andrew Buckley,Hank Schineller,Changeup,76.6,Called Strike,-
+8,79,2,Andrew Buckley,Hank Schineller,2 Seam,83,Ball,-
+8,79,3,Andrew Buckley,Hank Schineller,2 Seam,82,Ball,-
+8,79,4,Andrew Buckley,Hank Schineller,2 Seam,80.4,Foul,-
+8,79,5,Andrew Buckley,Hank Schineller,Changeup,71.9,Ball,-
+8,79,6,Andrew Buckley,Hank Schineller,2 Seam,82.6,Foul,-
+8,79,7,Andrew Buckley,Hank Schineller,Changeup,76.2,Swinging Strike,-
+8,80,1,Isaiah Moten,Andrew Vaughn,Changeup,79.6,Ball,-
+8,80,2,Isaiah Moten,Andrew Vaughn,2 Seam,79.3,Ball,-
+8,80,3,Isaiah Moten,Andrew Vaughn,2 Seam,81.1,Called Strike,-
+8,80,4,Isaiah Moten,Andrew Vaughn,2 Seam,81.3,Hit Into Play - Run Scored,106.7
+8,81,1,Isaiah Moten,Tanner Dodson,2 Seam,82.2,Ball,-
+8,81,2,Isaiah Moten,Tanner Dodson,2 Seam,82.9,Ball,-
+8,81,3,Isaiah Moten,Tanner Dodson,2 Seam,80.8,Ball,-
+8,81,4,Isaiah Moten,Tanner Dodson,4 Seam,80.9,Called Strike,-
+8,81,5,Isaiah Moten,Tanner Dodson,Changeup,75.8,Foul,92.7
+8,81,6,Isaiah Moten,Tanner Dodson,Changeup,74.9,Foul,-
+8,81,7,Isaiah Moten,Tanner Dodson,2 Seam,81.5,Hit Into Play,81
+8,82,1,Isaiah Moten,Jonah Davis,Changeup,74.1,Ball,-
+8,82,2,Isaiah Moten,Jonah Davis,2 Seam,81,Foul,-
+8,82,3,Isaiah Moten,Jonah Davis,Changeup,76.6,Ball,-
+8,82,4,Isaiah Moten,Jonah Davis,2 Seam,81.2,Ball,-
+8,82,5,Isaiah Moten,Jonah Davis,2 Seam,81.7,Ball,-
+8,83,1,Michael Bovee Jr.,Tommy Henderson,2 Seam,82.5,Ball,-
+8,83,2,Michael Bovee Jr.,Tommy Henderson,2 Seam,82.2,Ball,-
+8,83,3,Michael Bovee Jr.,Tommy Henderson,2 Seam,83,Ball,-
+8,83,4,Michael Bovee Jr.,Tommy Henderson,2 Seam,83.2,Called Strike,-
+8,83,5,Michael Bovee Jr.,Tommy Henderson,2 Seam,84,Ball,-
+8,84,1,Michael Bovee Jr.,Matt Ruff,2 Seam,84.1,Ball,-
+8,84,2,Michael Bovee Jr.,Matt Ruff,2 Seam,83.5,Ball,-
+8,84,3,Michael Bovee Jr.,Matt Ruff,2 Seam,84.7,Ball,-
+8,84,4,Michael Bovee Jr.,Matt Ruff,2 Seam,84.2,Ball,-
+8,85,1,Michael Bovee Jr.,Sam Wezniak,2 Seam,82.8,Ball,-
+8,85,2,Michael Bovee Jr.,Sam Wezniak,2 Seam,81.9,Ball,-
+8,85,3,Michael Bovee Jr.,Sam Wezniak,2 Seam,84.9,Called Strike,-
+8,85,4,Michael Bovee Jr.,Sam Wezniak,2 Seam,85.6,Ball,-
+8,85,5,Michael Bovee Jr.,Sam Wezniak,2 Seam,85.1,Ball,-
+8,86,1,Andrew Ciandro,Cameron Eden,Changeup,76.7,Swinging Strike,-
+8,86,2,Andrew Ciandro,Cameron Eden,Changeup,72,Ball,-
+8,86,3,Andrew Ciandro,Cameron Eden,Changeup,78.3,Hit Into Play - Out,80.2
+8,87,1,Andrew Ciandro,Korey Lee,Changeup,78,Called Strike,-
+8,87,2,Andrew Ciandro,Korey Lee,Curve,69.3,Ball,-
+8,87,3,Andrew Ciandro,Korey Lee,Changeup,78.1,Foul,-
+8,87,4,Andrew Ciandro,Korey Lee,Curve,69,Ball,-
+8,87,5,Andrew Ciandro,Korey Lee,Changeup,78.1,Hit Into Play - Run Scored,62.6
+8,88,1,Andrew Ciandro,Darren Baker,Changeup,78,Hit Into Play - Run Scored,58.6
+8,89,1,Andrew Ciandro,Andrew Vaughn,Curve,67.5,Ball,-
+8,89,2,Andrew Ciandro,Andrew Vaughn,Curve,66.1,Ball,-
+8,89,3,Andrew Ciandro,Andrew Vaughn,Changeup,76.9,Foul,-
+8,89,4,Andrew Ciandro,Andrew Vaughn,Changeup,72,Ball,-
+8,89,5,Andrew Ciandro,Andrew Vaughn,Changeup,77.7,Ball,-
+8,90,1,Andrew Ciandro,Tanner Dodson,Changeup,76.1,Foul,-
+8,90,2,Andrew Ciandro,Tanner Dodson,Curve,66.4,Called Strike,-
+8,90,3,Andrew Ciandro,Tanner Dodson,Changeup,76.8,Ball,-
+8,90,4,Andrew Ciandro,Tanner Dodson,Changeup,70.2,Ball,-
+8,90,5,Andrew Ciandro,Tanner Dodson,Changeup,75.3,Swinging Strike,-
+9,91,1,Conor Neumann,Andrew Penner,Cutter,79.6,Ball,-
+9,91,2,Conor Neumann,Andrew Penner,Cutter,79.1,Ball,-
+9,91,3,Conor Neumann,Andrew Penner,Cutter,79,Called Strike,-
+9,91,4,Conor Neumann,Andrew Penner,Cutter,80,Hit Into Play - Out,60.5
+9,92,1,Conor Neumann,Luis Martinez,Cutter,80.4,Called Strike,-
+9,92,2,Conor Neumann,Luis Martinez,Changeup,75.5,Ball,-
+9,92,3,Conor Neumann,Luis Martinez,Slider,79,Ball,-
+9,92,4,Conor Neumann,Luis Martinez,Cutter,79.1,Ball,-
+9,92,5,Conor Neumann,Luis Martinez,Cutter,79.7,Ball,-
+9,93,1,Conor Neumann,Daniel Nist,Slider,78.5,Called Strike,-
+9,93,2,Conor Neumann,Daniel Nist,Cutter,80.3,Ball,-
+9,93,3,Conor Neumann,Daniel Nist,Slider,78.7,Foul,-
+9,93,4,Conor Neumann,Daniel Nist,Curve,63.7,Hit Into Play - Out,-
+9,94,1,Conor Neumann,Daniel Carrizosa,Cutter,79.5,Ball,-
+9,94,2,Conor Neumann,Daniel Carrizosa,Slider,78,Ball,-
+9,94,3,Conor Neumann,Daniel Carrizosa,Slider,78.8,Ball,-
+9,94,4,Conor Neumann,Daniel Carrizosa,Slider,78.1,Ball,-
+9,95,1,Conor Neumann,Noah Barba,Cutter,79,,-
+9,95,2,Conor Neumann,Noah Barba,Slider,78.8,,-
+9,95,3,Conor Neumann,Noah Barba,Slider,79.6,,-
+9,95,4,Conor Neumann,Noah Barba,Curve,64.6,,-

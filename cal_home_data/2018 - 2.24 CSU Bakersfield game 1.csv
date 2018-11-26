@@ -1,0 +1,291 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Joey Matulovich,Jake Ortega,2 Seam,90.4,Called Strike,-
+1,1,2,Joey Matulovich,Jake Ortega,4 Seam,91.4,Foul,-
+1,1,3,Joey Matulovich,Jake Ortega,Slider,72.4,Ball,-
+1,1,4,Joey Matulovich,Jake Ortega,2 Seam,89.9,Ball,-
+1,1,5,Joey Matulovich,Jake Ortega,4 Seam,91.5,Foul,-
+1,1,6,Joey Matulovich,Jake Ortega,2 Seam,88.6,Hit Into Play - Out,-
+1,2,1,Joey Matulovich,Lewis Dirkes,2 Seam,90,Ball,-
+1,2,2,Joey Matulovich,Lewis Dirkes,2 Seam,89.5,Called Strike,-
+1,2,3,Joey Matulovich,Lewis Dirkes,2 Seam,90.3,Foul,-
+1,2,4,Joey Matulovich,Lewis Dirkes,2 Seam,89.3,Foul,-
+1,2,5,Joey Matulovich,Lewis Dirkes,Curve,77.3,Ball,-
+1,2,6,Joey Matulovich,Lewis Dirkes,2 Seam,88.7,Ball,-
+1,2,7,Joey Matulovich,Lewis Dirkes,4 Seam,89.2,Foul,-
+1,2,8,Joey Matulovich,Lewis Dirkes,2 Seam,90.6,Ball,-
+1,3,1,Joey Matulovich,Andrew Penner,2 Seam,85.6,Ball,-
+1,3,2,Joey Matulovich,Andrew Penner,Slider,77.2,Ball,-
+1,3,3,Joey Matulovich,Andrew Penner,2 Seam,87.6,Foul,-
+1,3,4,Joey Matulovich,Andrew Penner,2 Seam,88.9,Foul,-
+1,3,5,Joey Matulovich,Andrew Penner,2 Seam,86.7,Foul,-
+1,3,6,Joey Matulovich,Andrew Penner,Curve,75.1,Swinging Strike,-
+1,4,1,Joey Matulovich,Ryan Koch,2 Seam,87.7,Called Strike,-
+1,4,2,Joey Matulovich,Ryan Koch,2 Seam,88.4,Called Strike,-
+1,4,3,Joey Matulovich,Ryan Koch,2 Seam,88.3,Foul Tip,-
+1,5,1,Davonte Butler,Tyrus Greene,4 Seam,86,Called Strike,-
+1,5,2,Davonte Butler,Tyrus Greene,2 Seam,87.4,Ball,-
+1,5,3,Davonte Butler,Tyrus Greene,2 Seam,86.2,Ball,-
+1,5,4,Davonte Butler,Tyrus Greene,4 Seam,86.4,Ball,-
+1,5,5,Davonte Butler,Tyrus Greene,4 Seam,85.4,Swinging Strike,-
+1,5,6,Davonte Butler,Tyrus Greene,4 Seam,87.4,Foul,-
+1,5,7,Davonte Butler,Tyrus Greene,2 Seam,86.4,Hit Into Play,94.4
+1,6,1,Davonte Butler,Darren Baker,2 Seam,82.3,Hit Into Play - Out,-
+1,7,1,Davonte Butler,Andrew Vaughn,2 Seam,86.2,Called Strike,-
+1,7,2,Davonte Butler,Andrew Vaughn,4 Seam,84.8,Hit Into Play - Out,90.5
+1,8,1,Davonte Butler,Tanner Dodson,Slider,74.7,Called Strike,-
+1,8,2,Davonte Butler,Tanner Dodson,Changeup,79.8,Swinging Strike,-
+1,8,3,Davonte Butler,Tanner Dodson,2 Seam,82.9,Ball,-
+1,8,4,Davonte Butler,Tanner Dodson,Changeup,79,Hit Into Play - Out,-
+2,9,1,Joey Matulovich,Alec Daily,2 Seam,88.3,Called Strike,-
+2,9,2,Joey Matulovich,Alec Daily,Changeup,77.9,Ball,-
+2,9,3,Joey Matulovich,Alec Daily,2 Seam,87.6,Ball,-
+2,9,4,Joey Matulovich,Alec Daily,4 Seam,88.8,Foul,-
+2,9,5,Joey Matulovich,Alec Daily,2 Seam,88.7,Ball,-
+2,9,6,Joey Matulovich,Alec Daily,2 Seam,89.2,Foul,-
+2,9,7,Joey Matulovich,Alec Daily,4 Seam,90.3,Foul,-
+2,9,8,Joey Matulovich,Alec Daily,2 Seam,89.5,Hit Into Play,84.6
+2,10,1,Joey Matulovich,Mark Pena,2 Seam,86.6,Hit Into Play,91.9
+2,11,1,Joey Matulovich,Jared Toothman,2 Seam,86.9,Called Strike,-
+2,11,2,Joey Matulovich,Jared Toothman,2 Seam,87.2,Ball,-
+2,11,3,Joey Matulovich,Jared Toothman,2 Seam,86.8,Hit Into Play - Out,43.2
+2,12,1,Joey Matulovich,Noah Barba,Slider,76.8,Ball,-
+2,12,2,Joey Matulovich,Noah Barba,4 Seam,86.9,Ball,-
+2,12,3,Joey Matulovich,Noah Barba,2 Seam,87.6,Ball,-
+2,12,4,Joey Matulovich,Noah Barba,2 Seam,86.9,Called Strike,-
+2,12,5,Joey Matulovich,Noah Barba,2 Seam,87.8,Hit Into Play - Run Scored,87.4
+2,13,1,Joey Matulovich,Evan Berkey,Slider,73.9,Called Strike,-
+2,13,2,Joey Matulovich,Evan Berkey,Curve,74.6,Hit Into Play - Out,77
+2,14,1,Joey Matulovich,Jake Ortega,Curve,73.7,Called Strike,-
+2,14,2,Joey Matulovich,Jake Ortega,2 Seam,87.4,Foul,-
+2,14,3,Joey Matulovich,Jake Ortega,2 Seam,86.9,Swinging Strike,-
+2,15,1,Davonte Butler,Jonah Davis,Slider,75.5,Called Strike,-
+2,15,2,Davonte Butler,Jonah Davis,Changeup,77.9,Foul,25.2
+2,15,3,Davonte Butler,Jonah Davis,2 Seam,84.6,Ball,-
+2,15,4,Davonte Butler,Jonah Davis,Changeup,79.6,Ball,-
+2,15,5,Davonte Butler,Jonah Davis,Changeup,77.4,Foul,85.3
+2,15,6,Davonte Butler,Jonah Davis,Changeup,77.7,Swinging Strike,-
+2,16,1,Davonte Butler,Max Flower,4 Seam,86.6,Hit Into Play - Out,95.4
+2,17,1,Davonte Butler,Matt Ruff,2 Seam,85.1,Hit Into Play - Out,58.5
+3,18,1,Joey Matulovich,Lewis Dirkes,2 Seam,87.9,Called Strike,-
+3,18,2,Joey Matulovich,Lewis Dirkes,Changeup,78.1,Ball,-
+3,18,3,Joey Matulovich,Lewis Dirkes,2 Seam,89.1,Ball,-
+3,18,4,Joey Matulovich,Lewis Dirkes,2 Seam,88.8,Foul,-
+3,18,5,Joey Matulovich,Lewis Dirkes,Curve,72.8,Hit Into Play - Out,47.7
+3,19,1,Joey Matulovich,Andrew Penner,2 Seam,89.1,Ball,-
+3,19,2,Joey Matulovich,Andrew Penner,2 Seam,87.6,Ball,-
+3,19,3,Joey Matulovich,Andrew Penner,2 Seam,88.8,Ball,-
+3,19,4,Joey Matulovich,Andrew Penner,2 Seam,87.1,Called Strike,-
+3,19,5,Joey Matulovich,Andrew Penner,2 Seam,88.5,Hit Into Play - Out,100
+3,20,1,Joey Matulovich,Ryan Koch,4 Seam,88.7,Ball,-
+3,20,2,Joey Matulovich,Ryan Koch,2 Seam,88.6,Called Strike,-
+3,20,3,Joey Matulovich,Ryan Koch,Curve,76.1,Ball,-
+3,20,4,Joey Matulovich,Ryan Koch,2 Seam,88.5,Foul,-
+3,20,5,Joey Matulovich,Ryan Koch,Curve,72.2,Ball,-
+3,20,6,Joey Matulovich,Ryan Koch,2 Seam,90.7,Foul,-
+3,20,7,Joey Matulovich,Ryan Koch,2 Seam,89,Hit Into Play,93
+3,21,1,Joey Matulovich,Alec Daily,2 Seam,87,Ball,-
+3,21,2,Joey Matulovich,Alec Daily,Changeup,77.9,Called Strike,-
+3,21,3,Joey Matulovich,Alec Daily,Changeup,76.7,Foul,-
+3,21,4,Joey Matulovich,Alec Daily,4 Seam,87.5,Ball,-
+3,21,5,Joey Matulovich,Alec Daily,Curve,72.5,Called Strike,-
+3,22,1,Davonte Butler,Ripken Reyes,2 Seam,85.5,Foul,-
+3,22,2,Davonte Butler,Ripken Reyes,4 Seam,85,Called Strike,-
+3,22,3,Davonte Butler,Ripken Reyes,4 Seam,80.1,Ball,-
+3,22,4,Davonte Butler,Ripken Reyes,2 Seam,84.2,Ball,-
+3,22,5,Davonte Butler,Ripken Reyes,Changeup,75.5,Swinging Strike,-
+3,23,1,Davonte Butler,Cameron Eden,4 Seam,84.4,Swinging Strike,-
+3,23,2,Davonte Butler,Cameron Eden,Changeup,73.3,Ball,-
+3,23,3,Davonte Butler,Cameron Eden,Slider,74.4,Called Strike,-
+3,23,4,Davonte Butler,Cameron Eden,4 Seam,87,Ball,-
+3,23,5,Davonte Butler,Cameron Eden,4 Seam,85.1,Foul,-
+3,23,6,Davonte Butler,Cameron Eden,Changeup,75,Swinging Strike,-
+3,24,1,Davonte Butler,Tyrus Greene,2 Seam,85.2,Ball,-
+3,24,2,Davonte Butler,Tyrus Greene,Curve,73.8,Called Strike,-
+3,24,3,Davonte Butler,Tyrus Greene,Changeup,79.1,Called Strike,-
+3,24,4,Davonte Butler,Tyrus Greene,Slider,76,Ball,-
+3,24,5,Davonte Butler,Tyrus Greene,Changeup,78.6,Ball,-
+3,24,6,Davonte Butler,Tyrus Greene,2 Seam,84.5,Hit Into Play,99.5
+3,25,1,Davonte Butler,Darren Baker,2 Seam,83.5,Ball,-
+3,25,2,Davonte Butler,Darren Baker,4 Seam,84.2,Hit Into Play - Run Scored,92.2
+3,26,1,Davonte Butler,Andrew Vaughn,4 Seam,83.9,Hit Into Play - Out,100.5
+4,27,1,Joey Matulovich,Mark Pena,Slider,76.2,Ball,-
+4,27,2,Joey Matulovich,Mark Pena,2 Seam,87.8,Ball,-
+4,27,3,Joey Matulovich,Mark Pena,2 Seam,88.1,Ball,-
+4,27,4,Joey Matulovich,Mark Pena,2 Seam,87.5,Called Strike,-
+4,27,5,Joey Matulovich,Mark Pena,2 Seam,87.1,Ball,-
+4,28,1,Joey Matulovich,Jared Toothman,2 Seam,85.5,Called Strike,-
+4,28,2,Joey Matulovich,Jared Toothman,Slider,73.2,Hit Into Play - Out,76
+4,29,1,Joey Matulovich,Noah Barba,4 Seam,86.1,Ball,-
+4,29,2,Joey Matulovich,Noah Barba,Curve,73.6,Ball,-
+4,29,3,Joey Matulovich,Noah Barba,2 Seam,86.8,Called Strike,-
+4,29,4,Joey Matulovich,Noah Barba,2 Seam,86.9,Foul,27.8
+4,29,5,Joey Matulovich,Noah Barba,Curve,75,Ball,-
+4,29,6,Joey Matulovich,Noah Barba,2 Seam,87,Ball,-
+4,30,1,Joey Matulovich,Evan Berkey,2 Seam,87.6,Ball,-
+4,30,2,Joey Matulovich,Evan Berkey,Curve,74.4,Hit Into Play - Run Scored,93.2
+4,31,1,Joey Matulovich,Jake Ortega,2 Seam,87,Foul,75.2
+4,31,2,Joey Matulovich,Jake Ortega,2 Seam,87.1,Hit By Pitch,-
+4,32,1,Joey Matulovich,Lewis Dirkes,2 Seam,86.9,Ball,-
+4,32,2,Joey Matulovich,Lewis Dirkes,4 Seam,86.1,Hit Into Play - Out,85.6
+4,33,1,Davonte Butler,Tanner Dodson,2 Seam,83.4,Ball,-
+4,33,2,Davonte Butler,Tanner Dodson,Changeup,78.5,Hit Into Play,48.3
+4,34,1,Davonte Butler,Jonah Davis,Curve,73.2,Ball,-
+4,34,2,Davonte Butler,Jonah Davis,2 Seam,83.2,Called Strike,-
+4,34,3,Davonte Butler,Jonah Davis,Changeup,78.1,Ball,-
+4,34,4,Davonte Butler,Jonah Davis,2 Seam,83.7,Called Strike,-
+4,34,5,Davonte Butler,Jonah Davis,2 Seam,84.3,Foul,-
+4,34,6,Davonte Butler,Jonah Davis,Slider,75.5,Hit Into Play - Out,63.2
+4,35,1,Davonte Butler,Max Flower,2 Seam,83.8,Called Strike,-
+4,35,2,Davonte Butler,Max Flower,2 Seam,83.9,Foul,-
+4,35,3,Davonte Butler,Max Flower,Slider,77.2,Swinging Strike,-
+4,36,1,Davonte Butler,Matt Ruff,Slider,72.5,Ball,-
+4,36,2,Davonte Butler,Matt Ruff,4 Seam,85,Ball,-
+4,36,3,Davonte Butler,Matt Ruff,Changeup,77.5,Swinging Strike,-
+4,36,4,Davonte Butler,Matt Ruff,Changeup,78.8,Called Strike,-
+4,36,5,Davonte Butler,Matt Ruff,Changeup,76.9,Ball,-
+4,36,6,Davonte Butler,Matt Ruff,Changeup,75.5,Ball,-
+4,37,1,Davonte Butler,Ripken Reyes,4 Seam,83.6,Foul,-
+4,37,2,Davonte Butler,Ripken Reyes,2 Seam,83.6,Hit Into Play,91.2
+4,38,1,Davonte Butler,Cameron Eden,2 Seam,84.3,Swinging Strike,-
+4,38,2,Davonte Butler,Cameron Eden,Changeup,73.9,Hit Into Play - Run Scored,91.7
+4,39,1,Davonte Butler,Tyrus Greene,Changeup,77.6,Hit Into Play - Out,100.7
+5,40,1,Joey Matulovich,Andrew Penner,2 Seam,85.2,Ball,-
+5,40,2,Joey Matulovich,Andrew Penner,2 Seam,86.6,Called Strike,-
+5,40,3,Joey Matulovich,Andrew Penner,Slider,74.1,Ball,-
+5,40,4,Joey Matulovich,Andrew Penner,4 Seam,86.2,Ball,-
+5,40,5,Joey Matulovich,Andrew Penner,2 Seam,87.8,Foul,-
+5,40,6,Joey Matulovich,Andrew Penner,4 Seam,86.2,Foul,78.9
+5,40,7,Joey Matulovich,Andrew Penner,4 Seam,87.4,Ball,-
+5,41,1,Joey Matulovich,Ryan Koch,Curve,71.8,Ball,-
+5,41,2,Arman Sabouri,Ryan Koch,4 Seam,85.2,Called Strike,-
+5,41,3,Arman Sabouri,Ryan Koch,4 Seam,87,Called Strike,-
+5,41,4,Arman Sabouri,Ryan Koch,Curve,74.9,Foul,67.7
+5,41,5,Arman Sabouri,Ryan Koch,Changeup,77,Ball,-
+5,41,6,Arman Sabouri,Ryan Koch,2 Seam,88,Called Strike,-
+5,42,1,Arman Sabouri,Alec Daily,4 Seam,88.2,Foul,-
+5,42,2,Arman Sabouri,Alec Daily,Curve,73.9,Called Strike,-
+5,42,3,Arman Sabouri,Alec Daily,4 Seam,88.4,Ball,-
+5,42,4,Arman Sabouri,Alec Daily,Curve,75.5,Ball,-
+5,42,5,Arman Sabouri,Alec Daily,Curve,74.9,Called Strike,-
+5,43,1,Davonte Butler,Darren Baker,2 Seam,83.5,Ball,-
+5,43,2,Davonte Butler,Darren Baker,2 Seam,85.8,Ball,-
+5,43,3,Davonte Butler,Darren Baker,4 Seam,83.6,Hit Into Play,89
+5,44,1,Davonte Butler,Andrew Vaughn,2 Seam,82.8,Ball,-
+5,44,2,Davonte Butler,Andrew Vaughn,Changeup,77,Called Strike,-
+5,44,3,Davonte Butler,Andrew Vaughn,4 Seam,81,Ball,-
+5,44,4,Davonte Butler,Andrew Vaughn,Changeup,77.2,Ball,-
+5,44,5,Davonte Butler,Andrew Vaughn,4 Seam,84.5,Ball,-
+5,45,1,Davonte Butler,Tanner Dodson,Changeup,77.8,Ball,-
+5,45,2,Davonte Butler,Tanner Dodson,4 Seam,83.5,Hit Into Play - Out,89.4
+5,46,1,Davonte Butler,Jonah Davis,Changeup,76.8,Foul,79.5
+5,46,2,Davonte Butler,Jonah Davis,Changeup,81.2,Ball,-
+5,46,3,Davonte Butler,Jonah Davis,Slider,73.6,Hit By Pitch,-
+5,47,1,Davonte Butler,Max Flower,Curve,73.2,Called Strike,-
+5,47,2,Davonte Butler,Max Flower,4 Seam,85.2,Foul,89.9
+5,47,3,Davonte Butler,Max Flower,2 Seam,81.8,Ball,-
+5,47,4,Davonte Butler,Max Flower,2 Seam,83.4,Hit Into Play - Out,61.3
+6,48,1,Arman Sabouri,Mark Pena,4 Seam,86.6,Ball,-
+6,48,2,Arman Sabouri,Mark Pena,4 Seam,85.8,Hit Into Play - Out,42.6
+6,49,1,Arman Sabouri,Jared Toothman,4 Seam,85.5,Ball,-
+6,49,2,Arman Sabouri,Jared Toothman,Cutter,84.6,Called Strike,-
+6,49,3,Arman Sabouri,Jared Toothman,Cutter,85.4,Hit Into Play,83.3
+6,50,1,Arman Sabouri,Noah Barba,4 Seam,86.6,Ball,-
+6,50,2,Arman Sabouri,Noah Barba,Curve,73.9,Ball,-
+6,50,3,Arman Sabouri,Noah Barba,2 Seam,86.4,Foul,-
+6,50,4,Arman Sabouri,Noah Barba,Curve,74.7,Called Strike,-
+6,50,5,Arman Sabouri,Noah Barba,4 Seam,86.2,Foul,-
+6,50,6,Arman Sabouri,Noah Barba,Slider,76.2,Foul,-
+6,50,7,Arman Sabouri,Noah Barba,Cutter,78.8,Hit Into Play - Out,64.8
+6,51,1,Arman Sabouri,Evan Berkey,4 Seam,87.2,Hit Into Play - Out,55.2
+6,52,1,Davonte Butler,Matt Ruff,4 Seam,82,Ball,-
+6,52,2,Davonte Butler,Matt Ruff,2 Seam,83.4,Ball,-
+6,52,3,Davonte Butler,Matt Ruff,2 Seam,82.2,Called Strike,-
+6,52,4,Davonte Butler,Matt Ruff,Changeup,78.3,Swinging Strike,-
+6,52,5,Davonte Butler,Matt Ruff,Changeup,76.1,Hit Into Play,-
+6,53,1,Davonte Butler,Ripken Reyes,2 Seam,83.8,Hit Into Play - Run Scored,-
+6,54,1,Elijah Parks,Cameron Eden,4 Seam,85.4,Ball,-
+6,54,2,Elijah Parks,Cameron Eden,4 Seam,85.4,Foul,-
+6,54,3,Elijah Parks,Cameron Eden,Changeup,74.9,Called Strike,-
+6,54,4,Elijah Parks,Cameron Eden,4 Seam,84.5,Swinging Strike,-
+6,55,1,Elijah Parks,Tyrus Greene,4 Seam,85.3,Swinging Strike,-
+6,55,2,Elijah Parks,Tyrus Greene,Changeup,72.8,Swinging Strike,-
+6,55,3,Elijah Parks,Tyrus Greene,Changeup,71.8,Ball,-
+6,55,4,Elijah Parks,Tyrus Greene,2 Seam,85.9,Swinging Strike,-
+6,56,1,Elijah Parks,Darren Baker,2 Seam,85.1,Ball,-
+6,56,2,Elijah Parks,Darren Baker,Changeup,73,Swinging Strike,-
+6,56,3,Elijah Parks,Darren Baker,Changeup,73.4,Swinging Strike,-
+6,56,4,Elijah Parks,Darren Baker,2 Seam,86.5,Ball,-
+6,56,5,Elijah Parks,Darren Baker,Changeup,74.2,Swinging Strike,-
+6,57,1,Elijah Parks,Andrew Vaughn,Changeup,75.7,Intentional Ball,-
+6,57,2,Elijah Parks,Andrew Vaughn,Changeup,76.5,Intentional Ball,-
+6,57,3,Elijah Parks,Andrew Vaughn,Changeup,78.4,Intentional Ball,-
+6,57,4,Elijah Parks,Andrew Vaughn,Changeup,78.2,Intentional Ball,-
+6,58,1,Elijah Parks,Tanner Dodson,Changeup,72.8,Hit Into Play - Out,-
+7,59,1,Arman Sabouri,Jake Ortega,Cutter,86.4,Foul,-
+7,59,2,Arman Sabouri,Jake Ortega,Cutter,85.4,Swinging Strike,-
+7,59,3,Arman Sabouri,Jake Ortega,Slider,75,Ball,-
+7,59,4,Arman Sabouri,Jake Ortega,Slider,77.6,Swinging Strike,-
+7,60,1,Arman Sabouri,Andrew Penner,4 Seam,89.4,Hit By Pitch,-
+7,61,1,Tanner Dodson,Ryan Koch,2 Seam,91.9,Ball,-
+7,61,2,Tanner Dodson,Ryan Koch,2 Seam,91.4,Hit Into Play - Out,-
+7,62,1,Elijah Parks,Jonah Davis,Changeup,74.2,Swinging Strike,-
+7,62,2,Elijah Parks,Jonah Davis,4 Seam,84.9,Ball,-
+7,62,3,Elijah Parks,Jonah Davis,Changeup,74.2,Foul,-
+7,62,4,Elijah Parks,Jonah Davis,Changeup,75.4,Swinging Strike,-
+7,63,1,Elijah Parks,Max Flower,Changeup,73,Ball,-
+7,63,2,Elijah Parks,Max Flower,4 Seam,85.1,Hit Into Play - Out,-
+7,64,1,Elijah Parks,Connor Mack,Changeup,74,Swinging Strike,-
+7,64,2,Elijah Parks,Connor Mack,4 Seam,83.6,Ball,-
+7,64,3,Elijah Parks,Connor Mack,2 Seam,84.3,Swinging Strike,-
+7,64,4,Elijah Parks,Connor Mack,4 Seam,86,Ball,-
+7,64,5,Elijah Parks,Connor Mack,Changeup,75,Hit Into Play,52.6
+7,65,1,Elijah Parks,Ripken Reyes,Changeup,73.3,Swinging Strike,-
+7,65,2,Elijah Parks,Ripken Reyes,Curve,73.1,Ball,-
+7,65,3,Elijah Parks,Ripken Reyes,Changeup,73,Ball,-
+7,65,4,Elijah Parks,Ripken Reyes,2 Seam,83.5,Ball,-
+7,65,5,Elijah Parks,Ripken Reyes,Changeup,72.8,Foul,-
+7,65,6,Elijah Parks,Ripken Reyes,Changeup,73.8,Foul,-
+7,65,7,Elijah Parks,Ripken Reyes,Changeup,73.1,Foul,-
+7,65,8,Elijah Parks,Ripken Reyes,2 Seam,85.1,Swinging Strike,-
+8,66,1,Tanner Dodson,Alec Daily,2 Seam,91.2,Ball,-
+8,66,2,Tanner Dodson,Alec Daily,2 Seam,91.4,Hit Into Play - Out,67.5
+8,67,1,Tanner Dodson,Mark Pena,2 Seam,93.3,Called Strike,-
+8,67,2,Tanner Dodson,Mark Pena,2 Seam,91.9,Foul,87.7
+8,67,3,Tanner Dodson,Mark Pena,2 Seam,93.3,Called Strike,-
+8,68,1,Tanner Dodson,Jared Toothman,Slider,81.9,Called Strike,-
+8,68,2,Tanner Dodson,Jared Toothman,Changeup,85.4,Foul,-
+8,68,3,Tanner Dodson,Jared Toothman,Cutter,83.1,Ball,-
+8,68,4,Tanner Dodson,Jared Toothman,Slider,82.1,Hit Into Play - Out,61.3
+8,69,1,Elijah Parks,Cameron Eden,2 Seam,83.8,Called Strike,-
+8,69,2,Elijah Parks,Cameron Eden,Slider,72.2,Hit Into Play,74.8
+8,70,1,Elijah Parks,Tyrus Greene,2 Seam,84.7,Hit Into Play - Out,25.5
+8,71,1,Elijah Parks,Darren Baker,Changeup,72.3,Hit Into Play - Out,-
+8,72,1,Elijah Parks,Andrew Vaughn,Changeup,72.5,Intentional Ball,-
+8,72,2,Elijah Parks,Andrew Vaughn,Changeup,74.3,Intentional Ball,-
+8,72,3,Elijah Parks,Andrew Vaughn,Changeup,73.6,Intentional Ball,-
+8,72,4,Elijah Parks,Andrew Vaughn,Changeup,74.1,Intentional Ball,-
+8,73,1,Elijah Parks,Tanner Dodson,Slider,71.6,Swinging Strike,-
+8,73,2,Elijah Parks,Tanner Dodson,2 Seam,81.5,Ball,-
+8,73,3,Elijah Parks,Tanner Dodson,Changeup,72.6,Swinging Strike,-
+8,73,4,Elijah Parks,Tanner Dodson,Changeup,76,Ball,-
+8,73,5,Elijah Parks,Tanner Dodson,Slider,72.3,Foul,-
+8,73,6,Elijah Parks,Tanner Dodson,Changeup,73.8,Ball,-
+8,73,7,Elijah Parks,Tanner Dodson,Changeup,73.1,Foul,-
+8,73,8,Elijah Parks,Tanner Dodson,2 Seam,85.2,Foul,-
+8,73,9,Elijah Parks,Tanner Dodson,Changeup,73.7,Foul,-
+8,73,10,Elijah Parks,Tanner Dodson,2 Seam,85.6,Called Strike,-
+9,74,1,Tanner Dodson,Noah Barba,2 Seam,91.6,Called Strike,-
+9,74,2,Tanner Dodson,Noah Barba,Curve,83.6,Ball,-
+9,74,3,Tanner Dodson,Noah Barba,Slider,82.7,Called Strike,-
+9,74,4,Tanner Dodson,Noah Barba,Slider,83,Swinging Strike,-
+9,75,1,Tanner Dodson,Evan Berkey,2 Seam,93.2,Ball,-
+9,75,2,Tanner Dodson,Evan Berkey,2 Seam,92.8,Called Strike,-
+9,75,3,Tanner Dodson,Evan Berkey,Curve,83.9,Foul,-
+9,75,4,Tanner Dodson,Evan Berkey,2 Seam,93.8,Foul,-
+9,75,5,Tanner Dodson,Evan Berkey,Curve,83.8,Hit Into Play - Out,-
+9,76,1,Tanner Dodson,Hank Schineller,2 Seam,93.2,Ball,-
+9,76,2,Tanner Dodson,Hank Schineller,2 Seam,92.6,Swinging Strike,-
+9,76,3,Tanner Dodson,Hank Schineller,2 Seam,93.1,Ball,-
+9,76,4,Tanner Dodson,Hank Schineller,2 Seam,91,Ball,-
+9,76,5,Tanner Dodson,Hank Schineller,2 Seam,91,Swinging Strike,-
+9,76,6,Tanner Dodson,Hank Schineller,2 Seam,91.5,Swinging Strike,-

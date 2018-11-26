@@ -1,0 +1,310 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Matt Ladrech,Mason Cerillo,2 Seam,81.5,Ball,-
+1,1,2,Matt Ladrech,Mason Cerillo,Cutter,80.3,Called Strike,-
+1,1,3,Matt Ladrech,Mason Cerillo,Cutter,74.7,Swinging Strike,-
+1,1,4,Matt Ladrech,Mason Cerillo,Curve,67.2,Hit Into Play - Out,-
+1,2,1,Matt Ladrech,Levi Jordan,4 Seam,80.8,Hit Into Play,-
+1,3,1,Matt Ladrech,Nick Kahle,Changeup,73.8,Hit Into Play - Out,-
+1,4,1,Lucas Knowles,Tyrus Greene,4 Seam,85.1,Hit Into Play - Run Scored,-
+1,5,1,Lucas Knowles,Tanner Dodson,4 Seam,86.4,Hit Into Play,-
+1,6,1,Lucas Knowles,Andrew Vaughn,Curve,71,Called Strike,-
+1,6,2,Lucas Knowles,Andrew Vaughn,Curve,71.4,Ball,-
+1,6,3,Lucas Knowles,Andrew Vaughn,Curve,70.4,Ball,-
+1,6,4,Lucas Knowles,Andrew Vaughn,Cutter,78.9,Ball,-
+1,6,5,Lucas Knowles,Andrew Vaughn,Curve,70.7,Ball,-
+1,7,1,Lucas Knowles,Jonah Davis,Cutter,77.4,Ball,-
+1,7,2,Lucas Knowles,Jonah Davis,Changeup,76.6,Ball,-
+1,7,3,Lucas Knowles,Jonah Davis,4 Seam,84.5,Foul,-
+1,7,4,Lucas Knowles,Jonah Davis,Changeup,77.7,Foul,-
+1,7,5,Lucas Knowles,Jonah Davis,4 Seam,85,Hit By Pitch,-
+1,8,1,Lucas Knowles,Jeff Mitchell Jr,Changeup,77.8,Ball,-
+1,8,2,Lucas Knowles,Jeff Mitchell Jr,4 Seam,83.8,Foul,-
+1,8,3,Lucas Knowles,Jeff Mitchell Jr,Changeup,78.1,Called Strike,-
+1,8,4,Lucas Knowles,Jeff Mitchell Jr,Changeup,77.8,Ball,-
+1,8,5,Lucas Knowles,Jeff Mitchell Jr,Cutter,78.1,Foul,-
+1,8,6,Lucas Knowles,Jeff Mitchell Jr,4 Seam,85.3,Called Strike,-
+1,9,1,Lucas Knowles,Max Flower,Slider,76.6,Hit Into Play - Run Scored,-
+1,10,1,Lucas Knowles,Darren Baker,4 Seam,84.2,Called Strike,-
+1,10,2,Lucas Knowles,Darren Baker,2 Seam,84.7,Ball,-
+1,10,3,Lucas Knowles,Darren Baker,4 Seam,85.1,Ball,-
+1,10,4,Lucas Knowles,Darren Baker,4 Seam,83.8,Hit Into Play - Run Scored,95
+1,11,1,Lucas Knowles,Sam Wezniak,Changeup,76.8,Swinging Strike,-
+1,11,2,Lucas Knowles,Sam Wezniak,Changeup,76.5,Swinging Strike,-
+1,11,3,Lucas Knowles,Sam Wezniak,Changeup,74.1,Ball,-
+1,11,4,Lucas Knowles,Sam Wezniak,4 Seam,86.6,Foul,-
+1,11,5,Lucas Knowles,Sam Wezniak,Changeup,75,Ball,-
+1,11,6,Lucas Knowles,Sam Wezniak,Changeup,77.2,Hit Into Play - Out,-
+2,12,1,Matt Ladrech,Willie MacIver,Changeup,73.8,Ball,-
+2,12,2,Matt Ladrech,Willie MacIver,2 Seam,80.5,Called Strike,-
+2,12,3,Matt Ladrech,Willie MacIver,2 Seam,80.3,Ball,-
+2,12,4,Matt Ladrech,Willie MacIver,Cutter,71.3,Called Strike,-
+2,12,5,Matt Ladrech,Willie MacIver,Cutter,72,Swinging Strike,-
+2,13,1,Matt Ladrech,Joe Wainhouse,4 Seam,80.5,Hit Into Play - Out,-
+2,14,1,Matt Ladrech,AJ Graffanino,4 Seam,80.8,Called Strike,-
+2,14,2,Matt Ladrech,AJ Graffanino,Curve,65.7,Hit Into Play,69
+2,15,1,Matt Ladrech,Jonathan Schiffer,Cutter,80.8,Ball,-
+2,15,2,Matt Ladrech,Jonathan Schiffer,Changeup,79.2,Ball,-
+2,15,3,Matt Ladrech,Jonathan Schiffer,Cutter,77.8,Foul,47.1
+2,16,1,Lucas Knowles,Cameron Eden,Changeup,77,Called Strike,-
+2,16,2,Lucas Knowles,Cameron Eden,Slider,73.6,Ball,-
+2,16,3,Lucas Knowles,Cameron Eden,4 Seam,77.7,Ball,-
+2,16,4,Lucas Knowles,Cameron Eden,4 Seam,83.5,Ball,-
+2,16,5,Lucas Knowles,Cameron Eden,4 Seam,83.6,Hit Into Play - Out,87.3
+2,17,1,Lucas Knowles,Tyrus Greene,Slider,78.6,Called Strike,-
+2,17,2,Lucas Knowles,Tyrus Greene,Slider,76.1,Ball,-
+2,17,3,Lucas Knowles,Tyrus Greene,Cutter,78.4,Called Strike,-
+2,17,4,Lucas Knowles,Tyrus Greene,4 Seam,86.5,Hit Into Play - Out,52
+2,18,1,Lucas Knowles,Tanner Dodson,4 Seam,86.8,Called Strike,-
+2,18,2,Lucas Knowles,Tanner Dodson,Changeup,77.4,Ball,-
+2,18,3,Lucas Knowles,Tanner Dodson,Changeup,78.1,Swinging Strike,-
+2,18,4,Lucas Knowles,Tanner Dodson,Changeup,77.5,Foul,-
+2,18,5,Lucas Knowles,Tanner Dodson,4 Seam,87,Hit Into Play - Out,100.3
+3,19,1,Matt Ladrech,Christian Jones,Changeup,79.7,Hit Into Play - Out,98.2
+3,20,1,Matt Ladrech,Braiden Ward,4 Seam,79,Called Strike,-
+3,20,2,Matt Ladrech,Braiden Ward,Curve,66.5,Hit Into Play - Out,55.8
+3,21,1,Matt Ladrech,Mason Cerillo,Cutter,79.3,Called Strike,-
+3,21,2,Matt Ladrech,Mason Cerillo,Cutter,73.6,Foul,-
+3,21,3,Matt Ladrech,Mason Cerillo,Curve,68.8,Ball,-
+3,21,4,Matt Ladrech,Mason Cerillo,Slider,73.4,Foul,-
+3,21,5,Matt Ladrech,Mason Cerillo,4 Seam,80.9,Foul,-
+3,21,6,Matt Ladrech,Mason Cerillo,4 Seam,79.7,Hit Into Play,74.4
+3,22,1,Matt Ladrech,Levi Jordan,Changeup,71.6,Called Strike,-
+3,22,2,Matt Ladrech,Levi Jordan,Cutter,73.2,Foul,76.9
+3,22,3,Matt Ladrech,Levi Jordan,4 Seam,80.9,Foul,91.8
+3,22,4,Matt Ladrech,Levi Jordan,4 Seam,81.6,Called Strike,-
+3,23,1,Lucas Knowles,Andrew Vaughn,4 Seam,84,Ball,-
+3,23,2,Lucas Knowles,Andrew Vaughn,4 Seam,84.3,Ball,-
+3,23,3,Lucas Knowles,Andrew Vaughn,Changeup,78.2,Called Strike,-
+3,23,4,Lucas Knowles,Andrew Vaughn,Changeup,78.1,Hit Into Play - Out,86.3
+3,24,1,Lucas Knowles,Jonah Davis,Slider,79.3,Called Strike,-
+3,24,2,Lucas Knowles,Jonah Davis,Slider,78.4,Hit Into Play,71.1
+3,25,1,Lucas Knowles,Jeff Mitchell Jr,Changeup,77.2,Hit Into Play,89
+3,26,1,Lucas Knowles,Max Flower,4 Seam,84,Ball,-
+3,26,2,Lucas Knowles,Max Flower,Slider,78.3,Ball,-
+3,26,3,Lucas Knowles,Max Flower,4 Seam,84.3,Foul,79
+3,26,4,Lucas Knowles,Max Flower,4 Seam,83.7,Foul,83.2
+3,26,5,Lucas Knowles,Max Flower,Slider,78.4,Foul,-
+3,26,6,Lucas Knowles,Max Flower,4 Seam,85.6,Foul,-
+3,26,7,Lucas Knowles,Max Flower,Cutter,85.1,Foul,-
+3,26,8,Lucas Knowles,Max Flower,Cutter,78,Swinging Strike,-
+3,27,1,Lucas Knowles,Darren Baker,Cutter,77.3,Ball,-
+3,27,2,Lucas Knowles,Darren Baker,Slider,77.6,Called Strike,-
+3,27,3,Lucas Knowles,Darren Baker,4 Seam,84.5,Called Strike,-
+3,27,4,Lucas Knowles,Darren Baker,4 Seam,85.9,Ball,-
+3,27,5,Lucas Knowles,Darren Baker,Cutter,77.4,Called Strike,-
+4,28,1,Matt Ladrech,Nick Kahle,Cutter,72.8,Swinging Strike,-
+4,28,2,Matt Ladrech,Nick Kahle,Changeup,73.9,Ball,-
+4,28,3,Matt Ladrech,Nick Kahle,4 Seam,79.7,Called Strike,-
+4,28,4,Matt Ladrech,Nick Kahle,4 Seam,80.3,Hit Into Play,92.7
+4,29,1,Matt Ladrech,Willie MacIver,2 Seam,80.6,Ball,-
+4,29,2,Matt Ladrech,Willie MacIver,Changeup,74.1,Hit Into Play,82.9
+4,30,1,Matt Ladrech,Joe Wainhouse,4 Seam,79.8,Hit Into Play - Run Scored,104.8
+4,31,1,Matt Ladrech,AJ Graffanino,Cutter,79.9,Called Strike,-
+4,31,2,Matt Ladrech,AJ Graffanino,Slider,71.9,Called Strike,-
+4,31,3,Matt Ladrech,AJ Graffanino,4 Seam,81.8,Ball,-
+4,31,4,Matt Ladrech,AJ Graffanino,4 Seam,80.8,Ball,-
+4,31,5,Matt Ladrech,AJ Graffanino,Slider,70.6,Hit Into Play - Out,71.3
+4,32,1,Matt Ladrech,Jonathan Schiffer,Changeup,71.9,Hit Into Play - Run Scored,82.5
+4,33,1,Matt Ladrech,Christian Jones,Cutter,80.5,Swinging Strike,-
+4,33,2,Matt Ladrech,Christian Jones,Changeup,73.5,Hit Into Play,83.9
+4,34,1,Matt Ladrech,Braiden Ward,Cutter,80.2,Ball,-
+4,34,2,Matt Ladrech,Braiden Ward,Cutter,79.8,Ball,-
+4,34,3,Matt Ladrech,Braiden Ward,Cutter,79.4,Hit Into Play - Run Scored,90.5
+4,35,1,Matt Ladrech,Mason Cerillo,Slider,67.4,Called Strike,-
+4,35,2,Matt Ladrech,Mason Cerillo,Cutter,71.3,Ball,-
+4,35,3,Matt Ladrech,Mason Cerillo,2 Seam,80.7,Called Strike,-
+4,35,4,Matt Ladrech,Mason Cerillo,4 Seam,81.8,Ball,-
+4,35,5,Matt Ladrech,Mason Cerillo,Curve,67.9,Swinging Strike,-
+4,36,1,Lucas Knowles,Sam Wezniak,Changeup,76.2,Ball,-
+4,36,2,Lucas Knowles,Sam Wezniak,Changeup,77.2,Called Strike,-
+4,36,3,Lucas Knowles,Sam Wezniak,Cutter,75.9,Hit Into Play,96.3
+4,37,1,Lucas Knowles,Cameron Eden,Changeup,77,Ball,-
+4,37,2,Lucas Knowles,Cameron Eden,2 Seam,83.2,Ball,-
+4,37,3,Lucas Knowles,Cameron Eden,4 Seam,82.9,Called Strike,-
+4,37,4,Lucas Knowles,Cameron Eden,Changeup,76.7,Ball,-
+4,37,5,Lucas Knowles,Cameron Eden,4 Seam,83.2,Called Strike,-
+4,37,6,Lucas Knowles,Cameron Eden,4 Seam,84.7,Ball,-
+4,38,1,Lucas Knowles,Tyrus Greene,4 Seam,84.7,Called Strike,-
+4,38,2,Lucas Knowles,Tyrus Greene,4 Seam,83.9,Ball,-
+4,38,3,Lucas Knowles,Tyrus Greene,Slider,76.3,Ball,-
+4,38,4,Lucas Knowles,Tyrus Greene,4 Seam,83.9,Hit Into Play - Out,103.7
+4,39,1,Dylan Lamb,Tanner Dodson,Curve,71,Foul,47.9
+4,39,2,Dylan Lamb,Tanner Dodson,Changeup,79,Ball,-
+4,39,3,Dylan Lamb,Tanner Dodson,Slider,70.2,Foul,58
+4,39,4,Dylan Lamb,Tanner Dodson,Changeup,79.9,Foul,-
+4,39,5,Dylan Lamb,Tanner Dodson,Changeup,76.6,Foul,82
+4,39,6,Dylan Lamb,Tanner Dodson,Changeup,78.4,Hit Into Play - Run Scored,71.3
+4,40,1,Dylan Lamb,Andrew Vaughn,Changeup,78.4,Ball,-
+4,40,2,Dylan Lamb,Andrew Vaughn,Changeup,77.9,Ball,-
+4,40,3,Dylan Lamb,Andrew Vaughn,Slider,71.1,Ball,-
+4,40,4,Dylan Lamb,Andrew Vaughn,Slider,70,Called Strike,-
+4,40,5,Dylan Lamb,Andrew Vaughn,Changeup,78.8,Hit Into Play - Out,68.8
+5,41,1,Matt Ladrech,Levi Jordan,2 Seam,79.6,Called Strike,-
+5,41,2,Matt Ladrech,Levi Jordan,Changeup,80,Ball,-
+5,41,3,Matt Ladrech,Levi Jordan,Cutter,71.6,Hit Into Play - Out,78
+5,42,1,Matt Ladrech,Nick Kahle,Changeup,73.1,Ball,-
+5,42,2,Matt Ladrech,Nick Kahle,Cutter,71.5,Foul,95.3
+5,42,3,Matt Ladrech,Nick Kahle,4 Seam,78.7,Ball,-
+5,42,4,Matt Ladrech,Nick Kahle,2 Seam,80.1,Ball,-
+5,42,5,Matt Ladrech,Nick Kahle,Changeup,78.1,Ball,-
+5,43,1,Matt Ladrech,Willie MacIver,4 Seam,79.9,Ball,-
+5,43,2,Matt Ladrech,Willie MacIver,4 Seam,80.7,Hit Into Play,98
+5,44,1,Zayne Patino,Joe Wainhouse,Slider,72.3,Swinging Strike,-
+5,44,2,Zayne Patino,Joe Wainhouse,Slider,72.8,Swinging Strike,-
+5,44,3,Zayne Patino,Joe Wainhouse,Slider,75.2,Ball,-
+5,44,4,Zayne Patino,Joe Wainhouse,Cutter,75.1,Hit Into Play - Out,80.5
+5,45,1,Zayne Patino,AJ Graffanino,4 Seam,83.6,Foul,45.5
+5,45,2,Zayne Patino,AJ Graffanino,Curve,73.8,Hit Into Play - Out,45.1
+5,46,1,Stevie Emanuels,Jonah Davis,2 Seam,88.4,Ball,-
+5,46,2,Stevie Emanuels,Jonah Davis,2 Seam,87.9,Called Strike,-
+5,46,3,Stevie Emanuels,Jonah Davis,2 Seam,88.2,Ball,-
+5,46,4,Stevie Emanuels,Jonah Davis,2 Seam,87,Hit By Pitch,-
+5,47,1,Stevie Emanuels,Jeff Mitchell Jr,2 Seam,88.6,Hit Into Play - Out,68
+5,48,1,Stevie Emanuels,Max Flower,2 Seam,90,Called Strike,-
+5,48,2,Stevie Emanuels,Max Flower,2 Seam,89.3,Foul,-
+5,48,3,Stevie Emanuels,Max Flower,Slider,79,Ball,-
+5,48,4,Stevie Emanuels,Max Flower,2 Seam,89.7,Foul,96.8
+5,48,5,Stevie Emanuels,Max Flower,2 Seam,89,Ball,-
+5,48,6,Stevie Emanuels,Max Flower,2 Seam,87.9,Hit Into Play - Run Scored,81.8
+5,49,1,Stevie Emanuels,Darren Baker,2 Seam,88.1,Ball,-
+5,49,2,Stevie Emanuels,Darren Baker,2 Seam,88.7,Foul,81.1
+5,49,3,Stevie Emanuels,Darren Baker,2 Seam,88.6,Hit Into Play,44.2
+5,50,1,Stevie Emanuels,Sam Wezniak,2 Seam,86.8,Ball,-
+5,50,2,Stevie Emanuels,Sam Wezniak,2 Seam,87.8,Ball,-
+5,50,3,Stevie Emanuels,Sam Wezniak,2 Seam,86.5,Called Strike,-
+5,50,4,Stevie Emanuels,Sam Wezniak,2 Seam,86.8,Hit Into Play - Out,99.9
+5,51,1,Stevie Emanuels,Cameron Eden,2 Seam,85.7,Ball,-
+5,51,2,Stevie Emanuels,Cameron Eden,2 Seam,87.1,Ball,-
+5,51,3,Stevie Emanuels,Cameron Eden,2 Seam,86.4,Ball,-
+5,51,4,Stevie Emanuels,Cameron Eden,2 Seam,87.5,Called Strike,-
+5,51,5,Stevie Emanuels,Cameron Eden,2 Seam,88.2,Hit Into Play - Run Scored,95.8
+5,52,1,Stevie Emanuels,Tyrus Greene,Slider,77.7,Ball,-
+5,52,2,Stevie Emanuels,Tyrus Greene,2 Seam,87,Called Strike,-
+5,52,3,Stevie Emanuels,Tyrus Greene,Changeup,80,Ball,-
+5,52,4,Stevie Emanuels,Tyrus Greene,2 Seam,88.2,Foul,-
+5,52,5,Stevie Emanuels,Tyrus Greene,Slider,78.1,Ball,-
+5,52,6,Stevie Emanuels,Tyrus Greene,2 Seam,89.3,Hit Into Play - Out,97.9
+6,53,1,Zayne Patino,Jonathan Schiffer,4 Seam,81.8,Ball,-
+6,53,2,Zayne Patino,Jonathan Schiffer,4 Seam,81.1,Ball,-
+6,53,3,Zayne Patino,Jonathan Schiffer,4 Seam,81.7,Called Strike,-
+6,53,4,Zayne Patino,Jonathan Schiffer,4 Seam,81.5,Hit Into Play - Out,84.6
+6,54,1,Zayne Patino,Christian Jones,4 Seam,81.6,Called Strike,-
+6,54,2,Zayne Patino,Christian Jones,Slider,74.8,Hit Into Play - Out,65.4
+6,55,1,Zayne Patino,Braiden Ward,Slider,72.4,Called Strike,-
+6,55,2,Zayne Patino,Braiden Ward,Cutter,74.7,Foul,-
+6,55,3,Zayne Patino,Braiden Ward,Cutter,84.3,Called Strike,-
+6,56,1,Stevie Emanuels,Tanner Dodson,Changeup,80.9,Hit Into Play - Out,64.9
+6,57,1,Stevie Emanuels,Andrew Vaughn,2 Seam,87.5,Called Strike,-
+6,57,2,Stevie Emanuels,Andrew Vaughn,2 Seam,88.1,Ball,-
+6,57,3,Stevie Emanuels,Andrew Vaughn,2 Seam,88.5,Hit Into Play,84
+6,58,1,Stevie Emanuels,Jonah Davis,2 Seam,87.7,Called Strike,-
+6,58,2,Stevie Emanuels,Jonah Davis,Changeup,79.9,Swinging Strike,-
+6,58,3,Stevie Emanuels,Jonah Davis,Changeup,79.1,Hit Into Play,103.1
+7,60,1,Zayne Patino,Mason Cerillo,4 Seam,80.3,Called Strike,-
+7,60,2,Zayne Patino,Mason Cerillo,4 Seam,82.9,Hit Into Play - Out,62.7
+7,61,1,Zayne Patino,Levi Jordan,Slider,74.7,Ball,-
+7,61,2,Zayne Patino,Levi Jordan,4 Seam,84.5,Ball,-
+7,61,3,Zayne Patino,Levi Jordan,4 Seam,83.1,Ball,-
+7,61,4,Zayne Patino,Levi Jordan,4 Seam,82.4,Called Strike,-
+7,61,5,Zayne Patino,Levi Jordan,4 Seam,83,Foul,-
+7,61,6,Zayne Patino,Levi Jordan,Cutter,85,Foul,81
+7,61,7,Zayne Patino,Levi Jordan,4 Seam,84,Hit Into Play - Out,43.9
+7,62,1,Zayne Patino,Nick Kahle,Cutter,84.8,Ball,-
+7,62,2,Zayne Patino,Nick Kahle,4 Seam,82.9,Foul,-
+7,62,3,Zayne Patino,Nick Kahle,Changeup,77.8,Ball,-
+7,62,4,Zayne Patino,Nick Kahle,4 Seam,85.5,Ball,-
+7,62,5,Zayne Patino,Nick Kahle,4 Seam,84.1,Ball,-
+7,63,1,Zayne Patino,Willie MacIver,Changeup,76.9,Ball,-
+7,63,2,Zayne Patino,Willie MacIver,4 Seam,83.2,Called Strike,-
+7,63,3,Zayne Patino,Willie MacIver,Slider,77,Ball,-
+7,63,4,Zayne Patino,Willie MacIver,4 Seam,83.8,Ball,-
+7,63,5,Zayne Patino,Willie MacIver,4 Seam,84.3,Ball,-
+7,64,1,Zayne Patino,Joe Wainhouse,4 Seam,83.8,Ball,-
+7,64,2,Zayne Patino,Joe Wainhouse,Slider,75.8,Ball,-
+7,64,3,Zayne Patino,Joe Wainhouse,4 Seam,83.3,Hit Into Play - Run Scored,64.5
+7,65,1,Zayne Patino,Jack Johnson,Cutter,84.5,Called Strike,-
+7,65,2,Zayne Patino,Jack Johnson,Cutter,84.9,Called Strike,-
+7,65,3,Zayne Patino,Jack Johnson,Changeup,77.5,Hit Into Play - Out,70.5
+7,66,1,Stevie Emanuels,Jeff Mitchell Jr,2 Seam,85.3,Ball,-
+7,66,2,Stevie Emanuels,Jeff Mitchell Jr,2 Seam,85.7,Foul,-
+7,66,3,Stevie Emanuels,Jeff Mitchell Jr,2 Seam,86,Ball,-
+7,66,4,Stevie Emanuels,Jeff Mitchell Jr,2 Seam,85.9,Hit Into Play,96.5
+7,67,1,Stevie Emanuels,Max Flower,2 Seam,86.1,Foul,-
+7,67,2,Stevie Emanuels,Max Flower,2 Seam,87.1,Ball,-
+7,67,3,Stevie Emanuels,Max Flower,2 Seam,86.1,Foul,-
+7,67,4,Stevie Emanuels,Max Flower,Slider,76.3,Called Strike,-
+7,68,1,Stevie Emanuels,Darren Baker,2 Seam,87.1,Foul,67.8
+7,68,2,Stevie Emanuels,Darren Baker,2 Seam,86.6,Ball,-
+7,68,3,Stevie Emanuels,Darren Baker,Changeup,80.3,Ball,-
+7,68,4,Stevie Emanuels,Darren Baker,Changeup,82.5,Foul,60.5
+7,68,5,Stevie Emanuels,Darren Baker,2 Seam,87.8,Foul,-
+7,68,6,Stevie Emanuels,Darren Baker,2 Seam,88.1,Hit Into Play - Out,62.7
+7,69,1,Leo Nierenberg,Sam Wezniak,Slider,79.6,Ball,-
+7,69,2,Leo Nierenberg,Sam Wezniak,Slider,78.6,Called Strike,-
+7,69,3,Leo Nierenberg,Sam Wezniak,Slider,79.3,Ball,-
+7,69,4,Leo Nierenberg,Sam Wezniak,Slider,78.8,Ball,-
+7,69,5,Leo Nierenberg,Sam Wezniak,Slider,78.4,Ball,-
+7,70,1,Leo Nierenberg,Cameron Eden,2 Seam,87.9,Foul,-
+7,70,2,Leo Nierenberg,Cameron Eden,Cutter,79.1,Ball,-
+7,70,3,Leo Nierenberg,Cameron Eden,2 Seam,87,Ball,-
+7,70,4,Leo Nierenberg,Cameron Eden,Slider,77.4,Ball,-
+7,70,5,Leo Nierenberg,Cameron Eden,2 Seam,86.6,Ball,-
+7,71,1,Chris Micheles,Tyrus Greene,4 Seam,84.1,Called Strike,-
+7,71,2,Chris Micheles,Tyrus Greene,4 Seam,85.6,Hit Into Play - Out,92.3
+8,72,1,Joey Matulovich,Jonathan Schiffer,2 Seam,86.6,Ball,-
+8,72,2,Joey Matulovich,Jonathan Schiffer,2 Seam,86.8,Ball,-
+8,72,3,Joey Matulovich,Jonathan Schiffer,2 Seam,86.3,Hit Into Play - Out,86
+8,73,1,Joey Matulovich,Christian Jones,2 Seam,86.2,Swinging Strike,-
+8,73,2,Joey Matulovich,Christian Jones,Slider,77.2,Foul,-
+8,73,3,Joey Matulovich,Christian Jones,2 Seam,86.5,Ball,-
+8,73,4,Joey Matulovich,Christian Jones,2 Seam,88.8,Swinging Strike,-
+8,74,1,Joey Matulovich,Braiden Ward,2 Seam,86.3,Ball,-
+8,74,2,Joey Matulovich,Braiden Ward,2 Seam,85.9,Called Strike,-
+8,74,3,Joey Matulovich,Braiden Ward,2 Seam,85.3,Ball,-
+8,74,4,Joey Matulovich,Braiden Ward,2 Seam,86.1,Swinging Strike,-
+8,74,5,Joey Matulovich,Braiden Ward,2 Seam,88.9,Foul,-
+8,74,6,Joey Matulovich,Braiden Ward,2 Seam,87.4,Swinging Strike,-
+8,75,1,Chris Micheles,Tanner Dodson,Slider,78.4,Ball,-
+8,75,2,Chris Micheles,Tanner Dodson,4 Seam,84.3,Ball,-
+8,75,3,Chris Micheles,Tanner Dodson,4 Seam,84.2,Called Strike,-
+8,75,4,Chris Micheles,Tanner Dodson,4 Seam,85.1,Ball,-
+8,75,5,Chris Micheles,Tanner Dodson,4 Seam,84.6,Ball,-
+8,76,1,Chris Micheles,Andrew Vaughn,4 Seam,85,Ball,-
+8,76,2,Chris Micheles,Andrew Vaughn,4 Seam,85.6,Foul,92
+8,76,3,Chris Micheles,Andrew Vaughn,4 Seam,83.8,Hit Into Play,97.5
+8,77,1,Chris Micheles,Jonah Davis,Cutter,83.7,Called Strike,-
+8,77,2,Chris Micheles,Jonah Davis,Curve,70.7,Ball,-
+8,77,3,Chris Micheles,Jonah Davis,4 Seam,84.4,Ball,-
+8,77,4,Chris Micheles,Jonah Davis,4 Seam,84.8,Swinging Strike,-
+8,77,5,Chris Micheles,Jonah Davis,4 Seam,85,Foul,85.6
+8,77,6,Chris Micheles,Jonah Davis,Cutter,84.5,Foul,-
+8,77,7,Chris Micheles,Jonah Davis,4 Seam,85.3,Foul,-
+8,77,8,Chris Micheles,Jonah Davis,4 Seam,84.7,Ball,-
+8,77,9,Chris Micheles,Jonah Davis,4 Seam,85.2,Called Strike,-
+8,78,1,Chris Micheles,Jeff Mitchell Jr,Cutter,68.9,Intentional Ball,-
+8,78,2,Chris Micheles,Jeff Mitchell Jr,Cutter,66.2,Intentional Ball,-
+8,78,3,Chris Micheles,Jeff Mitchell Jr,Changeup,67.2,Intentional Ball,-
+8,78,4,Chris Micheles,Jeff Mitchell Jr,Cutter,66.9,Intentional Ball,-
+8,79,1,Chris Micheles,Max Flower,Cutter,85,Called Strike,-
+8,79,2,Chris Micheles,Max Flower,4 Seam,84.5,Hit Into Play - Run Scored,60.5
+8,80,1,Chris Micheles,Darren Baker,4 Seam,85.1,Called Strike,-
+8,80,2,Chris Micheles,Darren Baker,4 Seam,85.6,Hit Into Play - Out,31.8
+9,81,1,Joey Matulovich,Mason Cerillo,2 Seam,85.5,Ball,-
+9,81,2,Joey Matulovich,Mason Cerillo,2 Seam,86.3,Ball,-
+9,81,3,Joey Matulovich,Mason Cerillo,2 Seam,87.2,Called Strike,-
+9,81,4,Joey Matulovich,Mason Cerillo,4 Seam,87.6,Foul,-
+9,81,5,Joey Matulovich,Mason Cerillo,2 Seam,88.2,Ball,-
+9,81,6,Joey Matulovich,Mason Cerillo,2 Seam,85.7,Swinging Strike,-
+9,82,1,Erik Martinez,Michael Petri,Cutter,80.1,Called Strike,-
+9,82,2,Erik Martinez,Michael Petri,Cutter,82.6,Swinging Strike,-
+9,82,3,Erik Martinez,Michael Petri,4 Seam,82.2,Ball,-
+9,82,4,Erik Martinez,Michael Petri,Cutter,82.5,Swinging Strike,-
+9,83,1,Erik Martinez,KJ Brady,Cutter,80.7,Ball,-
+9,83,2,Erik Martinez,KJ Brady,Cutter,83,Ball,-
+9,83,3,Erik Martinez,KJ Brady,4 Seam,81.4,Called Strike,-
+9,83,4,Erik Martinez,KJ Brady,Cutter,80.7,Ball,-
+9,83,5,Erik Martinez,KJ Brady,4 Seam,80.9,Ball,-
+9,84,1,Erik Martinez,Kaiser Weiss,Cutter,83.2,Called Strike,-
+9,84,2,Erik Martinez,Kaiser Weiss,Cutter,81.7,Called Strike,-
+9,84,3,Erik Martinez,Kaiser Weiss,Curve,73.5,Ball,-
+9,84,4,Erik Martinez,Kaiser Weiss,Curve,74,Hit Into Play - Out,76.2

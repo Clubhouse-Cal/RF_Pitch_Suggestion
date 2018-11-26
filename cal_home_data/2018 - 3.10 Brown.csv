@@ -1,0 +1,339 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Aaron Shortridge,Sam Grigo,2 Seam,89.3,Called Strike,-
+1,1,2,Aaron Shortridge,Sam Grigo,Changeup,81.5,Foul,-
+1,1,3,Aaron Shortridge,Sam Grigo,4 Seam,89.6,Ball,-
+1,1,4,Aaron Shortridge,Sam Grigo,2 Seam,89.9,Called Strike,-
+1,2,1,Aaron Shortridge,Louis Gaitley,4 Seam,90.4,Swinging Strike,-
+1,2,2,Aaron Shortridge,Louis Gaitley,Changeup,78,Called Strike,-
+1,2,3,Aaron Shortridge,Louis Gaitley,4 Seam,90.5,Ball,-
+1,2,4,Aaron Shortridge,Louis Gaitley,Curve,76.4,Called Strike,-
+1,3,1,Aaron Shortridge,Cameron Deere,4 Seam,89.9,Ball,-
+1,3,2,Aaron Shortridge,Cameron Deere,4 Seam,89.5,Called Strike,-
+1,3,3,Aaron Shortridge,Cameron Deere,4 Seam,90.8,Swinging Strike,-
+1,3,4,Aaron Shortridge,Cameron Deere,Curve,78.1,Called Strike,-
+1,4,1,Garett Delano,Tyrus Greene,2 Seam,83.4,Hit Into Play - Out,77
+1,5,1,Garett Delano,Darren Baker,2 Seam,85,Hit Into Play - Out,67.6
+1,6,1,Garett Delano,Andrew Vaughn,2 Seam,85.2,Ball,-
+1,6,2,Garett Delano,Andrew Vaughn,2 Seam,84.9,Ball,-
+1,6,3,Garett Delano,Andrew Vaughn,2 Seam,83.8,Called Strike,-
+1,6,4,Garett Delano,Andrew Vaughn,2 Seam,85.8,Called Strike,-
+1,6,5,Garett Delano,Andrew Vaughn,Curve,73.3,Swinging Strike,-
+2,7,1,Aaron Shortridge,Mark Sluys,2 Seam,89.5,Hit Into Play - Out,44.5
+2,8,1,Aaron Shortridge,Willy Homza,2 Seam,88.8,Called Strike,-
+2,8,2,Aaron Shortridge,Willy Homza,Changeup,80.4,Hit Into Play,96.5
+2,9,1,Aaron Shortridge,Richard Ciufo,2 Seam,88.9,Called Strike,-
+2,9,2,Aaron Shortridge,Richard Ciufo,4 Seam,89.5,Foul,-
+2,9,3,Aaron Shortridge,Richard Ciufo,4 Seam,90.9,Ball,-
+2,9,4,Aaron Shortridge,Richard Ciufo,Curve,78.5,Swinging Strike,-
+2,10,1,Aaron Shortridge,Garett Delano,2 Seam,90.7,Called Strike,-
+2,10,2,Aaron Shortridge,Garett Delano,2 Seam,90.5,Called Strike,-
+2,10,3,Aaron Shortridge,Garett Delano,2 Seam,91.1,Foul,-
+2,10,4,Aaron Shortridge,Garett Delano,Slider,77.1,Hit Into Play - Out,93.2
+2,11,1,Garett Delano,Tanner Dodson,2 Seam,84.3,Swinging Strike,-
+2,11,2,Garett Delano,Tanner Dodson,Changeup,73.2,Ball,-
+2,11,3,Garett Delano,Tanner Dodson,2 Seam,84.6,Hit Into Play - Out,75.1
+2,12,1,Garett Delano,Jonah Davis,2 Seam,85.3,Ball,-
+2,12,2,Garett Delano,Jonah Davis,2 Seam,83.6,Ball,-
+2,12,3,Garett Delano,Jonah Davis,2 Seam,83.6,Called Strike,-
+2,12,4,Garett Delano,Jonah Davis,2 Seam,83.6,Foul,-
+2,12,5,Garett Delano,Jonah Davis,Curve,72.4,Swinging Strike,-
+2,13,1,Garett Delano,Korey Lee,2 Seam,85.2,Called Strike,-
+2,13,2,Garett Delano,Korey Lee,Curve,73.1,Ball,-
+2,13,3,Garett Delano,Korey Lee,2 Seam,84.8,Foul,-
+2,13,4,Garett Delano,Korey Lee,2 Seam,85.7,Ball,-
+2,13,5,Garett Delano,Korey Lee,Curve,72.6,Swinging Strike,-
+3,14,1,Aaron Shortridge,Calvin Farris,2 Seam,87.6,Called Strike,-
+3,14,2,Aaron Shortridge,Calvin Farris,2 Seam,89.5,Swinging Strike,-
+3,14,3,Aaron Shortridge,Calvin Farris,2 Seam,89.1,Foul,-
+3,14,4,Aaron Shortridge,Calvin Farris,Curve,77.8,Ball,-
+3,14,5,Aaron Shortridge,Calvin Farris,2 Seam,90.5,Foul,-
+3,14,6,Aaron Shortridge,Calvin Farris,Slider,77.4,Hit Into Play - Out,82.4
+3,15,1,Aaron Shortridge,Joe Lomuscio,2 Seam,89.2,Ball,-
+3,15,2,Aaron Shortridge,Joe Lomuscio,4 Seam,88.6,Hit Into Play - Out,86.8
+3,16,1,Aaron Shortridge,Sam Grigo,2 Seam,90,Hit Into Play - Out,67.6
+3,17,1,Garett Delano,Sam Wezniak,Changeup,80.6,Ball,-
+3,17,2,Garett Delano,Sam Wezniak,2 Seam,83.2,Hit Into Play - Out,-
+3,18,1,Garett Delano,Max Flower,2 Seam,84.6,Ball,-
+3,18,2,Garett Delano,Max Flower,2 Seam,83.3,Swinging Strike,-
+3,18,3,Garett Delano,Max Flower,Curve,72.6,Called Strike,-
+3,18,4,Garett Delano,Max Flower,Curve,73.9,Hit Into Play - Out,-
+3,19,1,Garett Delano,Ripken Reyes,2 Seam,84.5,Ball,-
+3,19,2,Garett Delano,Ripken Reyes,2 Seam,83.5,Foul,-
+3,19,3,Garett Delano,Ripken Reyes,2 Seam,86.4,Ball,-
+3,19,4,Garett Delano,Ripken Reyes,2 Seam,84.6,Foul,74.8
+3,19,5,Garett Delano,Ripken Reyes,Curve,73.7,Ball,-
+3,19,6,Garett Delano,Ripken Reyes,2 Seam,83.9,Hit Into Play - Out,93.3
+4,20,1,Aaron Shortridge,Louis Gaitley,Slider,76.9,Swinging Strike,-
+4,20,2,Aaron Shortridge,Louis Gaitley,4 Seam,89.4,Swinging Strike,-
+4,20,3,Aaron Shortridge,Louis Gaitley,Slider,78.1,Ball,-
+4,20,4,Aaron Shortridge,Louis Gaitley,Slider,76.2,Ball,-
+4,20,5,Aaron Shortridge,Louis Gaitley,2 Seam,90.1,Foul,52.7
+4,20,6,Aaron Shortridge,Louis Gaitley,4 Seam,90.5,Swinging Strike,-
+4,21,1,Aaron Shortridge,Cameron Deere,2 Seam,88.9,Swinging Strike,-
+4,21,2,Aaron Shortridge,Cameron Deere,2 Seam,89.5,Foul,-
+4,21,3,Aaron Shortridge,Cameron Deere,Slider,77.3,Swinging Strike,-
+4,22,1,Aaron Shortridge,Mark Sluys,2 Seam,90.2,Called Strike,-
+4,22,2,Aaron Shortridge,Mark Sluys,4 Seam,89.6,Ball,-
+4,22,3,Aaron Shortridge,Mark Sluys,Slider,77.6,Swinging Strike,-
+4,22,4,Aaron Shortridge,Mark Sluys,2 Seam,90.9,Ball,-
+4,22,5,Aaron Shortridge,Mark Sluys,Curve,77.5,Ball,-
+4,22,6,Aaron Shortridge,Mark Sluys,2 Seam,89.5,Foul,60.1
+4,22,7,Aaron Shortridge,Mark Sluys,2 Seam,89.3,Hit Into Play,95
+4,23,1,Aaron Shortridge,Willy Homza,2 Seam,89.1,Called Strike,-
+4,23,2,Aaron Shortridge,Willy Homza,4 Seam,89.9,Ball,-
+4,23,3,Aaron Shortridge,Willy Homza,2 Seam,88.7,Called Strike,-
+4,23,4,Aaron Shortridge,Willy Homza,Slider,77.3,Foul,-
+4,23,5,Aaron Shortridge,Willy Homza,2 Seam,90.3,Foul,-
+4,23,6,Aaron Shortridge,Willy Homza,2 Seam,90.3,Hit Into Play - Out,67.6
+4,24,1,Garett Delano,Tyrus Greene,2 Seam,83.8,Called Strike,-
+4,24,2,Garett Delano,Tyrus Greene,Curve,70.8,Ball,-
+4,24,3,Garett Delano,Tyrus Greene,Changeup,73.4,Hit Into Play - Out,33.6
+4,25,1,Garett Delano,Darren Baker,2 Seam,83.3,Ball,-
+4,25,2,Garett Delano,Darren Baker,2 Seam,83.1,Hit Into Play - Out,85.4
+4,26,1,Garett Delano,Andrew Vaughn,Curve,72.2,Called Strike,-
+4,26,2,Garett Delano,Andrew Vaughn,Curve,73.4,Ball,-
+4,26,3,Garett Delano,Andrew Vaughn,2 Seam,84.8,Hit Into Play,96.1
+4,27,1,Garett Delano,Tanner Dodson,Curve,70.7,Ball,-
+4,27,2,Garett Delano,Tanner Dodson,2 Seam,83.1,Ball,-
+4,27,3,Garett Delano,Tanner Dodson,2 Seam,84,Foul,91.5
+4,27,4,Garett Delano,Tanner Dodson,2 Seam,84.5,Ball,-
+4,27,5,Garett Delano,Tanner Dodson,2 Seam,84.3,Swinging Strike,-
+4,27,6,Garett Delano,Tanner Dodson,2 Seam,84.5,Swinging Strike,-
+5,28,1,Aaron Shortridge,Richard Ciufo,4 Seam,87.8,Hit Into Play - Out,81.2
+5,29,1,Aaron Shortridge,Garett Delano,2 Seam,88.3,Called Strike,-
+5,29,2,Aaron Shortridge,Garett Delano,Slider,76.3,Called Strike,-
+5,29,3,Aaron Shortridge,Garett Delano,2 Seam,88.7,Ball,-
+5,29,4,Aaron Shortridge,Garett Delano,Slider,77.2,Foul,66.5
+5,29,5,Aaron Shortridge,Garett Delano,2 Seam,89.1,Hit Into Play,94.9
+5,30,1,Aaron Shortridge,Calvin Farris,2 Seam,88.4,Ball,-
+5,30,2,Aaron Shortridge,Calvin Farris,Changeup,79.4,Foul,-
+5,30,3,Aaron Shortridge,Calvin Farris,2 Seam,88.3,Called Strike,-
+5,30,4,Aaron Shortridge,Calvin Farris,4 Seam,88.7,Called Strike,-
+5,31,1,Aaron Shortridge,Joe Lomuscio,Curve,75,Hit Into Play - Out,77
+5,32,1,Garett Delano,Jonah Davis,2 Seam,84.1,Foul,-
+5,32,2,Garett Delano,Jonah Davis,Changeup,72.6,Foul,-
+5,32,3,Garett Delano,Jonah Davis,2 Seam,85.7,Ball,-
+5,32,4,Garett Delano,Jonah Davis,Changeup,72.6,Ball,-
+5,32,5,Garett Delano,Jonah Davis,Curve,71.6,Foul,72.3
+5,32,6,Garett Delano,Jonah Davis,Changeup,73.2,Hit Into Play,94.5
+5,33,1,Garett Delano,Korey Lee,Curve,70.3,Hit Into Play,63.9
+5,34,1,Garett Delano,Sam Wezniak,Curve,70.2,Called Strike,-
+5,34,2,Garett Delano,Sam Wezniak,2 Seam,82.6,Called Strike,-
+5,34,3,Garett Delano,Sam Wezniak,Curve,71.4,Ball,-
+5,34,4,Garett Delano,Sam Wezniak,2 Seam,85.7,Foul,-
+5,34,5,Garett Delano,Sam Wezniak,Curve,71.6,Swinging Strike,-
+5,35,1,Garett Delano,Max Flower,Curve,72.2,Ball,-
+5,35,2,Garett Delano,Max Flower,Curve,71.5,Ball,-
+5,35,3,Garett Delano,Max Flower,2 Seam,83.4,Foul,-
+5,35,4,Garett Delano,Max Flower,2 Seam,82.8,Swinging Strike,-
+5,35,5,Garett Delano,Max Flower,Curve,72.6,Swinging Strike,-
+5,36,1,Garett Delano,Ripken Reyes,2 Seam,84.1,Called Strike,-
+5,36,2,Garett Delano,Ripken Reyes,Curve,72.5,Ball,-
+5,36,3,Garett Delano,Ripken Reyes,Changeup,72.6,Ball,-
+5,36,4,Garett Delano,Ripken Reyes,2 Seam,84.4,Ball,-
+5,36,5,Garett Delano,Ripken Reyes,2 Seam,83.3,Ball,-
+5,37,1,Garett Delano,Tyrus Greene,Curve,72.9,Called Strike,-
+5,37,2,Garett Delano,Tyrus Greene,Curve,73.1,Ball,-
+5,37,3,Garett Delano,Tyrus Greene,2 Seam,83.9,Ball,-
+5,37,4,Garett Delano,Tyrus Greene,2 Seam,82.7,Called Strike,-
+5,37,5,Garett Delano,Tyrus Greene,2 Seam,84.9,Hit Into Play,52.4
+5,38,1,Garett Delano,Darren Baker,2 Seam,84.1,Ball,-
+5,38,2,Garett Delano,Darren Baker,2 Seam,83.2,Hit Into Play - Out,55.9
+6,39,1,Aaron Shortridge,Sam Grigo,4 Seam,87.3,Hit Into Play - Run Scored,97.5
+6,40,1,Aaron Shortridge,Louis Gaitley,2 Seam,89.4,Called Strike,-
+6,40,2,Aaron Shortridge,Louis Gaitley,Curve,75.6,Called Strike,-
+6,40,3,Aaron Shortridge,Louis Gaitley,Slider,76.4,Ball,-
+6,40,4,Aaron Shortridge,Louis Gaitley,Slider,75.2,Ball,-
+6,40,5,Aaron Shortridge,Louis Gaitley,2 Seam,88.4,Hit Into Play,50.4
+6,41,1,Aaron Shortridge,Cameron Deere,Slider,75.3,Called Strike,-
+6,41,2,Aaron Shortridge,Cameron Deere,4 Seam,88,Called Strike,-
+6,41,3,Aaron Shortridge,Cameron Deere,4 Seam,89,Foul,-
+6,41,4,Aaron Shortridge,Cameron Deere,Slider,76.1,Ball,-
+6,41,5,Aaron Shortridge,Cameron Deere,4 Seam,86.1,Foul,-
+6,41,6,Aaron Shortridge,Cameron Deere,2 Seam,87.1,Foul,-
+6,41,7,Aaron Shortridge,Cameron Deere,Changeup,76.4,Swinging Strike,-
+6,42,1,Aaron Shortridge,Mark Sluys,Curve,75.8,Ball,-
+6,42,2,Aaron Shortridge,Mark Sluys,2 Seam,88.2,Hit Into Play,93.7
+6,43,1,Aaron Shortridge,Willy Homza,Changeup,78.3,Ball,-
+6,43,2,Aaron Shortridge,Willy Homza,Changeup,78.5,Ball,-
+6,43,3,Aaron Shortridge,Willy Homza,2 Seam,87.8,Foul,-
+6,43,4,Aaron Shortridge,Willy Homza,2 Seam,88.7,Called Strike,-
+6,43,5,Aaron Shortridge,Willy Homza,Curve,76,Foul,9.5
+6,43,6,Aaron Shortridge,Willy Homza,4 Seam,89.4,Called Strike,-
+6,44,1,Aaron Shortridge,Richard Ciufo,Slider,76.1,Ball,-
+6,44,2,Aaron Shortridge,Richard Ciufo,Slider,75.3,Ball,-
+6,44,3,Aaron Shortridge,Richard Ciufo,4 Seam,88.4,Called Strike,-
+6,44,4,Aaron Shortridge,Richard Ciufo,2 Seam,88.4,Hit Into Play - Out,70.9
+6,45,1,Garett Delano,Andrew Vaughn,2 Seam,82.7,Hit By Pitch,-
+6,46,1,Garett Delano,Tanner Dodson,2 Seam,82.8,Ball,-
+6,46,2,Garett Delano,Tanner Dodson,2 Seam,82.4,Ball,-
+6,46,3,Garett Delano,Tanner Dodson,2 Seam,82.6,Foul Tip,-
+6,46,4,Garett Delano,Tanner Dodson,2 Seam,82.6,Foul,-
+6,46,5,Garett Delano,Tanner Dodson,Curve,71.5,Ball,-
+6,46,6,Garett Delano,Tanner Dodson,2 Seam,82.8,Hit Into Play - Out,-
+6,47,1,Garett Delano,Jonah Davis,2 Seam,83.8,Ball,-
+6,47,2,Garett Delano,Jonah Davis,2 Seam,81.8,Called Strike,-
+6,47,3,Garett Delano,Jonah Davis,2 Seam,82.9,Ball,-
+6,47,4,Garett Delano,Jonah Davis,2 Seam,82.8,Swinging Strike,-
+6,47,5,Garett Delano,Jonah Davis,2 Seam,84.4,Ball,-
+6,47,6,Garett Delano,Jonah Davis,2 Seam,83.1,Foul,-
+6,47,7,Garett Delano,Jonah Davis,2 Seam,83.1,Ball,-
+6,48,1,Garett Delano,Korey Lee,Curve,71.1,Called Strike,-
+6,48,2,Garett Delano,Korey Lee,Curve,71.3,Ball,-
+6,48,3,Garett Delano,Korey Lee,2 Seam,82,Foul,50.9
+6,48,4,Garett Delano,Korey Lee,Curve,71.6,Ball,-
+6,48,5,Garett Delano,Korey Lee,2 Seam,83.7,Ball,-
+6,48,6,Garett Delano,Korey Lee,2 Seam,84.2,Hit Into Play - Out,90.3
+6,49,1,Garett Delano,Sam Wezniak,Curve,71.7,Called Strike,-
+6,49,2,Garett Delano,Sam Wezniak,2 Seam,85,Hit Into Play - Out,80
+7,50,1,Andrew Buckley,Garett Delano,2 Seam,85.5,Ball,-
+7,50,2,Andrew Buckley,Garett Delano,2 Seam,84.6,Foul,-
+7,50,3,Andrew Buckley,Garett Delano,2 Seam,86.4,Ball,-
+7,50,4,Andrew Buckley,Garett Delano,2 Seam,85.1,Hit Into Play - Out,58.3
+7,51,1,Andrew Buckley,Calvin Farris,2 Seam,84.8,Swinging Strike,-
+7,51,2,Andrew Buckley,Calvin Farris,2 Seam,84.4,Ball,-
+7,51,3,Andrew Buckley,Calvin Farris,Changeup,78.7,Foul,-
+7,51,4,Andrew Buckley,Calvin Farris,2 Seam,86.1,Hit Into Play,87.6
+7,52,1,Andrew Buckley,Joe Lomuscio,2 Seam,83.8,Called Strike,-
+7,52,2,Andrew Buckley,Joe Lomuscio,Changeup,73.8,Ball,-
+7,52,3,Andrew Buckley,Joe Lomuscio,2 Seam,83.8,Ball,-
+7,52,4,Andrew Buckley,Joe Lomuscio,2 Seam,82.5,Ball,-
+7,52,5,Andrew Buckley,Joe Lomuscio,2 Seam,84,Ball,-
+7,53,1,Andrew Buckley,Sam Grigo,Changeup,79.1,Foul,-
+7,53,2,Andrew Buckley,Sam Grigo,Changeup,78.7,Ball,-
+7,53,3,Andrew Buckley,Sam Grigo,Changeup,76.6,Foul,-
+7,53,4,Andrew Buckley,Sam Grigo,2 Seam,82.6,Hit Into Play - Out,51.9
+7,54,1,Andrew Buckley,Louis Gaitley,2 Seam,84.7,Ball,-
+7,54,2,Andrew Buckley,Louis Gaitley,Changeup,76.1,Called Strike,-
+7,54,3,Andrew Buckley,Louis Gaitley,2 Seam,81.9,Hit Into Play - Out,87.6
+7,55,1,JJ Sliepka,Jeffery Mitchell Jr.,2 Seam,87.9,Hit Into Play,-
+7,56,1,JJ Sliepka,Ripken Reyes,2 Seam,85.8,Ball,-
+7,56,2,JJ Sliepka,Ripken Reyes,2 Seam,85.7,Foul,-
+7,56,3,JJ Sliepka,Ripken Reyes,2 Seam,86.7,Hit Into Play - Out,-
+7,57,1,JJ Sliepka,Tyrus Greene,2 Seam,88.5,Ball,-
+7,57,2,JJ Sliepka,Tyrus Greene,2 Seam,87.8,Ball,-
+7,57,3,JJ Sliepka,Tyrus Greene,2 Seam,87.3,Ball,-
+7,57,4,JJ Sliepka,Tyrus Greene,2 Seam,87.1,Called Strike,-
+7,57,5,JJ Sliepka,Tyrus Greene,2 Seam,86.4,Ball,-
+7,58,1,JJ Sliepka,Darren Baker,4 Seam,84.4,Called Strike,-
+7,58,2,JJ Sliepka,Darren Baker,2 Seam,85.9,Called Strike,-
+7,58,3,JJ Sliepka,Darren Baker,Curve,70.7,Ball,-
+7,58,4,JJ Sliepka,Darren Baker,2 Seam,86.1,Foul,-
+7,58,5,JJ Sliepka,Darren Baker,Curve,71.8,Ball,-
+7,58,6,JJ Sliepka,Darren Baker,2 Seam,86.4,Hit Into Play - Run Scored,88.9
+7,59,1,JJ Sliepka,Andrew Vaughn,2 Seam,84.9,Intentional Ball,-
+7,60,1,JJ Sliepka,Tanner Dodson,4 Seam,84.6,Foul,-
+7,60,2,JJ Sliepka,Tanner Dodson,Changeup,75.7,Ball,-
+7,60,3,JJ Sliepka,Tanner Dodson,Changeup,85.3,Hit Into Play - Out,94.9
+8,61,1,Arman Sabouri,Cameron Deere,4 Seam,85.2,Called Strike,-
+8,61,2,Arman Sabouri,Cameron Deere,Curve,74.6,Called Strike,-
+8,61,3,Arman Sabouri,Cameron Deere,4 Seam,86.9,Swinging Strike,-
+8,62,1,Arman Sabouri,Mark Sluys,4 Seam,85.7,Called Strike,-
+8,62,2,Arman Sabouri,Mark Sluys,Curve,77.7,Ball,-
+8,62,3,Arman Sabouri,Mark Sluys,Slider,75.5,Ball,-
+8,62,4,Arman Sabouri,Mark Sluys,4 Seam,85.8,Foul,-
+8,62,5,Arman Sabouri,Mark Sluys,Slider,78.3,Hit Into Play,80.2
+8,63,1,Arman Sabouri,Willy Homza,4 Seam,86.5,Swinging Strike,-
+8,63,2,Arman Sabouri,Willy Homza,4 Seam,85.9,Ball,-
+8,63,3,Arman Sabouri,Willy Homza,4 Seam,86,Foul,82
+8,63,4,Arman Sabouri,Willy Homza,Slider,77.1,Foul,-
+8,63,5,Arman Sabouri,Willy Homza,4 Seam,86.7,Ball,-
+8,63,6,Arman Sabouri,Willy Homza,4 Seam,89.4,Foul,-
+8,63,7,Arman Sabouri,Willy Homza,Slider,76.6,Hit Into Play - Out,84.7
+8,64,1,Bobby Leyman,Jonah Davis,2 Seam,87.4,Called Strike,-
+8,64,2,Bobby Leyman,Jonah Davis,2 Seam,88.3,Called Strike,-
+8,64,3,Bobby Leyman,Jonah Davis,2 Seam,90.1,Swinging Strike,-
+8,65,1,Bobby Leyman,Korey Lee,2 Seam,90.1,Ball,-
+8,65,2,Bobby Leyman,Korey Lee,2 Seam,89.3,Hit Into Play - Out,87
+8,66,1,Bobby Leyman,Sam Wezniak,2 Seam,90,Hit Into Play - Out,95.1
+9,67,1,Arman Sabouri,Richard Ciufo,4 Seam,84.4,Ball,-
+9,67,2,Arman Sabouri,Richard Ciufo,Cutter,76.9,Ball,-
+9,67,3,Arman Sabouri,Richard Ciufo,4 Seam,85.7,Ball,-
+9,67,4,Arman Sabouri,Richard Ciufo,4 Seam,84.8,Ball,-
+9,68,1,Arman Sabouri,Garett Delano,4 Seam,85.3,Foul,-
+9,68,2,Arman Sabouri,Garett Delano,Curve,75.4,Ball,-
+9,68,3,Arman Sabouri,Garett Delano,Slider,75.8,Swinging Strike,-
+9,68,4,Arman Sabouri,Garett Delano,Slider,77.6,Called Strike,-
+9,69,1,Arman Sabouri,Parke Phillips,4 Seam,87.3,Ball,-
+9,69,2,Arman Sabouri,Parke Phillips,4 Seam,84.6,Hit Into Play - Out,82.2
+9,70,1,Bobby Leyman,Jeffery Mitchell Jr.,4 Seam,89.1,Ball,-
+9,70,2,Bobby Leyman,Jeffery Mitchell Jr.,2 Seam,88.4,Ball,-
+9,70,3,Bobby Leyman,Jeffery Mitchell Jr.,4 Seam,89.9,Called Strike,-
+9,70,4,Bobby Leyman,Jeffery Mitchell Jr.,4 Seam,90,Foul,-
+9,70,5,Bobby Leyman,Jeffery Mitchell Jr.,2 Seam,90.8,Hit Into Play - Out,42.3
+9,71,1,Bobby Leyman,Ripken Reyes,2 Seam,91.1,Ball,-
+9,71,2,Bobby Leyman,Ripken Reyes,2 Seam,88.1,Ball,-
+9,71,3,Bobby Leyman,Ripken Reyes,2 Seam,89.1,Ball,-
+9,71,4,Bobby Leyman,Ripken Reyes,2 Seam,88.9,Called Strike,-
+9,71,5,Bobby Leyman,Ripken Reyes,2 Seam,89.2,Ball,-
+9,72,1,Bobby Leyman,Tyrus Greene,4 Seam,87.8,Called Strike,-
+9,72,2,Bobby Leyman,Tyrus Greene,Curve,75.6,Ball,-
+9,72,3,Bobby Leyman,Tyrus Greene,2 Seam,89.2,Swinging Strike,-
+9,72,4,Bobby Leyman,Tyrus Greene,4 Seam,89.4,Ball,-
+9,72,5,Bobby Leyman,Tyrus Greene,Curve,75.1,Ball,-
+9,72,6,Bobby Leyman,Tyrus Greene,2 Seam,89,Hit Into Play - Out,52.5
+9,73,1,Bobby Leyman,Darren Baker,2 Seam,90,Ball,-
+9,73,2,Bobby Leyman,Darren Baker,2 Seam,89.5,Called Strike,-
+9,73,3,Bobby Leyman,Darren Baker,2 Seam,89.9,Called Strike,-
+9,73,4,Bobby Leyman,Darren Baker,Curve,74.7,Ball,-
+9,73,5,Bobby Leyman,Darren Baker,2 Seam,89.7,Foul,-
+9,73,6,Bobby Leyman,Darren Baker,4 Seam,90.4,Hit Into Play - Run Scored,-
+9,74,1,Bobby Leyman,Andrew Vaughn,2 Seam,90.5,Ball,-
+9,74,2,Bobby Leyman,Andrew Vaughn,2 Seam,88.7,Foul,89.3
+9,74,3,Bobby Leyman,Andrew Vaughn,2 Seam,89,Hit Into Play - Out,92.4
+10,75,1,Arman Sabouri,Joe Lomuscio,4 Seam,85.2,Called Strike,-
+10,75,2,Arman Sabouri,Joe Lomuscio,Slider,75.4,Called Strike,-
+10,75,3,Arman Sabouri,Joe Lomuscio,4 Seam,89.6,Swinging Strike,-
+10,76,1,Arman Sabouri,Sam Grigo,Slider,75.9,Called Strike,-
+10,76,2,Arman Sabouri,Sam Grigo,Cutter,86.7,Ball,-
+10,76,3,Arman Sabouri,Sam Grigo,4 Seam,84.5,Hit Into Play - Out,93
+10,77,1,Arman Sabouri,Louis Gaitley,4 Seam,87.6,Foul,-
+10,77,2,Arman Sabouri,Louis Gaitley,4 Seam,87.4,Hit Into Play - Out,89.6
+10,78,1,Bobby Leyman,Tanner Dodson,2 Seam,88.5,Ball,-
+10,78,2,Bobby Leyman,Tanner Dodson,2 Seam,88.8,Hit Into Play - Out,86.2
+10,79,1,Bobby Leyman,Jonah Davis,2 Seam,89.2,Ball,-
+10,79,2,Bobby Leyman,Jonah Davis,2 Seam,88.7,Hit Into Play - Out,105.9
+10,80,1,Bobby Leyman,Korey Lee,Curve,75,Ball,-
+10,80,2,Bobby Leyman,Korey Lee,4 Seam,88,Hit Into Play - Out,-
+11,81,1,Arman Sabouri,Cameron Deere,Cutter,78.4,Hit Into Play - Out,40.7
+11,82,1,Arman Sabouri,Mark Sluys,4 Seam,87.9,Called Strike,-
+11,82,2,Arman Sabouri,Mark Sluys,Slider,76.1,Ball,-
+11,82,3,Arman Sabouri,Mark Sluys,Cutter,77.8,Ball,-
+11,82,4,Arman Sabouri,Mark Sluys,4 Seam,87.8,Foul Tip,-
+11,82,5,Arman Sabouri,Mark Sluys,4 Seam,88.8,Foul,-
+11,82,6,Arman Sabouri,Mark Sluys,4 Seam,89.3,Called Strike,-
+11,83,1,Arman Sabouri,Willy Homza,Changeup,79.1,Swinging Strike,-
+11,83,2,Arman Sabouri,Willy Homza,4 Seam,89.1,Swinging Strike,-
+11,83,3,Arman Sabouri,Willy Homza,Slider,78.4,Ball,-
+11,83,4,Arman Sabouri,Willy Homza,4 Seam,90.9,Foul,-
+11,83,6,Arman Sabouri,Willy Homza,4 Seam,88.9,Hit Into Play - Out,-
+11,84,1,Bobby Leyman,Sam Wezniak,2 Seam,88.3,Foul,-
+11,84,2,Bobby Leyman,Sam Wezniak,Curve,72.3,Ball,-
+11,84,3,Bobby Leyman,Sam Wezniak,2 Seam,87.8,Ball,-
+11,84,4,Bobby Leyman,Sam Wezniak,2 Seam,88.4,Foul,-
+11,84,5,Bobby Leyman,Sam Wezniak,4 Seam,89.1,Hit Into Play - Out,-
+11,85,1,Bobby Leyman,Jeffery Mitchell Jr.,4 Seam,88.9,Foul,-
+11,86,1,Grant Greeno,Cameron Eden,Changeup,74.3,Called Strike,-
+11,86,2,Grant Greeno,Cameron Eden,Changeup,73.6,Hit Into Play,-
+11,87,1,Grant Greeno,Tyrus Greene,Changeup,74.6,Ball,-
+11,87,3,Grant Greeno,Tyrus Greene,Changeup,74.7,Called Strike,-
+11,87,4,Grant Greeno,Tyrus Greene,Slider,67.4,Swinging Strike,-
+12,88,1,Arman Sabouri,Richard Ciufo,Changeup,77.1,Swinging Strike,-
+12,88,2,Arman Sabouri,Richard Ciufo,4 Seam,86.6,Ball,-
+12,88,3,Arman Sabouri,Richard Ciufo,2 Seam,86.9,Foul,-
+12,88,4,Arman Sabouri,Richard Ciufo,Changeup,79.6,Ball,-
+12,88,5,Arman Sabouri,Richard Ciufo,Changeup,77.9,Hit Into Play - Out,-
+12,89,1,Arman Sabouri,Garett Delano,Slider,78.2,Ball,-
+12,89,2,Arman Sabouri,Garett Delano,4 Seam,86.1,Ball,-
+12,89,3,Arman Sabouri,Garett Delano,2 Seam,85.8,Foul,-
+12,89,4,Arman Sabouri,Garett Delano,4 Seam,86.7,Called Strike,-
+12,89,5,Arman Sabouri,Garett Delano,Slider,76.6,Ball,-
+12,89,6,Arman Sabouri,Garett Delano,4 Seam,88.1,Foul,-
+12,89,7,Arman Sabouri,Garett Delano,4 Seam,88,Hit Into Play,-
+12,90,1,Arman Sabouri,Frank Caprio,4 Seam,86.9,Ball,-
+12,90,2,Arman Sabouri,Frank Caprio,4 Seam,85.1,Foul Tip,-
+12,90,3,Arman Sabouri,Frank Caprio,4 Seam,86.8,Foul,-
+12,90,4,Arman Sabouri,Frank Caprio,Slider,76.5,Foul,-
+12,90,5,Arman Sabouri,Frank Caprio,Slider,79.2,Hit Into Play - Out,-
+12,91,1,Grant Greeno,Darren Baker,Changeup,74.3,Ball,-
+12,91,2,Grant Greeno,Darren Baker,Changeup,73.8,Hit Into Play - Run Scored,-

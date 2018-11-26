@@ -1,0 +1,302 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Matt Ladrech,Cal Stevenson,4 Seam,81.5,Called Strike,-
+1,1,2,Matt Ladrech,Cal Stevenson,Curve,73.2,Swinging Strike,-
+1,1,3,Matt Ladrech,Cal Stevenson,Slider,73.9,Hit Into Play - Out,-
+1,2,1,Matt Ladrech,Alfonso Rivas III,Cutter,74.7,Ball,-
+1,2,2,Matt Ladrech,Alfonso Rivas III,Slider,74.4,Ball,-
+1,2,3,Matt Ladrech,Alfonso Rivas III,Cutter,74.5,Ball,-
+1,2,4,Matt Ladrech,Alfonso Rivas III,Cutter,80.4,Foul,-
+1,2,5,Matt Ladrech,Alfonso Rivas III,4 Seam,80.6,Hit Into Play - Out,-
+1,3,1,Matt Ladrech,Cameron Cannon,2 Seam,81.8,Called Strike,-
+1,3,2,Matt Ladrech,Cameron Cannon,4 Seam,80.9,Called Strike,-
+1,3,3,Matt Ladrech,Cameron Cannon,4 Seam,80.8,Foul,-
+1,3,4,Matt Ladrech,Cameron Cannon,Slider,73,Hit Into Play,-
+1,4,1,Matt Ladrech,Cesar Salazar,4 Seam,81.4,Called Strike,-
+1,4,2,Matt Ladrech,Cesar Salazar,2 Seam,81.8,Swinging Strike,-
+1,4,3,Matt Ladrech,Cesar Salazar,2 Seam,81.6,Ball,-
+1,4,4,Matt Ladrech,Cesar Salazar,2 Seam,79.6,Foul,-
+1,4,5,Matt Ladrech,Cesar Salazar,Curve,68.5,Ball,-
+1,4,6,Matt Ladrech,Cesar Salazar,Changeup,73.3,Swinging Strike,-
+1,5,1,Cody Deason,Tyrus Greene,2 Seam,87.8,Called Strike,-
+1,5,2,Cody Deason,Tyrus Greene,2 Seam,86,Called Strike,-
+1,5,3,Cody Deason,Tyrus Greene,Changeup,80.4,Ball,-
+1,6,1,Cody Deason,Andrew Vaughn,2 Seam,88.8,Swinging Strike,-
+1,6,2,Cody Deason,Andrew Vaughn,2 Seam,89.9,Called Strike,-
+1,6,3,Cody Deason,Andrew Vaughn,Changeup,80.7,Ball,-
+1,7,1,Cody Deason,Tanner Dodson,2 Seam,89.6,Called Strike,-
+1,7,2,Cody Deason,Tanner Dodson,2 Seam,88,Ball,-
+1,7,3,Cody Deason,Tanner Dodson,2 Seam,85.4,Ball,-
+1,7,4,Cody Deason,Tanner Dodson,2 Seam,89.2,Foul,-
+1,7,5,Cody Deason,Tanner Dodson,Curve,79.9,Ball,-
+1,7,6,Cody Deason,Tanner Dodson,2 Seam,90.1,Called Strike,-
+1,8,1,Cody Deason,Jonah Davis,Cutter,86.9,Hit Into Play - Out,-
+2,9,1,Matt Ladrech,Nick Quintana,Cutter,80.1,Ball,-
+2,9,2,Matt Ladrech,Nick Quintana,Cutter,80.7,Called Strike,-
+2,9,3,Matt Ladrech,Nick Quintana,4 Seam,80.9,Ball,-
+2,9,4,Matt Ladrech,Nick Quintana,Slider,70.8,Foul,-
+2,9,5,Matt Ladrech,Nick Quintana,Cutter,72.9,Hit Into Play,-
+2,10,1,Matt Ladrech,Seve Romo,4 Seam,80.4,Ball,-
+2,10,2,Matt Ladrech,Seve Romo,Cutter,80.3,Foul,-
+2,10,3,Matt Ladrech,Seve Romo,2 Seam,80.6,Hit Into Play,-
+2,11,1,Matt Ladrech,Jacob Blas,2 Seam,80.4,Foul,-
+2,11,2,Matt Ladrech,Jacob Blas,2 Seam,80.1,Foul,-
+2,11,3,Matt Ladrech,Jacob Blas,Changeup,72.9,Ball,-
+2,11,4,Matt Ladrech,Jacob Blas,2 Seam,81.7,Called Strike,-
+2,12,1,Matt Ladrech,Matt Frazier,4 Seam,81.3,Foul,-
+2,12,2,Matt Ladrech,Matt Frazier,Changeup,70.4,Foul,-
+2,12,3,Matt Ladrech,Matt Frazier,4 Seam,81.3,Hit Into Play,-
+2,13,1,Matt Ladrech,Ryan Haug,2 Seam,79.8,Ball,-
+2,13,2,Matt Ladrech,Ryan Haug,2 Seam,80.5,Ball,-
+2,13,3,Matt Ladrech,Ryan Haug,Cutter,79.8,Ball,-
+2,13,4,Matt Ladrech,Ryan Haug,Changeup,79,Called Strike,-
+2,13,5,Matt Ladrech,Ryan Haug,2 Seam,80.4,Called Strike,-
+2,13,6,Matt Ladrech,Ryan Haug,Cutter,79.8,Foul,-
+2,13,7,Matt Ladrech,Ryan Haug,Cutter,80.1,Called Strike,-
+2,14,1,Matt Ladrech,Cal Stevenson,4 Seam,80.9,Called Strike,-
+2,14,2,Matt Ladrech,Cal Stevenson,4 Seam,81.9,Ball,-
+2,14,3,Matt Ladrech,Cal Stevenson,Changeup,74.5,Ball,-
+2,14,4,Matt Ladrech,Cal Stevenson,2 Seam,81.1,Foul,-
+2,14,5,Matt Ladrech,Cal Stevenson,4 Seam,80.2,Called Strike,-
+2,15,1,Cody Deason,Sam Wezniak,2 Seam,88.4,Ball,-
+2,15,2,Cody Deason,Sam Wezniak,2 Seam,87.8,Hit Into Play - Out,-
+2,16,1,Cody Deason,Max Flower,Changeup,78.6,Called Strike,-
+2,16,2,Cody Deason,Max Flower,Curve,79.2,Swinging Strike,-
+2,16,3,Cody Deason,Max Flower,Changeup,79.9,Ball,-
+2,16,4,Cody Deason,Max Flower,2 Seam,91.7,Swinging Strike,-
+2,17,1,Cody Deason,Jeffery Mitchell Jr.,2 Seam,90.6,Hit Into Play,-
+2,18,1,Cody Deason,Cameron Eden,Slider,79.6,Called Strike,-
+2,18,2,Cody Deason,Cameron Eden,2 Seam,89.5,Called Strike,-
+2,18,3,Cody Deason,Cameron Eden,Slider,81.6,Ball,-
+2,18,4,Cody Deason,Cameron Eden,Curve,79.8,Hit Into Play - Run Scored,-
+2,19,1,Cody Deason,Ripken Reyes,2 Seam,89.7,Ball,-
+2,19,2,Cody Deason,Ripken Reyes,2 Seam,89.3,Swinging Strike,-
+2,19,3,Cody Deason,Ripken Reyes,2 Seam,89.3,Ball,-
+2,19,4,Cody Deason,Ripken Reyes,2 Seam,89.1,Ball,-
+2,19,5,Cody Deason,Ripken Reyes,2 Seam,87.2,Hit Into Play - Out,84
+3,20,1,Matt Ladrech,Alfonso Rivas III,Changeup,73.5,Foul,-
+3,20,2,Matt Ladrech,Alfonso Rivas III,Changeup,73.1,Hit Into Play,20.8
+3,21,1,Matt Ladrech,Cameron Cannon,4 Seam,81.4,Ball,-
+3,21,2,Matt Ladrech,Cameron Cannon,4 Seam,80.5,Called Strike,-
+3,21,3,Matt Ladrech,Cameron Cannon,4 Seam,80.8,Swinging Strike,-
+3,21,4,Matt Ladrech,Cameron Cannon,4 Seam,81.1,Hit Into Play - Out,80.8
+3,22,1,Matt Ladrech,Cesar Salazar,Changeup,74.6,Hit Into Play,93.8
+3,23,1,Matt Ladrech,Nick Quintana,4 Seam,81.1,Foul,-
+3,23,2,Matt Ladrech,Nick Quintana,4 Seam,81.6,Ball,-
+3,23,3,Matt Ladrech,Nick Quintana,Changeup,73.8,Ball,-
+3,23,4,Matt Ladrech,Nick Quintana,2 Seam,80.1,Ball,-
+3,23,5,Matt Ladrech,Nick Quintana,2 Seam,80.7,Ball,-
+3,24,1,Matt Ladrech,Seve Romo,2 Seam,80.4,Hit Into Play - Out,72.5
+3,25,1,Cody Deason,Tyrus Greene,2 Seam,84.5,Foul,-
+3,25,2,Cody Deason,Tyrus Greene,2 Seam,84.4,Foul,-
+3,25,3,Cody Deason,Tyrus Greene,2 Seam,89.9,Called Strike,-
+3,26,1,Cody Deason,Andrew Vaughn,4 Seam,90.5,Hit Into Play - Out,91.5
+3,27,1,Cody Deason,Tanner Dodson,2 Seam,85.6,Ball,-
+3,27,2,Cody Deason,Tanner Dodson,4 Seam,89.3,Ball,-
+3,27,3,Cody Deason,Tanner Dodson,2 Seam,89.1,Ball,-
+3,27,4,Cody Deason,Tanner Dodson,2 Seam,85.9,Ball,-
+3,28,1,Cody Deason,Jonah Davis,4 Seam,83.8,Ball,-
+3,28,2,Cody Deason,Jonah Davis,Changeup,83.4,Foul,-
+3,28,3,Cody Deason,Jonah Davis,Changeup,78.7,Swinging Strike,-
+3,28,4,Cody Deason,Jonah Davis,Changeup,80.9,Swinging Strike,-
+4,29,1,Matt Ladrech,Jacob Blas,2 Seam,80.2,Hit Into Play,76.7
+4,30,1,Matt Ladrech,Matt Frazier,Changeup,78.9,Hit Into Play - Out,83.3
+4,31,1,Matt Ladrech,Ryan Haug,2 Seam,80.8,Ball,-
+4,31,2,Matt Ladrech,Ryan Haug,2 Seam,80,Hit Into Play,98.3
+4,32,1,Matt Ladrech,Cal Stevenson,4 Seam,80.9,Ball,-
+4,32,2,Matt Ladrech,Cal Stevenson,2 Seam,79.4,Ball,-
+4,32,3,Matt Ladrech,Cal Stevenson,2 Seam,79.7,Ball,-
+4,32,4,Matt Ladrech,Cal Stevenson,2 Seam,79.7,Called Strike,-
+4,32,5,Matt Ladrech,Cal Stevenson,4 Seam,79.8,Ball,-
+4,33,1,Matt Ladrech,Alfonso Rivas III,2 Seam,80.6,Called Strike,-
+4,33,2,Matt Ladrech,Alfonso Rivas III,Changeup,74.3,Ball,-
+4,33,3,Matt Ladrech,Alfonso Rivas III,Changeup,74.9,Hit Into Play - Out,83.9
+4,34,1,Cody Deason,Sam Wezniak,Changeup,78.6,Ball,-
+4,34,2,Cody Deason,Sam Wezniak,2 Seam,90.3,Foul,-
+4,34,3,Cody Deason,Sam Wezniak,Changeup,79.2,Foul,-
+4,34,4,Cody Deason,Sam Wezniak,2 Seam,91.5,Ball,-
+4,34,5,Cody Deason,Sam Wezniak,Slider,79.5,Ball,-
+4,34,6,Cody Deason,Sam Wezniak,4 Seam,89.5,Ball,-
+4,35,1,Cody Deason,Max Flower,Curve,79.3,Called Strike,-
+4,35,2,Cody Deason,Max Flower,Curve,79.6,Foul,-
+4,35,3,Cody Deason,Max Flower,2 Seam,89.9,Foul,-
+4,35,4,Cody Deason,Max Flower,2 Seam,89.7,Hit Into Play - Out,-
+4,36,1,Cody Deason,Jeffery Mitchell Jr.,Changeup,78.6,Ball,-
+4,36,2,Cody Deason,Jeffery Mitchell Jr.,2 Seam,88.7,Hit Into Play,94.2
+4,37,1,Cody Deason,Cameron Eden,Curve,79.2,Hit Into Play - Run Scored,79.6
+4,38,1,Cody Deason,Ripken Reyes,2 Seam,88.9,Hit Into Play - Out,90.4
+5,39,1,Matt Ladrech,Cameron Cannon,Changeup,72.6,Ball,-
+5,39,2,Matt Ladrech,Cameron Cannon,2 Seam,78.8,Ball,-
+5,39,3,Matt Ladrech,Cameron Cannon,2 Seam,79,Hit Into Play - Out,82.2
+5,40,1,Matt Ladrech,Cesar Salazar,2 Seam,80.7,Called Strike,-
+5,40,2,Matt Ladrech,Cesar Salazar,4 Seam,80.9,Ball,-
+5,40,3,Matt Ladrech,Cesar Salazar,2 Seam,79.3,Hit Into Play,92.4
+5,41,1,Matt Ladrech,Nick Quintana,2 Seam,80.4,Ball,-
+5,41,2,Matt Ladrech,Nick Quintana,Changeup,75.3,Ball,-
+5,41,3,Matt Ladrech,Nick Quintana,4 Seam,81.3,Ball,-
+5,41,4,Matt Ladrech,Nick Quintana,4 Seam,80.2,Ball,-
+5,42,1,Matt Ladrech,Seve Romo,Changeup,74.2,Ball,-
+5,42,2,Matt Ladrech,Seve Romo,4 Seam,81.2,Ball,-
+5,42,3,Matt Ladrech,Seve Romo,2 Seam,79.8,Called Strike,-
+5,42,4,Matt Ladrech,Seve Romo,4 Seam,81,Hit Into Play,100.1
+5,43,1,Matt Ladrech,Jacob Blas,Changeup,73.9,Ball,-
+5,43,2,Matt Ladrech,Jacob Blas,Changeup,73,Swinging Strike,-
+5,43,3,Matt Ladrech,Jacob Blas,4 Seam,81.5,Swinging Strike,-
+5,43,4,Matt Ladrech,Jacob Blas,Changeup,72,Ball,-
+5,43,5,Matt Ladrech,Jacob Blas,Changeup,74.1,Foul,68.4
+5,43,6,Matt Ladrech,Jacob Blas,Slider,72.8,Ball,-
+5,43,7,Matt Ladrech,Jacob Blas,2 Seam,80.2,Hit Into Play - Run Scored,90.9
+5,44,1,Matt Ladrech,Matt Frazier,4 Seam,80.3,Hit Into Play - Out,53.2
+5,45,1,Cody Deason,Tyrus Greene,Changeup,78.1,Foul,-
+5,45,2,Cody Deason,Tyrus Greene,2 Seam,89,Ball,-
+5,45,3,Cody Deason,Tyrus Greene,4 Seam,84.3,Hit Into Play - Out,79.7
+5,46,1,Cody Deason,Andrew Vaughn,4 Seam,84.1,Ball,-
+5,46,2,Cody Deason,Andrew Vaughn,2 Seam,90.1,Ball,-
+5,46,3,Cody Deason,Andrew Vaughn,2 Seam,89.7,Swinging Strike,-
+5,46,4,Cody Deason,Andrew Vaughn,Curve,79.3,Foul,-
+5,46,5,Cody Deason,Andrew Vaughn,4 Seam,91.9,Ball,-
+5,46,6,Cody Deason,Andrew Vaughn,4 Seam,89.7,Hit Into Play,98.6
+5,47,1,Cody Deason,Tanner Dodson,Changeup,79.2,Called Strike,-
+5,48,1,Cody Deason,Jonah Davis,Curve,79,Intentional Ball,-
+5,49,1,Cody Deason,Sam Wezniak,Curve,77,Called Strike,-
+5,49,2,Cody Deason,Sam Wezniak,Slider,78.4,Called Strike,-
+5,49,3,Cody Deason,Sam Wezniak,2 Seam,90.4,Ball,-
+5,49,4,Cody Deason,Sam Wezniak,Curve,79,Hit Into Play - Run Scored,78.1
+5,50,1,Cody Deason,Max Flower,2 Seam,88.8,Hit Into Play - Run Scored,100.8
+5,51,1,Cody Deason,Jeffery Mitchell Jr.,Changeup,82.5,Ball,-
+5,51,2,Cody Deason,Jeffery Mitchell Jr.,2 Seam,88.8,Called Strike,-
+5,51,3,Cody Deason,Jeffery Mitchell Jr.,Changeup,79.9,Ball,-
+5,51,4,Cody Deason,Jeffery Mitchell Jr.,2 Seam,88.8,Hit Into Play - Out,102.5
+6,52,1,Erik Martinez,Ryan Haug,Cutter,85.2,Called Strike,-
+6,52,2,Erik Martinez,Ryan Haug,Cutter,84.3,Ball,-
+6,52,3,Erik Martinez,Ryan Haug,4 Seam,83.1,Hit By Pitch,-
+6,53,1,Erik Martinez,Cal Stevenson,Cutter,85.1,Called Strike,-
+6,53,2,Erik Martinez,Cal Stevenson,Cutter,84.2,Ball,-
+6,53,3,Erik Martinez,Cal Stevenson,Cutter,85.9,Called Strike,-
+6,53,4,Erik Martinez,Cal Stevenson,Cutter,84.5,Foul,51.3
+6,53,5,Erik Martinez,Cal Stevenson,2 Seam,83,Ball,-
+6,53,6,Erik Martinez,Cal Stevenson,2 Seam,85.3,Hit Into Play - Out,81
+6,54,1,Erik Martinez,Alfonso Rivas III,Cutter,84.7,Called Strike,-
+6,54,2,Erik Martinez,Alfonso Rivas III,Slider,74.8,Ball,-
+6,54,3,Erik Martinez,Alfonso Rivas III,Cutter,85.5,Swinging Strike,-
+6,54,4,Erik Martinez,Alfonso Rivas III,4 Seam,84.7,Foul,-
+6,54,5,Erik Martinez,Alfonso Rivas III,2 Seam,82.8,Ball,-
+6,54,6,Erik Martinez,Alfonso Rivas III,Cutter,84.6,Hit Into Play - Run Scored,88.1
+6,55,1,Erik Martinez,Cameron Cannon,Cutter,84,Hit Into Play,75.9
+6,56,1,Erik Martinez,Cesar Salazar,Cutter,84.3,Called Strike,-
+6,56,2,Erik Martinez,Cesar Salazar,Cutter,84.3,Foul,-
+6,56,3,Erik Martinez,Cesar Salazar,2 Seam,81.8,Ball,-
+6,56,4,Erik Martinez,Cesar Salazar,Cutter,84.3,Called Strike,-
+6,57,1,Cody Deason,Cameron Eden,2 Seam,89.4,Hit Into Play,24.7
+6,58,1,Cody Deason,Ripken Reyes,2 Seam,88.2,Foul,-
+6,58,2,Cody Deason,Ripken Reyes,2 Seam,88.4,Foul,-
+6,58,3,Cody Deason,Ripken Reyes,Slider,79.7,Ball,-
+6,58,4,Cody Deason,Ripken Reyes,2 Seam,86.4,Hit Into Play - Out,86.2
+6,59,1,Cody Deason,Tyrus Greene,Changeup,82.8,Called Strike,-
+6,59,2,Cody Deason,Tyrus Greene,Curve,77.9,Ball,-
+6,59,3,Cody Deason,Tyrus Greene,2 Seam,90.8,Ball,-
+6,59,4,Cody Deason,Tyrus Greene,Changeup,83.4,Foul,57.2
+6,59,5,Cody Deason,Tyrus Greene,2 Seam,90.9,Ball,-
+6,59,6,Cody Deason,Tyrus Greene,2 Seam,88.3,Hit Into Play - Out,77.2
+7,60,1,Tanner Dodson,Nick Quintana,Cutter,86.8,Swinging Strike,-
+7,60,2,Tanner Dodson,Nick Quintana,Slider,85.3,Swinging Strike,-
+7,61,1,Tanner Dodson,Seve Romo,2 Seam,94,Ball,-
+7,61,2,Tanner Dodson,Seve Romo,2 Seam,94,Swinging Strike,-
+7,61,3,Tanner Dodson,Seve Romo,4 Seam,94.5,Ball,-
+7,61,4,Tanner Dodson,Seve Romo,2 Seam,93,Foul,20
+7,61,5,Tanner Dodson,Seve Romo,2 Seam,95.7,Foul,-
+7,61,6,Tanner Dodson,Seve Romo,2 Seam,93.9,Ball,-
+7,61,7,Tanner Dodson,Seve Romo,2 Seam,93.6,Ball,-
+7,62,1,Tanner Dodson,Jacob Blas,2 Seam,92.5,Foul,-
+7,62,2,Tanner Dodson,Jacob Blas,2 Seam,93,Swinging Strike,-
+7,62,3,Tanner Dodson,Jacob Blas,Changeup,82.8,Hit Into Play,53.4
+7,63,1,Tanner Dodson,Matt Frazier,2 Seam,93.1,Foul,-
+7,63,2,Tanner Dodson,Matt Frazier,Changeup,85.4,Ball,-
+7,63,3,Tanner Dodson,Matt Frazier,2 Seam,93,Ball,-
+7,63,4,Tanner Dodson,Matt Frazier,2 Seam,92.9,Foul,-
+7,63,5,Tanner Dodson,Matt Frazier,2 Seam,93.7,Foul,-
+7,63,6,Tanner Dodson,Matt Frazier,2 Seam,93,Foul,27.9
+7,63,7,Tanner Dodson,Matt Frazier,Slider,84.4,Foul,-
+7,63,8,Tanner Dodson,Matt Frazier,Changeup,87,Swinging Strike,-
+7,64,1,Tanner Dodson,Ryan Haug,2 Seam,93.6,Ball,-
+7,64,2,Tanner Dodson,Ryan Haug,2 Seam,93.8,Foul,-
+7,64,3,Tanner Dodson,Ryan Haug,Cutter,84.5,Ball,-
+7,64,4,Tanner Dodson,Ryan Haug,2 Seam,92.7,Ball,-
+7,64,5,Tanner Dodson,Ryan Haug,2 Seam,92.3,Foul,63
+7,64,6,Tanner Dodson,Ryan Haug,2 Seam,92.9,Hit Into Play - Out,50
+7,65,1,Preston Price,Andrew Vaughn,Changeup,81.1,Ball,-
+7,65,2,Preston Price,Andrew Vaughn,2 Seam,87.6,Hit Into Play - Out,77.3
+7,66,1,Preston Price,Tanner Dodson,Changeup,81.3,Swinging Strike,-
+7,66,2,Preston Price,Tanner Dodson,Changeup,80.7,Ball,-
+7,66,3,Preston Price,Tanner Dodson,2 Seam,89.2,Ball,-
+7,66,4,Preston Price,Tanner Dodson,2 Seam,88.7,Ball,-
+7,66,5,Preston Price,Tanner Dodson,2 Seam,86.8,Ball,-
+7,67,1,Avery Weems,Jonah Davis,Cutter,88.2,Hit By Pitch,-
+7,68,1,Avery Weems,Sam Wezniak,Cutter,85.5,Hit Into Play - Run Scored,-
+7,69,1,Jonathan Guardado,Max Flower,2 Seam,89.2,Hit Into Play - Out,36.2
+7,70,1,Jonathan Guardado,Jeffery Mitchell Jr.,Changeup,83.8,Ball,-
+7,70,2,Jonathan Guardado,Jeffery Mitchell Jr.,Changeup,79.7,Called Strike,-
+7,70,3,Jonathan Guardado,Jeffery Mitchell Jr.,2 Seam,89.8,Called Strike,-
+7,70,4,Jonathan Guardado,Jeffery Mitchell Jr.,Changeup,78.3,Ball,-
+7,70,5,Jonathan Guardado,Jeffery Mitchell Jr.,2 Seam,90.2,Foul,-
+7,70,6,Jonathan Guardado,Jeffery Mitchell Jr.,4 Seam,90.8,Foul,-
+7,70,7,Jonathan Guardado,Jeffery Mitchell Jr.,2 Seam,90.5,Ball,-
+7,71,1,Jonathan Guardado,Cameron Eden,Changeup,76.4,Swinging Strike,-
+7,71,2,Jonathan Guardado,Cameron Eden,2 Seam,88.5,Hit Into Play - Out,89.4
+8,72,1,Tanner Dodson,Cal Stevenson,2 Seam,87.8,Ball,-
+8,72,2,Tanner Dodson,Cal Stevenson,2 Seam,90,Called Strike,-
+8,72,3,Tanner Dodson,Cal Stevenson,2 Seam,90.3,Called Strike,-
+8,72,4,Tanner Dodson,Cal Stevenson,Changeup,86.7,Ball,-
+8,72,5,Tanner Dodson,Cal Stevenson,2 Seam,91.7,Ball,-
+8,72,6,Tanner Dodson,Cal Stevenson,2 Seam,90.5,Hit Into Play - Run Scored,92.1
+8,73,1,Tanner Dodson,Alfonso Rivas III,2 Seam,91.5,Called Strike,-
+8,73,2,Tanner Dodson,Alfonso Rivas III,Cutter,85.3,Ball,-
+8,73,3,Tanner Dodson,Alfonso Rivas III,2 Seam,92.8,Hit Into Play,92.2
+8,74,1,Tanner Dodson,Cameron Cannon,2 Seam,92.6,Called Strike,-
+8,74,2,Tanner Dodson,Cameron Cannon,Changeup,83.5,Ball,-
+8,74,3,Tanner Dodson,Cameron Cannon,2 Seam,91.6,Ball,-
+8,74,4,Tanner Dodson,Cameron Cannon,2 Seam,92.3,Swinging Strike,-
+8,74,5,Tanner Dodson,Cameron Cannon,2 Seam,92.6,Hit Into Play - Out,64.7
+8,75,1,Tanner Dodson,Cesar Salazar,2 Seam,92.4,Swinging Strike,-
+8,75,2,Tanner Dodson,Cesar Salazar,2 Seam,92,Called Strike,-
+8,75,3,Tanner Dodson,Cesar Salazar,Curve,78.3,Foul,-
+8,75,4,Tanner Dodson,Cesar Salazar,Changeup,85.9,Foul,-
+8,75,5,Tanner Dodson,Cesar Salazar,Curve,78.7,Swinging Strike,-
+8,76,1,Tanner Dodson,Nick Quintana,2 Seam,93.2,Hit By Pitch,-
+8,77,1,Tanner Dodson,Seve Romo,2 Seam,92.6,Swinging Strike,-
+8,77,2,Tanner Dodson,Seve Romo,2 Seam,92.8,Called Strike,-
+8,77,3,Tanner Dodson,Seve Romo,Cutter,84.6,Ball,-
+8,77,4,Tanner Dodson,Seve Romo,Cutter,85.4,Swinging Strike,-
+8,78,1,Jonathan Guardado,Ripken Reyes,2 Seam,87.1,Ball,-
+8,78,2,Jonathan Guardado,Ripken Reyes,2 Seam,88,Hit Into Play - Out,89.3
+8,79,1,Jonathan Guardado,Tyrus Greene,2 Seam,87.9,Called Strike,-
+8,79,2,Jonathan Guardado,Tyrus Greene,Slider,76.1,Ball,-
+8,79,3,Jonathan Guardado,Tyrus Greene,Changeup,76.9,Ball,-
+8,79,4,Jonathan Guardado,Tyrus Greene,2 Seam,88.2,Ball,-
+8,79,5,Jonathan Guardado,Tyrus Greene,2 Seam,88.4,Foul,-
+8,79,6,Jonathan Guardado,Tyrus Greene,2 Seam,88.6,Hit Into Play,101.8
+8,80,1,Jonathan Guardado,Andrew Vaughn,2 Seam,89.1,Ball,-
+8,80,2,Jonathan Guardado,Andrew Vaughn,2 Seam,88.6,Ball,-
+8,80,3,Jonathan Guardado,Andrew Vaughn,2 Seam,87.4,Foul,-
+8,80,4,Jonathan Guardado,Andrew Vaughn,4 Seam,87,Hit Into Play - Out,88.6
+8,81,1,Jonathan Guardado,Tanner Dodson,Changeup,73.1,Ball,-
+8,81,2,Jonathan Guardado,Tanner Dodson,2 Seam,88.1,Hit Into Play - Run Scored,-
+8,82,1,Jonathan Guardado,Jonah Davis,Changeup,80.8,Swinging Strike,-
+8,82,2,Jonathan Guardado,Jonah Davis,Changeup,80.1,Ball,-
+8,82,3,Jonathan Guardado,Jonah Davis,2 Seam,88.5,Ball,-
+8,82,4,Jonathan Guardado,Jonah Davis,Changeup,78.7,Hit Into Play - Run Scored,-
+8,83,1,Jonathan Guardado,Sam Wezniak,Slider,73.8,Ball,-
+8,83,2,Jonathan Guardado,Sam Wezniak,2 Seam,88.6,Hit Into Play - Out,88.3
+9,84,1,Tanner Dodson,Jacob Blas,2 Seam,90.8,Ball,-
+9,84,2,Tanner Dodson,Jacob Blas,2 Seam,91.1,Called Strike,-
+9,84,3,Tanner Dodson,Jacob Blas,2 Seam,91.5,Foul,-
+9,84,4,Tanner Dodson,Jacob Blas,Slider,83.6,Foul,-
+9,84,5,Tanner Dodson,Jacob Blas,Changeup,84.9,Foul,50.8
+9,84,6,Tanner Dodson,Jacob Blas,2 Seam,93.5,Ball,-
+9,84,7,Tanner Dodson,Jacob Blas,2 Seam,93.6,Called Strike,-
+9,85,1,Tanner Dodson,Matt Frazier,2 Seam,92.2,Called Strike,-
+9,85,2,Tanner Dodson,Matt Frazier,2 Seam,93.6,Ball,-
+9,85,3,Tanner Dodson,Matt Frazier,2 Seam,93.3,Swinging Strike,-
+9,85,4,Tanner Dodson,Matt Frazier,Curve,78.8,Hit Into Play - Out,65.7
+9,86,1,Tanner Dodson,Donta Williams,2 Seam,92.3,Ball,-
+9,86,2,Tanner Dodson,Donta Williams,2 Seam,92.7,Called Strike,-
+9,86,3,Tanner Dodson,Donta Williams,2 Seam,92.8,Hit Into Play - Out,71.3

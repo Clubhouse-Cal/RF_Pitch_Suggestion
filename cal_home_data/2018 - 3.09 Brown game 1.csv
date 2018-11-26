@@ -1,0 +1,305 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Jared Horn,Sam Grigo,2 Seam,90.6,Ball,-
+1,1,2,Jared Horn,Sam Grigo,2 Seam,90.3,Ball,-
+1,1,3,Jared Horn,Sam Grigo,2 Seam,90,Hit Into Play - Out,84.4
+1,2,1,Jared Horn,Louis Gaitley,2 Seam,91.3,Called Strike,-
+1,2,2,Jared Horn,Louis Gaitley,2 Seam,91.2,Hit Into Play,98.5
+1,3,1,Jared Horn,Cameron Deere,Curve,76.5,Called Strike,-
+1,3,2,Jared Horn,Cameron Deere,2 Seam,90.2,Ball,-
+1,3,3,Jared Horn,Cameron Deere,2 Seam,89.4,Ball,-
+1,3,4,Jared Horn,Cameron Deere,2 Seam,89.7,Foul,-
+1,3,5,Jared Horn,Cameron Deere,Curve,75.4,Foul,38.1
+1,3,6,Jared Horn,Cameron Deere,Curve,76,Ball,-
+1,3,7,Jared Horn,Cameron Deere,2 Seam,89.5,Ball,-
+1,4,1,Jared Horn,Mark Sluys,2 Seam,91.1,Ball,-
+1,4,2,Jared Horn,Mark Sluys,2 Seam,90.4,Ball,-
+1,4,3,Jared Horn,Mark Sluys,2 Seam,89.7,Hit Into Play - Run Scored,99.8
+1,5,1,Jared Horn,Willy Homza,Curve,75.4,Ball,-
+1,5,2,Jared Horn,Willy Homza,4 Seam,83.7,Ball,-
+1,5,3,Jared Horn,Willy Homza,2 Seam,84.4,Foul,-
+1,5,4,Jared Horn,Willy Homza,2 Seam,91.3,Foul,-
+1,5,5,Jared Horn,Willy Homza,2 Seam,84.4,Ball,-
+1,5,6,Jared Horn,Willy Homza,2 Seam,90.2,Ball,-
+1,6,1,Jared Horn,Garett Delano,2 Seam,90.2,Foul,-
+1,6,2,Jared Horn,Garett Delano,Curve,75.9,Ball,-
+1,6,3,Jared Horn,Garett Delano,2 Seam,90,Called Strike,-
+1,6,4,Jared Horn,Garett Delano,Curve,75.1,Ball,-
+1,6,5,Jared Horn,Garett Delano,2 Seam,89.9,Swinging Strike,-
+1,7,1,Jared Horn,Brennan Vasquez,2 Seam,92,Foul,67.6
+1,7,2,Jared Horn,Brennan Vasquez,2 Seam,91.5,Foul,-
+1,7,3,Jared Horn,Brennan Vasquez,Curve,76.1,Called Strike,-
+1,8,1,Reid Anderson,Tyrus Greene,2 Seam,91.7,Hit Into Play,93.1
+1,9,1,Reid Anderson,Darren Baker,2 Seam,90.5,Ball,-
+1,9,2,Reid Anderson,Darren Baker,2 Seam,91.1,Swinging Strike,-
+1,9,3,Reid Anderson,Darren Baker,2 Seam,91.8,Foul,-
+1,9,4,Reid Anderson,Darren Baker,2 Seam,92.4,Foul,78
+1,9,5,Reid Anderson,Darren Baker,Changeup,83.1,Ball,-
+1,9,6,Reid Anderson,Darren Baker,Changeup,84.5,Swinging Strike,-
+1,10,1,Reid Anderson,Andrew Vaughn,2 Seam,92.2,Ball,-
+1,10,2,Reid Anderson,Andrew Vaughn,2 Seam,92.1,Hit Into Play - Run Scored,80.6
+1,11,1,Reid Anderson,Tanner Dodson,Changeup,77.2,Ball,-
+1,11,2,Reid Anderson,Tanner Dodson,2 Seam,91.1,Foul,-
+1,11,3,Reid Anderson,Tanner Dodson,Changeup,84.3,Swinging Strike,-
+1,11,4,Reid Anderson,Tanner Dodson,Changeup,85.6,Ball,-
+1,11,5,Reid Anderson,Tanner Dodson,2 Seam,92.1,Swinging Strike,-
+1,12,1,Reid Anderson,Jonah Davis,Changeup,83.6,Swinging Strike,-
+1,12,2,Reid Anderson,Jonah Davis,Changeup,84.6,Ball,-
+1,12,3,Reid Anderson,Jonah Davis,Curve,78,Ball,-
+1,12,4,Reid Anderson,Jonah Davis,2 Seam,92.3,Called Strike,-
+1,12,5,Reid Anderson,Jonah Davis,Changeup,84.7,Swinging Strike,-
+2,13,1,Jared Horn,Richard Ciufo,4 Seam,89.3,Hit Into Play,92.5
+2,14,1,Jared Horn,Joe Lomuscio,2 Seam,87.8,Called Strike,-
+2,14,2,Jared Horn,Joe Lomuscio,4 Seam,86.7,Foul,-
+2,14,3,Jared Horn,Joe Lomuscio,Curve,74.5,Swinging Strike,-
+2,15,1,Jared Horn,Sam Grigo,Curve,75.1,Ball,-
+2,15,2,Jared Horn,Sam Grigo,4 Seam,83.7,Swinging Strike,-
+2,15,3,Jared Horn,Sam Grigo,2 Seam,91.4,Foul,73.3
+2,15,4,Jared Horn,Sam Grigo,Changeup,85.4,Ball,-
+2,15,5,Jared Horn,Sam Grigo,2 Seam,88.2,Ball,-
+2,15,6,Jared Horn,Sam Grigo,2 Seam,90.4,Foul,-
+2,15,7,Jared Horn,Sam Grigo,Changeup,83.3,Swinging Strike,-
+2,16,1,Reid Anderson,Korey Lee,4 Seam,91.5,Hit Into Play - Out,-
+2,17,1,Reid Anderson,Sam Wezniak,2 Seam,91.1,Ball,-
+2,17,2,Reid Anderson,Sam Wezniak,2 Seam,90.5,Ball,-
+2,17,3,Reid Anderson,Sam Wezniak,2 Seam,90.6,Foul,-
+2,17,4,Reid Anderson,Sam Wezniak,Changeup,76,Hit By Pitch,-
+2,18,1,Reid Anderson,Max Flower,2 Seam,90.4,Called Strike,-
+2,18,2,Reid Anderson,Max Flower,Curve,76,Ball,-
+2,18,3,Reid Anderson,Max Flower,2 Seam,89.6,Hit Into Play - Out,45.3
+2,19,1,Reid Anderson,Cameron Eden,Changeup,81.2,Called Strike,-
+2,19,2,Reid Anderson,Cameron Eden,Changeup,81.8,Ball,-
+2,19,3,Reid Anderson,Cameron Eden,2 Seam,91,Foul,94.2
+2,19,4,Reid Anderson,Cameron Eden,Changeup,83,Foul,-
+2,19,5,Reid Anderson,Cameron Eden,Changeup,83.7,Ball,-
+2,19,6,Reid Anderson,Cameron Eden,Changeup,83.8,Swinging Strike,-
+3,20,1,Jared Horn,Louis Gaitley,4 Seam,88.1,Ball,-
+3,20,2,Jared Horn,Louis Gaitley,2 Seam,87.4,Hit Into Play,103.2
+3,21,1,Jared Horn,Cameron Deere,2 Seam,89.8,Ball,-
+3,21,2,Jared Horn,Cameron Deere,Changeup,81.9,Swinging Strike,-
+3,21,3,Jared Horn,Cameron Deere,2 Seam,82.2,Swinging Strike,-
+3,21,4,Jared Horn,Cameron Deere,2 Seam,90.2,Ball,-
+3,21,5,Jared Horn,Cameron Deere,Changeup,82.5,Ball,-
+3,21,6,Jared Horn,Cameron Deere,2 Seam,89.1,Hit Into Play - Out,83.9
+3,22,1,Jared Horn,Mark Sluys,Changeup,83.4,Ball,-
+3,22,3,Jared Horn,Mark Sluys,Curve,75.4,Called Strike,-
+3,22,4,Jared Horn,Mark Sluys,Curve,75.5,Swinging Strike,-
+3,22,2,Jared Horn,Mark Sluys,2 Seam,88.6,Called Strike,-
+3,23,1,Jared Horn,Willy Homza,Changeup,83.9,Ball,-
+3,23,2,Jared Horn,Willy Homza,Changeup,82.1,Hit Into Play - Out,-
+3,24,1,Reid Anderson,Tyrus Greene,Changeup,81,Ball,-
+3,24,2,Reid Anderson,Tyrus Greene,2 Seam,89.7,Ball,-
+3,24,3,Reid Anderson,Tyrus Greene,2 Seam,89.5,Ball,-
+3,24,4,Reid Anderson,Tyrus Greene,2 Seam,88.4,Called Strike,-
+3,24,5,Reid Anderson,Tyrus Greene,2 Seam,89.2,Called Strike,-
+3,24,6,Reid Anderson,Tyrus Greene,2 Seam,89.6,Foul,-
+3,24,7,Reid Anderson,Tyrus Greene,2 Seam,90.2,Hit Into Play,93.1
+3,25,1,Reid Anderson,Darren Baker,2 Seam,89.4,Ball,-
+3,25,2,Reid Anderson,Darren Baker,2 Seam,88.3,Ball,-
+3,25,3,Reid Anderson,Darren Baker,2 Seam,89.6,Hit Into Play,87.5
+3,26,1,Reid Anderson,Andrew Vaughn,Changeup,83.7,Called Strike,-
+3,26,2,Reid Anderson,Andrew Vaughn,Changeup,83.9,Called Strike,-
+3,26,3,Reid Anderson,Andrew Vaughn,2 Seam,88.4,Ball,-
+3,26,4,Reid Anderson,Andrew Vaughn,Changeup,82.9,Ball,-
+3,26,5,Reid Anderson,Andrew Vaughn,Changeup,83.8,Ball,-
+3,26,6,Reid Anderson,Andrew Vaughn,2 Seam,90.8,Hit By Pitch,-
+3,27,1,Reid Anderson,Tanner Dodson,Changeup,81.8,Swinging Strike,-
+3,27,2,Reid Anderson,Tanner Dodson,2 Seam,91.2,Foul,-
+3,27,3,Reid Anderson,Tanner Dodson,Changeup,83.1,Hit Into Play - Out,63.5
+3,28,1,Reid Anderson,Jonah Davis,Changeup,82.8,Ball,-
+3,28,2,Reid Anderson,Jonah Davis,2 Seam,90,Foul,-
+3,28,3,Reid Anderson,Jonah Davis,Changeup,83.2,Hit Into Play - Run Scored,99.6
+3,29,1,Reid Anderson,Korey Lee,Curve,77.4,Called Strike,-
+3,29,2,Reid Anderson,Korey Lee,Curve,75.7,Foul,78.5
+3,29,3,Reid Anderson,Korey Lee,2 Seam,91.3,Ball,-
+3,29,4,Reid Anderson,Korey Lee,2 Seam,91.3,Hit Into Play - Out,76.5
+4,30,1,Jared Horn,Garett Delano,2 Seam,88.6,Hit Into Play - Out,61.6
+4,31,1,Jared Horn,Brennan Vasquez,2 Seam,89.8,Called Strike,-
+4,31,2,Jared Horn,Brennan Vasquez,4 Seam,83.8,Ball,-
+4,31,3,Jared Horn,Brennan Vasquez,Changeup,82.8,Swinging Strike,-
+4,31,4,Jared Horn,Brennan Vasquez,Changeup,83.3,Ball,-
+4,31,5,Jared Horn,Brennan Vasquez,2 Seam,90.8,Foul,-
+4,31,6,Jared Horn,Brennan Vasquez,Curve,76.3,Called Strike,-
+4,32,1,Jared Horn,Richard Ciufo,2 Seam,92.5,Called Strike,-
+4,32,2,Jared Horn,Richard Ciufo,Curve,77.7,Ball,-
+4,32,3,Jared Horn,Richard Ciufo,Changeup,83.3,Swinging Strike,-
+4,32,4,Jared Horn,Richard Ciufo,2 Seam,91.4,Hit Into Play,33.4
+4,33,1,Jared Horn,Joe Lomuscio,2 Seam,89,Called Strike,-
+4,33,2,Jared Horn,Joe Lomuscio,Curve,75.3,Swinging Strike,-
+4,33,3,Jared Horn,Joe Lomuscio,Curve,75.3,Foul,-
+4,33,4,Jared Horn,Joe Lomuscio,2 Seam,91.6,Ball,-
+4,33,5,Jared Horn,Joe Lomuscio,Curve,75.7,Foul,49.4
+4,33,6,Jared Horn,Joe Lomuscio,Changeup,80.4,Foul,-
+4,33,7,Jared Horn,Joe Lomuscio,2 Seam,90.9,Foul,77.9
+4,33,8,Jared Horn,Joe Lomuscio,2 Seam,88.9,Hit Into Play - Out,56.1
+4,34,1,Reid Anderson,Sam Wezniak,2 Seam,89.2,Hit Into Play - Run Scored,92.4
+4,35,1,Reid Anderson,Max Flower,2 Seam,89.8,Ball,-
+4,35,2,Reid Anderson,Max Flower,2 Seam,89.3,Hit Into Play - Out,64.3
+4,36,1,Reid Anderson,Cameron Eden,2 Seam,89.3,Hit Into Play,20.2
+4,37,1,Reid Anderson,Tyrus Greene,2 Seam,89.7,Foul,-
+4,37,2,Reid Anderson,Tyrus Greene,Changeup,81.7,Ball,-
+4,37,3,Reid Anderson,Tyrus Greene,2 Seam,89.8,Foul,-
+4,37,4,Reid Anderson,Tyrus Greene,Changeup,82.6,Ball,-
+4,37,5,Reid Anderson,Tyrus Greene,Curve,77.3,Ball,-
+4,37,6,Reid Anderson,Tyrus Greene,2 Seam,90.7,Ball,-
+4,38,1,Reid Anderson,Darren Baker,2 Seam,90,Hit Into Play - Run Scored,80.9
+4,39,1,Reid Anderson,Andrew Vaughn,Changeup,82.8,Called Strike,-
+4,39,2,Reid Anderson,Andrew Vaughn,Curve,77.1,Called Strike,-
+4,39,3,Reid Anderson,Andrew Vaughn,2 Seam,89.5,Hit Into Play - Run Scored,59.4
+4,40,1,Reid Anderson,Tanner Dodson,Changeup,82.7,Ball,-
+4,40,2,Reid Anderson,Tanner Dodson,2 Seam,89.3,Foul,35.4
+4,40,3,Reid Anderson,Tanner Dodson,Changeup,82.5,Foul,53.4
+4,40,4,Reid Anderson,Tanner Dodson,Changeup,82.8,Ball,-
+4,40,5,Reid Anderson,Tanner Dodson,2 Seam,91.2,Ball,-
+4,40,6,Reid Anderson,Tanner Dodson,2 Seam,90,Hit Into Play - Out,60.6
+5,41,1,Jared Horn,Sam Grigo,Changeup,82.3,Hit Into Play - Out,78.5
+5,42,1,Jared Horn,Louis Gaitley,2 Seam,90.5,Ball,-
+5,42,2,Jared Horn,Louis Gaitley,Changeup,83.2,Called Strike,-
+5,42,3,Jared Horn,Louis Gaitley,Changeup,81.4,Foul,90.1
+5,42,4,Jared Horn,Louis Gaitley,2 Seam,89.5,Hit Into Play - Out,71
+5,43,1,Jared Horn,Cameron Deere,Cutter,89.4,Ball,-
+5,43,2,Jared Horn,Cameron Deere,Changeup,81.4,Ball,-
+5,43,3,Jared Horn,Cameron Deere,2 Seam,89.7,Hit Into Play,93.6
+5,44,1,Jared Horn,Mark Sluys,2 Seam,89.4,Called Strike,-
+5,44,2,Jared Horn,Mark Sluys,Curve,73.6,Ball,-
+5,44,3,Jared Horn,Mark Sluys,2 Seam,89.7,Called Strike,-
+5,44,4,Jared Horn,Mark Sluys,Curve,76.6,Hit Into Play - Out,46.2
+5,45,1,Reid Anderson,Jonah Davis,2 Seam,88.1,Hit Into Play,101.4
+5,46,1,Reid Anderson,Korey Lee,Curve,74.6,Ball,-
+5,46,2,Reid Anderson,Korey Lee,2 Seam,88.2,Ball,-
+5,46,3,Reid Anderson,Korey Lee,2 Seam,89.6,Foul,-
+5,46,4,Reid Anderson,Korey Lee,2 Seam,89.7,Hit Into Play - Out,52.2
+5,47,1,Reid Anderson,Sam Wezniak,Changeup,81.5,Ball,-
+5,47,2,Reid Anderson,Sam Wezniak,2 Seam,88.6,Called Strike,-
+5,47,3,Reid Anderson,Sam Wezniak,Curve,76.4,Foul,-
+5,47,4,Reid Anderson,Sam Wezniak,2 Seam,87.6,Ball,-
+5,47,5,Reid Anderson,Sam Wezniak,Changeup,82.2,Swinging Strike,-
+6,48,1,Jared Horn,Willy Homza,2 Seam,89.6,Hit Into Play - Out,95.6
+6,49,1,Jared Horn,Garett Delano,2 Seam,90.6,Hit Into Play,88.5
+6,50,1,Jared Horn,Hunter Carey,Changeup,81.8,Ball,-
+6,50,2,Jared Horn,Hunter Carey,2 Seam,89.3,Hit Into Play,98.5
+6,51,1,Jared Horn,Richard Ciufo,Curve,74.6,Called Strike,-
+6,51,2,Jared Horn,Richard Ciufo,Curve,74.3,Ball,-
+6,51,3,Jared Horn,Richard Ciufo,Changeup,81.4,Swinging Strike,-
+6,51,4,Jared Horn,Richard Ciufo,2 Seam,88.3,Ball,-
+6,51,5,Jared Horn,Richard Ciufo,2 Seam,88.6,Hit Into Play - Run Scored,62.2
+6,52,1,Jared Horn,Joe Lomuscio,2 Seam,90.7,Ball,-
+6,52,2,Jared Horn,Joe Lomuscio,2 Seam,89.5,Hit Into Play,92.2
+6,53,1,Jared Horn,Sam Grigo,Changeup,83,Hit Into Play - Run Scored,96.6
+6,54,1,Jared Horn,Louis Gaitley,Curve,73.5,Ball,-
+6,54,2,Jared Horn,Louis Gaitley,2 Seam,88.7,Swinging Strike,-
+6,54,3,Jared Horn,Louis Gaitley,2 Seam,87.1,Ball,-
+6,54,4,Jared Horn,Louis Gaitley,Changeup,80.8,Swinging Strike,-
+6,54,5,Jared Horn,Louis Gaitley,Changeup,82.3,Hit Into Play - Run Scored,68.4
+6,55,1,Jared Horn,Cameron Deere,Changeup,80,Ball,-
+6,55,2,Jared Horn,Cameron Deere,2 Seam,89,Called Strike,-
+6,55,3,Jared Horn,Cameron Deere,2 Seam,90,Ball,-
+6,55,4,Jared Horn,Cameron Deere,2 Seam,88.8,Called Strike,-
+6,55,5,Jared Horn,Cameron Deere,Curve,75.3,Ball,-
+6,55,6,Jared Horn,Cameron Deere,2 Seam,88.2,Foul,-
+6,55,7,Jared Horn,Cameron Deere,2 Seam,82.3,Ball,-
+6,56,1,Zayne Patino,Mark Sluys,Changeup,75.2,Hit Into Play - Run Scored,73.8
+6,57,1,Zayne Patino,Willy Homza,4 Seam,84.7,Called Strike,-
+6,57,2,Zayne Patino,Willy Homza,Slider,74.4,Hit Into Play - Out,65.7
+6,58,1,Reid Anderson,Max Flower,2 Seam,89.6,Hit Into Play - Out,62.5
+6,59,1,Reid Anderson,Cameron Eden,Curve,74.9,Called Strike,-
+6,59,2,Reid Anderson,Cameron Eden,Changeup,82.7,Called Strike,-
+6,59,3,Reid Anderson,Cameron Eden,Changeup,82.2,Ball,-
+6,59,4,Reid Anderson,Cameron Eden,2 Seam,88.8,Ball,-
+6,59,5,Reid Anderson,Cameron Eden,Curve,77.2,Ball,-
+6,59,6,Reid Anderson,Cameron Eden,2 Seam,89,Hit Into Play,93.2
+6,60,1,Grant Greeno,Tyrus Greene,Changeup,76.5,Hit By Pitch,-
+6,61,1,Grant Greeno,Darren Baker,Changeup,76.5,Foul,-
+6,61,2,Grant Greeno,Darren Baker,Changeup,75.8,Foul,22.7
+6,61,3,Grant Greeno,Darren Baker,Changeup,77.3,Hit Into Play - Run Scored,90
+6,62,1,Grant Greeno,Andrew Vaughn,Changeup,77.6,Called Strike,-
+6,62,2,Grant Greeno,Andrew Vaughn,Changeup,69,Ball,-
+6,62,3,Grant Greeno,Andrew Vaughn,Changeup,76.2,Hit Into Play - Run Scored,101.8
+6,63,1,Grant Greeno,Tanner Dodson,Changeup,76.6,Ball,-
+6,63,2,Grant Greeno,Tanner Dodson,Changeup,76.3,Ball,-
+6,63,3,Grant Greeno,Tanner Dodson,Changeup,73.8,Ball,-
+6,63,4,Grant Greeno,Tanner Dodson,Changeup,75,Ball,-
+6,64,1,Grant Greeno,Jonah Davis,Changeup,76.6,Called Strike,-
+6,64,2,Grant Greeno,Jonah Davis,Slider,66.8,Called Strike,-
+6,64,3,Grant Greeno,Jonah Davis,Slider,68.3,Ball,-
+6,64,4,Grant Greeno,Jonah Davis,Changeup,77.2,Foul,73.5
+6,64,5,Grant Greeno,Jonah Davis,Slider,67.4,Ball,-
+6,64,6,Grant Greeno,Jonah Davis,Changeup,77,Ball,-
+6,64,7,Grant Greeno,Jonah Davis,Changeup,75,Swinging Strike,-
+7,65,1,Zayne Patino,Garett Delano,Changeup,75.7,Called Strike,-
+7,65,2,Zayne Patino,Garett Delano,4 Seam,84.6,Ball,-
+7,65,3,Zayne Patino,Garett Delano,4 Seam,85.3,Called Strike,-
+7,65,4,Zayne Patino,Garett Delano,Slider,75.7,Swinging Strike,-
+7,66,1,Zayne Patino,Hunter Carey,4 Seam,84.4,Ball,-
+7,66,2,Zayne Patino,Hunter Carey,Slider,73.5,Ball,-
+7,66,3,Zayne Patino,Hunter Carey,Cutter,85.6,Called Strike,-
+7,66,4,Zayne Patino,Hunter Carey,4 Seam,84.9,Called Strike,-
+7,66,5,Zayne Patino,Hunter Carey,Slider,75.5,Swinging Strike,-
+7,67,1,Zayne Patino,Richard Ciufo,4 Seam,86.5,Called Strike,-
+7,67,2,Zayne Patino,Richard Ciufo,Cutter,86.6,Foul,-
+7,67,3,Zayne Patino,Richard Ciufo,Slider,76.7,Foul,-
+7,67,4,Zayne Patino,Richard Ciufo,Slider,76,Hit Into Play,64.8
+7,68,1,Zayne Patino,Joe Lomuscio,4 Seam,85,Ball,-
+7,68,2,Zayne Patino,Joe Lomuscio,Changeup,77.7,Foul,69.7
+7,68,3,Zayne Patino,Joe Lomuscio,4 Seam,85.4,Hit Into Play - Out,76.5
+7,69,1,Calvin Farris,Korey Lee,2 Seam,84.1,Swinging Strike,-
+7,69,2,Calvin Farris,Korey Lee,2 Seam,83.7,Called Strike,-
+7,69,3,Calvin Farris,Korey Lee,Slider,77.2,Ball,-
+7,69,4,Calvin Farris,Korey Lee,Slider,76.4,Hit Into Play,71.9
+7,70,1,Calvin Farris,Sam Wezniak,2 Seam,84,Foul,43.4
+7,70,2,Calvin Farris,Sam Wezniak,2 Seam,84,Called Strike,-
+7,70,3,Calvin Farris,Sam Wezniak,2 Seam,86.3,Ball,-
+7,70,4,Calvin Farris,Sam Wezniak,Slider,75.4,Ball,-
+7,70,5,Calvin Farris,Sam Wezniak,2 Seam,84.7,Ball,-
+7,70,6,Calvin Farris,Sam Wezniak,2 Seam,84.5,Swinging Strike,-
+7,71,1,Calvin Farris,Max Flower,Slider,74,Ball,-
+7,71,2,Calvin Farris,Max Flower,2 Seam,83.4,Hit Into Play - Run Scored,96.6
+7,72,1,Calvin Farris,Cameron Eden,Curve,72.6,Ball,-
+7,72,2,Calvin Farris,Cameron Eden,2 Seam,83,Foul,-
+7,72,3,Calvin Farris,Cameron Eden,2 Seam,84.4,Foul,-
+7,72,4,Calvin Farris,Cameron Eden,2 Seam,84.4,Hit Into Play - Out,86.8
+7,73,1,Calvin Farris,Tyrus Greene,Changeup,78.6,Ball,-
+7,73,2,Calvin Farris,Tyrus Greene,2 Seam,84.9,Ball,-
+7,73,3,Calvin Farris,Tyrus Greene,2 Seam,83.7,Ball,-
+7,73,4,Calvin Farris,Tyrus Greene,2 Seam,82.1,Ball,-
+7,74,1,Calvin Farris,Darren Baker,2 Seam,82.9,Ball,-
+7,74,2,Calvin Farris,Darren Baker,2 Seam,84,Ball,-
+7,74,3,Calvin Farris,Darren Baker,2 Seam,84.4,Foul,-
+7,74,4,Calvin Farris,Darren Baker,2 Seam,82.7,Hit Into Play - Out,77.7
+8,75,1,Zayne Patino,Sam Grigo,4 Seam,82.3,Swinging Strike,-
+8,75,2,Zayne Patino,Sam Grigo,4 Seam,84.4,Swinging Strike,-
+8,75,3,Zayne Patino,Sam Grigo,Slider,75.2,Foul,-
+8,75,4,Zayne Patino,Sam Grigo,4 Seam,86.2,Swinging Strike,-
+8,76,1,Zayne Patino,Louis Gaitley,4 Seam,85,Called Strike,-
+8,76,2,Zayne Patino,Louis Gaitley,4 Seam,85.8,Swinging Strike,-
+8,76,3,Zayne Patino,Louis Gaitley,Slider,76.3,Foul,39
+8,76,4,Zayne Patino,Louis Gaitley,Cutter,86.9,Foul,-
+8,76,5,Zayne Patino,Louis Gaitley,4 Seam,85.8,Hit Into Play - Out,74.1
+8,77,1,Zayne Patino,Cameron Deere,Cutter,86.2,Called Strike,-
+8,77,2,Zayne Patino,Cameron Deere,4 Seam,86.2,Ball,-
+8,77,3,Zayne Patino,Cameron Deere,Cutter,86.3,Ball,-
+8,77,4,Zayne Patino,Cameron Deere,4 Seam,85.2,Hit Into Play,91.6
+8,78,1,Zayne Patino,Mark Sluys,Cutter,84.1,Called Strike,-
+8,78,2,Zayne Patino,Mark Sluys,Cutter,75.5,Called Strike,-
+8,78,3,Zayne Patino,Mark Sluys,Cutter,85.6,Hit Into Play - Out,75.4
+8,79,1,Calvin Farris,Andrew Vaughn,2 Seam,83.6,Called Strike,-
+8,79,2,Calvin Farris,Andrew Vaughn,2 Seam,83.3,Ball,-
+8,79,3,Calvin Farris,Andrew Vaughn,2 Seam,81.3,Hit By Pitch,-
+8,80,1,Calvin Farris,Tanner Dodson,2 Seam,82.6,Ball,-
+8,80,2,Calvin Farris,Tanner Dodson,2 Seam,82.3,Hit Into Play - Out,74.8
+8,81,1,Calvin Farris,Jonah Davis,2 Seam,82.6,Foul,-
+8,81,2,Calvin Farris,Jonah Davis,Changeup,78,Ball,-
+8,81,3,Calvin Farris,Jonah Davis,2 Seam,83.6,Ball,-
+8,81,4,Calvin Farris,Jonah Davis,2 Seam,82.4,Called Strike,-
+8,81,5,Calvin Farris,Jonah Davis,2 Seam,82.5,Called Strike,-
+8,82,1,Calvin Farris,Korey Lee,2 Seam,83.8,Called Strike,-
+8,82,2,Calvin Farris,Korey Lee,2 Seam,83.6,Called Strike,-
+8,82,3,Calvin Farris,Korey Lee,2 Seam,83.6,Hit Into Play - Out,38.3
+9,83,1,Zayne Patino,Willy Homza,Cutter,83.1,Hit Into Play,83.6
+9,84,1,Zayne Patino,Garett Delano,Cutter,83.2,Hit Into Play - Out,90.3
+9,85,1,Zayne Patino,Brian Ginsberg,4 Seam,82.4,Ball,-
+9,85,2,Zayne Patino,Brian Ginsberg,Changeup,75.9,Swinging Strike,-
+9,85,3,Zayne Patino,Brian Ginsberg,Cutter,86.1,Hit Into Play - Out,30.7
+9,86,1,Zayne Patino,Richard Ciufo,Changeup,76.8,Called Strike,-
+9,86,2,Zayne Patino,Richard Ciufo,Cutter,83.7,Ball,-
+9,86,3,Zayne Patino,Richard Ciufo,Cutter,84.8,Swinging Strike,-
+9,86,4,Zayne Patino,Richard Ciufo,4 Seam,86.4,Hit Into Play - Out,91.4

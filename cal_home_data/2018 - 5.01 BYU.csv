@@ -1,0 +1,261 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Joey Matulovich,Brennon Anderson,2 Seam,89.8,Foul,-
+1,1,2,Joey Matulovich,Brennon Anderson,2 Seam,90.7,Ball,-
+1,1,3,Joey Matulovich,Brennon Anderson,2 Seam,89.6,Ball,-
+1,1,4,Joey Matulovich,Brennon Anderson,2 Seam,89.7,Foul,-
+1,1,5,Joey Matulovich,Brennon Anderson,2 Seam,90.5,Swinging Strike,-
+1,2,1,Joey Matulovich,Daniel Schneemann,Changeup,79,Swinging Strike,-
+1,2,2,Joey Matulovich,Daniel Schneemann,2 Seam,90.8,Hit Into Play - Out,-
+1,3,1,Joey Matulovich,Keaton Kringlen,2 Seam,90.5,Foul,-
+1,3,2,Joey Matulovich,Keaton Kringlen,2 Seam,90.3,Foul,-
+1,3,3,Joey Matulovich,Keaton Kringlen,Slider,78.2,Ball,-
+1,3,4,Joey Matulovich,Keaton Kringlen,2 Seam,91.2,Ball,-
+1,3,5,Joey Matulovich,Keaton Kringlen,2 Seam,89.3,Hit Into Play - Out,-
+1,4,1,Alex Perron,Tyrus Greene,2 Seam,86,Ball,-
+1,4,2,Alex Perron,Tyrus Greene,2 Seam,85.8,Ball,-
+1,4,3,Alex Perron,Tyrus Greene,4 Seam,87,Called Strike,-
+1,4,4,Alex Perron,Tyrus Greene,4 Seam,86.5,Hit Into Play - Out,-
+1,5,1,Alex Perron,Tanner Dodson,4 Seam,86.5,Ball,-
+1,5,2,Alex Perron,Tanner Dodson,2 Seam,86.6,Ball,-
+1,5,3,Alex Perron,Tanner Dodson,4 Seam,86.5,Hit Into Play,-
+1,6,1,Alex Perron,Andrew Vaughn,2 Seam,86.4,Hit Into Play - Out,-
+2,7,1,Joey Matulovich,Brock Hale,2 Seam,88.6,Foul,-
+2,7,2,Joey Matulovich,Brock Hale,2 Seam,90.7,Called Strike,-
+2,7,3,Joey Matulovich,Brock Hale,Curve,76.5,Hit Into Play - Out,-
+2,8,1,Joey Matulovich,Nate Favero,2 Seam,90.1,Foul,-
+2,8,2,Joey Matulovich,Nate Favero,2 Seam,91.4,Foul,-
+2,8,3,Joey Matulovich,Nate Favero,2 Seam,89.3,Hit Into Play,-
+2,9,1,Joey Matulovich,Kyle Dean,Changeup,76.6,Ball,-
+2,9,2,Joey Matulovich,Kyle Dean,2 Seam,88.3,Ball,-
+2,9,3,Joey Matulovich,Kyle Dean,2 Seam,88.3,Called Strike,-
+2,9,5,Joey Matulovich,Kyle Dean,2 Seam,88.3,Ball,-
+2,9,6,Joey Matulovich,Kyle Dean,2 Seam,88.1,Foul,-
+2,9,7,Joey Matulovich,Kyle Dean,2 Seam,88.4,Hit Into Play - Out,-
+2,10,1,Joey Matulovich,David Clawson,4 Seam,88.5,Called Strike,-
+2,10,2,Joey Matulovich,David Clawson,2 Seam,89.2,Hit Into Play,-
+2,11,1,Joey Matulovich,Casey Jacobsen,Curve,77.7,Hit Into Play - Out,-
+2,12,1,Alex Perron,Jonah Davis,2 Seam,85.4,Ball,-
+2,12,2,Alex Perron,Jonah Davis,2 Seam,85.6,Called Strike,-
+2,12,3,Alex Perron,Jonah Davis,2 Seam,80.9,Ball,-
+2,12,4,Alex Perron,Jonah Davis,4 Seam,84.8,Ball,-
+2,12,5,Alex Perron,Jonah Davis,2 Seam,85.5,Hit Into Play,-
+2,13,1,Alex Perron,Jeffery Mitchell Jr.,2 Seam,84.4,Ball,-
+2,13,2,Alex Perron,Jeffery Mitchell Jr.,4 Seam,84.6,Called Strike,-
+2,13,3,Alex Perron,Jeffery Mitchell Jr.,4 Seam,85.2,Foul,-
+2,13,4,Alex Perron,Jeffery Mitchell Jr.,Curve,73.1,Ball,-
+2,13,5,Alex Perron,Jeffery Mitchell Jr.,2 Seam,85,Ball,-
+2,13,6,Alex Perron,Jeffery Mitchell Jr.,2 Seam,85.7,Hit Into Play - Out,-
+2,14,1,Alex Perron,Darren Baker,2 Seam,85.6,Ball,-
+2,14,2,Alex Perron,Darren Baker,2 Seam,85.6,Hit Into Play - Out,-
+2,15,1,Alex Perron,Sam Wezniak,2 Seam,84.2,Ball,-
+2,15,2,Alex Perron,Sam Wezniak,4 Seam,85.6,Hit Into Play - Out,-
+3,16,1,Arman Sabouri,Mitch McIntyre,2 Seam,84.1,Hit Into Play - Out,69.2
+3,17,1,Arman Sabouri,Brennon Anderson,2 Seam,87,Called Strike,-
+3,17,2,Arman Sabouri,Brennon Anderson,2 Seam,87.3,Ball,-
+3,17,3,Arman Sabouri,Brennon Anderson,2 Seam,86,Hit Into Play,94.5
+3,18,1,Arman Sabouri,Daniel Schneemann,2 Seam,85.5,Called Strike,-
+3,18,2,Arman Sabouri,Daniel Schneemann,Curve,74.7,Ball,-
+3,18,3,Arman Sabouri,Daniel Schneemann,Curve,74.2,Hit Into Play - Out,-
+3,19,1,Arman Sabouri,Keaton Kringlen,Changeup,77.2,Hit Into Play - Out,65.7
+3,20,1,Alex Perron,Matt Ruff,4 Seam,83.9,Ball,-
+3,20,2,Alex Perron,Matt Ruff,4 Seam,84.9,Ball,-
+3,20,3,Alex Perron,Matt Ruff,4 Seam,85.2,Called Strike,-
+3,20,4,Alex Perron,Matt Ruff,4 Seam,84.5,Hit By Pitch,-
+3,21,1,Alex Perron,Cameron Eden,4 Seam,84.7,Swinging Strike,-
+3,21,2,Alex Perron,Cameron Eden,2 Seam,84.1,Called Strike,-
+3,21,3,Alex Perron,Cameron Eden,Slider,75.7,Ball,-
+3,21,4,Alex Perron,Cameron Eden,Curve,72.6,Ball,-
+3,21,5,Alex Perron,Cameron Eden,4 Seam,84.6,Ball,-
+3,21,6,Alex Perron,Cameron Eden,4 Seam,85.1,Swinging Strike,-
+3,22,1,Alex Perron,Tyrus Greene,2 Seam,80.9,Ball,-
+3,22,2,Alex Perron,Tyrus Greene,4 Seam,84.3,Ball,-
+3,22,3,Alex Perron,Tyrus Greene,4 Seam,83.8,Swinging Strike,-
+3,22,4,Alex Perron,Tyrus Greene,4 Seam,83.7,Hit Into Play - Out,79.1
+3,23,1,Alex Perron,Tanner Dodson,4 Seam,85.1,Called Strike,-
+3,23,2,Alex Perron,Tanner Dodson,2 Seam,81.8,Ball,-
+3,23,3,Alex Perron,Tanner Dodson,2 Seam,81.8,Ball,-
+3,23,4,Alex Perron,Tanner Dodson,4 Seam,84.6,Hit Into Play - Out,89.5
+4,24,1,Arman Sabouri,Brock Hale,4 Seam,85.9,Ball,-
+4,24,2,Arman Sabouri,Brock Hale,Changeup,78.3,Called Strike,-
+4,24,3,Arman Sabouri,Brock Hale,4 Seam,87.7,Hit Into Play - Out,99.8
+4,25,1,Arman Sabouri,Nate Favero,4 Seam,86.9,Hit Into Play - Out,65.3
+4,26,1,Arman Sabouri,Kyle Dean,4 Seam,86.6,Swinging Strike,-
+4,26,2,Arman Sabouri,Kyle Dean,Changeup,78.2,Called Strike,-
+4,26,3,Arman Sabouri,Kyle Dean,2 Seam,88.7,Ball,-
+4,26,4,Arman Sabouri,Kyle Dean,4 Seam,89.4,Foul,-
+4,26,5,Arman Sabouri,Kyle Dean,Curve,73.4,Swinging Strike,-
+4,27,1,Alex Perron,Andrew Vaughn,Changeup,72.6,Called Strike,-
+4,27,2,Alex Perron,Andrew Vaughn,4 Seam,84.9,Hit Into Play - Out,105.6
+4,28,1,Alex Perron,Jonah Davis,Slider,73,Called Strike,-
+4,28,2,Alex Perron,Jonah Davis,2 Seam,81.4,Ball,-
+4,28,3,Alex Perron,Jonah Davis,Curve,73.4,Called Strike,-
+4,28,4,Alex Perron,Jonah Davis,Slider,73.6,Swinging Strike,-
+4,29,1,Alex Perron,Jeffery Mitchell Jr.,4 Seam,84.8,Ball,-
+4,29,2,Alex Perron,Jeffery Mitchell Jr.,Slider,73.5,Swinging Strike,-
+4,29,3,Alex Perron,Jeffery Mitchell Jr.,Slider,73.5,Swinging Strike,-
+4,29,4,Alex Perron,Jeffery Mitchell Jr.,Curve,73.5,Ball,-
+4,29,5,Alex Perron,Jeffery Mitchell Jr.,4 Seam,83.8,Ball,-
+4,29,6,Alex Perron,Jeffery Mitchell Jr.,Slider,73.5,Swinging Strike,-
+5,30,1,Erik Martinez,David Clawson,Cutter,83.1,Hit Into Play - Out,73.3
+5,31,1,Erik Martinez,Casey Jacobsen,Cutter,84.6,Ball,-
+5,31,2,Erik Martinez,Casey Jacobsen,4 Seam,83.8,Called Strike,-
+5,31,3,Erik Martinez,Casey Jacobsen,Cutter,83.9,Hit Into Play - Out,83.7
+5,32,1,Erik Martinez,Mitch McIntyre,Cutter,83.9,Foul,-
+5,32,2,Erik Martinez,Mitch McIntyre,Cutter,84.7,Ball,-
+5,32,3,Erik Martinez,Mitch McIntyre,Cutter,83,Swinging Strike,-
+5,32,4,Erik Martinez,Mitch McIntyre,4 Seam,83.6,Called Strike,-
+5,33,1,Alex Perron,Darren Baker,4 Seam,84.1,Hit Into Play - Out,73.8
+5,34,1,Alex Perron,Sam Wezniak,Changeup,73,Called Strike,-
+5,34,2,Alex Perron,Sam Wezniak,Changeup,73.7,Ball,-
+5,34,3,Alex Perron,Sam Wezniak,4 Seam,84.4,Ball,-
+5,34,4,Alex Perron,Sam Wezniak,2 Seam,83,Foul,-
+5,34,5,Alex Perron,Sam Wezniak,Slider,73.3,Ball,-
+5,34,6,Alex Perron,Sam Wezniak,Slider,73.3,Ball,-
+5,35,1,Alex Perron,Matt Ruff,4 Seam,83.1,Swinging Strike,-
+5,35,2,Alex Perron,Matt Ruff,4 Seam,83,Ball,-
+5,35,3,Alex Perron,Matt Ruff,2 Seam,83.3,Foul,-
+5,35,4,Alex Perron,Matt Ruff,4 Seam,84.3,Ball,-
+5,35,5,Alex Perron,Matt Ruff,2 Seam,82.3,Hit Into Play,94.3
+5,36,1,Alex Perron,Cameron Eden,4 Seam,84.3,Called Strike,-
+5,36,2,Alex Perron,Cameron Eden,Slider,71.7,Foul,-
+5,36,3,Alex Perron,Cameron Eden,4 Seam,84,Ball,-
+5,36,4,Alex Perron,Cameron Eden,Slider,73.8,Ball,-
+5,36,5,Alex Perron,Cameron Eden,Changeup,73.4,Ball,-
+5,36,6,Alex Perron,Cameron Eden,4 Seam,84.1,Foul,-
+5,36,7,Alex Perron,Cameron Eden,4 Seam,84.3,Foul,-
+5,36,8,Alex Perron,Cameron Eden,4 Seam,83.4,Swinging Strike,-
+6,37,1,Erik Martinez,Brennon Anderson,Cutter,83.4,Ball,-
+6,37,2,Erik Martinez,Brennon Anderson,Cutter,82.3,Called Strike,-
+6,37,3,Erik Martinez,Brennon Anderson,4 Seam,84.1,Foul,-
+6,37,4,Erik Martinez,Brennon Anderson,Curve,76.9,Foul,-
+6,37,5,Erik Martinez,Brennon Anderson,Slider,79.3,Ball,-
+6,37,6,Erik Martinez,Brennon Anderson,Cutter,84.3,Ball,-
+6,37,7,Erik Martinez,Brennon Anderson,Cutter,86.1,Foul,-
+6,37,8,Erik Martinez,Brennon Anderson,Cutter,85.2,Foul,-
+6,37,9,Erik Martinez,Brennon Anderson,Cutter,85.1,Hit Into Play - Out,84.7
+6,38,1,Erik Martinez,Daniel Schneemann,Cutter,84.3,Called Strike,-
+6,38,2,Erik Martinez,Daniel Schneemann,Cutter,84.6,Called Strike,-
+6,38,3,Erik Martinez,Daniel Schneemann,Cutter,84.7,Ball,-
+6,38,4,Erik Martinez,Daniel Schneemann,Cutter,84.2,Ball,-
+6,38,5,Erik Martinez,Daniel Schneemann,4 Seam,84.2,Hit Into Play - Out,61.6
+6,39,1,Erik Martinez,Keaton Kringlen,Cutter,85.3,Swinging Strike,-
+6,39,2,Erik Martinez,Keaton Kringlen,Cutter,84.8,Swinging Strike,-
+6,39,3,Erik Martinez,Keaton Kringlen,Cutter,84.6,Swinging Strike,-
+6,40,1,Alex Perron,Tyrus Greene,2 Seam,83.8,Ball,-
+6,40,2,Alex Perron,Tyrus Greene,4 Seam,82.7,Ball,-
+6,40,3,Alex Perron,Tyrus Greene,2 Seam,83.1,Called Strike,-
+6,40,4,Alex Perron,Tyrus Greene,2 Seam,83.8,Foul,-
+6,40,5,Alex Perron,Tyrus Greene,2 Seam,81.7,Ball,-
+6,40,6,Alex Perron,Tyrus Greene,4 Seam,83.3,Ball,-
+6,41,1,Alex Perron,Tanner Dodson,2 Seam,82.7,Ball,-
+6,41,2,Alex Perron,Tanner Dodson,Cutter,82.9,Foul,-
+6,41,3,Alex Perron,Tanner Dodson,4 Seam,82.7,Foul,-
+6,41,4,Alex Perron,Tanner Dodson,4 Seam,81.7,Hit Into Play - Out,-
+6,42,1,Alex Perron,Andrew Vaughn,Cutter,81.9,Swinging Strike,-
+6,42,2,Alex Perron,Andrew Vaughn,4 Seam,82.5,Ball,-
+6,42,3,Alex Perron,Andrew Vaughn,Changeup,73.8,Ball,-
+6,42,4,Alex Perron,Andrew Vaughn,2 Seam,81.7,Foul,-
+6,42,5,Alex Perron,Andrew Vaughn,Changeup,72.9,Hit Into Play - Out,39.3
+6,43,1,Rhett Parkinson,Jonah Davis,Curve,71.6,Ball,-
+6,43,2,Rhett Parkinson,Jonah Davis,Curve,71.4,Called Strike,-
+6,43,3,Rhett Parkinson,Jonah Davis,4 Seam,85,Ball,-
+6,43,4,Rhett Parkinson,Jonah Davis,4 Seam,85.5,Swinging Strike,-
+6,43,5,Rhett Parkinson,Jonah Davis,4 Seam,84,Ball,-
+6,43,6,Rhett Parkinson,Jonah Davis,Slider,72,Swinging Strike,-
+7,44,1,Carson Olson,Brock Hale,Changeup,77.8,Called Strike,-
+7,44,2,Carson Olson,Brock Hale,Changeup,77.2,Foul,-
+7,44,3,Carson Olson,Brock Hale,2 Seam,87.4,Hit Into Play - Out,99.4
+7,45,1,Carson Olson,Nate Favero,Changeup,79.7,Ball,-
+7,45,2,Carson Olson,Nate Favero,Changeup,77.5,Ball,-
+7,45,3,Carson Olson,Nate Favero,2 Seam,88.2,Ball,-
+7,45,4,Carson Olson,Nate Favero,2 Seam,88,Called Strike,-
+7,45,5,Carson Olson,Nate Favero,2 Seam,86.8,Called Strike,-
+7,45,6,Carson Olson,Nate Favero,2 Seam,86.2,Ball,-
+7,46,1,Carson Olson,Kyle Dean,Changeup,78.4,Ball,-
+7,46,2,Carson Olson,Kyle Dean,2 Seam,86.1,Foul,-
+7,46,3,Carson Olson,Kyle Dean,Changeup,78.4,Ball,-
+7,46,4,Carson Olson,Kyle Dean,2 Seam,86,Foul,-
+7,46,5,Carson Olson,Kyle Dean,2 Seam,86.9,Swinging Strike,-
+7,47,1,Carson Olson,David Clawson,Changeup,79,Called Strike,-
+7,47,2,Carson Olson,David Clawson,Changeup,78,Foul,-
+7,47,3,Carson Olson,David Clawson,2 Seam,86.3,Ball,-
+7,47,4,Carson Olson,David Clawson,2 Seam,87.1,Hit Into Play,-
+7,48,1,Carson Olson,Casey Jacobsen,2 Seam,87.7,Ball,-
+7,48,2,Carson Olson,Casey Jacobsen,Changeup,78.4,Called Strike,-
+7,48,3,Carson Olson,Casey Jacobsen,Changeup,79,Swinging Strike,-
+7,48,4,Carson Olson,Casey Jacobsen,Changeup,79,Hit Into Play,84
+7,49,1,Carson Olson,Mitch McIntyre,2 Seam,86.6,Called Strike,-
+7,49,2,Carson Olson,Mitch McIntyre,2 Seam,86.9,Ball,-
+7,49,3,Carson Olson,Mitch McIntyre,Changeup,77.8,Ball,-
+7,49,4,Carson Olson,Mitch McIntyre,2 Seam,86.7,Foul,-
+7,49,5,Carson Olson,Mitch McIntyre,Changeup,77.9,Foul,-
+7,49,6,Carson Olson,Mitch McIntyre,Changeup,78.3,Swinging Strike,-
+7,50,1,Rhett Parkinson,Jeffery Mitchell Jr.,4 Seam,84.3,Called Strike,-
+7,50,2,Rhett Parkinson,Jeffery Mitchell Jr.,Slider,72.1,Hit By Pitch,-
+7,51,1,Rhett Parkinson,Darren Baker,Cutter,83.2,Hit Into Play - Out,-
+7,52,1,Rhett Parkinson,Sam Wezniak,4 Seam,83.5,Ball,-
+7,52,2,Rhett Parkinson,Sam Wezniak,Curve,71.2,Swinging Strike,-
+7,52,3,Rhett Parkinson,Sam Wezniak,Slider,71.8,Ball,-
+7,52,4,Rhett Parkinson,Sam Wezniak,4 Seam,85.2,Foul,-
+7,52,5,Rhett Parkinson,Sam Wezniak,Curve,70.9,Ball,-
+7,52,6,Rhett Parkinson,Sam Wezniak,4 Seam,84.2,Hit Into Play - Out,88.4
+7,53,1,Rhett Parkinson,Matt Ruff,Curve,72.4,Called Strike,-
+7,53,2,Rhett Parkinson,Matt Ruff,Slider,71.6,Ball,-
+7,53,3,Rhett Parkinson,Matt Ruff,4 Seam,84.3,Foul,-
+7,53,4,Rhett Parkinson,Matt Ruff,Slider,71.9,Ball,-
+7,53,5,Rhett Parkinson,Matt Ruff,Curve,71.2,Foul,-
+7,53,6,Rhett Parkinson,Matt Ruff,4 Seam,85.1,Foul,-
+7,53,7,Rhett Parkinson,Matt Ruff,Curve,71.3,Foul,-
+7,53,8,Rhett Parkinson,Matt Ruff,4 Seam,84.6,Hit Into Play - Out,105.3
+8,54,1,Andrew Buckley,Brennon Anderson,2 Seam,82.6,Foul,-
+8,54,2,Andrew Buckley,Brennon Anderson,Changeup,78.4,Foul,-
+8,54,3,Andrew Buckley,Brennon Anderson,Changeup,74.9,Hit Into Play - Out,79.3
+8,55,1,Andrew Buckley,Daniel Schneemann,2 Seam,83.4,Called Strike,-
+8,55,2,Andrew Buckley,Daniel Schneemann,4 Seam,80.2,Hit Into Play - Out,47.3
+8,56,1,Andrew Buckley,Keaton Kringlen,2 Seam,82.3,Foul,69.8
+8,56,2,Andrew Buckley,Keaton Kringlen,Changeup,79.1,Ball,-
+8,56,3,Andrew Buckley,Keaton Kringlen,2 Seam,82.7,Ball,-
+8,56,4,Andrew Buckley,Keaton Kringlen,Changeup,77.7,Ball,-
+8,56,5,Andrew Buckley,Keaton Kringlen,2 Seam,81.7,Called Strike,-
+8,56,6,Andrew Buckley,Keaton Kringlen,2 Seam,83.8,Hit Into Play,83.2
+8,57,1,Andrew Buckley,Brock Hale,2 Seam,81.9,Ball,-
+8,57,2,Andrew Buckley,Brock Hale,2 Seam,81.7,Called Strike,-
+8,57,3,Andrew Buckley,Brock Hale,Changeup,77.3,Hit Into Play - Out,-
+8,58,1,Rhett Parkinson,Cameron Eden,4 Seam,84.6,Hit Into Play,95.1
+8,59,1,Rhett Parkinson,Tyrus Greene,4 Seam,82.4,Ball,-
+8,59,2,Rhett Parkinson,Tyrus Greene,4 Seam,82.7,Hit Into Play - Out,25.1
+8,60,1,Blake Inouye,Tanner Dodson,Changeup,74.6,Ball,-
+8,60,2,Blake Inouye,Tanner Dodson,2 Seam,85.6,Ball,-
+8,60,3,Blake Inouye,Tanner Dodson,2 Seam,86.2,Ball,-
+8,60,4,Blake Inouye,Tanner Dodson,2 Seam,85.2,Called Strike,-
+8,60,5,Blake Inouye,Tanner Dodson,2 Seam,85.7,Foul,-
+8,60,6,Blake Inouye,Tanner Dodson,2 Seam,86.3,Foul,-
+8,60,7,Blake Inouye,Tanner Dodson,Changeup,76.3,Hit Into Play - Out,57.2
+8,61,1,Blake Inouye,Andrew Vaughn,Changeup,76.2,Ball,-
+8,61,2,Blake Inouye,Andrew Vaughn,Changeup,75.9,Ball,-
+8,61,3,Blake Inouye,Andrew Vaughn,Changeup,77.2,Ball,-
+8,61,4,Blake Inouye,Andrew Vaughn,Changeup,74.7,Ball,-
+8,62,1,Bo Burrup,Jonah Davis,Slider,75.3,Swinging Strike,-
+8,62,2,Bo Burrup,Jonah Davis,Slider,75.6,Ball,-
+8,62,3,Bo Burrup,Jonah Davis,Slider,76.4,Called Strike,-
+8,62,4,Bo Burrup,Jonah Davis,Slider,75.8,Ball,-
+8,62,5,Bo Burrup,Jonah Davis,Slider,76.2,Ball,-
+8,62,6,Bo Burrup,Jonah Davis,Slider,76.1,Called Strike,-
+9,63,1,Tanner Dodson,Nate Favero,2 Seam,91.6,Hit Into Play - Out,-
+9,64,1,Tanner Dodson,Kyle Dean,2 Seam,92.6,Swinging Strike,-
+9,64,2,Tanner Dodson,Kyle Dean,2 Seam,91.7,Ball,-
+9,64,3,Tanner Dodson,Kyle Dean,2 Seam,92.4,Swinging Strike,-
+9,64,4,Tanner Dodson,Kyle Dean,2 Seam,93.4,Ball,-
+9,64,5,Tanner Dodson,Kyle Dean,2 Seam,93,Ball,-
+9,64,6,Tanner Dodson,Kyle Dean,2 Seam,91.8,Swinging Strike,-
+9,65,1,Tanner Dodson,David Clawson,2 Seam,93.2,Hit Into Play - Out,66.4
+9,66,1,Bo Burrup,Jeffery Mitchell Jr.,Slider,75.9,Ball,-
+9,66,2,Bo Burrup,Jeffery Mitchell Jr.,4 Seam,81.6,Hit Into Play,93.8
+9,67,1,Bo Burrup,Darren Baker,2 Seam,81.8,Ball,-
+9,67,2,Bo Burrup,Darren Baker,2 Seam,81.4,Hit Into Play,94.5
+9,68,1,Bo Burrup,Sam Wezniak,4 Seam,82.7,Foul,-
+9,68,2,Bo Burrup,Sam Wezniak,4 Seam,83.1,Hit Into Play - Out,23.6
+9,69,1,Jake Suddreth,Max Flower,2 Seam,83.1,Ball,-
+9,69,2,Jake Suddreth,Max Flower,Changeup,76.8,Called Strike,-
+9,69,3,Jake Suddreth,Max Flower,Changeup,77.7,Foul,-
+9,69,4,Jake Suddreth,Max Flower,Slider,77.1,Hit Into Play,96.3

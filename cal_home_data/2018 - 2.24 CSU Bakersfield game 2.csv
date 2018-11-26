@@ -1,0 +1,372 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Rogelio Reyes,Evan Berkey,2 Seam,87.1,Called Strike,-
+1,1,2,Rogelio Reyes,Evan Berkey,Changeup,77.7,Ball,-
+1,1,3,Rogelio Reyes,Evan Berkey,2 Seam,89,Ball,-
+1,1,4,Rogelio Reyes,Evan Berkey,2 Seam,88.4,Hit Into Play - Out,90.1
+1,2,1,Rogelio Reyes,Noah Barba,2 Seam,89.3,Called Strike,-
+1,2,2,Rogelio Reyes,Noah Barba,Changeup,80,Swinging Strike,-
+1,2,3,Rogelio Reyes,Noah Barba,2 Seam,89.1,Called Strike,-
+1,3,1,Rogelio Reyes,Andrew Penner,2 Seam,89.2,Ball,-
+1,3,2,Rogelio Reyes,Andrew Penner,Changeup,80.6,Called Strike,-
+1,3,3,Rogelio Reyes,Andrew Penner,Changeup,79.8,Foul,-
+1,3,4,Rogelio Reyes,Andrew Penner,2 Seam,89.4,Ball,-
+1,3,5,Rogelio Reyes,Andrew Penner,Curve,72.4,Called Strike,-
+1,4,1,Jordan Ragan,Tyrus Greene,4 Seam,83.2,Called Strike,-
+1,4,2,Jordan Ragan,Tyrus Greene,4 Seam,81.1,Ball,-
+1,4,3,Jordan Ragan,Tyrus Greene,4 Seam,84.2,Ball,-
+1,4,4,Jordan Ragan,Tyrus Greene,4 Seam,82.6,Ball,-
+1,4,5,Jordan Ragan,Tyrus Greene,4 Seam,83.1,Called Strike,-
+1,4,6,Jordan Ragan,Tyrus Greene,4 Seam,82.8,Hit Into Play - Out,65.7
+1,5,1,Jordan Ragan,Darren Baker,4 Seam,83,Hit Into Play - Out,91.6
+1,6,1,Jordan Ragan,Andrew Vaughn,4 Seam,84.1,Ball,-
+1,6,2,Jordan Ragan,Andrew Vaughn,4 Seam,85.2,Ball,-
+1,6,3,Jordan Ragan,Andrew Vaughn,2 Seam,83,Ball,-
+1,6,4,Jordan Ragan,Andrew Vaughn,4 Seam,83.2,Called Strike,-
+1,6,5,Jordan Ragan,Andrew Vaughn,Changeup,76,Called Strike,-
+1,6,6,Jordan Ragan,Andrew Vaughn,Slider,75.6,Ball,-
+1,7,1,Jordan Ragan,Tanner Dodson,4 Seam,82.7,Ball,-
+1,7,2,Jordan Ragan,Tanner Dodson,Changeup,75.1,Ball,-
+1,7,3,Jordan Ragan,Tanner Dodson,4 Seam,81.1,Hit Into Play,-
+1,8,1,Jordan Ragan,Max Flower,Slider,74.8,Ball,-
+1,8,2,Jordan Ragan,Max Flower,4 Seam,82.4,Hit Into Play - Run Scored,-
+1,9,1,Jordan Ragan,Jonah Davis,4 Seam,82.5,Called Strike,-
+1,9,2,Jordan Ragan,Jonah Davis,Curve,72.6,Ball,-
+1,9,3,Jordan Ragan,Jonah Davis,2 Seam,81.5,Foul,-
+1,9,4,Jordan Ragan,Jonah Davis,Slider,74.5,Ball,-
+1,9,5,Jordan Ragan,Jonah Davis,4 Seam,82.9,Ball,-
+1,9,6,Jordan Ragan,Jonah Davis,4 Seam,81.4,Foul,-
+1,9,7,Jordan Ragan,Jonah Davis,4 Seam,83.4,Hit Into Play - Run Scored,-
+1,10,1,Jordan Ragan,Korey Lee,Changeup,74.3,Called Strike,-
+1,10,2,Jordan Ragan,Korey Lee,Cutter,76.2,Called Strike,-
+1,10,3,Jordan Ragan,Korey Lee,Cutter,82.7,Ball,-
+1,10,4,Jordan Ragan,Korey Lee,4 Seam,81.7,Foul,-
+1,10,5,Jordan Ragan,Korey Lee,Slider,75.1,Called Strike,-
+2,11,1,Rogelio Reyes,Ryan Koch,2 Seam,87.1,Called Strike,-
+2,11,2,Rogelio Reyes,Ryan Koch,Curve,69.9,Called Strike,-
+2,11,3,Rogelio Reyes,Ryan Koch,2 Seam,88.4,Hit Into Play - Out,63.6
+2,12,1,Rogelio Reyes,Jake Ortega,2 Seam,87.1,Called Strike,-
+2,12,2,Rogelio Reyes,Jake Ortega,Changeup,79.3,Ball,-
+2,12,3,Rogelio Reyes,Jake Ortega,Changeup,80.4,Swinging Strike,-
+2,12,4,Rogelio Reyes,Jake Ortega,Changeup,80.1,Swinging Strike,-
+2,13,1,Rogelio Reyes,Mark Pena,2 Seam,88.3,Ball,-
+2,13,2,Rogelio Reyes,Mark Pena,2 Seam,87.9,Ball,-
+2,13,3,Rogelio Reyes,Mark Pena,2 Seam,87.9,Ball,-
+2,13,4,Rogelio Reyes,Mark Pena,2 Seam,86.4,Called Strike,-
+2,13,5,Rogelio Reyes,Mark Pena,2 Seam,85.9,Ball,-
+2,14,1,Rogelio Reyes,Alec Daily,2 Seam,86.8,Called Strike,-
+2,14,2,Rogelio Reyes,Alec Daily,Changeup,79.7,Ball,-
+2,14,3,Rogelio Reyes,Alec Daily,Changeup,80.3,Hit Into Play - Out,58.1
+2,15,1,Jordan Ragan,Sam Wezniak,4 Seam,82.9,Ball,-
+2,15,2,Jordan Ragan,Sam Wezniak,2 Seam,79.4,Ball,-
+2,15,3,Jordan Ragan,Sam Wezniak,4 Seam,79.9,Ball,-
+2,15,4,Jordan Ragan,Sam Wezniak,4 Seam,80.9,Called Strike,-
+2,15,5,Jordan Ragan,Sam Wezniak,4 Seam,81.2,Swinging Strike,-
+2,15,6,Jordan Ragan,Sam Wezniak,4 Seam,81.6,Foul,-
+2,15,7,Jordan Ragan,Sam Wezniak,2 Seam,81.3,Foul,-
+2,15,8,Jordan Ragan,Sam Wezniak,Changeup,76.1,Ball,-
+2,16,1,Jordan Ragan,Cameron Eden,2 Seam,80.5,Ball,-
+2,16,2,Jordan Ragan,Cameron Eden,Changeup,74.3,Called Strike,-
+2,16,3,Jordan Ragan,Cameron Eden,4 Seam,80.9,Ball,-
+2,16,4,Jordan Ragan,Cameron Eden,Changeup,73.3,Called Strike,-
+2,16,5,Jordan Ragan,Cameron Eden,Slider,72.4,Swinging Strike,-
+2,17,1,Jordan Ragan,Tyrus Greene,Slider,72.9,Called Strike,-
+2,17,2,Jordan Ragan,Tyrus Greene,4 Seam,82.6,Foul,-
+2,17,3,Jordan Ragan,Tyrus Greene,Slider,73.7,Hit Into Play - Out,72.4
+2,18,1,Jordan Ragan,Darren Baker,Changeup,75.2,Ball,-
+2,18,2,Jordan Ragan,Darren Baker,2 Seam,80.6,Ball,-
+2,18,3,Jordan Ragan,Darren Baker,4 Seam,83.2,Called Strike,-
+2,18,4,Jordan Ragan,Darren Baker,Curve,73.5,Hit Into Play - Run Scored,80
+2,19,1,Jordan Ragan,Andrew Vaughn,4 Seam,81.9,Ball,-
+2,19,2,Jordan Ragan,Andrew Vaughn,4 Seam,81.2,Ball,-
+2,19,3,Jordan Ragan,Andrew Vaughn,Changeup,75.5,Swinging Strike,-
+2,19,4,Jordan Ragan,Andrew Vaughn,4 Seam,82.4,Hit Into Play - Run Scored,104.8
+2,20,1,Jordan Ragan,Tanner Dodson,4 Seam,83,Ball,-
+2,20,2,Jordan Ragan,Tanner Dodson,4 Seam,82.9,Ball,-
+2,20,3,Jordan Ragan,Tanner Dodson,4 Seam,81.9,Foul,-
+2,20,4,Jordan Ragan,Tanner Dodson,Changeup,75,Swinging Strike,-
+2,20,5,Jordan Ragan,Tanner Dodson,Slider,76.8,Hit Into Play,71.1
+2,21,1,Jordan Ragan,Max Flower,4 Seam,82.1,Foul,-
+2,21,2,Jordan Ragan,Max Flower,4 Seam,81.6,Ball,-
+2,21,3,Jordan Ragan,Max Flower,Changeup,75.4,Foul,51.6
+2,21,4,Jordan Ragan,Max Flower,4 Seam,81.8,Ball,-
+2,21,5,Jordan Ragan,Max Flower,Changeup,75.3,Hit Into Play - Run Scored,96.5
+2,22,1,Jordan Ragan,Jonah Davis,4 Seam,83,Ball,-
+2,22,2,Jordan Ragan,Jonah Davis,4 Seam,84,Hit By Pitch,-
+2,23,1,Jordan Ragan,Korey Lee,2 Seam,80.7,Called Strike,-
+2,23,2,Jordan Ragan,Korey Lee,Changeup,76,Hit Into Play - Out,90.7
+3,24,1,Rogelio Reyes,Jared Toothman,2 Seam,86.7,Called Strike,-
+3,24,2,Rogelio Reyes,Jared Toothman,Changeup,79,Hit Into Play - Out,72.1
+3,25,1,Rogelio Reyes,Lewis Dirkes,2 Seam,87.7,Called Strike,-
+3,25,2,Rogelio Reyes,Lewis Dirkes,Curve,71.9,Ball,-
+3,25,3,Rogelio Reyes,Lewis Dirkes,Changeup,79.6,Swinging Strike,-
+3,25,4,Rogelio Reyes,Lewis Dirkes,Changeup,79.6,Ball,-
+3,25,5,Rogelio Reyes,Lewis Dirkes,Changeup,80,Hit Into Play - Out,53.6
+3,26,1,Rogelio Reyes,Evan Berkey,2 Seam,88.2,Called Strike,-
+3,26,2,Rogelio Reyes,Evan Berkey,2 Seam,88.3,Ball,-
+3,26,3,Rogelio Reyes,Evan Berkey,2 Seam,88.6,Ball,-
+3,26,4,Rogelio Reyes,Evan Berkey,Changeup,80.2,Swinging Strike,-
+3,26,5,Rogelio Reyes,Evan Berkey,2 Seam,89.2,Ball,-
+3,26,6,Rogelio Reyes,Evan Berkey,Changeup,80.8,Foul,68
+3,26,7,Rogelio Reyes,Evan Berkey,2 Seam,87.9,Hit By Pitch,-
+3,27,1,Rogelio Reyes,Noah Barba,2 Seam,87.1,Ball,-
+3,27,2,Rogelio Reyes,Noah Barba,Changeup,78.7,Ball,-
+3,27,3,Rogelio Reyes,Noah Barba,2 Seam,86.6,Hit Into Play - Out,68.1
+3,28,1,Jordan Ragan,Sam Wezniak,4 Seam,80.7,Ball,-
+3,28,2,Jordan Ragan,Sam Wezniak,4 Seam,82,Called Strike,-
+3,28,3,Jordan Ragan,Sam Wezniak,4 Seam,82.5,Ball,-
+3,28,4,Jordan Ragan,Sam Wezniak,2 Seam,80.3,Hit Into Play,78.5
+3,29,1,Jordan Ragan,Cameron Eden,Cutter,80.9,Ball,-
+3,29,2,Isaac Meza,Cameron Eden,2 Seam,82.7,Swinging Strike,-
+3,29,3,Isaac Meza,Cameron Eden,2 Seam,84.2,Called Strike,-
+3,29,4,Isaac Meza,Cameron Eden,Changeup,80.1,Ball,-
+3,29,5,Isaac Meza,Cameron Eden,2 Seam,82.8,Hit Into Play - Run Scored,81.1
+3,30,1,Isaac Meza,Tyrus Greene,2 Seam,81.7,Called Strike,-
+3,30,2,Isaac Meza,Tyrus Greene,2 Seam,83.1,Hit Into Play,85.5
+3,31,1,Isaac Meza,Darren Baker,Changeup,71.2,Ball,-
+3,31,2,Isaac Meza,Darren Baker,2 Seam,81.4,Ball,-
+3,31,3,Isaac Meza,Darren Baker,2 Seam,82.8,Ball,-
+3,31,4,Isaac Meza,Darren Baker,2 Seam,81,Ball,-
+3,32,1,Isaac Meza,Andrew Vaughn,Changeup,76.8,Called Strike,-
+3,32,2,Isaac Meza,Andrew Vaughn,Changeup,78.8,Ball,-
+3,32,3,Isaac Meza,Andrew Vaughn,Changeup,76.1,Ball,-
+3,32,4,Isaac Meza,Andrew Vaughn,2 Seam,84.2,Called Strike,-
+3,32,5,Isaac Meza,Andrew Vaughn,Changeup,71.8,Hit Into Play - Out,54.8
+3,33,1,Isaac Meza,Tanner Dodson,Changeup,70.1,Called Strike,-
+3,33,2,Isaac Meza,Tanner Dodson,Changeup,77.6,Ball,-
+3,33,3,Isaac Meza,Tanner Dodson,2 Seam,81.5,Hit Into Play - Run Scored,85.4
+3,34,1,Isaac Meza,Max Flower,2 Seam,82.4,Hit Into Play - Run Scored,76.6
+3,35,1,Isaac Meza,Jonah Davis,Changeup,73,Ball,-
+3,35,2,Isaac Meza,Jonah Davis,2 Seam,83.4,Swinging Strike,-
+3,35,3,Isaac Meza,Jonah Davis,2 Seam,83.6,Swinging Strike,-
+3,35,4,Isaac Meza,Jonah Davis,Changeup,73,Hit Into Play - Run Scored,102
+3,36,1,Isaac Meza,Korey Lee,Changeup,78.3,Ball,-
+3,36,2,Isaac Meza,Korey Lee,2 Seam,83,Ball,-
+3,36,3,Isaac Meza,Korey Lee,4 Seam,79.7,Foul,-
+3,36,4,Isaac Meza,Korey Lee,Changeup,72.4,Hit Into Play - Run Scored,102.4
+3,37,1,Isaac Meza,Sam Wezniak,2 Seam,81.7,Foul,-
+3,37,2,Isaac Meza,Sam Wezniak,2 Seam,81.8,Foul,-
+3,37,3,Isaac Meza,Sam Wezniak,2 Seam,83.4,Ball,-
+3,37,4,Isaac Meza,Sam Wezniak,2 Seam,80.9,Ball,-
+3,37,5,Isaac Meza,Sam Wezniak,2 Seam,80.4,Hit Into Play - Out,79.1
+4,38,1,Rogelio Reyes,Andrew Penner,2 Seam,85.8,Hit Into Play - Out,81.7
+4,39,1,Rogelio Reyes,Ryan Koch,2 Seam,88,Ball,-
+4,39,2,Rogelio Reyes,Ryan Koch,2 Seam,87.1,Hit Into Play - Out,50.7
+4,40,1,Rogelio Reyes,Jake Ortega,Changeup,79.1,Called Strike,-
+4,40,2,Rogelio Reyes,Jake Ortega,2 Seam,87.5,Called Strike,-
+4,40,3,Rogelio Reyes,Jake Ortega,Curve,69.9,Ball,-
+4,40,4,Rogelio Reyes,Jake Ortega,Changeup,78.4,Hit Into Play,85
+4,41,1,Rogelio Reyes,Mark Pena,2 Seam,84.6,Hit Into Play - Out,75.6
+4,42,1,Andrew Ciandro,Cameron Eden,Changeup,80,Hit Into Play - Out,-
+4,43,1,Andrew Ciandro,Tyrus Greene,Curve,68.3,Ball,-
+4,43,2,Andrew Ciandro,Tyrus Greene,Changeup,80.1,Ball,-
+4,43,3,Andrew Ciandro,Tyrus Greene,Changeup,80.3,Hit Into Play - Out,-
+4,44,1,Andrew Ciandro,Darren Baker,Changeup,80,Ball,-
+4,44,2,Andrew Ciandro,Darren Baker,2 Seam,80.5,Called Strike,-
+4,44,3,Andrew Ciandro,Darren Baker,Curve,67.9,Ball,-
+4,44,4,Andrew Ciandro,Darren Baker,Changeup,80.3,Hit Into Play,-
+4,45,1,Andrew Ciandro,Andrew Vaughn,Curve,67.1,Ball,-
+4,45,2,Andrew Ciandro,Andrew Vaughn,Changeup,79.9,Ball,-
+4,45,3,Andrew Ciandro,Andrew Vaughn,Changeup,80.3,Ball,-
+4,45,4,Andrew Ciandro,Andrew Vaughn,Changeup,78.9,Ball,-
+4,46,1,Andrew Ciandro,Tanner Dodson,Changeup,78.8,Hit Into Play,96.3
+4,47,1,Andrew Ciandro,Max Flower,Changeup,80,Ball,-
+4,47,2,Andrew Ciandro,Max Flower,2 Seam,81.1,Ball,-
+4,47,3,Andrew Ciandro,Max Flower,Changeup,76.8,Called Strike,-
+4,47,4,Andrew Ciandro,Max Flower,Changeup,77.7,Foul,-
+4,47,5,Andrew Ciandro,Max Flower,Curve,67.9,Hit Into Play - Run Scored,93.9
+4,48,1,Andrew Ciandro,Jonah Davis,Changeup,78.6,Called Strike,-
+4,48,2,Andrew Ciandro,Jonah Davis,Changeup,79.9,Hit Into Play - Run Scored,-
+4,49,1,Andrew Ciandro,Korey Lee,Changeup,80.2,Ball,-
+4,49,2,Andrew Ciandro,Korey Lee,Changeup,80.2,Ball,-
+4,49,3,Andrew Ciandro,Korey Lee,Changeup,80.3,Hit Into Play,-
+4,50,1,Andrew Ciandro,Sam Wezniak,Changeup,79.4,Called Strike,-
+4,50,2,Andrew Ciandro,Sam Wezniak,Changeup,79.4,Ball,-
+4,50,3,Andrew Ciandro,Sam Wezniak,Changeup,78.1,Called Strike,-
+4,50,4,Andrew Ciandro,Sam Wezniak,Changeup,77.9,Ball,-
+4,50,5,Andrew Ciandro,Sam Wezniak,Curve,68.5,Ball,-
+4,50,6,Andrew Ciandro,Sam Wezniak,Changeup,78.3,Foul,-
+4,50,7,Andrew Ciandro,Sam Wezniak,Changeup,78.9,Hit Into Play,51.7
+4,51,1,Andrew Ciandro,Cameron Eden,Changeup,78.6,Called Strike,-
+4,51,2,Andrew Ciandro,Cameron Eden,Changeup,79.5,Hit Into Play - Out,87.9
+5,52,1,Rogelio Reyes,Alec Daily,Changeup,83.6,Ball,-
+5,52,2,Rogelio Reyes,Alec Daily,Changeup,76.4,Hit Into Play,37.3
+5,53,1,Rogelio Reyes,Jared Toothman,4 Seam,84.6,Hit Into Play - Out,93.8
+5,54,1,Rogelio Reyes,Trent Anderson,2 Seam,86.7,Called Strike,-
+5,54,2,Rogelio Reyes,Trent Anderson,2 Seam,86,Hit Into Play,81.8
+5,55,1,Rogelio Reyes,Evan Berkey,2 Seam,85.2,Hit Into Play - Out,50.6
+5,56,1,Daniel Carrizosa,Tommy Henderson,4 Seam,79.2,Hit Into Play - Out,95.6
+5,57,1,Daniel Carrizosa,Darren Baker,Changeup,69.4,Swinging Strike,-
+5,57,2,Daniel Carrizosa,Darren Baker,Changeup,79.2,Ball,-
+5,57,3,Daniel Carrizosa,Darren Baker,Changeup,71.5,Foul,-
+5,57,4,Daniel Carrizosa,Darren Baker,4 Seam,79.8,Hit Into Play - Out,79
+5,58,1,Daniel Carrizosa,Quentin Selma,Changeup,80,Called Strike,-
+5,58,2,Daniel Carrizosa,Quentin Selma,Changeup,73.1,Ball,-
+5,58,3,Daniel Carrizosa,Quentin Selma,2 Seam,80.6,Ball,-
+5,58,4,Daniel Carrizosa,Quentin Selma,4 Seam,79.9,Foul,-
+5,58,5,Daniel Carrizosa,Quentin Selma,Slider,70.3,Called Strike,-
+6,59,1,Rogelio Reyes,Noah Barba,2 Seam,85.6,Ball,-
+6,59,2,Rogelio Reyes,Noah Barba,4 Seam,86.8,Ball,-
+6,59,3,Rogelio Reyes,Noah Barba,2 Seam,84.8,Ball,-
+6,59,4,Rogelio Reyes,Noah Barba,2 Seam,84.7,Ball,-
+6,60,1,Rogelio Reyes,Andrew Penner,Changeup,77.6,Ball,-
+6,60,2,Rogelio Reyes,Andrew Penner,2 Seam,86.1,Hit Into Play,96.5
+6,61,1,Rogelio Reyes,Ryan Koch,2 Seam,86.8,Ball,-
+6,61,2,Rogelio Reyes,Ryan Koch,Changeup,77.3,Ball,-
+6,61,3,Rogelio Reyes,Ryan Koch,2 Seam,86.6,Foul,-
+6,61,4,Rogelio Reyes,Ryan Koch,Changeup,78.9,Ball,-
+6,61,5,Rogelio Reyes,Ryan Koch,2 Seam,85.7,Ball,-
+6,62,1,Rogelio Reyes,Jake Ortega,2 Seam,85.9,Foul,71.5
+6,62,2,Rogelio Reyes,Jake Ortega,2 Seam,85.9,Ball,-
+6,62,3,Rogelio Reyes,Jake Ortega,Curve,70.2,Ball,-
+6,62,4,Rogelio Reyes,Jake Ortega,2 Seam,85.7,Foul,71
+6,62,5,Rogelio Reyes,Jake Ortega,Curve,71.5,Foul,-
+6,62,6,Rogelio Reyes,Jake Ortega,2 Seam,87.9,Ball,-
+6,62,7,Rogelio Reyes,Jake Ortega,Changeup,80.2,Foul,-
+6,62,8,Rogelio Reyes,Jake Ortega,Changeup,79.3,Hit Into Play - Out,87
+6,63,1,Rogelio Reyes,Mark Pena,2 Seam,87,Called Strike,-
+6,63,2,Rogelio Reyes,Mark Pena,Curve,70.2,Called Strike,-
+6,63,3,Rogelio Reyes,Mark Pena,2 Seam,86.9,Ball,-
+6,63,4,Rogelio Reyes,Mark Pena,Changeup,78.1,Ball,-
+6,63,5,Rogelio Reyes,Mark Pena,Changeup,77.6,Hit Into Play - Out,68.8
+6,64,1,Daniel Carrizosa,Tanner Dodson,Changeup,77.3,Foul,76.4
+6,64,2,Daniel Carrizosa,Tanner Dodson,Slider,66.2,Foul,77.3
+6,64,3,Daniel Carrizosa,Tanner Dodson,Changeup,78.6,Hit Into Play,86.5
+6,65,1,Daniel Carrizosa,John Lagattuta,Changeup,68.9,Foul,-
+6,65,2,Daniel Carrizosa,John Lagattuta,Changeup,78.3,Ball,-
+6,65,3,Daniel Carrizosa,John Lagattuta,Slider,66.9,Called Strike,-
+6,65,4,Daniel Carrizosa,John Lagattuta,Curve,64.8,Ball,-
+6,65,5,Daniel Carrizosa,John Lagattuta,4 Seam,79.8,Ball,-
+6,65,6,Daniel Carrizosa,John Lagattuta,Changeup,78,Called Strike,-
+6,66,1,Daniel Carrizosa,Sam Cachola,Changeup,78.7,Ball,-
+6,66,2,Daniel Carrizosa,Sam Cachola,Changeup,70,Ball,-
+6,66,3,Daniel Carrizosa,Sam Cachola,4 Seam,79.9,Ball,-
+6,66,4,Daniel Carrizosa,Sam Cachola,Changeup,77.4,Ball,-
+6,67,1,Daniel Carrizosa,Korey Lee,Changeup,79.4,Ball,-
+6,67,2,Daniel Carrizosa,Korey Lee,Changeup,79.6,Ball,-
+6,67,3,Daniel Carrizosa,Korey Lee,Changeup,79.6,Hit Into Play - Out,86.6
+6,68,1,Daniel Carrizosa,Sam Wezniak,4 Seam,79.8,Ball,-
+6,68,2,Daniel Carrizosa,Sam Wezniak,Changeup,79.9,Hit Into Play,99.4
+6,69,1,Daniel Carrizosa,Matt Ruff,Changeup,79.2,Ball,-
+6,69,2,Daniel Carrizosa,Matt Ruff,Changeup,78.9,Called Strike,-
+6,69,3,Daniel Carrizosa,Matt Ruff,Slider,68.5,Foul,26.4
+6,69,4,Daniel Carrizosa,Matt Ruff,Slider,70.5,Ball,-
+6,69,5,Daniel Carrizosa,Matt Ruff,2 Seam,80.6,Ball,-
+6,69,6,Daniel Carrizosa,Matt Ruff,Changeup,79,Hit Into Play - Run Scored,70.8
+6,70,1,Daniel Carrizosa,Tommy Henderson,Changeup,79.2,Called Strike,-
+6,70,2,Daniel Carrizosa,Tommy Henderson,Slider,69.4,Called Strike,-
+6,70,3,Daniel Carrizosa,Tommy Henderson,Slider,69.5,Hit Into Play - Out,85.2
+7,71,1,Kevin Flemer,Daniel Nist,Changeup,79.5,Called Strike,-
+7,71,2,Kevin Flemer,Daniel Nist,Slider,67.1,Ball,-
+7,71,3,Kevin Flemer,Daniel Nist,4 Seam,79.9,Ball,-
+7,71,4,Kevin Flemer,Daniel Nist,Changeup,79.2,Foul,-
+7,71,5,Kevin Flemer,Daniel Nist,Slider,65.1,Hit Into Play - Out,77.5
+7,72,1,Kevin Flemer,Jared Toothman,2 Seam,80.6,Ball,-
+7,72,2,Kevin Flemer,Jared Toothman,4 Seam,79.9,Called Strike,-
+7,72,3,Kevin Flemer,Jared Toothman,Slider,66,Foul,-
+7,72,4,Kevin Flemer,Jared Toothman,Slider,65.4,Hit Into Play - Out,61.1
+7,73,1,Kevin Flemer,Trent Anderson,Changeup,78.2,Ball,-
+7,73,2,Kevin Flemer,Trent Anderson,Changeup,77.7,Hit Into Play - Out,58.5
+7,74,1,Daniel Carrizosa,Darren Baker,Changeup,69.8,Ball,-
+7,74,2,Daniel Carrizosa,Darren Baker,Changeup,78.8,Ball,-
+7,74,3,Daniel Carrizosa,Darren Baker,Changeup,77.8,Ball,-
+7,74,4,Daniel Carrizosa,Darren Baker,Changeup,77.6,Called Strike,-
+7,74,5,Daniel Carrizosa,Darren Baker,Changeup,77.8,Called Strike,-
+7,74,6,Daniel Carrizosa,Darren Baker,Changeup,78.7,Hit Into Play,83.3
+7,75,1,Daniel Carrizosa,Quentin Selma,Changeup,78.4,Foul,-
+7,75,2,Daniel Carrizosa,Quentin Selma,Changeup,70.9,Foul,-
+7,75,3,Daniel Carrizosa,Quentin Selma,Changeup,79.4,Ball,-
+7,75,4,Daniel Carrizosa,Quentin Selma,Changeup,71.1,Ball,-
+7,75,5,Daniel Carrizosa,Quentin Selma,Changeup,80.1,Hit Into Play,61.9
+7,76,1,Daniel Carrizosa,Connor Mack,Changeup,79.4,Foul,-
+7,76,2,Daniel Carrizosa,Connor Mack,Slider,69.3,Hit Into Play - Out,54.8
+7,77,1,Daniel Carrizosa,John Lagattuta,Changeup,79.1,Called Strike,-
+7,77,2,Daniel Carrizosa,John Lagattuta,Slider,70,Ball,-
+7,77,3,Daniel Carrizosa,John Lagattuta,4 Seam,79.9,Ball,-
+7,77,4,Daniel Carrizosa,John Lagattuta,Changeup,69.9,Called Strike,-
+7,77,5,Daniel Carrizosa,John Lagattuta,Slider,70.6,Hit Into Play - Run Scored,89.3
+7,78,1,Daniel Carrizosa,Sam Cachola,Changeup,71.3,Ball,-
+7,78,2,Daniel Carrizosa,Sam Cachola,2 Seam,80.3,Foul,-
+7,78,3,Daniel Carrizosa,Sam Cachola,Slider,71,Ball,-
+7,78,4,Daniel Carrizosa,Sam Cachola,2 Seam,80.3,Ball,-
+7,78,5,Daniel Carrizosa,Sam Cachola,Changeup,79.2,Hit Into Play - Run Scored,94.8
+7,79,1,Daniel Carrizosa,Korey Lee,2 Seam,80.2,Foul,-
+7,79,2,Daniel Carrizosa,Korey Lee,Changeup,79.3,Hit Into Play - Out,92
+8,80,1,Connor Jackson,Evan Berkey,2 Seam,83.2,Called Strike,-
+8,80,2,Connor Jackson,Evan Berkey,Curve,71.3,Called Strike,-
+8,80,3,Connor Jackson,Evan Berkey,Curve,71,Hit Into Play - Out,43
+8,81,1,Connor Jackson,Jassen Oliver,2 Seam,83.7,Foul Tip,-
+8,81,2,Connor Jackson,Jassen Oliver,Curve,69.1,Ball,-
+8,81,3,Connor Jackson,Jassen Oliver,2 Seam,82.9,Ball,-
+8,81,4,Connor Jackson,Jassen Oliver,2 Seam,83.2,Called Strike,-
+8,81,5,Connor Jackson,Jassen Oliver,2 Seam,84.3,Hit By Pitch,-
+8,82,1,Connor Jackson,Luis Martinez,2 Seam,83.3,Swinging Strike,-
+8,82,2,Connor Jackson,Luis Martinez,2 Seam,82.7,Ball,-
+8,82,3,Connor Jackson,Luis Martinez,2 Seam,83.2,Ball,-
+8,82,4,Connor Jackson,Luis Martinez,2 Seam,81,Ball,-
+8,82,5,Connor Jackson,Luis Martinez,2 Seam,83.5,Hit By Pitch,-
+8,83,1,Connor Jackson,Ryan Koch,Curve,70.5,Called Strike,-
+8,83,2,Connor Jackson,Ryan Koch,Curve,68.9,Called Strike,-
+8,83,3,Connor Jackson,Ryan Koch,2 Seam,85.3,Ball,-
+8,83,4,Connor Jackson,Ryan Koch,Curve,70.8,Ball,-
+8,83,5,Connor Jackson,Ryan Koch,Curve,69.8,Ball,-
+8,83,6,Connor Jackson,Ryan Koch,2 Seam,83.4,Hit Into Play - Out,83.5
+8,84,1,Daniel Carrizosa,Sam Wezniak,Changeup,77.8,Foul,-
+8,84,2,Daniel Carrizosa,Sam Wezniak,Curve,67.4,Called Strike,-
+8,84,3,Daniel Carrizosa,Sam Wezniak,2 Seam,78.6,Ball,-
+8,84,4,Daniel Carrizosa,Sam Wezniak,Changeup,72.2,Foul,19.8
+8,84,5,Daniel Carrizosa,Sam Wezniak,2 Seam,80.8,Foul,76.3
+8,84,6,Daniel Carrizosa,Sam Wezniak,Curve,67.6,Ball,-
+8,84,7,Daniel Carrizosa,Sam Wezniak,2 Seam,80.8,Hit Into Play - Run Scored,95
+8,85,1,Daniel Carrizosa,Matt Ruff,Changeup,79.4,Foul,88.6
+8,85,2,Daniel Carrizosa,Matt Ruff,Slider,69.1,Called Strike,-
+8,85,3,Daniel Carrizosa,Matt Ruff,Curve,65.7,Ball,-
+8,85,4,Daniel Carrizosa,Matt Ruff,Changeup,72.5,Hit Into Play - Out,55.4
+8,86,1,Daniel Carrizosa,Tommy Henderson,Changeup,72.5,Swinging Strike,-
+8,86,2,Daniel Carrizosa,Tommy Henderson,Changeup,79.2,Ball,-
+8,86,3,Daniel Carrizosa,Tommy Henderson,Changeup,74.4,Foul,-
+8,86,4,Daniel Carrizosa,Tommy Henderson,Slider,70.3,Ball,-
+8,86,5,Daniel Carrizosa,Tommy Henderson,2 Seam,81,Called Strike,-
+8,87,1,Daniel Carrizosa,Ripken Reyes,Changeup,78.4,Called Strike,-
+8,87,2,Daniel Carrizosa,Ripken Reyes,Changeup,73.1,Foul,61.4
+8,87,3,Daniel Carrizosa,Ripken Reyes,Changeup,79.5,Ball,-
+8,87,4,Daniel Carrizosa,Ripken Reyes,Changeup,75.1,Hit Into Play,81.2
+8,88,1,Daniel Carrizosa,Quentin Selma,Changeup,79.3,Ball,-
+8,88,2,Daniel Carrizosa,Quentin Selma,Changeup,79.4,Foul,-
+8,88,3,Daniel Carrizosa,Quentin Selma,Curve,68.8,Called Strike,-
+8,88,4,Daniel Carrizosa,Quentin Selma,Slider,68.6,Ball,-
+8,88,5,Daniel Carrizosa,Quentin Selma,Changeup,79.7,Ball,-
+8,88,6,Daniel Carrizosa,Quentin Selma,Changeup,78.9,Ball,-
+8,89,1,Daniel Carrizosa,Connor Mack,Slider,67.4,Called Strike,-
+8,89,2,Daniel Carrizosa,Connor Mack,Changeup,78.8,Ball,-
+8,89,3,Daniel Carrizosa,Connor Mack,Changeup,68.1,Swinging Strike,-
+8,89,4,Daniel Carrizosa,Connor Mack,Slider,68.3,Swinging Strike,-
+9,90,1,Carson Olson,Cole Valetta,2 Seam,86.3,Called Strike,-
+9,90,2,Carson Olson,Cole Valetta,Changeup,70,Ball,-
+9,90,3,Carson Olson,Cole Valetta,Changeup,75,Ball,-
+9,90,4,Carson Olson,Cole Valetta,2 Seam,85.3,Ball,-
+9,90,5,Carson Olson,Cole Valetta,2 Seam,86.4,Hit Into Play - Out,60.7
+9,91,1,Carson Olson,Hank Schineller,2 Seam,83.7,Foul,-
+9,91,2,Carson Olson,Hank Schineller,2 Seam,78.1,Ball,-
+9,91,3,Carson Olson,Hank Schineller,2 Seam,84.4,Ball,-
+9,91,4,Carson Olson,Hank Schineller,2 Seam,84.7,Ball,-
+9,91,5,Carson Olson,Hank Schineller,4 Seam,83.2,Ball,-
+9,92,1,Carson Olson,Daniel Nist,2 Seam,84.7,Ball,-
+9,92,2,Carson Olson,Daniel Nist,2 Seam,85.2,Called Strike,-
+9,92,3,Carson Olson,Daniel Nist,2 Seam,85.5,Ball,-
+9,92,4,Carson Olson,Daniel Nist,2 Seam,84.7,Hit Into Play - Out,65.3
+9,93,1,Carson Olson,Christian Deaton,2 Seam,85,Called Strike,-
+9,93,2,Carson Olson,Christian Deaton,2 Seam,85.7,Ball,-
+9,93,3,Carson Olson,Christian Deaton,2 Seam,83.6,Called Strike,-
+9,93,4,Carson Olson,Christian Deaton,2 Seam,85.3,Hit Into Play - Out,74.5
+9,94,1,Carson Olson,Trent Anderson,2 Seam,84.6,Called Strike,-
+9,94,2,Carson Olson,Trent Anderson,Curve,69,Called Strike,-
+9,94,3,Carson Olson,Trent Anderson,2 Seam,83.7,Hit Into Play,73.2
+9,95,1,Carson Olson,Evan Berkey,2 Seam,85.3,Ball,-
+9,95,2,Carson Olson,Evan Berkey,2 Seam,84.9,Called Strike,-
+9,95,3,Carson Olson,Evan Berkey,2 Seam,84.8,Ball,-
+9,95,4,Carson Olson,Evan Berkey,2 Seam,85.2,Ball,-
+9,95,5,Carson Olson,Evan Berkey,2 Seam,85,Ball,-
+9,96,1,Carson Olson,Jassen Oliver,2 Seam,83.9,Ball,-
+9,96,2,Carson Olson,Jassen Oliver,2 Seam,83.4,Foul,-
+9,96,3,Carson Olson,Jassen Oliver,4 Seam,84.2,Foul Tip,-
+9,96,4,Carson Olson,Jassen Oliver,Changeup,69.9,Swinging Strike,-

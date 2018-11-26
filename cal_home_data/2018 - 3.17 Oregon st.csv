@@ -1,0 +1,227 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,2,1,Aaron Shortridge,Grenier Cadyn,Changeup,78.4,,-
+1,2,2,Aaron Shortridge,Grenier Cadyn,4 Seam,89.8,,-
+1,2,3,Aaron Shortridge,Grenier Cadyn,Slider,78,,-
+1,2,4,Aaron Shortridge,Grenier Cadyn,4 Seam,90.6,,-
+1,2,5,Aaron Shortridge,Grenier Cadyn,Slider,78.8,,-
+1,2,6,Aaron Shortridge,Grenier Cadyn,2 Seam,90,,-
+1,2,7,Aaron Shortridge,Grenier Cadyn,2 Seam,89.8,,-
+1,4,1,Aaron Shortridge,Adley Rutschman,Curve,78.4,,-
+1,4,2,Aaron Shortridge,Adley Rutschman,Changeup,81.9,,-
+1,4,3,Aaron Shortridge,Adley Rutschman,Curve,77.3,,-
+1,5,1,Aaron Shortridge,Tyler Malone,2 Seam,90.7,,-
+1,5,2,Aaron Shortridge,Tyler Malone,2 Seam,90.4,,-
+1,5,3,Aaron Shortridge,Tyler Malone,4 Seam,90.5,,-
+1,5,4,Aaron Shortridge,Tyler Malone,2 Seam,90.2,,-
+1,5,5,Aaron Shortridge,Tyler Malone,Curve,78.3,,-
+1,5,6,Aaron Shortridge,Tyler Malone,Changeup,78.8,,-
+1,6,1,Aaron Shortridge,Michael Gretler,Slider,76.9,,-
+1,6,2,Aaron Shortridge,Michael Gretler,2 Seam,89.9,,-
+1,6,3,Aaron Shortridge,Michael Gretler,Slider,77.1,,-
+1,6,4,Aaron Shortridge,Michael Gretler,2 Seam,89.5,,-
+1,6,5,Aaron Shortridge,Michael Gretler,2 Seam,90.8,,-
+1,6,6,Bryce Fehmel,Tyrus Greene,2 Seam,85.5,,-
+1,6,7,Bryce Fehmel,Tyrus Greene,4 Seam,79.8,,-
+1,6,8,Bryce Fehmel,Tyrus Greene,Changeup,79.7,,-
+1,7,1,Bryce Fehmel,Darren Baker,Curve,72.3,,-
+1,7,2,Bryce Fehmel,Darren Baker,2 Seam,85.6,,-
+1,8,1,Bryce Fehmel,Andrew Vaughn,2 Seam,87.4,,-
+1,8,2,Bryce Fehmel,Andrew Vaughn,Slider,73.6,,-
+1,8,3,Bryce Fehmel,Andrew Vaughn,Changeup,74.7,,-
+1,8,4,Bryce Fehmel,Andrew Vaughn,2 Seam,86.9,,-
+1,8,5,Bryce Fehmel,Andrew Vaughn,2 Seam,80.7,,-
+1,9,1,Bryce Fehmel,Tanner Dodson,2 Seam,80.6,,-
+2,9,2,Aaron Shortridge,Michael Gretler,Changeup,83.5,,-
+2,9,3,Aaron Shortridge,Michael Gretler,2 Seam,85.7,,-
+2,11,1,Aaron Shortridge,Zak Taylor,4 Seam,89.8,,-
+2,11,2,Aaron Shortridge,Zak Taylor,2 Seam,89.7,,-
+2,11,3,Aaron Shortridge,Zak Taylor,Slider,76.7,,-
+2,12,1,Aaron Shortridge,Andy Armstrong,2 Seam,89.4,,-
+2,12,2,Aaron Shortridge,Andy Armstrong,4 Seam,89.8,,-
+2,12,3,Aaron Shortridge,Andy Armstrong,2 Seam,89.3,,-
+2,12,4,Aaron Shortridge,Andy Armstrong,2 Seam,88.6,,-
+2,12,5,Aaron Shortridge,Andy Armstrong,2 Seam,90.1,,-
+2,13,1,Aaron Shortridge,Steven Kwan,Changeup,80.6,,-
+2,13,2,Aaron Shortridge,Steven Kwan,2 Seam,88.7,,-
+2,13,3,Aaron Shortridge,Steven Kwan,2 Seam,88,,-
+2,14,1,Aaron Shortridge,Grenier Cadyn,Changeup,76.7,,-
+2,14,2,Aaron Shortridge,Grenier Cadyn,2 Seam,89,,-
+2,14,3,Aaron Shortridge,Grenier Cadyn,2 Seam,88,,-
+2,15,1,Bryce Fehmel,Korey Lee,Slider,72.9,,-
+2,15,2,Bryce Fehmel,Korey Lee,2 Seam,85.9,,-
+2,15,3,Bryce Fehmel,Korey Lee,2 Seam,86.7,,-
+2,15,4,Bryce Fehmel,Korey Lee,Slider,74.9,,-
+2,16,1,Bryce Fehmel,Jonah Davis,Curve,71.6,,-
+2,16,2,Bryce Fehmel,Jonah Davis,Curve,73.7,,-
+2,16,3,Bryce Fehmel,Jonah Davis,2 Seam,86.9,,-
+2,16,4,Bryce Fehmel,Jonah Davis,Changeup,81.2,,-
+2,16,5,Bryce Fehmel,Jonah Davis,Changeup,81.1,,-
+2,16,6,Bryce Fehmel,Jonah Davis,4 Seam,80.1,,-
+2,17,1,Bryce Fehmel,Sam Wezniak,2 Seam,85.5,,-
+2,17,2,Bryce Fehmel,Sam Wezniak,2 Seam,84.9,,-
+2,17,3,Bryce Fehmel,Sam Wezniak,Changeup,73.6,,-
+2,17,4,Bryce Fehmel,Sam Wezniak,2 Seam,85.4,,-
+2,17,5,Bryce Fehmel,Sam Wezniak,2 Seam,86,,-
+2,18,1,Bryce Fehmel,Max Flower,2 Seam,86,,-
+2,18,2,Bryce Fehmel,Max Flower,2 Seam,85.7,,-
+3,18,3,Aaron Shortridge,Grenier Cadyn,Changeup,81.9,,-
+3,18,4,Aaron Shortridge,Grenier Cadyn,2 Seam,84.5,,-
+3,18,5,Aaron Shortridge,Grenier Cadyn,4 Seam,85.4,,-
+3,18,6,Aaron Shortridge,Grenier Cadyn,2 Seam,86.1,,-
+3,19,1,Aaron Shortridge,Trevor Larnach,Changeup,81.1,,-
+3,19,2,Aaron Shortridge,Trevor Larnach,Changeup,80.1,,-
+3,19,3,Aaron Shortridge,Trevor Larnach,2 Seam,89.2,,-
+3,19,4,Aaron Shortridge,Trevor Larnach,Changeup,80.1,,-
+3,20,1,Aaron Shortridge,Adley Rutschman,2 Seam,88.6,,-
+3,21,1,Aaron Shortridge,Tyler Malone,4 Seam,86.7,,-
+3,21,2,Aaron Shortridge,Tyler Malone,4 Seam,86.9,,-
+3,21,3,Aaron Shortridge,Tyler Malone,Changeup,79.7,,-
+3,21,4,Aaron Shortridge,Tyler Malone,4 Seam,87.6,,-
+3,21,5,Aaron Shortridge,Tyler Malone,4 Seam,88.9,,-
+3,21,6,Aaron Shortridge,Tyler Malone,Changeup,77.9,,-
+3,21,7,Aaron Shortridge,Tyler Malone,2 Seam,89.5,,-
+3,22,1,Aaron Shortridge,Michael Gretler,2 Seam,88.7,,-
+3,22,2,Aaron Shortridge,Michael Gretler,4 Seam,88.7,,-
+3,22,3,Bryce Fehmel,Max Flower,Curve,70.6,,-
+3,22,4,Bryce Fehmel,Max Flower,2 Seam,86.1,,-
+3,22,5,Bryce Fehmel,Max Flower,Curve,71.8,,-
+3,23,1,Bryce Fehmel,Cameron Eden,Curve,70.3,,-
+3,23,2,Bryce Fehmel,Cameron Eden,2 Seam,86.1,,-
+3,23,3,Bryce Fehmel,Cameron Eden,2 Seam,86.6,,-
+3,23,4,Bryce Fehmel,Cameron Eden,Slider,74.6,,-
+3,23,5,Bryce Fehmel,Cameron Eden,Slider,72.5,,-
+3,23,6,Bryce Fehmel,Cameron Eden,Curve,73.4,,-
+3,24,1,Bryce Fehmel,Tyrus Greene,2 Seam,86.6,,-
+3,24,2,Bryce Fehmel,Tyrus Greene,Curve,72.9,,-
+3,24,3,Bryce Fehmel,Tyrus Greene,2 Seam,87.3,,-
+3,24,4,Bryce Fehmel,Tyrus Greene,2 Seam,80.3,,-
+3,24,5,Bryce Fehmel,Tyrus Greene,2 Seam,84,,-
+4,25,1,Aaron Shortridge,Jack Anderson,2 Seam,87.7,,-
+4,25,2,Aaron Shortridge,Jack Anderson,4 Seam,88.1,,-
+4,25,3,Aaron Shortridge,Jack Anderson,2 Seam,88.9,,-
+4,25,4,Aaron Shortridge,Jack Anderson,2 Seam,89.4,,-
+4,25,5,Aaron Shortridge,Jack Anderson,2 Seam,89.1,,-
+4,26,1,Aaron Shortridge,Zak Taylor,2 Seam,84.9,,-
+4,26,2,Aaron Shortridge,Zak Taylor,2 Seam,87.2,,-
+4,27,1,Aaron Shortridge,Andy Armstrong,2 Seam,88.1,,-
+4,27,2,Aaron Shortridge,Andy Armstrong,2 Seam,88.4,,-
+4,28,1,Aaron Shortridge,Steven Kwan,Slider,76.2,,-
+4,28,2,Aaron Shortridge,Steven Kwan,2 Seam,89.6,,-
+4,28,3,Aaron Shortridge,Steven Kwan,2 Seam,89.8,,-
+4,29,1,Aaron Shortridge,Grenier Cadyn,2 Seam,87.9,,-
+4,29,2,Aaron Shortridge,Grenier Cadyn,2 Seam,85.7,,-
+4,29,3,Aaron Shortridge,Grenier Cadyn,Slider,75.8,,-
+4,30,1,Bryce Fehmel,Darren Baker,Curve,70.5,,-
+4,30,2,Bryce Fehmel,Darren Baker,Curve,68,,-
+4,30,3,Bryce Fehmel,Darren Baker,2 Seam,86.2,,-
+4,30,4,Bryce Fehmel,Darren Baker,2 Seam,85.5,,-
+4,31,1,Bryce Fehmel,Andrew Vaughn,2 Seam,85.4,,-
+4,32,1,Bryce Fehmel,Tanner Dodson,2 Seam,84.8,,-
+4,32,2,Bryce Fehmel,Tanner Dodson,Curve,72.7,,-
+4,33,1,Bryce Fehmel,Korey Lee,2 Seam,85.6,,-
+4,33,2,Bryce Fehmel,Korey Lee,2 Seam,86.9,,-
+4,33,3,Bryce Fehmel,Korey Lee,Changeup,74.2,,-
+4,33,4,Bryce Fehmel,Korey Lee,2 Seam,85.6,,-
+4,33,5,Bryce Fehmel,Korey Lee,2 Seam,86.2,,-
+4,33,6,Bryce Fehmel,Korey Lee,Curve,71.2,,-
+4,34,1,Bryce Fehmel,Jonah Davis,Changeup,79.4,,-
+4,34,2,Bryce Fehmel,Jonah Davis,Changeup,79.4,,-
+5,35,1,Aaron Shortridge,Trevor Larnach,2 Seam,89.1,,-
+5,35,2,Aaron Shortridge,Trevor Larnach,2 Seam,89.9,,-
+5,35,3,Aaron Shortridge,Trevor Larnach,Changeup,78.1,,-
+5,35,4,Aaron Shortridge,Trevor Larnach,2 Seam,89.6,,-
+5,35,5,Aaron Shortridge,Trevor Larnach,2 Seam,90.4,,-
+5,35,6,Aaron Shortridge,Trevor Larnach,Changeup,81.5,,-
+5,35,7,Aaron Shortridge,Trevor Larnach,2 Seam,89.4,,-
+5,36,1,Aaron Shortridge,Adley Rutschman,2 Seam,89.7,,-
+5,36,2,Aaron Shortridge,Adley Rutschman,Changeup,80.9,,-
+5,36,3,Aaron Shortridge,Adley Rutschman,2 Seam,88.4,,-
+5,36,4,Aaron Shortridge,Adley Rutschman,2 Seam,89,,-
+5,36,5,Aaron Shortridge,Adley Rutschman,2 Seam,90.3,,-
+5,37,1,Aaron Shortridge,Tyler Malone,2 Seam,89.6,,-
+5,38,1,Aaron Shortridge,Michael Gretler,2 Seam,88.8,,-
+5,38,2,Aaron Shortridge,Michael Gretler,Changeup,76.9,,-
+5,38,3,Aaron Shortridge,Michael Gretler,Slider,77.3,,-
+5,38,4,Aaron Shortridge,Michael Gretler,2 Seam,88.4,,-
+5,38,5,Aaron Shortridge,Michael Gretler,Slider,77.4,,-
+5,39,1,Bryce Fehmel,Sam Wezniak,Slider,70.1,,-
+5,39,2,Bryce Fehmel,Sam Wezniak,Slider,71.7,,-
+5,39,3,Bryce Fehmel,Sam Wezniak,2 Seam,83.5,,-
+5,39,4,Bryce Fehmel,Sam Wezniak,2 Seam,85.1,,-
+5,39,5,Bryce Fehmel,Sam Wezniak,2 Seam,84.8,,-
+5,40,1,Bryce Fehmel,Max Flower,2 Seam,85.8,,-
+5,40,2,Bryce Fehmel,Max Flower,2 Seam,84.7,,-
+5,40,3,Bryce Fehmel,Max Flower,2 Seam,85.4,,-
+5,40,4,Bryce Fehmel,Max Flower,Changeup,79.4,,-
+5,40,5,Bryce Fehmel,Max Flower,2 Seam,85.8,,-
+5,41,1,Bryce Fehmel,Cameron Eden,2 Seam,85,,-
+6,42,1,Aaron Shortridge,Jack Anderson,2 Seam,88.2,,-
+6,42,2,Aaron Shortridge,Jack Anderson,Changeup,78.7,,-
+6,42,3,Aaron Shortridge,Jack Anderson,Changeup,77.8,,-
+6,42,4,Aaron Shortridge,Jack Anderson,2 Seam,87.8,,-
+6,42,5,Aaron Shortridge,Jack Anderson,2 Seam,84.8,,-
+6,42,6,Aaron Shortridge,Jack Anderson,Curve,75.2,,-
+6,42,7,Aaron Shortridge,Jack Anderson,2 Seam,87.4,,-
+6,45,1,Aaron Shortridge,Steven Kwan,Changeup,76.9,,-
+6,45,2,Aaron Shortridge,Steven Kwan,2 Seam,88.1,,-
+6,45,3,Aaron Shortridge,Steven Kwan,Changeup,78.7,,-
+6,45,4,Aaron Shortridge,Steven Kwan,2 Seam,88.7,,-
+6,45,5,Aaron Shortridge,Steven Kwan,Slider,76.9,,-
+6,47,1,Bryce Fehmel,Darren Baker,2 Seam,85.3,,-
+6,48,1,Bryce Fehmel,Andrew Vaughn,Changeup,67.9,,-
+6,50,1,Kevin Abel,Korey Lee,Curve,74.4,Ball,-
+6,50,2,Kevin Abel,Korey Lee,2 Seam,90.5,Foul,-
+7,53,1,Aaron Shortridge,Grenier Cadyn,Cutter,86.7,Ball,-
+7,53,4,Arman Sabouri,Grenier Cadyn,4 Seam,86.5,Called Strike,-
+7,53,5,Arman Sabouri,Grenier Cadyn,4 Seam,86.8,Hit Into Play - Out,-
+7,54,1,Arman Sabouri,Trevor Larnach,Slider,76.5,Called Strike,-
+7,54,2,Arman Sabouri,Trevor Larnach,Slider,75.6,Ball,-
+7,54,4,Arman Sabouri,Trevor Larnach,Slider,75.6,Ball,-
+7,54,5,Arman Sabouri,Trevor Larnach,2 Seam,87.5,Ball,-
+7,55,2,Arman Sabouri,Adley Rutschman,4 Seam,85.3,Hit Into Play - Run Scored,-
+7,56,1,Arman Sabouri,Tyler Malone,4 Seam,88.3,Ball,-
+7,56,2,Arman Sabouri,Tyler Malone,4 Seam,86,,-
+7,56,3,Arman Sabouri,Tyler Malone,Changeup,78.9,Ball,-
+7,56,4,Arman Sabouri,Tyler Malone,Slider,76,Hit Into Play - Out,-
+7,56,5,Arman Sabouri,Tyler Malone,Changeup,76.1,Called Strike,-
+7,57,1,Arman Sabouri,Michael Gretler,4 Seam,86.9,Ball,-
+7,57,2,Arman Sabouri,Michael Gretler,Changeup,77.3,Ball,-
+7,57,3,Arman Sabouri,Michael Gretler,Slider,77.1,Ball,-
+7,57,4,Arman Sabouri,Michael Gretler,4 Seam,86.6,Foul,-
+7,57,5,Arman Sabouri,Michael Gretler,2 Seam,85.6,Ball,-
+7,59,1,Kevin Abel,Max Flower,2 Seam,87.9,,-
+7,59,2,Kevin Abel,Max Flower,2 Seam,88.1,,-
+7,59,3,Kevin Abel,Max Flower,2 Seam,87.4,,-
+7,59,4,Kevin Abel,Max Flower,2 Seam,86.5,,-
+7,59,5,Kevin Abel,Max Flower,4 Seam,87.1,,-
+7,59,6,Kevin Abel,Max Flower,Curve,73.6,,-
+7,59,7,Kevin Abel,Max Flower,Slider,80.9,,-
+7,59,8,Kevin Abel,Max Flower,Curve,74.3,,-
+7,59,9,Kevin Abel,Max Flower,Curve,72.3,,-
+7,59,10,Kevin Abel,Max Flower,Changeup,69.4,,-
+7,59,11,Kevin Abel,Max Flower,Slider,75.1,,-
+7,61,1,Kevin Abel,Tyrus Greene,Cutter,83.2,,-
+7,61,2,Kevin Abel,Tyrus Greene,Changeup,74.7,,-
+7,61,3,Kevin Abel,Tyrus Greene,4 Seam,84.4,,-
+7,61,4,Kevin Abel,Tyrus Greene,Changeup,77.9,,-
+7,61,5,Kevin Abel,Tyrus Greene,4 Seam,86.4,,-
+7,61,6,Kevin Abel,Tyrus Greene,4 Seam,86.1,,-
+7,61,7,Kevin Abel,Tyrus Greene,Cutter,85.5,,-
+7,61,8,Kevin Abel,Tyrus Greene,Cutter,84.7,,-
+8,62,1,Arman Sabouri,Zak Taylor,Cutter,86.7,,-
+8,62,2,Arman Sabouri,Zak Taylor,Curve,70.4,,-
+8,62,3,Arman Sabouri,Zak Taylor,Cutter,86.9,,-
+8,62,4,Arman Sabouri,Zak Taylor,Slider,81.1,,-
+8,62,5,Arman Sabouri,Zak Taylor,Slider,81.5,,-
+8,62,6,Arman Sabouri,Zak Taylor,Cutter,88.9,,-
+8,62,7,Arman Sabouri,Zak Taylor,Slider,81.6,,-
+8,62,8,Arman Sabouri,Zak Taylor,Slider,82.5,,-
+8,65,1,Arman Sabouri,Grenier Cadyn,Curve,72,,-
+8,65,2,Arman Sabouri,Grenier Cadyn,Slider,79.6,,-
+8,65,3,Arman Sabouri,Grenier Cadyn,Cutter,87.9,,-
+8,65,4,Arman Sabouri,Grenier Cadyn,Cutter,87.9,,-
+8,65,5,Arman Sabouri,Grenier Cadyn,Cutter,88.4,,-
+8,65,6,Arman Sabouri,Grenier Cadyn,Cutter,87.1,,-
+8,65,7,Arman Sabouri,Grenier Cadyn,Slider,79.8,,-
+8,65,8,Arman Sabouri,Grenier Cadyn,Cutter,86.6,,-
+8,65,9,Arman Sabouri,Grenier Cadyn,Changeup,68.2,,-

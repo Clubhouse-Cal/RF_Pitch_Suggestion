@@ -1,0 +1,322 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Rogelio Reyes,Sam Grigo,2 Seam,88.3,Ball,-
+1,1,2,Rogelio Reyes,Sam Grigo,2 Seam,88.5,Ball,-
+1,1,3,Rogelio Reyes,Sam Grigo,2 Seam,82.9,Ball,-
+1,1,4,Rogelio Reyes,Sam Grigo,Changeup,82,Hit Into Play,75.9
+1,2,1,Rogelio Reyes,Louis Gaitley,Curve,71.6,Swinging Strike,-
+1,2,2,Rogelio Reyes,Louis Gaitley,2 Seam,90,Foul,83.1
+1,2,3,Rogelio Reyes,Louis Gaitley,2 Seam,89.8,Ball,-
+1,2,4,Rogelio Reyes,Louis Gaitley,2 Seam,89.2,Hit Into Play,89.7
+1,3,1,Rogelio Reyes,Cameron Deere,Curve,72.8,Ball,-
+1,3,2,Rogelio Reyes,Cameron Deere,2 Seam,88.5,Swinging Strike,-
+1,3,3,Rogelio Reyes,Cameron Deere,Curve,73.3,Ball,-
+1,3,4,Rogelio Reyes,Cameron Deere,2 Seam,89.8,Swinging Strike,-
+1,3,5,Rogelio Reyes,Cameron Deere,Curve,72.7,Foul,-
+1,3,6,Rogelio Reyes,Cameron Deere,Curve,72,Swinging Strike,-
+1,4,1,Rogelio Reyes,Mark Sluys,2 Seam,88.2,Hit Into Play - Out,64.5
+1,5,1,Collin Garner,Tyrus Greene,2 Seam,84.6,Called Strike,-
+1,5,2,Collin Garner,Tyrus Greene,2 Seam,85.6,Ball,-
+1,5,3,Collin Garner,Tyrus Greene,2 Seam,85.2,Hit Into Play,88.8
+1,6,1,Collin Garner,Darren Baker,2 Seam,82.7,Ball,-
+1,6,2,Collin Garner,Darren Baker,2 Seam,83.7,Called Strike,-
+1,6,3,Collin Garner,Darren Baker,Changeup,77.8,Ball,-
+1,6,4,Collin Garner,Darren Baker,4 Seam,84.1,Hit Into Play - Out,84.6
+1,7,1,Collin Garner,Andrew Vaughn,Slider,71.8,Ball,-
+1,7,2,Collin Garner,Andrew Vaughn,4 Seam,85.1,Ball,-
+1,7,3,Collin Garner,Andrew Vaughn,2 Seam,84.8,Ball,-
+1,7,4,Collin Garner,Andrew Vaughn,4 Seam,85.2,Ball,-
+1,8,1,Collin Garner,Tanner Dodson,2 Seam,83.2,Foul,-
+1,8,2,Collin Garner,Tanner Dodson,Changeup,78.1,Ball,-
+1,8,3,Collin Garner,Tanner Dodson,Curve,70.9,Ball,-
+1,8,4,Collin Garner,Tanner Dodson,2 Seam,83.9,Foul,-
+1,8,5,Collin Garner,Tanner Dodson,4 Seam,85,Hit Into Play,67.9
+1,9,1,Collin Garner,Jonah Davis,Changeup,77.9,Ball,-
+1,9,2,Collin Garner,Jonah Davis,4 Seam,83.4,Ball,-
+1,9,3,Collin Garner,Jonah Davis,4 Seam,83.9,Hit Into Play - Run Scored,102.5
+1,10,1,Collin Garner,Korey Lee,Curve,71.8,Ball,-
+1,10,2,Collin Garner,Korey Lee,Cutter,85.4,Foul,55
+1,10,3,Collin Garner,Korey Lee,4 Seam,85.3,Swinging Strike,-
+1,10,4,Collin Garner,Korey Lee,4 Seam,84.6,Ball,-
+1,10,5,Collin Garner,Korey Lee,2 Seam,85.2,Hit Into Play - Run Scored,101
+1,11,1,Collin Garner,Sam Wezniak,4 Seam,84.6,Hit Into Play - Run Scored,86.9
+1,12,1,Collin Garner,Jeffery Mitchell Jr.,2 Seam,83.8,Called Strike,-
+1,12,2,Collin Garner,Jeffery Mitchell Jr.,Curve,71.8,Ball,-
+1,12,3,Collin Garner,Jeffery Mitchell Jr.,2 Seam,83.3,Foul,96.7
+1,12,4,Collin Garner,Jeffery Mitchell Jr.,Curve,70.8,Ball,-
+1,12,5,Collin Garner,Jeffery Mitchell Jr.,4 Seam,82.9,Ball,-
+1,12,6,Collin Garner,Jeffery Mitchell Jr.,2 Seam,82.5,Foul,-
+1,12,7,Collin Garner,Jeffery Mitchell Jr.,2 Seam,82.6,Ball,-
+1,13,1,Collin Garner,Cameron Eden,Curve,70,Called Strike,-
+1,13,2,Collin Garner,Cameron Eden,4 Seam,84.5,Ball,-
+1,13,3,Collin Garner,Cameron Eden,4 Seam,84.4,Ball,-
+1,13,4,Collin Garner,Cameron Eden,4 Seam,83.9,Ball,-
+1,13,5,Collin Garner,Cameron Eden,4 Seam,83.6,Swinging Strike,-
+1,13,6,Collin Garner,Cameron Eden,4 Seam,83.8,Ball,-
+1,14,1,Collin Garner,Tyrus Greene,4 Seam,83.9,Ball,-
+1,14,2,Collin Garner,Tyrus Greene,2 Seam,83.1,Foul,-
+1,14,3,Collin Garner,Tyrus Greene,4 Seam,83.6,Ball,-
+1,14,4,Collin Garner,Tyrus Greene,4 Seam,83.3,Called Strike,-
+1,14,5,Collin Garner,Tyrus Greene,4 Seam,83.1,Foul,73.8
+1,14,6,Collin Garner,Tyrus Greene,4 Seam,83.6,Hit Into Play - Run Scored,90.1
+1,15,1,Collin Garner,Darren Baker,2 Seam,83,Called Strike,-
+1,15,2,Collin Garner,Darren Baker,Changeup,76.3,Ball,-
+1,15,3,Collin Garner,Darren Baker,Changeup,81.2,Foul,-
+1,15,4,Collin Garner,Darren Baker,Slider,71,Foul,-
+1,15,5,Collin Garner,Darren Baker,2 Seam,81.6,Hit Into Play - Out,57.4
+2,16,1,Rogelio Reyes,Willy Homza,2 Seam,86.7,Hit Into Play,95.6
+2,17,1,Rogelio Reyes,Richard Ciufo,Changeup,70.9,Ball,-
+2,17,2,Rogelio Reyes,Richard Ciufo,4 Seam,86.6,Hit Into Play,88.7
+2,18,1,Rogelio Reyes,Garett Delano,Changeup,79,Ball,-
+2,18,2,Rogelio Reyes,Garett Delano,2 Seam,87.1,Foul,-
+2,18,3,Rogelio Reyes,Garett Delano,Curve,72.5,Ball,-
+2,18,4,Rogelio Reyes,Garett Delano,2 Seam,88,Hit Into Play - Run Scored,97.7
+2,19,1,Rogelio Reyes,Hunter Carey,2 Seam,88.6,Called Strike,-
+2,19,2,Rogelio Reyes,Hunter Carey,Changeup,80.2,Ball,-
+2,19,3,Rogelio Reyes,Hunter Carey,Changeup,81.1,Swinging Strike,-
+2,19,4,Rogelio Reyes,Hunter Carey,Changeup,80.2,Ball,-
+2,19,5,Rogelio Reyes,Hunter Carey,Changeup,80.1,Swinging Strike,-
+2,20,1,Rogelio Reyes,Joe Lomuscio,2 Seam,88.6,Called Strike,-
+2,20,2,Rogelio Reyes,Joe Lomuscio,Curve,70.4,Ball,-
+2,20,3,Rogelio Reyes,Joe Lomuscio,Changeup,80.2,Ball,-
+2,20,4,Rogelio Reyes,Joe Lomuscio,2 Seam,87.9,Foul,-
+2,20,5,Rogelio Reyes,Joe Lomuscio,2 Seam,88.5,Hit By Pitch,-
+2,21,1,Rogelio Reyes,Sam Grigo,2 Seam,87.7,Called Strike,-
+2,21,2,Rogelio Reyes,Sam Grigo,Curve,70.7,Called Strike,-
+2,21,3,Rogelio Reyes,Sam Grigo,2 Seam,88.6,Ball,-
+2,21,4,Rogelio Reyes,Sam Grigo,Changeup,78.3,Foul,-
+2,21,5,Rogelio Reyes,Sam Grigo,2 Seam,89.8,Ball,-
+2,21,6,Rogelio Reyes,Sam Grigo,4 Seam,86.8,Hit Into Play - Run Scored,86
+2,22,1,Rogelio Reyes,Louis Gaitley,2 Seam,88.5,Hit Into Play - Out,90.6
+2,23,1,Rogelio Reyes,Cameron Deere,2 Seam,88.4,Ball,-
+2,23,2,Rogelio Reyes,Cameron Deere,2 Seam,88.2,Foul,-
+2,23,3,Rogelio Reyes,Cameron Deere,Curve,71.6,Hit Into Play - Out,81.4
+2,24,1,Collin Garner,Andrew Vaughn,-,82.1,Ball,-
+2,24,2,Collin Garner,Andrew Vaughn,-,82.3,Ball,-
+2,24,3,Collin Garner,Andrew Vaughn,-,83.9,Ball,-
+2,24,4,Collin Garner,Andrew Vaughn,-,82.7,Called Strike,-
+2,24,5,Collin Garner,Andrew Vaughn,-,84.5,Hit Into Play,-
+2,25,1,Collin Garner,Tanner Dodson,-,82.3,Hit Into Play,-
+2,26,1,Collin Garner,Jonah Davis,-,84.5,Ball,-
+2,26,2,Collin Garner,Jonah Davis,-,83.5,Foul,-
+2,26,3,Collin Garner,Jonah Davis,-,74.8,Swinging Strike,-
+2,26,4,Collin Garner,Jonah Davis,-,77.3,Foul,-
+2,26,5,Collin Garner,Jonah Davis,-,82.2,Foul,-
+2,26,6,Collin Garner,Jonah Davis,-,72.1,Ball,-
+2,26,7,Collin Garner,Jonah Davis,-,76.6,Foul,-
+2,26,8,Collin Garner,Jonah Davis,-,83,Ball,-
+2,26,9,Collin Garner,Jonah Davis,-,83.2,Hit Into Play - Run Scored,-
+2,27,1,Collin Garner,Korey Lee,-,70.8,Called Strike,-
+2,27,2,Collin Garner,Korey Lee,-,83.8,Ball,-
+2,27,3,Collin Garner,Korey Lee,-,71.6,Hit Into Play - Run Scored,-
+2,28,1,Collin Garner,Sam Wezniak,Slider,70.7,Ball,-
+2,28,2,Collin Garner,Sam Wezniak,4 Seam,84,Hit Into Play,98.6
+2,29,1,Collin Garner,Jeffery Mitchell Jr.,2 Seam,81.5,Hit Into Play - Out,76.1
+3,30,1,Rogelio Reyes,Mark Sluys,Changeup,79.9,Ball,-
+3,30,2,Rogelio Reyes,Mark Sluys,2 Seam,87.8,Called Strike,-
+3,30,3,Rogelio Reyes,Mark Sluys,2 Seam,87.2,Called Strike,-
+3,30,4,Rogelio Reyes,Mark Sluys,Curve,72.6,Called Strike,-
+3,31,1,Rogelio Reyes,Willy Homza,Changeup,79.5,Swinging Strike,-
+3,31,2,Rogelio Reyes,Willy Homza,2 Seam,88.9,Swinging Strike,-
+3,31,3,Rogelio Reyes,Willy Homza,2 Seam,89.1,Ball,-
+3,31,4,Rogelio Reyes,Willy Homza,Changeup,81.9,Swinging Strike,-
+3,32,1,Rogelio Reyes,Richard Ciufo,2 Seam,89.3,Ball,-
+3,32,2,Rogelio Reyes,Richard Ciufo,Changeup,79.5,Ball,-
+3,32,3,Rogelio Reyes,Richard Ciufo,2 Seam,88.3,Hit Into Play - Out,78
+3,33,1,Collin Garner,Cameron Eden,-,82.3,Swinging Strike,-
+3,33,2,Collin Garner,Cameron Eden,-,71.3,Ball,-
+3,33,3,Collin Garner,Cameron Eden,-,83.4,Ball,-
+3,33,4,Collin Garner,Cameron Eden,2 Seam,82.8,Foul,-
+3,33,5,Collin Garner,Cameron Eden,4 Seam,83.3,Foul,-
+3,33,6,Collin Garner,Cameron Eden,4 Seam,83.5,Hit Into Play - Out,-
+3,34,1,Collin Garner,Tyrus Greene,Curve,70.4,Called Strike,-
+3,34,2,Collin Garner,Tyrus Greene,2 Seam,83.3,Hit Into Play,63.8
+3,35,1,Collin Garner,Darren Baker,Curve,70,Ball,-
+3,35,2,Collin Garner,Darren Baker,4 Seam,81.1,Ball,-
+3,35,3,Collin Garner,Darren Baker,2 Seam,81.3,Hit Into Play - Out,62.9
+4,36,1,Rogelio Reyes,Garett Delano,-,88.1,Ball,-
+4,36,2,Rogelio Reyes,Garett Delano,Changeup,78.4,Ball,-
+4,36,3,Rogelio Reyes,Garett Delano,2 Seam,88.3,Swinging Strike,-
+4,36,4,Rogelio Reyes,Garett Delano,2 Seam,89.1,Hit Into Play - Out,100
+4,37,1,Rogelio Reyes,Hunter Carey,Changeup,80.7,Ball,-
+4,37,2,Rogelio Reyes,Hunter Carey,2 Seam,87.9,Ball,-
+4,37,3,Rogelio Reyes,Hunter Carey,2 Seam,87.5,Ball,-
+4,37,4,Rogelio Reyes,Hunter Carey,2 Seam,86.9,Ball,-
+4,38,1,Rogelio Reyes,Joe Lomuscio,Curve,72.4,Ball,-
+4,38,2,Rogelio Reyes,Joe Lomuscio,2 Seam,86.2,Hit Into Play - Out,90.8
+4,39,1,Rogelio Reyes,Sam Grigo,2 Seam,86.8,Ball,-
+4,39,2,Rogelio Reyes,Sam Grigo,2 Seam,87,Hit Into Play - Run Scored,-
+4,40,1,Rogelio Reyes,Louis Gaitley,Curve,70.6,Ball,-
+4,40,2,Rogelio Reyes,Louis Gaitley,2 Seam,87.1,Hit Into Play - Run Scored,-
+4,41,1,Rogelio Reyes,Cameron Deere,2 Seam,86.5,Ball,-
+4,41,2,Rogelio Reyes,Cameron Deere,Changeup,78.2,Ball,-
+4,41,3,Rogelio Reyes,Cameron Deere,2 Seam,85.7,Ball,-
+4,41,4,Rogelio Reyes,Cameron Deere,2 Seam,86.2,Called Strike,-
+4,41,5,Rogelio Reyes,Cameron Deere,2 Seam,87.4,Swinging Strike,-
+4,41,6,Rogelio Reyes,Cameron Deere,2 Seam,87.2,Ball,-
+4,42,1,Joey Matulovich,Mark Sluys,2 Seam,89,Called Strike,-
+4,42,2,Joey Matulovich,Mark Sluys,2 Seam,88.9,Ball,-
+4,42,3,Joey Matulovich,Mark Sluys,2 Seam,88.9,Ball,-
+4,42,4,Joey Matulovich,Mark Sluys,2 Seam,89.4,Foul,-
+4,42,5,Joey Matulovich,Mark Sluys,Slider,77.9,Hit Into Play - Run Scored,88.1
+4,43,1,Joey Matulovich,Willy Homza,2 Seam,88.5,Ball,-
+4,43,2,Joey Matulovich,Willy Homza,Changeup,76.4,Swinging Strike,-
+4,43,3,Joey Matulovich,Willy Homza,2 Seam,89.2,Called Strike,-
+4,43,4,Joey Matulovich,Willy Homza,2 Seam,90.4,Ball,-
+4,43,5,Joey Matulovich,Willy Homza,2 Seam,89,Foul,-
+4,43,6,Joey Matulovich,Willy Homza,Changeup,76.9,Ball,-
+4,43,7,Joey Matulovich,Willy Homza,2 Seam,89,Foul,83.5
+4,43,8,Joey Matulovich,Willy Homza,2 Seam,89.4,Foul,-
+4,43,9,Joey Matulovich,Willy Homza,Changeup,76.7,Ball,-
+4,44,1,Joey Matulovich,Richard Ciufo,2 Seam,87.4,Ball,-
+4,44,2,Joey Matulovich,Richard Ciufo,2 Seam,88,Called Strike,-
+4,44,3,Joey Matulovich,Richard Ciufo,2 Seam,87.7,Swinging Strike,-
+4,44,4,Joey Matulovich,Richard Ciufo,Slider,78.9,Swinging Strike,-
+4,45,1,Collin Garner,Andrew Vaughn,2 Seam,81.7,Ball,-
+4,45,2,Collin Garner,Andrew Vaughn,2 Seam,82.3,Foul,-
+4,45,3,Collin Garner,Andrew Vaughn,4 Seam,83.7,Hit Into Play - Out,-
+4,46,1,Collin Garner,Tanner Dodson,Changeup,74.9,Called Strike,-
+4,46,2,Collin Garner,Tanner Dodson,Curve,70.1,Hit Into Play,77.5
+4,47,1,Collin Garner,Jonah Davis,2 Seam,82.3,Ball,-
+4,47,2,Collin Garner,Jonah Davis,2 Seam,81.3,Called Strike,-
+4,47,3,Collin Garner,Jonah Davis,Changeup,75.2,Swinging Strike,-
+4,47,4,Collin Garner,Jonah Davis,Changeup,75.1,Ball,-
+4,47,5,Collin Garner,Jonah Davis,4 Seam,84.5,Swinging Strike,-
+5,48,1,Joey Matulovich,Garett Delano,2 Seam,87,Ball,-
+5,48,2,Joey Matulovich,Garett Delano,2 Seam,87,Swinging Strike,-
+5,48,3,Joey Matulovich,Garett Delano,2 Seam,88,Foul,-
+5,48,4,Joey Matulovich,Garett Delano,Curve,79.3,Hit Into Play,-
+5,49,1,Joey Matulovich,Hunter Carey,2 Seam,86.5,Hit Into Play - Out,96.7
+5,50,1,Joey Matulovich,Joe Lomuscio,Slider,78.8,Ball,-
+5,50,2,Joey Matulovich,Joe Lomuscio,Slider,76.2,Foul,-
+5,50,3,Joey Matulovich,Joe Lomuscio,2 Seam,88,Foul,-
+5,50,4,Joey Matulovich,Joe Lomuscio,Curve,77.9,Ball,-
+5,50,5,Joey Matulovich,Joe Lomuscio,Slider,77.9,Swinging Strike,-
+5,51,1,Joey Matulovich,Sam Grigo,2 Seam,88.5,Ball,-
+5,51,2,Joey Matulovich,Sam Grigo,2 Seam,87.5,Hit Into Play - Out,68.3
+5,52,1,Collin Garner,Korey Lee,2 Seam,82.5,Ball,-
+5,52,2,Collin Garner,Korey Lee,2 Seam,85.1,Hit Into Play - Out,-
+5,53,1,Collin Garner,Sam Wezniak,Curve,69,Ball,-
+5,53,2,Collin Garner,Sam Wezniak,2 Seam,84.1,Called Strike,-
+5,53,3,Collin Garner,Sam Wezniak,Slider,71.9,Ball,-
+5,53,4,Collin Garner,Sam Wezniak,2 Seam,85.2,Called Strike,-
+5,53,5,Collin Garner,Sam Wezniak,Slider,72.4,Ball,-
+5,53,6,Collin Garner,Sam Wezniak,2 Seam,84.7,Ball,-
+5,54,1,Collin Garner,Jeffery Mitchell Jr.,2 Seam,82.8,Ball,-
+5,54,2,Collin Garner,Jeffery Mitchell Jr.,2 Seam,84.2,Called Strike,-
+5,54,3,Collin Garner,Jeffery Mitchell Jr.,2 Seam,84.6,Hit Into Play,-
+5,55,1,Collin Garner,Cameron Eden,2 Seam,84.3,Ball,-
+5,55,2,Collin Garner,Cameron Eden,2 Seam,84.2,Foul,-
+5,55,3,Collin Garner,Cameron Eden,2 Seam,85,Foul,-
+5,55,4,Collin Garner,Cameron Eden,Slider,74.3,Swinging Strike,-
+5,56,1,Collin Garner,Tyrus Greene,2 Seam,83.8,Ball,-
+5,56,2,Collin Garner,Tyrus Greene,Curve,70.6,Called Strike,-
+5,56,3,Collin Garner,Tyrus Greene,Changeup,76.9,Called Strike,-
+5,56,4,Collin Garner,Tyrus Greene,Slider,72.4,Ball,-
+5,56,5,Collin Garner,Tyrus Greene,Curve,72.8,Swinging Strike,-
+6,57,1,Joey Matulovich,Louis Gaitley,2 Seam,86.8,Ball,-
+6,57,2,Joey Matulovich,Louis Gaitley,2 Seam,87.8,Called Strike,-
+6,57,3,Joey Matulovich,Louis Gaitley,Slider,78,Hit Into Play - Out,38.7
+6,58,1,Joey Matulovich,Cameron Deere,2 Seam,88.9,Called Strike,-
+6,58,2,Joey Matulovich,Cameron Deere,Slider,78.5,Ball,-
+6,58,3,Joey Matulovich,Cameron Deere,2 Seam,88.4,Ball,-
+6,58,4,Joey Matulovich,Cameron Deere,2 Seam,88.2,Ball,-
+6,58,5,Joey Matulovich,Cameron Deere,2 Seam,88.2,Ball,-
+6,59,1,Joey Matulovich,Mark Sluys,2 Seam,86.8,Ball,-
+6,59,2,Joey Matulovich,Mark Sluys,2 Seam,87.3,Ball,-
+6,59,3,Joey Matulovich,Mark Sluys,2 Seam,87,Hit Into Play - Out,68
+6,60,1,Joey Matulovich,Willy Homza,2 Seam,88,Hit Into Play - Out,82.4
+6,61,1,Brennan Vasquez,Darren Baker,4 Seam,84.7,Called Strike,-
+6,61,2,Brennan Vasquez,Darren Baker,2 Seam,86.8,Ball,-
+6,61,3,Brennan Vasquez,Darren Baker,2 Seam,86.4,Ball,-
+6,61,4,Brennan Vasquez,Darren Baker,4 Seam,86.2,Ball,-
+6,61,5,Brennan Vasquez,Darren Baker,4 Seam,87.5,Hit Into Play - Out,75.3
+6,62,1,Brennan Vasquez,Andrew Vaughn,4 Seam,87.9,Ball,-
+6,62,2,Brennan Vasquez,Andrew Vaughn,4 Seam,87.8,Hit Into Play - Run Scored,103.4
+6,63,1,Brennan Vasquez,Tanner Dodson,Changeup,73.7,Called Strike,-
+6,63,2,Brennan Vasquez,Tanner Dodson,Slider,75.3,Called Strike,-
+6,63,3,Brennan Vasquez,Tanner Dodson,4 Seam,88.2,Hit Into Play - Out,44.4
+6,64,1,Brennan Vasquez,Jonah Davis,Changeup,72.9,Ball,-
+6,64,2,Brennan Vasquez,Jonah Davis,4 Seam,86.7,Foul,75.3
+6,64,3,Brennan Vasquez,Jonah Davis,2 Seam,85.8,Called Strike,-
+6,64,4,Brennan Vasquez,Jonah Davis,Changeup,72.8,Swinging Strike,-
+7,65,1,Joey Matulovich,Richard Ciufo,2 Seam,87.7,Called Strike,-
+7,65,2,Joey Matulovich,Richard Ciufo,Slider,77.6,Called Strike,-
+7,65,3,Joey Matulovich,Richard Ciufo,2 Seam,89.4,Ball,-
+7,65,4,Joey Matulovich,Richard Ciufo,Slider,76.4,Hit Into Play - Out,73.3
+7,66,1,Joey Matulovich,Garett Delano,2 Seam,88.7,Ball,-
+7,66,2,Joey Matulovich,Garett Delano,2 Seam,89.2,Ball,-
+7,66,3,Joey Matulovich,Garett Delano,4 Seam,88.3,Called Strike,-
+7,66,4,Joey Matulovich,Garett Delano,2 Seam,88.7,Foul Tip,-
+7,66,5,Joey Matulovich,Garett Delano,Curve,77.5,Foul,-
+7,66,6,Joey Matulovich,Garett Delano,Slider,76.7,Foul,-
+7,66,7,Joey Matulovich,Garett Delano,Curve,75.9,Ball,-
+7,66,8,Joey Matulovich,Garett Delano,2 Seam,86.9,Foul,-
+7,66,9,Joey Matulovich,Garett Delano,2 Seam,88.8,Foul,-
+7,66,10,Joey Matulovich,Garett Delano,2 Seam,88.2,Foul,-
+7,66,11,Joey Matulovich,Garett Delano,2 Seam,89.7,Called Strike,-
+7,67,1,Joey Matulovich,Hunter Carey,Changeup,77.8,Ball,-
+7,67,2,Joey Matulovich,Hunter Carey,2 Seam,89.1,Ball,-
+7,67,3,Joey Matulovich,Hunter Carey,2 Seam,86.6,Foul,51.3
+7,67,4,Joey Matulovich,Hunter Carey,2 Seam,87.7,Ball,-
+7,67,5,Joey Matulovich,Hunter Carey,4 Seam,86.2,Hit Into Play - Out,90.8
+7,68,1,Brennan Vasquez,Korey Lee,2 Seam,85.7,Ball,-
+7,68,2,Brennan Vasquez,Korey Lee,2 Seam,85.2,Ball,-
+7,68,3,Brennan Vasquez,Korey Lee,4 Seam,85.6,Hit Into Play - Run Scored,97.7
+7,69,1,Brennan Vasquez,Sam Wezniak,4 Seam,85.3,Ball,-
+7,69,2,Brennan Vasquez,Sam Wezniak,4 Seam,86.6,Swinging Strike,-
+7,69,3,Brennan Vasquez,Sam Wezniak,4 Seam,85.7,Ball,-
+7,69,4,Brennan Vasquez,Sam Wezniak,4 Seam,85.5,Foul,76.4
+7,69,5,Brennan Vasquez,Sam Wezniak,4 Seam,87,Ball,-
+7,69,6,Brennan Vasquez,Sam Wezniak,4 Seam,86.8,Ball,-
+7,70,1,JJ Sliepka,Jeffery Mitchell Jr.,4 Seam,85.3,Called Strike,-
+7,70,2,JJ Sliepka,Jeffery Mitchell Jr.,4 Seam,84.9,Foul,-
+7,70,3,JJ Sliepka,Jeffery Mitchell Jr.,2 Seam,85.5,Ball,-
+7,70,4,JJ Sliepka,Jeffery Mitchell Jr.,2 Seam,85.6,Ball,-
+7,70,5,JJ Sliepka,Jeffery Mitchell Jr.,Curve,72,Ball,-
+7,70,6,JJ Sliepka,Jeffery Mitchell Jr.,2 Seam,85.5,Hit Into Play - Out,85.5
+7,71,1,JJ Sliepka,Cameron Eden,4 Seam,84.5,Ball,-
+7,71,2,JJ Sliepka,Cameron Eden,2 Seam,84.2,Foul,65.2
+7,71,3,JJ Sliepka,Cameron Eden,Curve,71.5,Called Strike,-
+7,71,4,JJ Sliepka,Cameron Eden,Curve,72.5,Called Strike,-
+7,72,1,JJ Sliepka,Tyrus Greene,Curve,69.7,Ball,-
+7,72,2,JJ Sliepka,Tyrus Greene,2 Seam,85,Ball,-
+7,72,3,JJ Sliepka,Tyrus Greene,2 Seam,84.8,Hit Into Play - Out,88.4
+8,73,1,Tanner Dodson,Joe Lomuscio,2 Seam,91.7,Ball,-
+8,73,2,Tanner Dodson,Joe Lomuscio,2 Seam,92,Foul,-
+8,73,3,Tanner Dodson,Joe Lomuscio,Cutter,85.2,Ball,-
+8,73,4,Tanner Dodson,Joe Lomuscio,2 Seam,90.6,Hit Into Play - Out,-
+8,74,1,Tanner Dodson,Sam Grigo,2 Seam,93.1,Foul,-
+8,74,2,Tanner Dodson,Sam Grigo,Changeup,84.6,Ball,-
+8,74,3,Tanner Dodson,Sam Grigo,2 Seam,93.3,Ball,-
+8,74,4,Tanner Dodson,Sam Grigo,2 Seam,93.2,Hit Into Play - Out,-
+8,75,1,Tanner Dodson,Louis Gaitley,4 Seam,94.4,Foul,-
+8,75,2,Tanner Dodson,Louis Gaitley,2 Seam,94,Swinging Strike,-
+8,75,3,Tanner Dodson,Louis Gaitley,Changeup,87.1,Ball,-
+8,75,4,Tanner Dodson,Louis Gaitley,Curve,78.7,Swinging Strike,-
+8,76,1,Bobby Leyman,Darren Baker,2 Seam,89.7,Ball,-
+8,76,2,Bobby Leyman,Darren Baker,2 Seam,89.6,Called Strike,-
+8,76,3,Bobby Leyman,Darren Baker,2 Seam,89.7,Hit Into Play - Out,-
+8,77,1,Bobby Leyman,Andrew Vaughn,2 Seam,91.5,Ball,-
+8,77,2,Bobby Leyman,Andrew Vaughn,2 Seam,90.1,Hit Into Play - Out,-
+8,78,1,Bobby Leyman,Tanner Dodson,2 Seam,90.8,Foul,-
+8,78,2,Bobby Leyman,Tanner Dodson,Curve,75.5,Ball,-
+8,78,3,Bobby Leyman,Tanner Dodson,4 Seam,90.7,Foul,57.1
+8,78,4,Bobby Leyman,Tanner Dodson,Curve,74.3,Called Strike,-
+9,79,1,Tanner Dodson,Cameron Deere,2 Seam,92,Called Strike,-
+9,79,2,Tanner Dodson,Cameron Deere,Changeup,85,Hit Into Play,89
+9,80,1,Tanner Dodson,Mark Sluys,2 Seam,92.3,Ball,-
+9,80,2,Tanner Dodson,Mark Sluys,2 Seam,92.1,Ball,-
+9,80,3,Tanner Dodson,Mark Sluys,2 Seam,91.6,Foul,-
+9,80,4,Tanner Dodson,Mark Sluys,2 Seam,92,Hit By Pitch,-
+9,81,1,Tanner Dodson,Willy Homza,2 Seam,89.3,Foul,-
+9,81,2,Tanner Dodson,Willy Homza,2 Seam,88.8,Foul,-
+9,81,3,Tanner Dodson,Willy Homza,2 Seam,91.3,Swinging Strike,-
+9,82,1,Tanner Dodson,Richard Ciufo,2 Seam,92.7,Called Strike,-
+9,82,2,Tanner Dodson,Richard Ciufo,2 Seam,92.9,Foul,-
+9,82,3,Tanner Dodson,Richard Ciufo,Slider,78.5,Swinging Strike,-
+9,83,1,Tanner Dodson,Garett Delano,2 Seam,93.1,Ball,-
+9,83,2,Tanner Dodson,Garett Delano,2 Seam,93.3,Ball,-
+9,83,3,Tanner Dodson,Garett Delano,2 Seam,92.9,Swinging Strike,-
+9,83,4,Tanner Dodson,Garett Delano,2 Seam,93.3,Swinging Strike,-
+9,83,5,Tanner Dodson,Garett Delano,2 Seam,94.1,Foul,-
+9,83,6,Tanner Dodson,Garett Delano,Changeup,86.3,Swinging Strike,-

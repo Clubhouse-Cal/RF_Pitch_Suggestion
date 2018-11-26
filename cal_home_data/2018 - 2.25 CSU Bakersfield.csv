@@ -1,0 +1,288 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Matt Ladrech,Mark Pena,4 Seam,81.7,Hit Into Play - Out,-
+1,2,1,Matt Ladrech,Noah Barba,Cutter,69.1,Ball,-
+1,2,2,Matt Ladrech,Noah Barba,4 Seam,81.6,Foul,-
+1,2,3,Matt Ladrech,Noah Barba,Slider,70.8,Ball,-
+1,2,4,Matt Ladrech,Noah Barba,Changeup,80.3,Hit Into Play - Out,-
+1,3,1,Matt Ladrech,Andrew Penner,Slider,71.2,Called Strike,-
+1,3,2,Matt Ladrech,Andrew Penner,4 Seam,81.8,Ball,-
+1,3,3,Matt Ladrech,Andrew Penner,2 Seam,82,Called Strike,-
+1,3,4,Matt Ladrech,Andrew Penner,2 Seam,83,Hit Into Play - Out,-
+1,4,1,Ben Cutting,Tyrus Greene,Cutter,83.7,Ball,-
+1,4,2,Ben Cutting,Tyrus Greene,Cutter,82.5,Ball,-
+1,4,3,Ben Cutting,Tyrus Greene,Cutter,82.9,Ball,-
+1,4,4,Ben Cutting,Tyrus Greene,Cutter,83.4,Called Strike,-
+1,4,5,Ben Cutting,Tyrus Greene,Cutter,84.1,Called Strike,-
+1,4,6,Ben Cutting,Tyrus Greene,Cutter,84.6,Hit Into Play - Out,-
+1,5,1,Ben Cutting,Darren Baker,Cutter,84.2,Ball,-
+1,5,2,Ben Cutting,Darren Baker,Cutter,84.4,Ball,-
+1,5,3,Ben Cutting,Darren Baker,Cutter,84.5,Ball,-
+1,5,4,Ben Cutting,Darren Baker,Cutter,84.5,Called Strike,-
+1,5,5,Ben Cutting,Darren Baker,Cutter,83.9,Foul,-
+1,5,6,Ben Cutting,Darren Baker,Cutter,81.2,Hit Into Play - Out,-
+1,6,1,Ben Cutting,Andrew Vaughn,Slider,79.5,Ball,-
+1,6,2,Ben Cutting,Andrew Vaughn,Cutter,84.3,Hit Into Play,105.3
+2,8,1,Matt Ladrech,Ryan Koch,4 Seam,82.3,Called Strike,-
+2,8,2,Matt Ladrech,Ryan Koch,Changeup,72.4,Ball,-
+2,8,3,Matt Ladrech,Ryan Koch,Slider,72.1,Foul,-
+2,8,4,Matt Ladrech,Ryan Koch,4 Seam,82.7,Hit Into Play,78.1
+2,9,1,Matt Ladrech,Luis Martinez,4 Seam,81.9,Hit Into Play,-
+2,10,1,Matt Ladrech,Jassen Oliver,Slider,67.4,Hit Into Play - Run Scored,-
+2,11,1,Matt Ladrech,Evan Berkey,Changeup,72.9,Ball,-
+2,11,2,Matt Ladrech,Evan Berkey,4 Seam,81.1,Foul,-
+2,11,3,Matt Ladrech,Evan Berkey,Slider,69.7,Hit Into Play - Out,56.4
+2,12,1,Matt Ladrech,Daniel Nist,Cutter,72.5,Hit Into Play - Out,92.9
+2,13,1,Ben Cutting,Max Flower,Cutter,82.3,Hit Into Play - Out,-
+2,14,1,Ben Cutting,Jonah Davis,Slider,79.4,Ball,-
+2,14,2,Ben Cutting,Jonah Davis,Slider,79.2,Ball,-
+2,14,3,Ben Cutting,Jonah Davis,Slider,78,Called Strike,-
+2,14,4,Ben Cutting,Jonah Davis,Cutter,80.7,Ball,-
+2,14,5,Ben Cutting,Jonah Davis,Cutter,80.1,Hit Into Play - Out,-
+2,15,1,Ben Cutting,Korey Lee,Cutter,83.5,Ball,-
+2,15,2,Ben Cutting,Korey Lee,Slider,80.2,Swinging Strike,-
+2,15,3,Ben Cutting,Korey Lee,Cutter,81.4,Swinging Strike,-
+2,15,4,Ben Cutting,Korey Lee,Slider,74.3,Ball,-
+2,15,5,Ben Cutting,Korey Lee,4 Seam,80.1,Foul,-
+2,15,6,Ben Cutting,Korey Lee,Cutter,80.1,Foul,-
+2,15,7,Ben Cutting,Korey Lee,Slider,79.1,Hit Into Play - Out,40
+3,16,1,Matt Ladrech,Trent Anderson,4 Seam,81.8,Called Strike,-
+3,16,2,Matt Ladrech,Trent Anderson,4 Seam,81.2,Hit Into Play - Out,-
+3,17,1,Matt Ladrech,Mark Pena,Cutter,71.8,Ball,-
+3,17,2,Matt Ladrech,Mark Pena,4 Seam,81.6,Hit Into Play - Out,-
+3,18,1,Matt Ladrech,Noah Barba,4 Seam,81.7,Ball,-
+3,18,2,Matt Ladrech,Noah Barba,4 Seam,80.5,Called Strike,-
+3,18,3,Matt Ladrech,Noah Barba,Cutter,73.5,Hit Into Play - Out,67.7
+3,19,1,Ben Cutting,Ripken Reyes,Cutter,82.9,Called Strike,-
+3,19,2,Ben Cutting,Ripken Reyes,Slider,78.5,Foul,-
+3,19,3,Ben Cutting,Ripken Reyes,Slider,73.1,Ball,-
+3,19,4,Ben Cutting,Ripken Reyes,Curve,71.5,Ball,-
+3,19,5,Ben Cutting,Ripken Reyes,Cutter,83,Foul,-
+3,19,6,Ben Cutting,Ripken Reyes,Slider,79.3,Hit Into Play - Out,-
+3,20,1,Ben Cutting,Cameron Eden,Cutter,83.2,Ball,-
+3,20,2,Ben Cutting,Cameron Eden,Cutter,84.2,Ball,-
+3,20,3,Ben Cutting,Cameron Eden,Cutter,84,Ball,-
+3,20,4,Ben Cutting,Cameron Eden,Cutter,83.7,Called Strike,-
+3,20,5,Ben Cutting,Cameron Eden,Cutter,83.3,Hit Into Play - Out,60.1
+3,21,1,Ben Cutting,Tyrus Greene,Cutter,80.7,Foul,-
+3,21,2,Ben Cutting,Tyrus Greene,Curve,73.3,Ball,-
+3,21,3,Ben Cutting,Tyrus Greene,Cutter,83.4,Ball,-
+3,21,4,Ben Cutting,Tyrus Greene,Cutter,82.5,Hit Into Play,98.5
+3,22,1,Ben Cutting,Darren Baker,Cutter,82.8,Ball,-
+3,22,2,Ben Cutting,Darren Baker,Cutter,81.3,Ball,-
+3,22,3,Ben Cutting,Darren Baker,Cutter,83.5,Called Strike,-
+3,22,4,Ben Cutting,Darren Baker,Cutter,83.4,Ball,-
+3,22,5,Ben Cutting,Darren Baker,Cutter,83.8,Called Strike,-
+3,22,6,Ben Cutting,Darren Baker,Cutter,83.7,Hit Into Play - Out,-
+4,23,1,Matt Ladrech,Andrew Penner,4 Seam,82.4,Hit Into Play,-
+4,24,1,Matt Ladrech,Ryan Koch,Cutter,72.1,Called Strike,-
+4,24,2,Matt Ladrech,Ryan Koch,Changeup,73.4,Ball,-
+4,24,3,Matt Ladrech,Ryan Koch,4 Seam,81.4,Ball,-
+4,24,4,Matt Ladrech,Ryan Koch,Cutter,69.6,Foul,66
+4,24,5,Matt Ladrech,Ryan Koch,Cutter,72.1,Foul,-
+4,24,6,Matt Ladrech,Ryan Koch,4 Seam,81.4,Hit Into Play - Out,89.5
+4,25,1,Matt Ladrech,Luis Martinez,Changeup,72.3,Foul,-
+4,25,2,Matt Ladrech,Luis Martinez,2 Seam,80.5,Swinging Strike,-
+4,25,3,Matt Ladrech,Luis Martinez,Changeup,78.5,Ball,-
+4,25,4,Matt Ladrech,Luis Martinez,2 Seam,81,Foul,64.4
+4,25,5,Matt Ladrech,Luis Martinez,Cutter,80.5,Foul,-
+4,25,6,Matt Ladrech,Luis Martinez,Cutter,70.7,Swinging Strike,-
+4,26,1,Matt Ladrech,Jassen Oliver,Curve,68.3,Swinging Strike,-
+4,26,2,Matt Ladrech,Jassen Oliver,Changeup,70.4,Swinging Strike,-
+4,26,3,Matt Ladrech,Jassen Oliver,Cutter,68.8,Hit Into Play - Out,70.6
+4,27,1,Ben Cutting,Andrew Vaughn,Slider,71.8,Called Strike,-
+4,27,2,Ben Cutting,Andrew Vaughn,Cutter,79.4,Swinging Strike,-
+4,27,3,Ben Cutting,Andrew Vaughn,Cutter,79.8,Foul,-
+4,27,4,Ben Cutting,Andrew Vaughn,Slider,80.2,Hit Into Play - Out,-
+4,28,1,Ben Cutting,Tanner Dodson,Cutter,82.9,Hit Into Play,-
+4,29,1,Ben Cutting,Max Flower,Cutter,82.2,Called Strike,-
+4,29,2,Ben Cutting,Max Flower,Slider,77.7,Called Strike,-
+4,29,3,Ben Cutting,Max Flower,Cutter,79.5,Ball,-
+4,29,4,Ben Cutting,Max Flower,Curve,69.8,Foul,-
+4,29,5,Ben Cutting,Max Flower,Cutter,83.9,Swinging Strike,-
+4,30,1,Ben Cutting,Jonah Davis,Cutter,81.8,Ball,-
+4,30,2,Ben Cutting,Jonah Davis,Slider,79,Ball,-
+4,30,3,Ben Cutting,Jonah Davis,Slider,77.5,Foul,-
+4,30,4,Ben Cutting,Jonah Davis,Cutter,82.2,Ball,-
+4,30,5,Ben Cutting,Jonah Davis,Slider,79.4,Foul,-
+4,30,6,Ben Cutting,Jonah Davis,Curve,71.4,Called Strike,-
+5,31,1,Matt Ladrech,Evan Berkey,Slider,72.2,Ball,-
+5,31,2,Matt Ladrech,Evan Berkey,Cutter,71.8,Called Strike,-
+5,31,3,Matt Ladrech,Evan Berkey,4 Seam,82,Ball,-
+5,31,4,Matt Ladrech,Evan Berkey,Cutter,70.2,Ball,-
+5,31,5,Matt Ladrech,Evan Berkey,4 Seam,79.3,Called Strike,-
+5,31,6,Matt Ladrech,Evan Berkey,4 Seam,79,Foul,-
+5,31,7,Matt Ladrech,Evan Berkey,2 Seam,80.2,Hit Into Play,-
+5,32,1,Matt Ladrech,Daniel Nist,Changeup,80,Ball,-
+5,32,2,Matt Ladrech,Daniel Nist,Slider,69.2,Ball,-
+5,32,3,Matt Ladrech,Daniel Nist,Cutter,71.4,Ball,-
+5,32,4,Matt Ladrech,Daniel Nist,Changeup,78.2,Called Strike,-
+5,32,5,Matt Ladrech,Daniel Nist,Changeup,78.3,Called Strike,-
+5,32,6,Matt Ladrech,Daniel Nist,Changeup,78.7,Hit Into Play - Out,-
+5,33,1,Matt Ladrech,Trent Anderson,4 Seam,79.6,Called Strike,-
+5,33,2,Matt Ladrech,Trent Anderson,Cutter,70.3,Called Strike,-
+5,33,3,Matt Ladrech,Trent Anderson,2 Seam,80.4,Ball,-
+5,33,4,Matt Ladrech,Trent Anderson,Slider,68.2,Swinging Strike,-
+5,34,1,Matt Ladrech,Mark Pena,4 Seam,82.3,Hit Into Play - Out,91.2
+5,35,1,Ben Cutting,Korey Lee,Cutter,82.5,Ball,-
+5,35,2,Ben Cutting,Korey Lee,Cutter,83.5,Hit Into Play,-
+5,36,1,Ben Cutting,Ripken Reyes,Curve,71.4,Ball,-
+5,36,2,Ben Cutting,Ripken Reyes,Cutter,83.2,Called Strike,-
+5,36,3,Ben Cutting,Ripken Reyes,Cutter,81.2,Ball,-
+5,36,4,Ben Cutting,Ripken Reyes,Slider,79.6,Foul,-
+5,36,5,Ben Cutting,Ripken Reyes,Slider,79.9,Foul,-
+5,36,6,Ben Cutting,Ripken Reyes,Cutter,83.7,Foul,-
+5,36,7,Ben Cutting,Ripken Reyes,Slider,78.5,Ball,-
+5,37,1,Ben Cutting,Cameron Eden,Cutter,82.3,Foul,-
+5,37,2,Ben Cutting,Cameron Eden,Slider,72.2,Hit Into Play - Out,88.1
+5,38,1,Ben Cutting,Tyrus Greene,Cutter,80.9,Foul,-
+5,38,2,Ben Cutting,Tyrus Greene,Slider,71.8,Called Strike,-
+5,38,3,Ben Cutting,Tyrus Greene,Cutter,83.7,Ball,-
+5,38,4,Ben Cutting,Tyrus Greene,Slider,78.7,Hit Into Play - Out,86
+5,39,1,Ben Cutting,Darren Baker,Cutter,84.7,Ball,-
+5,39,2,Ben Cutting,Darren Baker,Cutter,83.8,Called Strike,-
+5,39,3,Ben Cutting,Darren Baker,Cutter,81.1,Hit Into Play,88.9
+5,40,1,Ben Cutting,Andrew Vaughn,Cutter,82.9,Hit Into Play,-
+5,41,1,Ben Cutting,Tanner Dodson,4 Seam,79.5,Ball,-
+5,41,2,Ben Cutting,Tanner Dodson,Cutter,78.6,Ball,-
+5,41,3,Ben Cutting,Tanner Dodson,Slider,79.5,Swinging Strike,-
+5,41,4,Ben Cutting,Tanner Dodson,Slider,73.9,Ball,-
+5,41,5,Ben Cutting,Tanner Dodson,Slider,71.8,Foul,-
+5,41,6,Ben Cutting,Tanner Dodson,Slider,78.9,Ball,-
+5,42,1,Ben Cutting,Max Flower,Cutter,82.6,Hit Into Play,-
+5,43,1,Ben Cutting,Jonah Davis,Slider,79.4,Called Strike,-
+5,43,2,Ben Cutting,Jonah Davis,Curve,70.8,Ball,-
+5,43,3,Ben Cutting,Jonah Davis,Slider,78.7,Hit Into Play,38.3
+5,44,1,Ben Cutting,Korey Lee,Cutter,82.4,Called Strike,-
+5,44,2,Ben Cutting,Korey Lee,Slider,78.9,Hit Into Play,97.3
+5,45,1,David Metzgar,Ripken Reyes,Changeup,78.8,Hit By Pitch,-
+5,46,1,David Metzgar,Cameron Eden,4 Seam,85.8,Foul,-
+5,46,2,David Metzgar,Cameron Eden,Changeup,77.9,Ball,-
+5,46,3,David Metzgar,Cameron Eden,2 Seam,85.2,Called Strike,-
+5,46,4,David Metzgar,Cameron Eden,Changeup,79.4,Hit Into Play - Out,92.7
+6,47,1,Matt Ladrech,Noah Barba,4 Seam,80.7,Called Strike,-
+6,47,2,Matt Ladrech,Noah Barba,Cutter,70.3,Foul,64.1
+6,47,3,Matt Ladrech,Noah Barba,4 Seam,79.3,Ball,-
+6,47,4,Matt Ladrech,Noah Barba,Curve,65.7,Ball,-
+6,47,5,Matt Ladrech,Noah Barba,Slider,71.5,Hit Into Play,89
+6,48,1,Matt Ladrech,Andrew Penner,Slider,70.5,Hit Into Play - Out,88.3
+6,49,1,Matt Ladrech,Ryan Koch,Curve,63.7,Called Strike,-
+6,49,2,Matt Ladrech,Ryan Koch,4 Seam,81.2,Hit Into Play - Out,73.3
+6,50,1,Matt Ladrech,Luis Martinez,Curve,63,Ball,-
+6,50,2,Matt Ladrech,Luis Martinez,Changeup,72.1,Swinging Strike,-
+6,50,3,Matt Ladrech,Luis Martinez,Changeup,71,Hit Into Play - Out,-
+6,51,1,David Metzgar,Tyrus Greene,2 Seam,86.9,Ball,-
+6,51,2,David Metzgar,Tyrus Greene,4 Seam,87.2,Ball,-
+6,51,3,David Metzgar,Tyrus Greene,2 Seam,87.3,Ball,-
+6,51,4,David Metzgar,Tyrus Greene,2 Seam,87,Ball,-
+6,52,1,David Metzgar,Darren Baker,Changeup,80.6,Ball,-
+6,52,2,David Metzgar,Darren Baker,4 Seam,84.7,Foul,-
+6,52,3,David Metzgar,Darren Baker,Changeup,80.5,Hit Into Play,66.9
+6,53,1,Naithen Dewsnap,Andrew Vaughn,Curve,69.3,Ball,-
+6,53,2,Naithen Dewsnap,Andrew Vaughn,2 Seam,83.6,Swinging Strike,-
+6,53,3,Naithen Dewsnap,Andrew Vaughn,Curve,69,Called Strike,-
+6,53,4,Naithen Dewsnap,Andrew Vaughn,Slider,69.7,Ball,-
+6,53,5,Naithen Dewsnap,Andrew Vaughn,2 Seam,83.6,Ball,-
+6,53,6,Naithen Dewsnap,Andrew Vaughn,2 Seam,83.3,Ball,-
+6,54,1,Naithen Dewsnap,Tanner Dodson,2 Seam,83.6,Foul,-
+6,54,2,Naithen Dewsnap,Tanner Dodson,Changeup,74.6,Called Strike,-
+6,54,3,Naithen Dewsnap,Tanner Dodson,2 Seam,82.6,Hit Into Play,22.2
+6,55,1,Naithen Dewsnap,Max Flower,2 Seam,82.2,Ball,-
+6,55,2,Naithen Dewsnap,Max Flower,2 Seam,82.2,Called Strike,-
+6,55,3,Naithen Dewsnap,Max Flower,Curve,66.8,Foul,91.6
+6,55,4,Naithen Dewsnap,Max Flower,2 Seam,83.6,Swinging Strike,-
+6,56,1,Naithen Dewsnap,Jonah Davis,Curve,67.8,Ball,-
+6,56,2,Naithen Dewsnap,Jonah Davis,2 Seam,81.9,Called Strike,-
+6,56,3,Naithen Dewsnap,Jonah Davis,2 Seam,82.5,Foul,-
+6,56,4,Naithen Dewsnap,Jonah Davis,Changeup,76.2,Foul,-
+6,57,1,Naithen Dewsnap,Korey Lee,2 Seam,82.3,Called Strike,-
+6,57,2,Naithen Dewsnap,Korey Lee,Slider,68,Hit Into Play - Out,92.5
+6,56,5,Naithen Dewsnap,Jonah Davis,2 Seam,83,Hit Into Play,105.6
+6,58,1,Naithen Dewsnap,Ripken Reyes,Changeup,74.2,Called Strike,-
+6,58,2,Naithen Dewsnap,Ripken Reyes,2 Seam,81.7,Ball,-
+6,58,3,Naithen Dewsnap,Ripken Reyes,Curve,68,Called Strike,-
+6,58,4,Naithen Dewsnap,Ripken Reyes,2 Seam,82.3,Ball,-
+6,58,5,Naithen Dewsnap,Ripken Reyes,Changeup,74.8,Hit Into Play - Out,86.8
+7,59,1,Matt Ladrech,Jassen Oliver,Cutter,70.4,Foul,-
+7,59,2,Matt Ladrech,Jassen Oliver,Cutter,71.9,Ball,-
+7,59,3,Matt Ladrech,Jassen Oliver,Cutter,80.6,Ball,-
+7,59,4,Matt Ladrech,Jassen Oliver,Changeup,80,Foul,85.5
+7,59,5,Matt Ladrech,Jassen Oliver,2 Seam,79.9,Hit Into Play - Out,53.3
+7,60,1,Matt Ladrech,Evan Berkey,4 Seam,81,Ball,-
+7,60,2,Matt Ladrech,Evan Berkey,4 Seam,81.3,Hit Into Play,93.6
+7,61,1,Matt Ladrech,Daniel Nist,Cutter,70.9,Swinging Strike,-
+7,61,2,Matt Ladrech,Daniel Nist,Cutter,70.2,Swinging Strike,-
+7,61,3,Matt Ladrech,Daniel Nist,Cutter,66.4,Foul,-
+7,61,4,Matt Ladrech,Daniel Nist,Cutter,67.1,Hit Into Play - Out,66.1
+7,62,1,Matt Ladrech,Trent Anderson,4 Seam,81.2,Hit Into Play,70
+7,63,1,Matt Ladrech,Mark Pena,Cutter,70.7,Ball,-
+7,63,2,Matt Ladrech,Mark Pena,2 Seam,80.9,Called Strike,-
+7,63,3,Matt Ladrech,Mark Pena,2 Seam,80.6,Hit Into Play - Out,96.2
+7,64,1,Naithen Dewsnap,Cameron Eden,2 Seam,81.6,Ball,-
+7,64,2,Naithen Dewsnap,Cameron Eden,2 Seam,81.8,Foul,55.5
+7,64,3,Naithen Dewsnap,Cameron Eden,2 Seam,82,Swinging Strike,-
+7,64,4,Naithen Dewsnap,Cameron Eden,2 Seam,83,Called Strike,-
+7,65,1,Naithen Dewsnap,Matt Ruff,Changeup,75.8,Ball,-
+7,65,2,Naithen Dewsnap,Matt Ruff,2 Seam,81.8,Swinging Strike,-
+7,65,3,Naithen Dewsnap,Matt Ruff,Curve,67.9,Called Strike,-
+7,65,4,Naithen Dewsnap,Matt Ruff,2 Seam,82.3,Foul,-
+7,65,5,Naithen Dewsnap,Matt Ruff,2 Seam,82.8,Foul,-
+7,65,6,Naithen Dewsnap,Matt Ruff,Changeup,74.9,Ball,-
+7,65,7,Naithen Dewsnap,Matt Ruff,2 Seam,82,Ball,-
+7,65,8,Naithen Dewsnap,Matt Ruff,2 Seam,82.3,Hit Into Play,-
+7,66,1,Naithen Dewsnap,Darren Baker,Curve,68.4,Called Strike,-
+7,66,2,Naithen Dewsnap,Darren Baker,Curve,67.4,Ball,-
+7,66,3,Naithen Dewsnap,Darren Baker,2 Seam,81.1,Ball,-
+7,66,4,Naithen Dewsnap,Darren Baker,2 Seam,80.7,Ball,-
+7,66,5,Naithen Dewsnap,Darren Baker,2 Seam,81.8,Ball,-
+7,67,1,Naithen Dewsnap,Andrew Vaughn,Curve,67.3,Called Strike,-
+7,67,2,Naithen Dewsnap,Andrew Vaughn,Changeup,81.5,Ball,-
+7,67,3,Naithen Dewsnap,Andrew Vaughn,Curve,67.9,Hit Into Play - Out,84.6
+7,68,1,Naithen Dewsnap,Tanner Dodson,2 Seam,81.3,Ball,-
+7,68,2,Naithen Dewsnap,Tanner Dodson,Curve,68.4,Ball,-
+7,68,3,Naithen Dewsnap,Tanner Dodson,2 Seam,80.9,Foul,-
+7,68,4,Naithen Dewsnap,Tanner Dodson,Curve,67.9,Called Strike,-
+7,68,5,Naithen Dewsnap,Tanner Dodson,2 Seam,82.2,Hit Into Play,97.8
+7,69,1,Naithen Dewsnap,Max Flower,2 Seam,82.4,Ball,-
+7,69,2,Naithen Dewsnap,Max Flower,2 Seam,80.9,Ball,-
+7,69,3,Naithen Dewsnap,Max Flower,Changeup,79.1,Foul,-
+7,69,4,Naithen Dewsnap,Max Flower,Curve,67.2,Hit Into Play - Out,83.5
+8,70,1,Erik Martinez,Noah Barba,4 Seam,84.7,Called Strike,-
+8,70,2,Erik Martinez,Noah Barba,Curve,71.5,Hit Into Play - Out,88.4
+8,71,1,Erik Martinez,Andrew Penner,2 Seam,86.5,Ball,-
+8,71,2,Erik Martinez,Andrew Penner,4 Seam,85.5,Called Strike,-
+8,71,3,Erik Martinez,Andrew Penner,Slider,78.2,Ball,-
+8,71,4,Erik Martinez,Andrew Penner,4 Seam,85.4,Ball,-
+8,71,5,Erik Martinez,Andrew Penner,2 Seam,85.6,Hit Into Play - Out,56.9
+8,72,1,Erik Martinez,Ryan Koch,4 Seam,85.9,Foul,-
+8,72,2,Erik Martinez,Ryan Koch,Curve,75.6,Ball,-
+8,72,3,Erik Martinez,Ryan Koch,Cutter,84.5,Hit Into Play,64.8
+8,73,1,Erik Martinez,Luis Martinez,4 Seam,85.1,Foul,-
+8,73,2,Erik Martinez,Luis Martinez,Slider,76,Called Strike,-
+8,73,3,Erik Martinez,Luis Martinez,Curve,77.2,Foul,-
+8,73,4,Erik Martinez,Luis Martinez,4 Seam,84.1,Swinging Strike,-
+8,74,1,Isaac Meza,Jonah Davis,Cutter,87.6,Swinging Strike,-
+8,74,2,Isaac Meza,Jonah Davis,Changeup,81.7,Hit Into Play,92.4
+8,75,1,Isaac Meza,Tommy Henderson,Cutter,87.8,Hit Into Play - Out,62.1
+8,76,1,Isaac Meza,Sam Wezniak,Cutter,86.7,Ball,-
+8,76,2,Isaac Meza,Sam Wezniak,Cutter,86.7,Called Strike,-
+8,76,3,Isaac Meza,Sam Wezniak,Cutter,88.2,Called Strike,-
+8,76,4,Isaac Meza,Sam Wezniak,Cutter,87.9,Ball,-
+8,76,5,Isaac Meza,Sam Wezniak,Changeup,82.8,Swinging Strike,-
+9,77,1,Aaron Shortridge,Jassen Oliver,Changeup,78,Called Strike,-
+9,77,2,Aaron Shortridge,Jassen Oliver,4 Seam,89.2,Swinging Strike,-
+9,77,3,Aaron Shortridge,Jassen Oliver,2 Seam,90,Hit Into Play,91.3
+9,78,1,Aaron Shortridge,Evan Berkey,2 Seam,89.7,Ball,-
+9,78,2,Aaron Shortridge,Evan Berkey,Changeup,77.5,Ball,-
+9,78,3,Aaron Shortridge,Evan Berkey,2 Seam,89.3,Ball,-
+9,78,4,Aaron Shortridge,Evan Berkey,2 Seam,88.3,Ball,-
+9,79,1,Aaron Shortridge,Hank Schineller,2 Seam,89.9,Called Strike,-
+9,79,2,Aaron Shortridge,Hank Schineller,2 Seam,89.7,Called Strike,-
+9,79,3,Aaron Shortridge,Hank Schineller,2 Seam,91,Called Strike,-
+9,80,1,Aaron Shortridge,Trent Anderson,2 Seam,90.6,Ball,-
+9,80,2,Aaron Shortridge,Trent Anderson,2 Seam,89.6,Called Strike,-
+9,80,3,Aaron Shortridge,Trent Anderson,2 Seam,90.1,Called Strike,-
+9,80,4,Aaron Shortridge,Trent Anderson,4 Seam,90.9,Ball,-
+9,80,5,Aaron Shortridge,Trent Anderson,Curve,76.7,Hit Into Play - Out,42.3
+9,81,1,Aaron Shortridge,Mark Pena,2 Seam,90.7,Called Strike,-
+9,81,2,Aaron Shortridge,Mark Pena,Changeup,80.9,Ball,-
+9,81,3,Aaron Shortridge,Mark Pena,4 Seam,88.7,Hit Into Play - Out,97.8

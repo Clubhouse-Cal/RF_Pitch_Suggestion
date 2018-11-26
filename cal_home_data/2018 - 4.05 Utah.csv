@@ -1,0 +1,290 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Matt Ladrech,DaShawn Keirsey Jr.,4 Seam,81.9,Called Strike,-
+1,1,2,Matt Ladrech,DaShawn Keirsey Jr.,Changeup,74.8,Foul,-
+1,1,3,Matt Ladrech,DaShawn Keirsey Jr.,2 Seam,82.4,Ball,-
+1,1,4,Matt Ladrech,DaShawn Keirsey Jr.,Curve,70.6,Ball,-
+1,1,5,Matt Ladrech,DaShawn Keirsey Jr.,Changeup,74.8,Foul,-
+1,1,6,Matt Ladrech,DaShawn Keirsey Jr.,4 Seam,81.6,Ball,-
+1,1,7,Matt Ladrech,DaShawn Keirsey Jr.,Cutter,73.7,Ball,-
+1,2,1,Matt Ladrech,Rykker Tom,Cutter,73.7,Hit Into Play,91.1
+1,3,1,Matt Ladrech,Oliver Dunn,4 Seam,81,Foul,-
+1,3,2,Matt Ladrech,Oliver Dunn,4 Seam,82.1,Swinging Strike,-
+1,3,3,Matt Ladrech,Oliver Dunn,2 Seam,82.1,Ball,-
+1,3,4,Matt Ladrech,Oliver Dunn,4 Seam,81.5,Hit Into Play - Out,-
+1,4,1,Matt Ladrech,Braden DeBenedictis,4 Seam,82.5,Ball,-
+1,4,2,Matt Ladrech,Braden DeBenedictis,Cutter,73.8,Swinging Strike,-
+1,4,3,Matt Ladrech,Braden DeBenedictis,Slider,73.7,Ball,-
+1,4,4,Matt Ladrech,Braden DeBenedictis,4 Seam,81,Foul,-
+1,4,5,Matt Ladrech,Braden DeBenedictis,4 Seam,81.1,Swinging Strike,-
+1,5,1,Matt Ladrech,Davis Delorefice,4 Seam,81.6,Called Strike,-
+1,5,2,Matt Ladrech,Davis Delorefice,4 Seam,81.5,Swinging Strike,-
+1,5,3,Matt Ladrech,Davis Delorefice,4 Seam,82.3,Hit Into Play,87.7
+1,6,1,Matt Ladrech,Shea Kramer,2 Seam,80.6,Hit Into Play - Out,92.2
+1,7,1,Joshua Tedeschi,Tyrus Greene,4 Seam,84.9,Called Strike,-
+1,7,2,Joshua Tedeschi,Tyrus Greene,Cutter,85.3,Hit Into Play,90.1
+1,8,1,Joshua Tedeschi,Tanner Dodson,4 Seam,84.7,Hit Into Play - Out,84.4
+1,9,1,Joshua Tedeschi,Andrew Vaughn,4 Seam,85.6,Called Strike,-
+1,9,2,Joshua Tedeschi,Andrew Vaughn,4 Seam,85.9,Ball,-
+1,9,3,Joshua Tedeschi,Andrew Vaughn,Cutter,85.9,Ball,-
+1,9,4,Joshua Tedeschi,Andrew Vaughn,Cutter,79.9,Ball,-
+1,9,5,Joshua Tedeschi,Andrew Vaughn,Cutter,80,Foul,-
+1,9,6,Joshua Tedeschi,Andrew Vaughn,Cutter,85.5,Hit Into Play - Out,95.5
+1,10,1,Joshua Tedeschi,Jonah Davis,Cutter,84.8,Called Strike,-
+1,10,2,Joshua Tedeschi,Jonah Davis,Slider,72.8,Called Strike,-
+1,10,3,Joshua Tedeschi,Jonah Davis,Slider,74.3,Ball,-
+1,10,4,Joshua Tedeschi,Jonah Davis,Cutter,78.9,Hit Into Play - Out,49.4
+2,11,1,Matt Ladrech,Erick Migueles,4 Seam,79.7,Ball,-
+2,11,2,Matt Ladrech,Erick Migueles,2 Seam,79.7,Ball,-
+2,11,3,Matt Ladrech,Erick Migueles,Changeup,79.2,Ball,-
+2,11,4,Matt Ladrech,Erick Migueles,Changeup,78.7,Called Strike,-
+2,11,5,Matt Ladrech,Erick Migueles,Changeup,79.1,Hit Into Play - Out,72.5
+2,12,1,Matt Ladrech,Matt Richardson,2 Seam,79.7,Ball,-
+2,12,2,Matt Ladrech,Matt Richardson,Changeup,71.9,Ball,-
+2,12,3,Matt Ladrech,Matt Richardson,Changeup,78.2,Called Strike,-
+2,12,4,Matt Ladrech,Matt Richardson,4 Seam,79.4,Hit Into Play - Out,77.5
+2,13,1,Matt Ladrech,"Christopher Rowan, Jr.",Changeup,79.2,Ball,-
+2,13,2,Matt Ladrech,"Christopher Rowan, Jr.",Changeup,79.4,Hit Into Play - Out,63
+2,14,1,Joshua Tedeschi,Jeffery Mitchell Jr.,Slider,76.7,Hit Into Play,100.7
+2,15,1,Joshua Tedeschi,Sam Wezniak,Cutter,84.4,Called Strike,-
+2,15,2,Joshua Tedeschi,Sam Wezniak,Slider,73.3,Ball,-
+2,15,3,Joshua Tedeschi,Sam Wezniak,Cutter,85.7,Hit Into Play - Out,92.6
+2,16,1,Joshua Tedeschi,Darren Baker,4 Seam,85.2,Hit Into Play - Out,89.8
+3,17,1,Matt Ladrech,DaShawn Keirsey Jr.,2 Seam,79.9,Ball,-
+3,17,2,Matt Ladrech,DaShawn Keirsey Jr.,Changeup,79.3,Hit Into Play,102.5
+3,18,1,Matt Ladrech,Rykker Tom,2 Seam,79,Hit Into Play - Out,88.5
+3,19,1,Matt Ladrech,Oliver Dunn,2 Seam,80.6,Foul,23.1
+3,19,2,Matt Ladrech,Oliver Dunn,Changeup,73.8,Called Strike,-
+3,19,3,Matt Ladrech,Oliver Dunn,4 Seam,80.8,Ball,-
+3,19,4,Matt Ladrech,Oliver Dunn,Slider,67.7,Ball,-
+3,19,5,Matt Ladrech,Oliver Dunn,Cutter,73.4,Ball,-
+3,19,6,Matt Ladrech,Oliver Dunn,2 Seam,79.7,Hit Into Play,53.7
+3,20,1,Matt Ladrech,Braden DeBenedictis,2 Seam,79.5,Hit Into Play,48.7
+3,21,1,Matt Ladrech,Davis Delorefice,Changeup,72.7,Called Strike,-
+3,21,2,Matt Ladrech,Davis Delorefice,Changeup,75.2,Swinging Strike,-
+3,21,3,Matt Ladrech,Davis Delorefice,4 Seam,81.1,Ball,-
+3,21,4,Matt Ladrech,Davis Delorefice,Cutter,73.5,Ball,-
+3,21,5,Matt Ladrech,Davis Delorefice,Changeup,74,Swinging Strike,-
+3,22,1,Joshua Tedeschi,Max Flower,Cutter,85.1,Ball,-
+3,22,2,Joshua Tedeschi,Max Flower,4 Seam,85,Called Strike,-
+3,22,3,Joshua Tedeschi,Max Flower,Cutter,78.9,Hit Into Play,97.2
+3,23,1,Joshua Tedeschi,Cameron Eden,4 Seam,84.6,Foul,-
+3,23,2,Joshua Tedeschi,Cameron Eden,4 Seam,85.3,Ball,-
+3,23,3,Joshua Tedeschi,Cameron Eden,Slider,78.4,Hit Into Play - Out,28.1
+3,24,1,Joshua Tedeschi,Tyrus Greene,Slider,72.2,Called Strike,-
+3,24,2,Joshua Tedeschi,Tyrus Greene,Slider,73.5,Swinging Strike,-
+3,24,3,Joshua Tedeschi,Tyrus Greene,4 Seam,86,Ball,-
+3,24,4,Joshua Tedeschi,Tyrus Greene,Slider,73.7,Ball,-
+3,24,5,Joshua Tedeschi,Tyrus Greene,Cutter,78.6,Ball,-
+3,24,6,Joshua Tedeschi,Tyrus Greene,4 Seam,86.3,Foul,72.7
+3,24,7,Joshua Tedeschi,Tyrus Greene,4 Seam,86.2,Ball,-
+3,25,1,Joshua Tedeschi,Tanner Dodson,Cutter,86,Hit Into Play,60.9
+3,26,1,Joshua Tedeschi,Andrew Vaughn,Curve,62.8,Ball,-
+3,26,2,Joshua Tedeschi,Andrew Vaughn,Cutter,70.6,Ball,-
+3,26,3,Joshua Tedeschi,Andrew Vaughn,Cutter,69.1,Ball,-
+3,26,4,Joshua Tedeschi,Andrew Vaughn,Changeup,66.1,Ball,-
+3,27,1,Joshua Tedeschi,Jonah Davis,Slider,76.6,Called Strike,-
+3,27,2,Joshua Tedeschi,Jonah Davis,Slider,74.2,Ball,-
+3,27,3,Joshua Tedeschi,Jonah Davis,4 Seam,86.1,Swinging Strike,-
+3,27,4,Joshua Tedeschi,Jonah Davis,Cutter,86.2,Ball,-
+3,27,5,Joshua Tedeschi,Jonah Davis,Cutter,86.1,Hit Into Play - Out,74.2
+3,28,1,Joshua Tedeschi,Jeffery Mitchell Jr.,Cutter,86.1,Foul,-
+3,28,2,Joshua Tedeschi,Jeffery Mitchell Jr.,Cutter,79.1,Ball,-
+3,28,3,Joshua Tedeschi,Jeffery Mitchell Jr.,4 Seam,86,Foul,91
+3,28,4,Joshua Tedeschi,Jeffery Mitchell Jr.,Cutter,85.3,Ball,-
+3,28,5,Joshua Tedeschi,Jeffery Mitchell Jr.,Cutter,79.7,Hit Into Play - Out,91.1
+4,29,1,Matt Ladrech,Shea Kramer,Cutter,80.4,Foul,-
+4,29,2,Matt Ladrech,Shea Kramer,Changeup,73.4,Swinging Strike,-
+4,29,3,Matt Ladrech,Shea Kramer,Cutter,70.9,Ball,-
+4,29,4,Matt Ladrech,Shea Kramer,Cutter,70.2,Hit Into Play - Out,-
+4,30,1,Matt Ladrech,Erick Migueles,2 Seam,79.9,Foul,-
+4,30,2,Matt Ladrech,Erick Migueles,4 Seam,80.9,Hit Into Play,-
+4,31,1,Matt Ladrech,Matt Richardson,Changeup,72.7,Ball,-
+4,31,2,Matt Ladrech,Matt Richardson,4 Seam,81.2,Called Strike,-
+4,31,3,Matt Ladrech,Matt Richardson,Cutter,72.6,Ball,-
+4,31,4,Matt Ladrech,Matt Richardson,4 Seam,79.7,Hit Into Play - Out,-
+4,32,1,Matt Ladrech,"Christopher Rowan, Jr.",Cutter,73.6,Ball,-
+4,32,2,Matt Ladrech,"Christopher Rowan, Jr.",4 Seam,81,Ball,-
+4,32,3,Matt Ladrech,"Christopher Rowan, Jr.",4 Seam,80.7,Called Strike,-
+4,32,4,Matt Ladrech,"Christopher Rowan, Jr.",4 Seam,80.6,Foul,-
+4,32,5,Matt Ladrech,"Christopher Rowan, Jr.",Cutter,72.5,Hit Into Play - Out,81.3
+4,33,1,Joshua Tedeschi,Sam Wezniak,Cutter,84,Called Strike,-
+4,33,2,Joshua Tedeschi,Sam Wezniak,Cutter,85,Foul,-
+4,33,3,Joshua Tedeschi,Sam Wezniak,Curve,71.7,Ball,-
+4,33,4,Joshua Tedeschi,Sam Wezniak,Cutter,83.6,Ball,-
+4,33,5,Joshua Tedeschi,Sam Wezniak,Cutter,79.1,Ball,-
+4,33,6,Joshua Tedeschi,Sam Wezniak,Cutter,85.1,Foul,96.6
+4,33,7,Joshua Tedeschi,Sam Wezniak,Cutter,86.3,Hit Into Play,88.8
+4,34,1,Joshua Tedeschi,Darren Baker,4 Seam,84.5,Hit Into Play,19.4
+4,35,1,Joshua Tedeschi,Max Flower,Slider,73.2,Ball,-
+4,35,2,Joshua Tedeschi,Max Flower,Cutter,77.7,Swinging Strike,-
+4,35,3,Joshua Tedeschi,Max Flower,Cutter,85,Ball,-
+4,35,4,Joshua Tedeschi,Max Flower,Cutter,85.5,Called Strike,-
+4,35,5,Joshua Tedeschi,Max Flower,4 Seam,85.1,Ball,-
+4,35,6,Joshua Tedeschi,Max Flower,Cutter,85.1,Hit Into Play - Out,35.9
+4,36,1,Joshua Tedeschi,Cameron Eden,Slider,72.1,Hit Into Play - Out,83.4
+4,37,1,Joshua Tedeschi,Tyrus Greene,Curve,71.2,Ball,-
+4,37,2,Joshua Tedeschi,Tyrus Greene,Cutter,85.3,Hit Into Play - Out,79.9
+5,38,1,Matt Ladrech,DaShawn Keirsey Jr.,Cutter,72.5,Ball,-
+5,38,2,Matt Ladrech,DaShawn Keirsey Jr.,Changeup,72.9,Foul,91.1
+5,38,3,Matt Ladrech,DaShawn Keirsey Jr.,4 Seam,79.6,Foul,-
+5,38,4,Matt Ladrech,DaShawn Keirsey Jr.,4 Seam,79.9,Ball,-
+5,38,5,Matt Ladrech,DaShawn Keirsey Jr.,Cutter,74,Foul,-
+5,38,6,Matt Ladrech,DaShawn Keirsey Jr.,Slider,69.1,Swinging Strike,-
+5,39,1,Matt Ladrech,Rykker Tom,Slider,72.7,Called Strike,-
+5,39,2,Matt Ladrech,Rykker Tom,4 Seam,81.3,Ball,-
+5,39,3,Matt Ladrech,Rykker Tom,2 Seam,80.3,Foul,89.1
+5,39,4,Matt Ladrech,Rykker Tom,4 Seam,81.5,Called Strike,-
+5,40,1,Matt Ladrech,Oliver Dunn,4 Seam,81.1,Ball,-
+5,40,2,Matt Ladrech,Oliver Dunn,4 Seam,81.6,Ball,-
+5,40,3,Matt Ladrech,Oliver Dunn,2 Seam,80.3,Ball,-
+5,40,4,Matt Ladrech,Oliver Dunn,Changeup,79.1,Called Strike,-
+5,40,5,Matt Ladrech,Oliver Dunn,Changeup,78.7,Hit Into Play - Out,-
+5,41,1,Joshua Tedeschi,Tanner Dodson,Cutter,83.7,Called Strike,-
+5,41,2,Joshua Tedeschi,Tanner Dodson,Slider,71.7,Ball,-
+5,41,3,Joshua Tedeschi,Tanner Dodson,Slider,78.3,Swinging Strike,-
+5,41,4,Joshua Tedeschi,Tanner Dodson,Cutter,79,Swinging Strike,-
+5,42,1,Joshua Tedeschi,Andrew Vaughn,Slider,72.4,Called Strike,-
+5,42,2,Joshua Tedeschi,Andrew Vaughn,4 Seam,85.2,Ball,-
+5,42,3,Joshua Tedeschi,Andrew Vaughn,Cutter,85.5,Ball,-
+5,42,4,Joshua Tedeschi,Andrew Vaughn,Slider,78.7,Ball,-
+5,42,5,Joshua Tedeschi,Andrew Vaughn,Slider,78.3,Foul,106.7
+5,42,6,Joshua Tedeschi,Andrew Vaughn,4 Seam,85.3,Foul,-
+5,42,7,Joshua Tedeschi,Andrew Vaughn,Cutter,85.6,Hit Into Play - Out,95.5
+5,43,1,Joshua Tedeschi,Jonah Davis,Slider,72,Ball,-
+5,43,2,Joshua Tedeschi,Jonah Davis,Curve,71.7,Hit By Pitch,-
+5,44,1,Joshua Tedeschi,Jeffery Mitchell Jr.,Changeup,78,Swinging Strike,-
+5,44,2,Joshua Tedeschi,Jeffery Mitchell Jr.,2 Seam,85.5,Ball,-
+5,44,3,Joshua Tedeschi,Jeffery Mitchell Jr.,Cutter,84.2,Hit Into Play,87.5
+5,45,1,Joshua Tedeschi,Sam Wezniak,Slider,78.6,Ball,-
+5,45,2,Joshua Tedeschi,Sam Wezniak,Slider,77.7,Hit Into Play - Out,80.7
+6,46,1,Matt Ladrech,Braden DeBenedictis,Cutter,71.1,Ball,-
+6,46,2,Matt Ladrech,Braden DeBenedictis,Changeup,78.2,Ball,-
+6,46,3,Matt Ladrech,Braden DeBenedictis,Changeup,78.6,Called Strike,-
+6,46,4,Matt Ladrech,Braden DeBenedictis,Changeup,77.6,Hit Into Play - Out,80.3
+6,47,1,Matt Ladrech,Davis Delorefice,Slider,73.4,Foul,15.3
+6,47,2,Matt Ladrech,Davis Delorefice,4 Seam,81.4,Hit Into Play,100.2
+6,48,1,Matt Ladrech,Shea Kramer,Changeup,74.3,Swinging Strike,-
+6,48,2,Matt Ladrech,Shea Kramer,Cutter,74.1,Ball,-
+6,48,3,Matt Ladrech,Shea Kramer,Cutter,73.2,Hit Into Play - Out,106.6
+6,49,1,Matt Ladrech,Erick Migueles,4 Seam,82.2,Ball,-
+6,49,2,Matt Ladrech,Erick Migueles,4 Seam,80.4,Ball,-
+6,49,3,Matt Ladrech,Erick Migueles,2 Seam,79.9,Swinging Strike,-
+6,49,4,Matt Ladrech,Erick Migueles,Changeup,73.7,Called Strike,-
+6,49,5,Matt Ladrech,Erick Migueles,Curve,67.8,Hit Into Play - Out,77.7
+6,50,1,Joshua Tedeschi,Darren Baker,Slider,76,Foul,-
+6,50,2,Joshua Tedeschi,Darren Baker,4 Seam,83.8,Foul,-
+6,50,3,Joshua Tedeschi,Darren Baker,Slider,71.9,Ball,-
+6,50,4,Joshua Tedeschi,Darren Baker,Cutter,78.6,Ball,-
+6,50,5,Joshua Tedeschi,Darren Baker,4 Seam,83.6,Hit Into Play - Out,83.5
+6,51,1,Joshua Tedeschi,Max Flower,Curve,71.2,Called Strike,-
+6,51,2,Joshua Tedeschi,Max Flower,4 Seam,84.1,Hit Into Play,92.5
+6,52,1,Joshua Tedeschi,Cameron Eden,4 Seam,83.3,Hit Into Play,83
+6,53,1,Joshua Tedeschi,Tyrus Greene,Curve,71.7,Ball,-
+6,53,2,Joshua Tedeschi,Tyrus Greene,4 Seam,83.6,Hit Into Play - Out,40.4
+6,54,1,Joshua Tedeschi,Tanner Dodson,Slider,77.1,Foul,98.5
+6,54,2,Joshua Tedeschi,Tanner Dodson,4 Seam,83.6,Foul,88.2
+6,54,3,Joshua Tedeschi,Tanner Dodson,Cutter,77.7,Ball,-
+6,54,4,Joshua Tedeschi,Tanner Dodson,Slider,77.7,Swinging Strike,-
+7,55,1,Tanner Dodson,Matt Richardson,2 Seam,90.1,Ball,-
+7,55,2,Tanner Dodson,Matt Richardson,2 Seam,90.6,Ball,-
+7,55,3,Tanner Dodson,Matt Richardson,2 Seam,89.3,Called Strike,-
+7,55,4,Tanner Dodson,Matt Richardson,2 Seam,90.2,Called Strike,-
+7,55,5,Tanner Dodson,Matt Richardson,2 Seam,91.1,Foul,-
+7,55,6,Tanner Dodson,Matt Richardson,2 Seam,90.1,Foul,58.1
+7,55,7,Tanner Dodson,Matt Richardson,2 Seam,91.3,Hit Into Play,86
+7,56,1,Tanner Dodson,"Christopher Rowan, Jr.",2 Seam,90.9,Ball,-
+7,56,2,Tanner Dodson,"Christopher Rowan, Jr.",2 Seam,89.5,Foul,73.9
+7,56,3,Tanner Dodson,"Christopher Rowan, Jr.",2 Seam,91.2,Ball,-
+7,56,4,Tanner Dodson,"Christopher Rowan, Jr.",2 Seam,91.9,Called Strike,-
+7,56,5,Tanner Dodson,"Christopher Rowan, Jr.",Changeup,80.5,Foul,-
+7,56,6,Tanner Dodson,"Christopher Rowan, Jr.",2 Seam,92.2,Hit Into Play - Out,95.7
+7,57,1,Tanner Dodson,DaShawn Keirsey Jr.,2 Seam,89.6,Ball,-
+7,57,2,Tanner Dodson,DaShawn Keirsey Jr.,2 Seam,89.8,Hit Into Play,92.2
+7,58,1,Tanner Dodson,Rykker Tom,2 Seam,91.1,Ball,-
+7,58,2,Tanner Dodson,Rykker Tom,2 Seam,90.3,Swinging Strike,-
+7,58,3,Tanner Dodson,Rykker Tom,2 Seam,91.8,Hit Into Play,81.1
+7,59,1,Tanner Dodson,Oliver Dunn,2 Seam,89.8,Swinging Strike,-
+7,59,2,Tanner Dodson,Oliver Dunn,2 Seam,90.3,Ball,-
+7,59,3,Tanner Dodson,Oliver Dunn,2 Seam,89.9,Ball,-
+7,59,4,Tanner Dodson,Oliver Dunn,2 Seam,90.6,Ball,-
+7,59,5,Tanner Dodson,Oliver Dunn,2 Seam,90,Swinging Strike,-
+7,59,6,Tanner Dodson,Oliver Dunn,2 Seam,91,Ball,-
+7,60,1,Tanner Dodson,Wade Gulden,2 Seam,89.6,Ball,-
+7,60,2,Tanner Dodson,Wade Gulden,2 Seam,90.4,Ball,-
+7,60,3,Tanner Dodson,Wade Gulden,2 Seam,90.6,Ball,-
+7,60,4,Tanner Dodson,Wade Gulden,2 Seam,88.6,Called Strike,-
+7,60,5,Tanner Dodson,Wade Gulden,2 Seam,89.4,Foul,-
+7,60,6,Tanner Dodson,Wade Gulden,2 Seam,89.1,Hit Into Play - Out,48.5
+7,61,1,Tanner Dodson,Davis Delorefice,2 Seam,91.3,Ball,-
+7,61,2,Tanner Dodson,Davis Delorefice,2 Seam,89.9,Ball,-
+7,61,3,Tanner Dodson,Davis Delorefice,2 Seam,90.3,Swinging Strike,-
+7,61,4,Tanner Dodson,Davis Delorefice,2 Seam,89,Hit Into Play - Out,69.2
+7,62,1,Spencer Johnson,Andrew Vaughn,2 Seam,84.9,Ball,-
+7,62,2,Spencer Johnson,Andrew Vaughn,4 Seam,85.8,Called Strike,-
+7,62,3,Spencer Johnson,Andrew Vaughn,Curve,79.2,Swinging Strike,-
+7,62,4,Spencer Johnson,Andrew Vaughn,Slider,77.1,Ball,-
+7,62,5,Spencer Johnson,Andrew Vaughn,Changeup,76.5,Ball,-
+7,62,6,Spencer Johnson,Andrew Vaughn,2 Seam,87.9,Foul,-
+7,62,7,Spencer Johnson,Andrew Vaughn,4 Seam,88.6,Foul,-
+7,62,8,Spencer Johnson,Andrew Vaughn,Changeup,82.5,Ball,-
+7,63,1,Spencer Johnson,Jonah Davis,4 Seam,84.8,Hit Into Play,99.5
+7,64,1,Spencer Johnson,Jeffery Mitchell Jr.,2 Seam,86.6,Ball,-
+7,64,2,Trenton Stoltz,Jeffery Mitchell Jr.,2 Seam,83,Called Strike,-
+7,64,3,Trenton Stoltz,Jeffery Mitchell Jr.,2 Seam,82.3,Ball,-
+7,64,4,Trenton Stoltz,Jeffery Mitchell Jr.,2 Seam,83.2,Foul,63.5
+7,64,5,Trenton Stoltz,Jeffery Mitchell Jr.,Changeup,76.8,Swinging Strike,-
+7,65,1,Trenton Stoltz,Sam Wezniak,Changeup,75.3,Called Strike,-
+7,65,2,Trenton Stoltz,Sam Wezniak,2 Seam,82.7,Called Strike,-
+7,65,3,Trenton Stoltz,Sam Wezniak,2 Seam,82.6,Ball,-
+7,65,4,Trenton Stoltz,Sam Wezniak,Changeup,76.7,Foul,-
+7,65,5,Trenton Stoltz,Sam Wezniak,Changeup,76.5,Hit Into Play - Out,69.1
+8,66,1,Tanner Dodson,Shea Kramer,-,92.6,Called Strike,-
+8,66,2,Tanner Dodson,Shea Kramer,-,93.5,Ball,-
+8,66,3,Tanner Dodson,Shea Kramer,-,93.5,Hit Into Play - Out,-
+8,67,1,Tanner Dodson,Erick Migueles,-,92.5,Ball,-
+8,67,2,Tanner Dodson,Erick Migueles,-,92.2,Called Strike,-
+8,67,3,Tanner Dodson,Erick Migueles,-,83.3,Ball,-
+8,67,4,Tanner Dodson,Erick Migueles,-,92.4,Foul,-
+8,67,5,Tanner Dodson,Erick Migueles,-,84.9,Ball,-
+8,67,6,Tanner Dodson,Erick Migueles,-,92.6,Hit Into Play,-
+8,68,1,Tanner Dodson,Matt Richardson,-,92.2,Ball,-
+8,68,2,Tanner Dodson,Matt Richardson,-,92.3,Foul,-
+8,68,3,Tanner Dodson,Matt Richardson,-,91.9,Foul,-
+8,68,4,Tanner Dodson,Matt Richardson,-,81.5,Hit Into Play - Out,-
+8,69,1,Tanner Dodson,"Christopher Rowan, Jr.",-,93.2,Ball,-
+8,69,2,Tanner Dodson,"Christopher Rowan, Jr.",-,92.5,Called Strike,-
+8,69,3,Tanner Dodson,"Christopher Rowan, Jr.",-,93.6,Swinging Strike,-
+8,69,4,Tanner Dodson,"Christopher Rowan, Jr.",-,94.5,Foul,-
+8,69,5,Tanner Dodson,"Christopher Rowan, Jr.",-,94,Hit Into Play - Out,-
+8,70,1,Trenton Stoltz,Darren Baker,-,83.7,Called Strike,-
+8,70,2,Trenton Stoltz,Darren Baker,-,84.3,Called Strike,-
+8,70,3,Trenton Stoltz,Darren Baker,-,83.6,Ball,-
+8,70,4,Trenton Stoltz,Darren Baker,-,76.5,Hit Into Play - Out,-
+8,71,1,Trenton Stoltz,Max Flower,-,83.9,Foul,-
+8,71,2,Trenton Stoltz,Max Flower,-,84,Called Strike,-
+8,71,3,Trenton Stoltz,Max Flower,-,83.8,Ball,-
+8,71,4,Trenton Stoltz,Max Flower,-,84.1,Hit Into Play - Out,-
+8,72,1,Trenton Stoltz,Cameron Eden,-,84.2,Hit Into Play - Out,-
+9,73,1,Tanner Dodson,DaShawn Keirsey Jr.,-,91.8,Called Strike,-
+9,73,2,Tanner Dodson,DaShawn Keirsey Jr.,-,76.4,Ball,-
+9,73,3,Tanner Dodson,DaShawn Keirsey Jr.,-,92.4,Hit Into Play,-
+9,74,1,Tanner Dodson,Rykker Tom,-,91.8,Called Strike,-
+9,74,2,Tanner Dodson,Rykker Tom,-,93.7,Foul,-
+9,74,3,Tanner Dodson,Rykker Tom,-,81.9,Called Strike,-
+9,75,1,Tanner Dodson,Oliver Dunn,-,94,Called Strike,-
+9,75,2,Tanner Dodson,Oliver Dunn,-,95.3,Ball,-
+9,75,3,Tanner Dodson,Oliver Dunn,-,83.3,Ball,-
+9,75,4,Tanner Dodson,Oliver Dunn,-,92.7,Swinging Strike,-
+9,75,5,Tanner Dodson,Oliver Dunn,-,93.9,Ball,-
+9,75,6,Tanner Dodson,Oliver Dunn,-,93.5,Hit Into Play - Out,-
+9,76,1,Tanner Dodson,Wade Gulden,-,93.8,Foul,-
+9,76,2,Tanner Dodson,Wade Gulden,-,85.6,Ball,-
+9,76,3,Tanner Dodson,Wade Gulden,-,95.3,Hit Into Play,-
+9,77,1,Tanner Dodson,Davis Delorefice,-,94.5,Hit Into Play - Run Scored,-
+9,78,1,Tanner Dodson,Shea Kramer,-,94.8,Foul,69.9
+9,78,2,Tanner Dodson,Shea Kramer,-,94.4,Foul,85.1
+9,78,3,Tanner Dodson,Shea Kramer,-,85.8,Foul,-
+9,78,4,Tanner Dodson,Shea Kramer,-,83.9,Ball,-
+9,78,5,Tanner Dodson,Shea Kramer,-,83.8,Foul,-
+9,78,6,Tanner Dodson,Shea Kramer,-,85,Ball,-
+9,78,7,Tanner Dodson,Shea Kramer,-,95.6,Swinging Strike,-

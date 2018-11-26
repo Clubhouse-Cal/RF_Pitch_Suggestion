@@ -1,0 +1,303 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Jared Horn,Daniel Amaral,2 Seam,90.3,Ball,-
+1,2,1,Jared Horn,Jake Hirabayashi,2 Seam,90.3,Ball,-
+1,2,2,Jared Horn,Jake Hirabayashi,2 Seam,91.1,Ball,-
+1,3,1,Jared Horn,Michael Toglia,2 Seam,92.3,Ball,-
+1,3,2,Jared Horn,Michael Toglia,2 Seam,92.9,Ball,-
+1,3,3,Jared Horn,Michael Toglia,2 Seam,92.5,Called Strike,-
+1,3,4,Jared Horn,Michael Toglia,2 Seam,91.5,Hit Into Play - Out,100.2
+1,4,1,Jared Horn,Chase Strumpf,2 Seam,92.7,Hit Into Play - Out,47.9
+1,5,1,Zach Pettway,Tyrus Greene,2 Seam,84.7,Foul,-
+1,5,2,Zach Pettway,Tyrus Greene,2 Seam,85.4,Called Strike,-
+1,5,3,Zach Pettway,Tyrus Greene,2 Seam,87,Ball,-
+1,5,4,Zach Pettway,Tyrus Greene,2 Seam,86.6,Called Strike,-
+1,6,1,Zach Pettway,Jeffery Mitchell Jr.,Curve,70.6,Called Strike,-
+1,6,2,Zach Pettway,Jeffery Mitchell Jr.,2 Seam,86,Ball,-
+1,6,3,Zach Pettway,Jeffery Mitchell Jr.,2 Seam,86,Ball,-
+1,6,4,Zach Pettway,Jeffery Mitchell Jr.,Changeup,78.4,Hit By Pitch,-
+1,7,1,Zach Pettway,Kyle Sanchez,2 Seam,85.4,Called Strike,-
+1,7,2,Zach Pettway,Kyle Sanchez,2 Seam,85.6,Hit Into Play - Out,92.2
+1,8,1,Zach Pettway,Tanner Dodson,Changeup,79.2,Swinging Strike,-
+1,8,2,Zach Pettway,Tanner Dodson,Changeup,78.8,Foul,-
+1,8,3,Zach Pettway,Tanner Dodson,2 Seam,85.4,Ball,-
+1,8,4,Zach Pettway,Tanner Dodson,2 Seam,85.3,Foul,-
+1,8,5,Zach Pettway,Tanner Dodson,2 Seam,86.5,Ball,-
+1,8,6,Zach Pettway,Tanner Dodson,4 Seam,80.2,Foul,-
+1,8,7,Zach Pettway,Tanner Dodson,Changeup,78.4,Foul,-
+1,8,8,Zach Pettway,Tanner Dodson,Changeup,79.1,Swinging Strike,-
+2,9,1,Jared Horn,Jake Pries,2 Seam,89.7,Hit Into Play - Out,87
+2,9,2,Jared Horn,Jake Pries,2 Seam,91.1,Ball,-
+2,9,3,Jared Horn,Jake Pries,2 Seam,90.2,Called Strike,-
+2,9,4,Jared Horn,Jake Pries,Changeup,84,Hit Into Play - Out,72.3
+2,10,1,Jared Horn,Ryan Kreidler,2 Seam,91.5,Foul,90.5
+2,10,2,Jared Horn,Ryan Kreidler,2 Seam,91.7,Foul,-
+2,10,3,Jared Horn,Ryan Kreidler,Curve,76.4,Ball,-
+2,10,4,Jared Horn,Ryan Kreidler,Curve,74.9,Hit Into Play - Out,49.6
+2,11,1,Zach Pettway,Jonah Davis,Curve,69.2,Ball,-
+2,11,2,Zach Pettway,Jonah Davis,Changeup,79,Foul,-
+2,11,3,Zach Pettway,Jonah Davis,2 Seam,85.4,Swinging Strike,-
+2,11,4,Zach Pettway,Jonah Davis,Changeup,79.4,Ball,-
+2,11,5,Zach Pettway,Jonah Davis,Changeup,78.9,Hit Into Play - Run Scored,-
+2,12,1,Zach Pettway,Darren Baker,2 Seam,85.8,Hit Into Play,-
+2,13,1,Zach Pettway,Quentin Selma,2 Seam,83.5,Hit Into Play - Out,98.4
+2,14,1,Zach Pettway,Sam Wezniak,2 Seam,81.7,Ball,-
+2,14,2,Zach Pettway,Sam Wezniak,Changeup,78,Ball,-
+2,14,3,Zach Pettway,Sam Wezniak,Changeup,79,Ball,-
+2,14,4,Zach Pettway,Sam Wezniak,2 Seam,84.8,Ball,-
+2,15,1,Zach Pettway,Ripken Reyes,2 Seam,84,Called Strike,-
+2,15,2,Zach Pettway,Ripken Reyes,2 Seam,85.2,Ball,-
+2,15,3,Zach Pettway,Ripken Reyes,2 Seam,84.7,Ball,-
+2,15,4,Zach Pettway,Ripken Reyes,2 Seam,84.5,Foul,-
+2,15,5,Zach Pettway,Ripken Reyes,2 Seam,84.5,Hit Into Play - Out,-
+2,16,1,Zach Pettway,Tyrus Greene,2 Seam,83.8,Hit Into Play - Out,-
+3,17,1,Jared Horn,Garrett Mitchell,2 Seam,89.4,Ball,-
+3,17,2,Jared Horn,Garrett Mitchell,Changeup,80.9,Swinging Strike,-
+3,17,3,Jared Horn,Garrett Mitchell,2 Seam,90.2,Foul,87.8
+3,17,4,Jared Horn,Garrett Mitchell,Changeup,82.5,Hit Into Play - Out,-
+3,18,1,Jared Horn,Will McInerny,2 Seam,90.5,Ball,-
+3,18,2,Jared Horn,Will McInerny,2 Seam,91,Hit Into Play - Out,-
+3,19,1,Jared Horn,Daniel Amaral,2 Seam,89.7,Ball,-
+3,19,2,Jared Horn,Daniel Amaral,2 Seam,88.4,Called Strike,-
+3,19,3,Jared Horn,Daniel Amaral,2 Seam,88.7,Ball,-
+3,19,4,Jared Horn,Daniel Amaral,2 Seam,88.5,Ball,-
+3,19,5,Jared Horn,Daniel Amaral,2 Seam,88.9,Called Strike,-
+3,19,6,Jared Horn,Daniel Amaral,2 Seam,91,Foul,-
+3,19,7,Jared Horn,Daniel Amaral,2 Seam,89.4,Ball,-
+3,20,1,Jared Horn,Jake Hirabayashi,2 Seam,88.3,Ball,-
+3,20,2,Jared Horn,Jake Hirabayashi,2 Seam,88.6,Hit Into Play - Out,-
+3,21,1,Zach Pettway,Jeffery Mitchell Jr.,2 Seam,83.8,Called Strike,-
+3,21,2,Zach Pettway,Jeffery Mitchell Jr.,2 Seam,83.5,Hit Into Play,89.3
+3,22,1,Zach Pettway,Andrew Vaughn,2 Seam,83.4,Ball,-
+3,22,2,Zach Pettway,Andrew Vaughn,Changeup,78.5,Swinging Strike,-
+3,22,3,Zach Pettway,Andrew Vaughn,2 Seam,84.7,Ball,-
+3,22,4,Zach Pettway,Andrew Vaughn,Changeup,78.5,Ball,-
+3,22,5,Zach Pettway,Andrew Vaughn,2 Seam,83.9,Hit Into Play,107.4
+3,23,1,Zach Pettway,Tanner Dodson,2 Seam,81.8,Called Strike,-
+3,23,2,Zach Pettway,Tanner Dodson,2 Seam,83,Called Strike,-
+3,23,3,Zach Pettway,Tanner Dodson,2 Seam,84.2,Swinging Strike,-
+3,24,1,Zach Pettway,Jonah Davis,2 Seam,83.5,Ball,-
+3,24,2,Zach Pettway,Jonah Davis,2 Seam,84.5,Called Strike,-
+3,24,3,Zach Pettway,Jonah Davis,2 Seam,84.4,Hit By Pitch,-
+3,25,1,Zach Pettway,Darren Baker,2 Seam,85.2,Ball,-
+3,25,2,Zach Pettway,Darren Baker,Changeup,77.1,Swinging Strike,-
+3,26,1,Zach Pettway,Quentin Selma,2 Seam,83.4,Called Strike,-
+3,26,2,Zach Pettway,Quentin Selma,Changeup,78.2,Ball,-
+3,26,3,Zach Pettway,Quentin Selma,4 Seam,83.3,Ball,-
+3,26,4,Zach Pettway,Quentin Selma,Changeup,79.9,Swinging Strike,-
+3,26,5,Zach Pettway,Quentin Selma,Changeup,79.4,Hit Into Play - Out,57.8
+4,27,1,Jared Horn,Michael Toglia,Changeup,81.5,Swinging Strike,-
+4,27,2,Jared Horn,Michael Toglia,Changeup,82.3,Called Strike,-
+4,27,3,Jared Horn,Michael Toglia,4 Seam,92,Ball,-
+4,27,4,Jared Horn,Michael Toglia,Curve,76.1,Hit Into Play - Out,79.1
+4,28,1,Jared Horn,Chase Strumpf,2 Seam,91.2,Ball,-
+4,28,2,Jared Horn,Chase Strumpf,Changeup,83.9,Ball,-
+4,28,3,Jared Horn,Chase Strumpf,2 Seam,90.3,Ball,-
+4,28,4,Jared Horn,Chase Strumpf,2 Seam,90.1,Ball,-
+4,29,1,Jared Horn,Jake Pries,2 Seam,89.6,Swinging Strike,-
+4,29,2,Jared Horn,Jake Pries,2 Seam,89.4,Foul,-
+4,29,3,Jared Horn,Jake Pries,2 Seam,92.4,Ball,-
+4,29,4,Jared Horn,Jake Pries,2 Seam,90.4,Ball,-
+4,29,5,Jared Horn,Jake Pries,2 Seam,90.9,Hit Into Play - Out,91.9
+4,30,1,Jared Horn,Jack Stronach,Changeup,82.5,Called Strike,-
+4,30,2,Jared Horn,Jack Stronach,2 Seam,91,Called Strike,-
+4,30,3,Jared Horn,Jack Stronach,2 Seam,92.9,Foul,-
+4,30,4,Jared Horn,Jack Stronach,Curve,76.5,Foul,-
+4,30,5,Jared Horn,Jack Stronach,Curve,75.7,Foul,-
+4,30,6,Jared Horn,Jack Stronach,2 Seam,92.2,Ball,-
+4,30,7,Jared Horn,Jack Stronach,Curve,75.4,Foul,50.8
+4,30,8,Jared Horn,Jack Stronach,2 Seam,93.9,Hit Into Play,56.9
+4,31,1,Jared Horn,Ryan Kreidler,Curve,74.7,Ball,-
+4,31,2,Jared Horn,Ryan Kreidler,2 Seam,90.2,Swinging Strike,-
+4,31,3,Jared Horn,Ryan Kreidler,2 Seam,89,Called Strike,-
+4,31,4,Jared Horn,Ryan Kreidler,Curve,74.3,Ball,-
+4,31,5,Jared Horn,Ryan Kreidler,Curve,76.7,Foul,-
+4,31,6,Jared Horn,Ryan Kreidler,Curve,77.3,Ball,-
+4,31,7,Jared Horn,Ryan Kreidler,2 Seam,90.2,Ball,-
+4,32,1,Jared Horn,Garrett Mitchell,2 Seam,92.1,Called Strike,-
+4,32,2,Jared Horn,Garrett Mitchell,Changeup,84.5,Ball,-
+4,32,3,Jared Horn,Garrett Mitchell,Changeup,83.5,Hit Into Play - Out,60.9
+4,33,1,Zach Pettway,Sam Wezniak,2 Seam,82.5,Foul,-
+4,33,2,Zach Pettway,Sam Wezniak,2 Seam,83.8,Ball,-
+4,33,3,Zach Pettway,Sam Wezniak,4 Seam,84.3,Foul,-
+4,33,4,Zach Pettway,Sam Wezniak,Curve,71.9,Ball,-
+4,33,5,Zach Pettway,Sam Wezniak,Changeup,79.4,Foul,-
+4,33,6,Zach Pettway,Sam Wezniak,2 Seam,83.8,Hit By Pitch,-
+4,34,1,Zach Pettway,Ripken Reyes,2 Seam,83.2,Foul,-
+4,34,2,Zach Pettway,Ripken Reyes,2 Seam,83.1,Ball,-
+4,34,3,Zach Pettway,Ripken Reyes,2 Seam,83.8,Hit Into Play - Out,27.2
+4,35,1,Zach Pettway,Tyrus Greene,Changeup,76.9,Ball,-
+4,35,2,Zach Pettway,Tyrus Greene,Changeup,78.4,Ball,-
+4,35,3,Zach Pettway,Tyrus Greene,2 Seam,83.8,Hit Into Play - Out,79.4
+4,36,1,Zach Pettway,Jeffery Mitchell Jr.,2 Seam,84,Foul,-
+4,36,2,Zach Pettway,Jeffery Mitchell Jr.,2 Seam,85.2,Called Strike,-
+4,36,3,Zach Pettway,Jeffery Mitchell Jr.,2 Seam,83.7,Called Strike,-
+5,37,1,Jared Horn,Will McInerny,2 Seam,90.1,Called Strike,-
+5,37,2,Jared Horn,Will McInerny,2 Seam,90.7,Foul,-
+5,37,3,Jared Horn,Will McInerny,Curve,76.2,Foul,-
+5,37,4,Jared Horn,Will McInerny,2 Seam,90.8,Ball,-
+5,37,5,Jared Horn,Will McInerny,2 Seam,90.9,Foul,-
+5,37,6,Jared Horn,Will McInerny,Changeup,82.8,Hit Into Play,87.9
+5,38,1,Jared Horn,Daniel Amaral,2 Seam,88.4,Ball,-
+5,38,2,Jared Horn,Daniel Amaral,2 Seam,87.5,Ball,-
+5,38,3,Jared Horn,Daniel Amaral,2 Seam,88.8,Ball,-
+5,38,4,Jared Horn,Daniel Amaral,2 Seam,89.2,Called Strike,-
+5,38,5,Jared Horn,Daniel Amaral,2 Seam,88.9,Hit Into Play - Run Scored,90.4
+5,39,1,Jared Horn,Jake Hirabayashi,2 Seam,90.8,Ball,-
+5,39,2,Jared Horn,Jake Hirabayashi,2 Seam,91.3,Called Strike,-
+5,39,3,Jared Horn,Jake Hirabayashi,Curve,75.9,Ball,-
+5,39,4,Jared Horn,Jake Hirabayashi,2 Seam,89.4,Swinging Strike,-
+5,39,5,Jared Horn,Jake Hirabayashi,2 Seam,89.5,Foul,-
+5,39,6,Jared Horn,Jake Hirabayashi,2 Seam,89.9,Foul,-
+5,39,7,Jared Horn,Jake Hirabayashi,2 Seam,89.1,Ball,-
+5,39,8,Jared Horn,Jake Hirabayashi,2 Seam,89.9,Hit Into Play - Out,95
+5,40,1,Jared Horn,Michael Toglia,Changeup,84,Swinging Strike,-
+5,40,2,Jared Horn,Michael Toglia,2 Seam,91.2,Foul,-
+5,40,3,Jared Horn,Michael Toglia,Changeup,83.1,Swinging Strike,-
+5,41,1,Jared Horn,Chase Strumpf,2 Seam,89.5,Foul,-
+5,41,2,Jared Horn,Chase Strumpf,2 Seam,90.5,Ball,-
+5,41,3,Jared Horn,Chase Strumpf,2 Seam,89.3,Hit Into Play - Out,69.8
+5,42,1,Zach Pettway,Andrew Vaughn,2 Seam,84.1,Called Strike,-
+5,42,2,Zach Pettway,Andrew Vaughn,2 Seam,85.9,Called Strike,-
+5,42,3,Zach Pettway,Andrew Vaughn,2 Seam,84.7,Hit Into Play - Out,50.2
+5,43,1,Zach Pettway,Tanner Dodson,2 Seam,85.4,Ball,-
+5,43,2,Zach Pettway,Tanner Dodson,4 Seam,79.9,Foul,82.9
+5,43,3,Zach Pettway,Tanner Dodson,2 Seam,84.5,Foul,81.5
+5,43,4,Zach Pettway,Tanner Dodson,Curve,71.5,Foul,-
+5,43,5,Zach Pettway,Tanner Dodson,2 Seam,85.8,Hit Into Play,75.3
+5,44,1,Zach Pettway,Jonah Davis,2 Seam,86.2,Swinging Strike,-
+5,44,2,Zach Pettway,Jonah Davis,2 Seam,85.2,Swinging Strike,-
+5,44,3,Zach Pettway,Jonah Davis,2 Seam,85.7,Foul,-
+5,44,4,Zach Pettway,Jonah Davis,2 Seam,83.5,Swinging Strike,-
+5,45,1,Zach Pettway,Darren Baker,2 Seam,83.3,Hit Into Play - Out,83.3
+6,46,1,Zayne Patino,Jake Pries,4 Seam,85.8,Hit Into Play - Out,89.8
+6,47,1,Zayne Patino,Jack Stronach,4 Seam,85.3,Ball,-
+6,47,2,Zayne Patino,Jack Stronach,Cutter,75.9,Ball,-
+6,47,3,Zayne Patino,Jack Stronach,4 Seam,85.4,Called Strike,-
+6,47,4,Zayne Patino,Jack Stronach,4 Seam,86.2,Ball,-
+6,47,5,Zayne Patino,Jack Stronach,4 Seam,86.1,Foul,-
+6,47,6,Zayne Patino,Jack Stronach,4 Seam,86.4,Ball,-
+6,48,1,Zayne Patino,Ryan Kreidler,4 Seam,84.5,Called Strike,-
+6,48,2,Zayne Patino,Ryan Kreidler,Slider,77.8,Hit Into Play - Out,86.9
+6,49,1,Zayne Patino,Garrett Mitchell,Cutter,86.1,Ball,-
+6,49,2,Zayne Patino,Garrett Mitchell,Slider,77,Called Strike,-
+6,49,3,Zayne Patino,Garrett Mitchell,Slider,78,Swinging Strike,-
+6,49,4,Zayne Patino,Garrett Mitchell,Slider,78.6,Ball,-
+6,49,5,Zayne Patino,Garrett Mitchell,Slider,77.7,Swinging Strike,-
+6,50,1,Zach Pettway,Quentin Selma,2 Seam,84.2,Called Strike,-
+6,50,2,Zach Pettway,Quentin Selma,2 Seam,85.6,Ball,-
+6,50,3,Zach Pettway,Quentin Selma,2 Seam,84.5,Hit Into Play - Out,96.8
+6,51,1,Zach Pettway,Sam Wezniak,Curve,70.7,Called Strike,-
+6,51,2,Zach Pettway,Sam Wezniak,2 Seam,84.4,Foul,-
+6,51,3,Zach Pettway,Sam Wezniak,2 Seam,85.5,Called Strike,-
+6,52,1,Zach Pettway,Ripken Reyes,2 Seam,85.7,Ball,-
+6,52,2,Zach Pettway,Ripken Reyes,4 Seam,79.4,Called Strike,-
+6,52,3,Zach Pettway,Ripken Reyes,2 Seam,85.7,Ball,-
+6,52,4,Zach Pettway,Ripken Reyes,2 Seam,85.6,Swinging Strike,-
+6,52,5,Zach Pettway,Ripken Reyes,2 Seam,86.5,Hit Into Play - Out,85.3
+7,53,1,Zayne Patino,Will McInerny,Cutter,85.9,Hit By Pitch,-
+7,54,1,Zayne Patino,Jake Hirabayashi,Changeup,77,Ball,-
+7,54,2,Zayne Patino,Jake Hirabayashi,Cutter,84.7,Called Strike,-
+7,54,3,Zayne Patino,Jake Hirabayashi,Slider,76.4,Foul,76.2
+7,54,4,Zayne Patino,Jake Hirabayashi,Slider,75.9,Ball,-
+7,54,5,Zayne Patino,Jake Hirabayashi,Slider,76.9,Ball,-
+7,54,6,Zayne Patino,Jake Hirabayashi,Cutter,84.4,Ball,-
+7,55,1,Zayne Patino,Michael Toglia,Cutter,85.8,Called Strike,-
+7,55,2,Zayne Patino,Michael Toglia,Changeup,78.5,Swinging Strike,-
+7,55,3,Zayne Patino,Michael Toglia,Changeup,79.1,Swinging Strike,-
+7,56,1,Zayne Patino,Chase Strumpf,Changeup,79.1,Ball,-
+7,56,2,Zayne Patino,Chase Strumpf,4 Seam,86.1,Ball,-
+7,56,3,Zayne Patino,Chase Strumpf,Changeup,78,Called Strike,-
+7,56,4,Zayne Patino,Chase Strumpf,Changeup,79.3,Ball,-
+7,56,5,Zayne Patino,Chase Strumpf,4 Seam,86,Hit Into Play - Out,47.9
+7,57,1,Zach Pettway,Tyrus Greene,2 Seam,83.8,Called Strike,-
+7,57,2,Zach Pettway,Tyrus Greene,2 Seam,85.7,Hit Into Play,92.3
+7,58,1,Ryan Garcia,Jeffery Mitchell Jr.,2 Seam,89.7,Foul,85.4
+7,58,2,Ryan Garcia,Jeffery Mitchell Jr.,2 Seam,89.7,Foul,-
+7,58,3,Ryan Garcia,Jeffery Mitchell Jr.,2 Seam,89.2,Ball,-
+7,58,4,Ryan Garcia,Jeffery Mitchell Jr.,2 Seam,89.7,Ball,-
+7,58,5,Ryan Garcia,Jeffery Mitchell Jr.,2 Seam,90.4,Ball,-
+7,58,6,Ryan Garcia,Jeffery Mitchell Jr.,2 Seam,89.8,Hit Into Play - Out,97.7
+7,59,1,Ryan Garcia,Andrew Vaughn,2 Seam,91.4,Swinging Strike,-
+7,59,2,Ryan Garcia,Andrew Vaughn,2 Seam,91,Foul,-
+7,59,3,Ryan Garcia,Andrew Vaughn,Changeup,82.4,Called Strike,-
+8,60,1,Zayne Patino,Jake Pries,4 Seam,83.1,Ball,-
+8,60,2,Zayne Patino,Jake Pries,Changeup,77.2,Ball,-
+8,60,3,Zayne Patino,Jake Pries,4 Seam,84.8,Ball,-
+8,60,4,Zayne Patino,Jake Pries,4 Seam,84.2,Ball,-
+8,61,1,Zayne Patino,Jack Stronach,4 Seam,83.6,Hit Into Play - Out,23.2
+8,62,1,Zayne Patino,Ryan Kreidler,Changeup,78.2,Ball,-
+8,62,2,Zayne Patino,Ryan Kreidler,4 Seam,83.3,Foul,-
+8,62,3,Zayne Patino,Ryan Kreidler,Slider,77.4,Ball,-
+8,62,4,Zayne Patino,Ryan Kreidler,4 Seam,83.3,Ball,-
+8,62,5,Zayne Patino,Ryan Kreidler,4 Seam,84.2,Ball,-
+8,63,1,Zayne Patino,Garrett Mitchell,4 Seam,84.4,Ball,-
+8,63,2,Zayne Patino,Garrett Mitchell,4 Seam,86.8,Foul,43.5
+8,63,3,Zayne Patino,Garrett Mitchell,Cutter,84.6,Swinging Strike,-
+8,63,4,Zayne Patino,Garrett Mitchell,Slider,78.5,Ball,-
+8,63,5,Zayne Patino,Garrett Mitchell,Slider,78.1,Ball,-
+8,63,6,Zayne Patino,Garrett Mitchell,Slider,77,Hit By Pitch,-
+8,64,1,Joey Matulovich,RJ Teijeiro,2 Seam,87.2,Ball,-
+8,64,2,Joey Matulovich,RJ Teijeiro,2 Seam,86.5,Ball,-
+8,64,3,Joey Matulovich,RJ Teijeiro,4 Seam,86.8,Ball,-
+8,64,4,Joey Matulovich,RJ Teijeiro,2 Seam,86.3,Called Strike,-
+8,64,5,Joey Matulovich,RJ Teijeiro,2 Seam,87.3,Foul,-
+8,64,6,Joey Matulovich,RJ Teijeiro,2 Seam,85,Hit Into Play - Run Scored,84.5
+8,65,1,Joey Matulovich,Daniel Amaral,2 Seam,86.4,Called Strike,-
+8,65,2,Joey Matulovich,Daniel Amaral,Slider,78.4,Ball,-
+8,65,3,Joey Matulovich,Daniel Amaral,2 Seam,86.3,Foul,89.4
+8,65,4,Joey Matulovich,Daniel Amaral,2 Seam,87.3,Swinging Strike,-
+8,66,1,Joey Matulovich,Jake Hirabayashi,2 Seam,86,Ball,-
+8,66,2,Joey Matulovich,Jake Hirabayashi,2 Seam,86.8,Ball,-
+8,66,3,Joey Matulovich,Jake Hirabayashi,2 Seam,87.2,Ball,-
+8,66,4,Joey Matulovich,Jake Hirabayashi,2 Seam,85.8,Ball,-
+8,67,1,Arman Sabouri,Michael Toglia,Cutter,86.1,Called Strike,-
+8,67,2,Arman Sabouri,Michael Toglia,4 Seam,87.8,Foul,-
+8,67,3,Arman Sabouri,Michael Toglia,4 Seam,89,Called Strike,-
+8,68,1,Ryan Garcia,Tanner Dodson,2 Seam,85.7,Ball,-
+8,68,2,Ryan Garcia,Tanner Dodson,Changeup,80.3,Ball,-
+8,68,3,Ryan Garcia,Tanner Dodson,2 Seam,86.8,Ball,-
+8,68,4,Ryan Garcia,Tanner Dodson,2 Seam,87.1,Ball,-
+8,69,1,Ryan Garcia,Jonah Davis,2 Seam,87,Called Strike,-
+8,69,2,Ryan Garcia,Jonah Davis,2 Seam,87.5,Hit By Pitch,-
+8,70,1,Garrett Barker,Darren Baker,-,80.5,Ball,-
+8,70,2,Garrett Barker,Darren Baker,-,86.8,Ball,-
+8,70,3,Garrett Barker,Darren Baker,-,86.5,Hit Into Play - Out,80.6
+8,71,1,Garrett Barker,Quentin Selma,-,79.7,Ball,-
+8,71,2,Garrett Barker,Quentin Selma,-,87.4,Called Strike,-
+8,71,3,Garrett Barker,Quentin Selma,-,80.4,Foul,48
+8,71,4,Garrett Barker,Quentin Selma,-,81.6,Swinging Strike,-
+8,72,1,Holden Powell,Sam Wezniak,-,91,Ball,-
+8,72,2,Holden Powell,Sam Wezniak,-,77.6,Ball,-
+8,72,3,Holden Powell,Sam Wezniak,-,91.8,Ball,-
+8,72,4,Holden Powell,Sam Wezniak,-,91.7,Called Strike,-
+8,72,5,Holden Powell,Sam Wezniak,-,92.1,Called Strike,-
+8,72,6,Holden Powell,Sam Wezniak,-,92.5,Hit Into Play - Run Scored,98.6
+9,73,1,Andrew Buckley,Chase Strumpf,-,83.2,Ball,-
+9,73,2,Andrew Buckley,Chase Strumpf,-,84.1,Foul,-
+9,73,3,Andrew Buckley,Chase Strumpf,-,84.2,Foul Tip,-
+9,73,4,Andrew Buckley,Chase Strumpf,-,72,Ball,-
+9,73,5,Andrew Buckley,Chase Strumpf,-,81.6,Ball,-
+9,73,6,Andrew Buckley,Chase Strumpf,-,82.4,Hit Into Play - Out,92.5
+9,74,1,Andrew Buckley,Jarron Silva,-,83.9,Called Strike,-
+9,74,2,Andrew Buckley,Jarron Silva,-,79.6,Ball,-
+9,74,3,Andrew Buckley,Jarron Silva,-,80,Hit Into Play - Out,65.9
+9,75,1,Andrew Buckley,Jack Stronach,-,82.9,Ball,-
+9,75,2,Andrew Buckley,Jack Stronach,-,80.2,Swinging Strike,-
+9,75,3,Andrew Buckley,Jack Stronach,-,80,Called Strike,-
+9,75,4,Andrew Buckley,Jack Stronach,-,82.9,Ball,-
+9,75,5,Andrew Buckley,Jack Stronach,-,78.9,Hit Into Play - Out,72.5
+9,76,1,Holden Powell,Korey Lee,-,80.7,Ball,-
+9,76,2,Holden Powell,Korey Lee,-,91.2,Ball,-
+9,76,3,Holden Powell,Korey Lee,-,92.2,Called Strike,-
+9,76,4,Holden Powell,Korey Lee,-,80.4,Called Strike,-
+9,76,5,Holden Powell,Korey Lee,-,81.9,Foul,-
+9,76,6,Holden Powell,Korey Lee,-,80.5,Swinging Strike,-
+9,77,1,Holden Powell,Tyrus Greene,-,92.2,Called Strike,-
+9,77,2,Holden Powell,Tyrus Greene,-,92.8,Hit Into Play - Out,93.6
+9,78,1,Holden Powell,Jeffery Mitchell Jr.,-,82.5,Ball,-
+9,78,2,Holden Powell,Jeffery Mitchell Jr.,-,91.8,Ball,-
+9,78,3,Holden Powell,Jeffery Mitchell Jr.,-,92.1,Ball,-
+9,78,4,Holden Powell,Jeffery Mitchell Jr.,-,91.4,Called Strike,-
+9,78,5,Holden Powell,Jeffery Mitchell Jr.,-,91.9,Called Strike,-
+9,78,6,Holden Powell,Jeffery Mitchell Jr.,-,93.3,Foul,-
+9,78,7,Holden Powell,Jeffery Mitchell Jr.,-,92.6,Hit Into Play - Out,98.4

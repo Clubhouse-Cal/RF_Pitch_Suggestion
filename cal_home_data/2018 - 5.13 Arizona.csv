@@ -1,0 +1,320 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Aaron Shortridge,Cal Stevenson,-,88.4,Ball,-
+1,1,2,Aaron Shortridge,Cal Stevenson,4 Seam,87.2,Called Strike,-
+1,1,3,Aaron Shortridge,Cal Stevenson,4 Seam,88.8,Hit Into Play - Out,75.9
+1,2,1,Aaron Shortridge,Alfonso Rivas III,4 Seam,89.5,Called Strike,-
+1,2,2,Aaron Shortridge,Alfonso Rivas III,4 Seam,87.8,Ball,-
+1,2,3,Aaron Shortridge,Alfonso Rivas III,Slider,74.4,Called Strike,-
+1,2,4,Aaron Shortridge,Alfonso Rivas III,4 Seam,89.3,Ball,-
+1,2,5,Aaron Shortridge,Alfonso Rivas III,Slider,74.5,Swinging Strike,-
+1,3,1,Aaron Shortridge,Cesar Salazar,2 Seam,88.9,Hit Into Play,95.2
+1,4,1,Aaron Shortridge,Seve Romo,Slider,75.6,Ball,-
+1,4,2,Aaron Shortridge,Seve Romo,4 Seam,87.4,Called Strike,-
+1,4,3,Aaron Shortridge,Seve Romo,4 Seam,87.9,Called Strike,-
+1,4,4,Aaron Shortridge,Seve Romo,4 Seam,87.6,Ball,-
+1,4,5,Aaron Shortridge,Seve Romo,Slider,74.2,Foul,-
+1,4,6,Aaron Shortridge,Seve Romo,Slider,74.8,Hit Into Play - Out,-
+1,5,1,Juan Aguilera,Tyrus Greene,4 Seam,84.8,Ball,-
+1,5,2,Juan Aguilera,Tyrus Greene,4 Seam,85.8,Ball,-
+1,5,3,Juan Aguilera,Tyrus Greene,2 Seam,85.3,Ball,-
+1,5,4,Juan Aguilera,Tyrus Greene,Changeup,85.3,Called Strike,-
+1,5,5,Juan Aguilera,Tyrus Greene,2 Seam,86.5,Hit Into Play - Out,-
+1,6,1,Juan Aguilera,Andrew Vaughn,4 Seam,86.5,Ball,-
+1,6,2,Juan Aguilera,Andrew Vaughn,Slider,76.8,Called Strike,-
+1,6,3,Juan Aguilera,Andrew Vaughn,2 Seam,86.5,Called Strike,-
+1,6,4,Juan Aguilera,Andrew Vaughn,Slider,79.3,Foul,-
+1,6,5,Juan Aguilera,Andrew Vaughn,Slider,79.9,Hit Into Play - Out,-
+1,7,1,Juan Aguilera,Tanner Dodson,4 Seam,86.3,Ball,-
+1,7,2,Juan Aguilera,Tanner Dodson,2 Seam,86.5,Foul,-
+1,7,3,Juan Aguilera,Tanner Dodson,Changeup,81.6,Foul,75.2
+1,7,4,Juan Aguilera,Tanner Dodson,4 Seam,87,Hit Into Play - Out,80
+2,8,1,Aaron Shortridge,Nick Quintana,Changeup,75.2,Called Strike,-
+2,8,2,Aaron Shortridge,Nick Quintana,Slider,76,Called Strike,-
+2,8,3,Aaron Shortridge,Nick Quintana,4 Seam,89.8,Swinging Strike,-
+2,9,1,Aaron Shortridge,Tate Soderstrom,Curve,74.3,Ball,-
+2,9,2,Aaron Shortridge,Tate Soderstrom,2 Seam,88.1,Ball,-
+2,9,3,Aaron Shortridge,Tate Soderstrom,4 Seam,88.2,Ball,-
+2,9,4,Aaron Shortridge,Tate Soderstrom,2 Seam,86.6,Called Strike,-
+2,9,5,Aaron Shortridge,Tate Soderstrom,4 Seam,87.6,Foul,-
+2,9,6,Aaron Shortridge,Tate Soderstrom,4 Seam,88.6,Ball,-
+2,10,1,Aaron Shortridge,Cameron Cannon,4 Seam,85.9,Foul,-
+2,10,2,Aaron Shortridge,Cameron Cannon,4 Seam,88.4,Hit Into Play - Out,101.4
+2,11,1,Aaron Shortridge,Donta Williams,4 Seam,87,Ball,-
+2,11,2,Aaron Shortridge,Donta Williams,4 Seam,86.8,Ball,-
+2,11,3,Aaron Shortridge,Donta Williams,2 Seam,87.2,Ball,-
+2,11,4,Aaron Shortridge,Donta Williams,4 Seam,86.4,Ball,-
+2,12,1,Aaron Shortridge,Jacob Blas,4 Seam,86.9,Foul,-
+2,12,2,Aaron Shortridge,Jacob Blas,2 Seam,87.6,Foul,-
+2,12,3,Aaron Shortridge,Jacob Blas,4 Seam,86.9,Hit Into Play - Out,83.4
+2,13,1,Juan Aguilera,Jonah Davis,2 Seam,86.3,Hit Into Play - Out,101
+2,14,1,Juan Aguilera,Sam Wezniak,4 Seam,85.2,Ball,-
+2,14,2,Juan Aguilera,Sam Wezniak,Slider,79.1,Called Strike,-
+2,14,3,Juan Aguilera,Sam Wezniak,Slider,78.9,Swinging Strike,-
+2,14,4,Juan Aguilera,Sam Wezniak,2 Seam,86.1,Hit Into Play,-
+2,15,1,Juan Aguilera,Max Flower,Curve,76.8,Ball,-
+2,15,2,Juan Aguilera,Max Flower,Slider,77.9,Called Strike,-
+2,15,3,Juan Aguilera,Max Flower,2 Seam,86.2,Foul,36.4
+2,15,4,Juan Aguilera,Max Flower,Slider,79.4,Ball,-
+2,15,5,Juan Aguilera,Max Flower,Slider,78.4,Foul,-
+2,15,6,Juan Aguilera,Max Flower,2 Seam,85.7,Hit Into Play - Out,98.8
+2,16,1,Juan Aguilera,Jeffery Mitchell Jr.,2 Seam,86.4,Called Strike,-
+2,16,2,Juan Aguilera,Jeffery Mitchell Jr.,Slider,79.4,Ball,-
+2,16,3,Juan Aguilera,Jeffery Mitchell Jr.,2 Seam,86,Hit Into Play - Out,94.4
+3,17,1,Aaron Shortridge,Cal Stevenson,Slider,74.4,Called Strike,-
+3,17,2,Aaron Shortridge,Cal Stevenson,Changeup,77.7,Ball,-
+3,17,3,Aaron Shortridge,Cal Stevenson,4 Seam,89.1,Called Strike,-
+3,17,4,Aaron Shortridge,Cal Stevenson,Changeup,78.7,Foul,-
+3,17,5,Aaron Shortridge,Cal Stevenson,4 Seam,89.7,Hit Into Play - Out,82
+3,18,1,Aaron Shortridge,Alfonso Rivas III,Changeup,78.9,Hit Into Play,102.5
+3,19,1,Aaron Shortridge,Cesar Salazar,Curve,73.9,Hit Into Play - Out,84
+3,20,1,Aaron Shortridge,Seve Romo,4 Seam,87.4,Ball,-
+3,20,2,Aaron Shortridge,Seve Romo,4 Seam,86.6,Ball,-
+3,20,3,Aaron Shortridge,Seve Romo,4 Seam,86.2,Swinging Strike,-
+3,20,4,Aaron Shortridge,Seve Romo,4 Seam,87.6,Ball,-
+3,20,5,Aaron Shortridge,Seve Romo,4 Seam,88.2,Called Strike,-
+3,20,6,Aaron Shortridge,Seve Romo,2 Seam,87.7,Foul,-
+3,20,7,Aaron Shortridge,Seve Romo,4 Seam,87.6,Swinging Strike,-
+3,21,1,Juan Aguilera,Cameron Eden,Changeup,84.4,Ball,-
+3,21,2,Juan Aguilera,Cameron Eden,4 Seam,84.7,Foul,-
+3,21,3,Juan Aguilera,Cameron Eden,Changeup,77.5,Called Strike,-
+3,21,4,Juan Aguilera,Cameron Eden,4 Seam,85.2,Hit Into Play - Out,91.5
+3,22,1,Juan Aguilera,Ripken Reyes,Changeup,79.1,Called Strike,-
+3,22,2,Juan Aguilera,Ripken Reyes,4 Seam,84.7,Foul,-
+3,22,3,Juan Aguilera,Ripken Reyes,Curve,77.1,Ball,-
+3,22,4,Juan Aguilera,Ripken Reyes,Curve,77.1,Swinging Strike,-
+3,23,1,Juan Aguilera,Tyrus Greene,4 Seam,86.5,Called Strike,-
+3,23,2,Juan Aguilera,Tyrus Greene,2 Seam,85.6,Ball,-
+3,23,3,Juan Aguilera,Tyrus Greene,Changeup,81.6,Hit Into Play - Out,78.6
+4,24,1,Aaron Shortridge,Nick Quintana,-,86.4,Hit Into Play - Out,-
+4,25,1,Aaron Shortridge,Tate Soderstrom,4 Seam,89.1,Called Strike,-
+4,25,2,Aaron Shortridge,Tate Soderstrom,4 Seam,89.5,Called Strike,-
+4,25,3,Aaron Shortridge,Tate Soderstrom,Changeup,80.2,Ball,-
+4,25,4,Aaron Shortridge,Tate Soderstrom,Slider,77,Foul,-
+4,25,5,Aaron Shortridge,Tate Soderstrom,4 Seam,90.8,Foul,-
+4,25,6,Aaron Shortridge,Tate Soderstrom,2 Seam,90.2,Foul,-
+4,25,7,Aaron Shortridge,Tate Soderstrom,4 Seam,90.6,Hit Into Play - Out,58.3
+4,26,1,Aaron Shortridge,Cameron Cannon,4 Seam,90.1,Ball,-
+4,26,2,Aaron Shortridge,Cameron Cannon,4 Seam,88,Swinging Strike,-
+4,26,3,Aaron Shortridge,Cameron Cannon,4 Seam,88.9,Foul,-
+4,26,4,Aaron Shortridge,Cameron Cannon,Slider,76.1,Foul,-
+4,26,5,Aaron Shortridge,Cameron Cannon,Slider,75,Swinging Strike,-
+4,27,1,Juan Aguilera,Andrew Vaughn,Changeup,78.7,Ball,-
+4,27,2,Juan Aguilera,Andrew Vaughn,Curve,76.5,Ball,-
+4,27,3,Juan Aguilera,Andrew Vaughn,4 Seam,85.5,Hit Into Play,-
+4,28,1,Juan Aguilera,Tanner Dodson,Changeup,79.9,Ball,-
+4,28,2,Juan Aguilera,Tanner Dodson,4 Seam,86.4,Foul,-
+4,28,3,Juan Aguilera,Tanner Dodson,2 Seam,86.4,Ball,-
+4,28,4,Juan Aguilera,Tanner Dodson,Changeup,80,Hit Into Play - Out,93.7
+4,29,1,Juan Aguilera,Jonah Davis,Curve,75.9,Called Strike,-
+4,29,2,Juan Aguilera,Jonah Davis,4 Seam,85.8,Foul,-
+4,29,3,Juan Aguilera,Jonah Davis,Slider,76.4,Foul,-
+4,29,4,Juan Aguilera,Jonah Davis,4 Seam,87.4,Hit By Pitch,-
+4,30,1,Juan Aguilera,Sam Wezniak,Curve,77,Ball,-
+4,30,2,Juan Aguilera,Sam Wezniak,Slider,77.5,Ball,-
+4,30,3,Juan Aguilera,Sam Wezniak,Changeup,79.9,Ball,-
+4,30,4,Juan Aguilera,Sam Wezniak,Slider,77.6,Called Strike,-
+4,30,5,Juan Aguilera,Sam Wezniak,Slider,78.4,Ball,-
+4,31,1,Juan Aguilera,Max Flower,Slider,77.1,Hit Into Play - Run Scored,94.3
+4,32,1,Juan Aguilera,Jeffery Mitchell Jr.,2 Seam,86.4,Swinging Strike,-
+4,32,2,Juan Aguilera,Jeffery Mitchell Jr.,2 Seam,86.3,Foul,-
+4,32,3,Juan Aguilera,Jeffery Mitchell Jr.,Slider,77,Ball,-
+4,32,4,Juan Aguilera,Jeffery Mitchell Jr.,Slider,77.6,Ball,-
+4,32,5,Juan Aguilera,Jeffery Mitchell Jr.,4 Seam,86.7,Ball,-
+4,32,6,Juan Aguilera,Jeffery Mitchell Jr.,Slider,77.8,Swinging Strike,-
+4,33,1,Juan Aguilera,Cameron Eden,4 Seam,86.5,Foul,-
+4,33,2,Juan Aguilera,Cameron Eden,Slider,78.4,Hit Into Play - Run Scored,59.9
+4,34,1,Juan Aguilera,Ripken Reyes,4 Seam,84.5,Ball,-
+4,34,2,Juan Aguilera,Ripken Reyes,Changeup,79.6,Ball,-
+4,34,3,Juan Aguilera,Ripken Reyes,4 Seam,85,Ball,-
+4,34,4,Juan Aguilera,Ripken Reyes,4 Seam,85,Ball,-
+4,35,1,Juan Aguilera,Tyrus Greene,Changeup,79.4,Ball,-
+4,35,2,Juan Aguilera,Tyrus Greene,Slider,76,Called Strike,-
+4,35,3,Juan Aguilera,Tyrus Greene,Slider,76.5,Ball,-
+4,35,4,Juan Aguilera,Tyrus Greene,4 Seam,86.2,Hit Into Play - Run Scored,91.3
+4,36,1,Juan Aguilera,Andrew Vaughn,4 Seam,86.2,Hit Into Play - Out,82.3
+5,37,1,Aaron Shortridge,Donta Williams,4 Seam,85,Ball,-
+5,37,2,Aaron Shortridge,Donta Williams,2 Seam,85.8,Called Strike,-
+5,37,3,Aaron Shortridge,Donta Williams,4 Seam,88,Called Strike,-
+5,37,4,Aaron Shortridge,Donta Williams,4 Seam,87.5,Ball,-
+5,37,5,Aaron Shortridge,Donta Williams,4 Seam,87.1,Foul,-
+5,37,6,Aaron Shortridge,Donta Williams,4 Seam,88.2,Hit Into Play - Out,80.8
+5,38,1,Aaron Shortridge,Jacob Blas,2 Seam,88.5,Ball,-
+5,38,2,Aaron Shortridge,Jacob Blas,2 Seam,87.1,Ball,-
+5,38,3,Aaron Shortridge,Jacob Blas,2 Seam,87.3,Ball,-
+5,38,4,Aaron Shortridge,Jacob Blas,4 Seam,84.3,Called Strike,-
+5,38,5,Aaron Shortridge,Jacob Blas,4 Seam,85.9,Foul,39.9
+5,38,6,Aaron Shortridge,Jacob Blas,2 Seam,87.2,Hit Into Play,87.9
+5,39,1,Aaron Shortridge,Cal Stevenson,4 Seam,87.4,Hit Into Play - Out,9.3
+5,40,1,Aaron Shortridge,Alfonso Rivas III,Slider,73.2,Ball,-
+5,40,2,Aaron Shortridge,Alfonso Rivas III,2 Seam,87.6,Ball,-
+5,40,3,Aaron Shortridge,Alfonso Rivas III,Changeup,76.1,Hit Into Play - Out,-
+5,41,1,Juan Aguilera,Tanner Dodson,2 Seam,84.4,Ball,-
+5,41,2,Juan Aguilera,Tanner Dodson,Slider,75.6,Ball,-
+5,41,3,Juan Aguilera,Tanner Dodson,2 Seam,84.8,Hit Into Play,97.9
+5,42,1,Gil Luna,Jonah Davis,Cutter,86.6,Ball,-
+5,42,2,Gil Luna,Jonah Davis,4 Seam,85.6,Hit By Pitch,-
+5,43,1,Gil Luna,Sam Wezniak,4 Seam,85.4,Ball,-
+5,43,2,Gil Luna,Sam Wezniak,4 Seam,85.6,Called Strike,-
+5,43,3,Gil Luna,Sam Wezniak,Slider,75.8,Ball,-
+5,43,4,Gil Luna,Sam Wezniak,4 Seam,84.7,Called Strike,-
+5,43,5,Gil Luna,Sam Wezniak,Changeup,76.2,Foul,-
+5,43,6,Gil Luna,Sam Wezniak,4 Seam,86.2,Ball,-
+5,43,7,Gil Luna,Sam Wezniak,4 Seam,86.9,Hit Into Play - Out,85.9
+5,44,1,Gil Luna,Max Flower,4 Seam,86,Ball,-
+5,44,2,Gil Luna,Max Flower,4 Seam,85.7,Hit Into Play,-
+5,45,1,Gil Luna,Jeffery Mitchell Jr.,Changeup,77.9,Ball,-
+5,45,2,Gil Luna,Jeffery Mitchell Jr.,4 Seam,85.3,Foul,-
+5,45,3,Gil Luna,Jeffery Mitchell Jr.,Slider,76.3,Hit Into Play - Out,59.5
+6,46,1,Aaron Shortridge,Cesar Salazar,4 Seam,85.7,Hit By Pitch,-
+6,47,1,Aaron Shortridge,Seve Romo,2 Seam,85.2,Hit Into Play - Out,-
+6,48,1,Aaron Shortridge,Nick Quintana,Slider,72.7,Ball,-
+6,48,2,Aaron Shortridge,Nick Quintana,2 Seam,87.3,Ball,-
+6,48,3,Aaron Shortridge,Nick Quintana,2 Seam,86.6,Foul,-
+6,48,4,Aaron Shortridge,Nick Quintana,2 Seam,88.3,Foul,-
+6,48,5,Aaron Shortridge,Nick Quintana,4 Seam,88,Ball,-
+6,48,6,Aaron Shortridge,Nick Quintana,4 Seam,85.9,Hit Into Play - Out,81.1
+6,49,1,Aaron Shortridge,Tate Soderstrom,4 Seam,87.5,Called Strike,-
+6,49,2,Aaron Shortridge,Tate Soderstrom,Changeup,77.3,Swinging Strike,-
+6,49,3,Aaron Shortridge,Tate Soderstrom,Changeup,78.9,Ball,-
+6,49,4,Aaron Shortridge,Tate Soderstrom,Changeup,75.7,Foul,-
+6,49,5,Aaron Shortridge,Tate Soderstrom,Changeup,80,Hit Into Play,71
+6,50,1,Aaron Shortridge,Cameron Cannon,4 Seam,87.9,Foul,-
+6,50,2,Aaron Shortridge,Cameron Cannon,2 Seam,88.5,Foul,-
+6,50,3,Aaron Shortridge,Cameron Cannon,2 Seam,89,Foul,-
+6,50,4,Aaron Shortridge,Cameron Cannon,Curve,74.9,Ball,-
+6,50,5,Aaron Shortridge,Cameron Cannon,2 Seam,86.8,Hit Into Play - Run Scored,99.4
+6,51,1,Aaron Shortridge,Donta Williams,4 Seam,87.6,Called Strike,-
+6,51,2,Aaron Shortridge,Donta Williams,4 Seam,86.8,Swinging Strike,-
+6,51,3,Aaron Shortridge,Donta Williams,2 Seam,89,Ball,-
+6,51,4,Aaron Shortridge,Donta Williams,4 Seam,87.5,Foul,-
+6,51,5,Aaron Shortridge,Donta Williams,4 Seam,88.1,Hit Into Play - Run Scored,86.5
+6,52,1,Aaron Shortridge,Jacob Blas,4 Seam,87.2,Foul,82.2
+6,52,2,Aaron Shortridge,Jacob Blas,Curve,74.1,Hit Into Play - Out,84.1
+6,53,1,Gil Luna,Cameron Eden,-,86.7,Hit Into Play - Out,-
+6,54,1,Gil Luna,Ripken Reyes,Cutter,86.1,Ball,-
+6,54,2,Gil Luna,Ripken Reyes,4 Seam,84.7,Ball,-
+6,54,3,Gil Luna,Ripken Reyes,4 Seam,86.2,Called Strike,-
+6,54,4,Gil Luna,Ripken Reyes,Cutter,85.8,Hit By Pitch,-
+6,55,1,Gil Luna,Tyrus Greene,4 Seam,86.3,Ball,-
+6,55,2,Gil Luna,Tyrus Greene,4 Seam,86.1,Ball,-
+6,55,3,Gil Luna,Tyrus Greene,4 Seam,86.3,Hit Into Play,91.8
+6,56,1,Gil Luna,Andrew Vaughn,4 Seam,86.9,Ball,-
+6,56,2,Gil Luna,Andrew Vaughn,4 Seam,85.5,Ball,-
+6,56,3,Gil Luna,Andrew Vaughn,Changeup,72.7,Intentional Ball,-
+6,56,4,Gil Luna,Andrew Vaughn,Curve,73.2,Intentional Ball,-
+6,57,1,Jonathan Guardado,Tanner Dodson,Changeup,78.5,Hit By Pitch,-
+6,58,1,Jonathan Guardado,Jonah Davis,2 Seam,87.9,Swinging Strike,-
+6,58,2,Jonathan Guardado,Jonah Davis,2 Seam,89.1,Ball,-
+6,58,3,Jonathan Guardado,Jonah Davis,2 Seam,89.7,Hit Into Play - Run Scored,53.2
+6,59,1,Jonathan Guardado,Sam Wezniak,2 Seam,89.6,Ball,-
+6,59,2,Jonathan Guardado,Sam Wezniak,2 Seam,89,Hit Into Play - Run Scored,96.9
+6,60,1,Jonathan Guardado,Max Flower,Curve,79.8,Foul,-
+6,60,2,Jonathan Guardado,Max Flower,Slider,78.1,Foul,85
+6,60,3,Jonathan Guardado,Max Flower,Changeup,78.5,Ball,-
+6,60,4,Jonathan Guardado,Max Flower,Changeup,78,Hit Into Play - Run Scored,91.5
+6,61,1,Ryan Gowens,Matt Ruff,2 Seam,88.8,Foul,81
+6,61,2,Ryan Gowens,Matt Ruff,2 Seam,89.5,Hit Into Play - Run Scored,61.8
+6,62,1,Ryan Gowens,Cameron Eden,2 Seam,89,Hit Into Play - Out,78
+7,63,1,Zayne Patino,Cal Stevenson,4 Seam,84.9,Called Strike,-
+7,63,2,Zayne Patino,Cal Stevenson,4 Seam,85.6,Called Strike,-
+7,63,3,Zayne Patino,Cal Stevenson,Slider,77.6,Ball,-
+7,63,4,Zayne Patino,Cal Stevenson,4 Seam,85,Ball,-
+7,63,5,Zayne Patino,Cal Stevenson,4 Seam,84.8,Hit Into Play - Out,47.1
+7,64,1,Zayne Patino,Alfonso Rivas III,4 Seam,84.2,Hit Into Play - Out,92.4
+7,65,1,Zayne Patino,Cesar Salazar,4 Seam,85.6,Ball,-
+7,65,2,Zayne Patino,Cesar Salazar,Cutter,83.8,Foul,93.5
+7,65,3,Zayne Patino,Cesar Salazar,Slider,77,Ball,-
+7,65,4,Zayne Patino,Cesar Salazar,Slider,75.7,Ball,-
+7,65,5,Zayne Patino,Cesar Salazar,4 Seam,83.7,Hit By Pitch,-
+7,66,1,Zayne Patino,Seve Romo,4 Seam,85.7,Foul,-
+7,66,2,Zayne Patino,Seve Romo,Cutter,85.9,Ball,-
+7,66,3,Zayne Patino,Seve Romo,4 Seam,85.6,Hit Into Play - Out,96.5
+7,67,1,Ryan Gowens,Ripken Reyes,2 Seam,87.8,Called Strike,-
+7,67,2,Ryan Gowens,Ripken Reyes,Changeup,73.7,Ball,-
+7,67,3,Ryan Gowens,Ripken Reyes,2 Seam,87.6,Called Strike,-
+7,67,4,Ryan Gowens,Ripken Reyes,Slider,76.4,Foul,-
+7,67,5,Ryan Gowens,Ripken Reyes,Curve,76.5,Swinging Strike,-
+7,68,1,Ryan Gowens,Tyrus Greene,Curve,76.4,Ball,-
+7,68,2,Ryan Gowens,Tyrus Greene,2 Seam,87.4,Called Strike,-
+7,68,3,Ryan Gowens,Tyrus Greene,Slider,74,Hit Into Play - Out,86.5
+7,69,1,Ryan Gowens,Andrew Vaughn,4 Seam,87.8,Foul,-
+7,69,2,Ryan Gowens,Andrew Vaughn,4 Seam,86.8,Ball,-
+7,69,3,Ryan Gowens,Andrew Vaughn,4 Seam,87.4,Foul,92
+7,69,4,Ryan Gowens,Andrew Vaughn,2 Seam,86.7,Ball,-
+7,69,5,Ryan Gowens,Andrew Vaughn,2 Seam,88.8,Hit Into Play,101.4
+7,70,1,Ryan Gowens,Tanner Dodson,4 Seam,87.7,Called Strike,-
+7,70,2,Ryan Gowens,Tanner Dodson,Slider,76.9,Ball,-
+7,70,3,Ryan Gowens,Tanner Dodson,Curve,76.7,Hit Into Play - Out,87.5
+8,71,1,Zayne Patino,Nick Quintana,4 Seam,84,Ball,-
+8,71,2,Zayne Patino,Nick Quintana,2 Seam,83.9,Ball,-
+8,71,3,Zayne Patino,Nick Quintana,4 Seam,83.1,Ball,-
+8,71,4,Zayne Patino,Nick Quintana,4 Seam,83.6,Ball,-
+8,72,1,Zayne Patino,Tate Soderstrom,4 Seam,84.4,Ball,-
+8,72,2,Zayne Patino,Tate Soderstrom,4 Seam,84.7,Called Strike,-
+8,72,3,Zayne Patino,Tate Soderstrom,4 Seam,84.8,Ball,-
+8,72,4,Zayne Patino,Tate Soderstrom,4 Seam,85.7,Hit Into Play,-
+8,73,1,Zayne Patino,Cameron Cannon,4 Seam,84.9,Foul,-
+8,73,2,Zayne Patino,Cameron Cannon,Changeup,78.7,Swinging Strike,-
+8,73,3,Zayne Patino,Cameron Cannon,Changeup,78.1,Ball,-
+8,73,4,Zayne Patino,Cameron Cannon,Cutter,84.4,Ball,-
+8,73,5,Zayne Patino,Cameron Cannon,4 Seam,83.7,Ball,-
+8,73,6,Zayne Patino,Cameron Cannon,4 Seam,84.8,Ball,-
+8,74,1,Zayne Patino,Donta Williams,4 Seam,83.6,Hit Into Play - Out,64.7
+8,75,1,Zayne Patino,Jacob Blas,4 Seam,84.7,Foul,-
+8,75,2,Zayne Patino,Jacob Blas,4 Seam,86,Foul,-
+8,75,3,Zayne Patino,Jacob Blas,Changeup,77.6,Hit Into Play - Run Scored,39.1
+8,76,1,Zayne Patino,Cal Stevenson,4 Seam,84.2,Hit Into Play - Run Scored,56.4
+8,77,1,Zayne Patino,Alfonso Rivas III,Slider,75.8,Called Strike,-
+8,77,2,Zayne Patino,Alfonso Rivas III,2 Seam,85,Ball,-
+8,77,3,Zayne Patino,Alfonso Rivas III,Slider,75.8,Hit Into Play - Run Scored,76.5
+8,78,1,Erik Martinez,Ryan Haug,4 Seam,83.7,Ball,-
+8,78,2,Erik Martinez,Ryan Haug,Cutter,84.5,Foul,-
+8,78,3,Erik Martinez,Ryan Haug,Cutter,83.2,Foul,-
+8,78,4,Erik Martinez,Ryan Haug,Cutter,86.3,Hit Into Play,94.3
+8,79,1,Erik Martinez,Seve Romo,4 Seam,85.6,Called Strike,-
+8,79,2,Erik Martinez,Seve Romo,Slider,77.9,Ball,-
+8,79,3,Erik Martinez,Seve Romo,Cutter,83,Ball,-
+8,79,4,Erik Martinez,Seve Romo,4 Seam,84.8,Hit Into Play - Out,89.4
+8,80,1,Jason Seever,Jonah Davis,4 Seam,84.3,Ball,-
+8,80,2,Jason Seever,Jonah Davis,4 Seam,84.3,Hit Into Play - Out,95.2
+8,81,1,Jason Seever,Sam Wezniak,Cutter,73.4,Ball,-
+8,81,2,Jason Seever,Sam Wezniak,Changeup,73.6,Called Strike,-
+8,81,3,Jason Seever,Sam Wezniak,2 Seam,86.2,Called Strike,-
+8,81,4,Jason Seever,Sam Wezniak,2 Seam,85.6,Ball,-
+8,81,5,Jason Seever,Sam Wezniak,Changeup,74.1,Foul,78.7
+8,81,6,Jason Seever,Sam Wezniak,4 Seam,85.1,Ball,-
+8,81,7,Jason Seever,Sam Wezniak,4 Seam,85.2,Foul,-
+8,81,8,Jason Seever,Sam Wezniak,4 Seam,84.9,Foul,87.9
+8,81,9,Jason Seever,Sam Wezniak,Curve,69.9,Swinging Strike,-
+8,82,1,Jason Seever,Max Flower,Changeup,74.2,Called Strike,-
+8,82,2,Jason Seever,Max Flower,4 Seam,84.9,Called Strike,-
+8,82,3,Jason Seever,Max Flower,Curve,70.5,Swinging Strike,-
+8,83,1,Jason Seever,Matt Ruff,Cutter,73.5,Hit Into Play - Out,85.9
+9,84,1,Erik Martinez,Nick Quintana,Cutter,82.5,Ball,-
+9,84,2,Erik Martinez,Nick Quintana,Cutter,83,Called Strike,-
+9,84,3,Erik Martinez,Nick Quintana,4 Seam,82.2,Ball,-
+9,84,4,Erik Martinez,Nick Quintana,4 Seam,84.2,Ball,-
+9,84,5,Erik Martinez,Nick Quintana,Cutter,84.1,Called Strike,-
+9,84,6,Erik Martinez,Nick Quintana,4 Seam,84.1,Foul,-
+9,84,7,Erik Martinez,Nick Quintana,Cutter,83.2,Swinging Strike,-
+9,85,1,Erik Martinez,Tate Soderstrom,Cutter,84.2,Hit Into Play,100
+9,86,1,Erik Martinez,Cameron Cannon,Cutter,84,Called Strike,-
+9,86,2,Erik Martinez,Cameron Cannon,Slider,73.1,Called Strike,-
+9,86,3,Erik Martinez,Cameron Cannon,Curve,73.5,Ball,-
+9,86,4,Erik Martinez,Cameron Cannon,Curve,76.4,Hit Into Play,84.6
+9,87,1,Erik Martinez,Donta Williams,4 Seam,85.2,Called Strike,-
+9,87,2,Erik Martinez,Donta Williams,4 Seam,83.3,Hit Into Play - Run Scored,91.1
+9,88,1,Erik Martinez,Jacob Blas,Cutter,83.4,Hit Into Play - Run Scored,82.5
+9,89,1,Erik Martinez,Cal Stevenson,4 Seam,86,Ball,-
+9,89,2,Erik Martinez,Cal Stevenson,4 Seam,82.6,Ball,-
+9,89,3,Erik Martinez,Cal Stevenson,Cutter,82.7,Called Strike,-
+9,89,4,Erik Martinez,Cal Stevenson,Cutter,83.5,Ball,-
+9,89,5,Erik Martinez,Cal Stevenson,Cutter,82.9,Called Strike,-
+9,89,6,Erik Martinez,Cal Stevenson,Cutter,83.1,Hit Into Play - Out,81.5
+9,90,1,Erik Martinez,Alfonso Rivas III,2 Seam,81.7,Ball,-
+9,90,2,Erik Martinez,Alfonso Rivas III,Cutter,83.2,Called Strike,-
+9,90,3,Erik Martinez,Alfonso Rivas III,4 Seam,81.8,Hit Into Play - Run Scored,99.1
+9,91,1,Erik Martinez,Ryan Haug,Cutter,83.7,Called Strike,-
+9,91,2,Erik Martinez,Ryan Haug,4 Seam,84.3,Ball,-
+9,91,3,Erik Martinez,Ryan Haug,Cutter,82.8,Foul,-
+9,91,4,Erik Martinez,Ryan Haug,Cutter,84.6,Swinging Strike,-

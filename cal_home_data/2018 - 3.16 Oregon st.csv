@@ -1,0 +1,277 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Jared Horn,Steven Kwan,2 Seam,93.1,Ball,-
+1,1,2,Jared Horn,Steven Kwan,2 Seam,91.8,Ball,-
+1,1,3,Jared Horn,Steven Kwan,2 Seam,91.5,Ball,-
+1,1,4,Jared Horn,Steven Kwan,2 Seam,91.6,Ball,-
+1,2,1,Jared Horn,Grenier Cadyn,2 Seam,92.1,Called Strike,-
+1,2,2,Jared Horn,Grenier Cadyn,2 Seam,91.7,Ball,-
+1,2,3,Jared Horn,Grenier Cadyn,2 Seam,91.4,Called Strike,-
+1,2,4,Jared Horn,Grenier Cadyn,Curve,77.2,Hit Into Play,94.2
+1,3,1,Jared Horn,Adley Rutschman,2 Seam,92.6,Hit Into Play - Out,61.3
+1,4,1,Jared Horn,Trevor Larnach,2 Seam,93.2,Called Strike,-
+1,4,2,Jared Horn,Trevor Larnach,2 Seam,93.9,Hit Into Play - Out,80.7
+1,5,1,Jared Horn,Michael Gretler,2 Seam,92.2,Hit Into Play - Out,65.2
+1,6,1,Luke Heimlich,Tyrus Greene,Cutter,91.1,Ball,-
+1,6,2,Luke Heimlich,Tyrus Greene,Cutter,91.5,Hit Into Play - Out,93.4
+1,7,1,Luke Heimlich,Darren Baker,Cutter,91,Ball,-
+1,7,2,Luke Heimlich,Darren Baker,4 Seam,90.8,Hit Into Play - Out,62.4
+1,8,1,Luke Heimlich,Andrew Vaughn,4 Seam,91.8,Called Strike,-
+1,8,2,Luke Heimlich,Andrew Vaughn,4 Seam,92.9,Called Strike,-
+1,8,3,Luke Heimlich,Andrew Vaughn,4 Seam,92.1,Ball,-
+1,8,4,Luke Heimlich,Andrew Vaughn,Changeup,80.9,Ball,-
+1,8,5,Luke Heimlich,Andrew Vaughn,Cutter,81.2,Ball,-
+1,8,6,Luke Heimlich,Andrew Vaughn,Slider,79.6,Ball,-
+1,9,1,Luke Heimlich,Tanner Dodson,Curve,76.6,Called Strike,-
+1,9,2,Luke Heimlich,Tanner Dodson,Cutter,91.7,Foul,-
+1,9,3,Luke Heimlich,Tanner Dodson,4 Seam,92.6,Ball,-
+1,9,4,Luke Heimlich,Tanner Dodson,Cutter,92.1,Hit Into Play - Out,90.7
+2,10,1,Jared Horn,Preston Jones,2 Seam,91.2,Ball,-
+2,10,2,Jared Horn,Preston Jones,2 Seam,91.3,Called Strike,-
+2,10,3,Jared Horn,Preston Jones,2 Seam,91.4,Hit Into Play,44.8
+2,11,1,Jared Horn,Jack Anderson,2 Seam,91,Foul,-
+2,11,2,Jared Horn,Jack Anderson,2 Seam,90.9,Foul,-
+2,11,3,Jared Horn,Jack Anderson,2 Seam,93.5,Ball,-
+2,11,4,Jared Horn,Jack Anderson,2 Seam,91.3,Ball,-
+2,11,5,Jared Horn,Jack Anderson,4 Seam,90.8,Called Strike,-
+2,12,1,Jared Horn,Zak Taylor,Curve,75.2,Ball,-
+2,12,2,Jared Horn,Zak Taylor,2 Seam,90.5,Ball,-
+2,12,3,Jared Horn,Zak Taylor,2 Seam,89.2,Called Strike,-
+2,12,4,Jared Horn,Zak Taylor,2 Seam,90.3,Foul,-
+2,12,5,Jared Horn,Zak Taylor,Curve,77.1,Swinging Strike,-
+2,13,1,Jared Horn,Andy Armstrong,2 Seam,89.7,Ball,-
+2,13,2,Jared Horn,Andy Armstrong,2 Seam,89.6,Called Strike,-
+2,13,3,Jared Horn,Andy Armstrong,Curve,76.5,Ball,-
+2,13,4,Jared Horn,Andy Armstrong,2 Seam,88.3,Ball,-
+2,13,5,Jared Horn,Andy Armstrong,2 Seam,89.6,Ball,-
+2,14,1,Jared Horn,Steven Kwan,2 Seam,90.3,Hit Into Play - Run Scored,95.4
+2,15,1,Jared Horn,Grenier Cadyn,Curve,75.4,Called Strike,-
+2,15,2,Jared Horn,Grenier Cadyn,2 Seam,92,Called Strike,-
+2,15,3,Jared Horn,Grenier Cadyn,2 Seam,91.4,Ball,-
+2,15,4,Jared Horn,Grenier Cadyn,Curve,75.7,Swinging Strike,-
+2,16,1,Luke Heimlich,Korey Lee,Cutter,89.6,Hit Into Play - Out,96.8
+2,17,1,Luke Heimlich,Jonah Davis,4 Seam,89.1,Ball,-
+2,17,2,Luke Heimlich,Jonah Davis,Curve,75.6,Ball,-
+2,17,3,Luke Heimlich,Jonah Davis,4 Seam,90.7,Swinging Strike,-
+2,17,4,Luke Heimlich,Jonah Davis,4 Seam,91.1,Foul,-
+2,17,5,Luke Heimlich,Jonah Davis,4 Seam,89.8,Hit By Pitch,-
+2,18,1,Luke Heimlich,Sam Wezniak,Cutter,89,Hit Into Play - Out,64.5
+3,19,1,Jared Horn,Adley Rutschman,2 Seam,90.7,Called Strike,-
+3,19,2,Jared Horn,Adley Rutschman,Changeup,84.6,Called Strike,-
+3,19,3,Jared Horn,Adley Rutschman,2 Seam,93.2,Foul,-
+3,19,4,Jared Horn,Adley Rutschman,2 Seam,92.3,Hit Into Play - Out,62.4
+3,20,1,Jared Horn,Trevor Larnach,Changeup,82.9,Ball,-
+3,20,2,Jared Horn,Trevor Larnach,2 Seam,91.3,Hit Into Play,109.4
+3,21,1,Jared Horn,Michael Gretler,2 Seam,88.9,Ball,-
+3,21,2,Jared Horn,Michael Gretler,2 Seam,88.6,Ball,-
+3,21,3,Jared Horn,Michael Gretler,2 Seam,89.1,Called Strike,-
+3,21,4,Jared Horn,Michael Gretler,2 Seam,89.2,Called Strike,-
+3,21,5,Jared Horn,Michael Gretler,Curve,75.9,Ball,-
+3,21,6,Jared Horn,Michael Gretler,2 Seam,90.7,Foul,-
+3,21,7,Jared Horn,Michael Gretler,Curve,75.4,Ball,-
+3,22,1,Jared Horn,Preston Jones,2 Seam,90.3,Foul,-
+3,22,2,Jared Horn,Preston Jones,2 Seam,88.6,Foul,-
+3,22,3,Jared Horn,Preston Jones,Curve,75.5,Hit Into Play - Out,82.8
+3,23,1,Luke Heimlich,Max Flower,Curve,75.5,Hit Into Play - Out,98.1
+3,24,1,Luke Heimlich,Cameron Eden,4 Seam,90.4,Called Strike,-
+3,24,2,Luke Heimlich,Cameron Eden,Changeup,79.4,Ball,-
+3,24,3,Luke Heimlich,Cameron Eden,Changeup,79.7,Ball,-
+3,24,4,Luke Heimlich,Cameron Eden,4 Seam,91.4,Ball,-
+3,24,5,Luke Heimlich,Cameron Eden,4 Seam,91.1,Called Strike,-
+3,24,6,Luke Heimlich,Cameron Eden,4 Seam,91.9,Hit Into Play,23.7
+3,25,1,Luke Heimlich,Tyrus Greene,Slider,77.7,Ball,-
+3,25,2,Luke Heimlich,Tyrus Greene,Slider,76.7,Ball,-
+3,25,3,Luke Heimlich,Tyrus Greene,4 Seam,90.9,Foul,-
+3,25,4,Luke Heimlich,Tyrus Greene,Curve,76.2,Ball,-
+3,25,5,Luke Heimlich,Tyrus Greene,Curve,74.1,Hit Into Play - Out,85.7
+3,26,1,Luke Heimlich,Darren Baker,Curve,75.5,Foul,-
+3,26,2,Luke Heimlich,Darren Baker,Slider,78,Swinging Strike,-
+3,26,3,Luke Heimlich,Darren Baker,Curve,76.4,Hit Into Play - Out,39.4
+4,27,1,Jared Horn,Jack Anderson,2 Seam,90.4,Ball,-
+4,27,2,Jared Horn,Jack Anderson,2 Seam,88.6,Foul,-
+4,27,3,Jared Horn,Jack Anderson,Changeup,83.6,Ball,-
+4,27,4,Jared Horn,Jack Anderson,2 Seam,90.2,Ball,-
+4,27,5,Jared Horn,Jack Anderson,2 Seam,88.5,Ball,-
+4,28,1,Jared Horn,Zak Taylor,Changeup,86.4,Foul,-
+4,28,2,Jared Horn,Zak Taylor,Changeup,86.4,Hit Into Play,91.4
+4,29,1,Jared Horn,Andy Armstrong,2 Seam,89.5,Foul,-
+4,29,2,Jared Horn,Andy Armstrong,Curve,73.8,Swinging Strike,-
+4,29,3,Jared Horn,Andy Armstrong,2 Seam,89.4,Ball,-
+4,29,4,Jared Horn,Andy Armstrong,2 Seam,89.4,Ball,-
+4,29,5,Jared Horn,Andy Armstrong,2 Seam,88.9,Hit Into Play - Run Scored,34.5
+4,30,1,Jared Horn,Steven Kwan,Changeup,82.6,Called Strike,-
+4,30,2,Jared Horn,Steven Kwan,Changeup,81.5,Hit Into Play - Run Scored,90
+4,31,1,Jared Horn,Grenier Cadyn,Curve,74.8,Ball,-
+4,31,2,Jared Horn,Grenier Cadyn,Changeup,82.6,Hit Into Play - Run Scored,17.6
+4,32,1,Jared Horn,Adley Rutschman,2 Seam,91.2,Ball,-
+4,32,2,Jared Horn,Adley Rutschman,Changeup,82.3,Called Strike,-
+4,32,3,Jared Horn,Adley Rutschman,2 Seam,89.7,Foul,83.3
+4,32,4,Jared Horn,Adley Rutschman,Curve,76.4,Ball,-
+4,32,5,Jared Horn,Adley Rutschman,Curve,75.3,Called Strike,-
+4,33,1,Jared Horn,Trevor Larnach,Curve,76.1,Ball,-
+4,33,2,Jared Horn,Trevor Larnach,Changeup,83.3,Swinging Strike,-
+4,33,3,Jared Horn,Trevor Larnach,2 Seam,91.1,Ball,-
+4,33,4,Jared Horn,Trevor Larnach,Curve,75.7,Ball,-
+4,33,5,Jared Horn,Trevor Larnach,Changeup,84.5,Ball,-
+4,34,1,Jared Horn,Michael Gretler,2 Seam,90.2,Ball,-
+4,34,2,Jared Horn,Michael Gretler,2 Seam,90.3,Hit Into Play - Out,94.6
+4,35,1,Luke Heimlich,Andrew Vaughn,Changeup,77.4,Ball,-
+4,35,2,Luke Heimlich,Andrew Vaughn,Cutter,89.5,Hit Into Play,104.8
+4,36,1,Luke Heimlich,Tanner Dodson,Changeup,76.6,Called Strike,-
+4,36,2,Luke Heimlich,Tanner Dodson,4 Seam,90.8,Foul,-
+4,36,3,Luke Heimlich,Tanner Dodson,Slider,77.3,Swinging Strike,-
+4,37,1,Luke Heimlich,Korey Lee,Curve,75.5,Hit By Pitch,-
+4,38,1,Luke Heimlich,Jonah Davis,Curve,75.5,Ball,-
+4,38,2,Luke Heimlich,Jonah Davis,Curve,73.9,Ball,-
+4,38,3,Luke Heimlich,Jonah Davis,Cutter,90.5,Ball,-
+4,38,4,Luke Heimlich,Jonah Davis,Cutter,89.8,Called Strike,-
+4,38,5,Luke Heimlich,Jonah Davis,Cutter,89.7,Swinging Strike,-
+4,38,6,Luke Heimlich,Jonah Davis,Cutter,90.6,Hit Into Play - Run Scored,85.8
+4,39,1,Luke Heimlich,Sam Wezniak,Changeup,79,Called Strike,-
+4,39,2,Luke Heimlich,Sam Wezniak,Cutter,90.7,Hit Into Play - Run Scored,64.9
+4,40,1,Luke Heimlich,Max Flower,Cutter,90.9,Swinging Strike,-
+4,40,2,Luke Heimlich,Max Flower,4 Seam,91.4,Called Strike,-
+4,40,3,Luke Heimlich,Max Flower,4 Seam,92.5,Foul,-
+4,40,4,Luke Heimlich,Max Flower,Curve,77.4,Foul,83.8
+4,40,5,Luke Heimlich,Max Flower,Cutter,91.3,Ball,-
+4,40,6,Luke Heimlich,Max Flower,4 Seam,90.5,Swinging Strike,-
+4,41,1,Luke Heimlich,Cameron Eden,Curve,76.5,Hit Into Play - Out,74.5
+5,42,1,Jared Horn,Preston Jones,2 Seam,88.7,Foul,-
+5,42,2,Jared Horn,Preston Jones,2 Seam,91,Swinging Strike,-
+5,42,3,Jared Horn,Preston Jones,2 Seam,91.2,Ball,-
+5,42,4,Jared Horn,Preston Jones,Curve,77.2,Called Strike,-
+5,43,1,Jared Horn,Jack Anderson,2 Seam,92.7,Called Strike,-
+5,43,2,Jared Horn,Jack Anderson,2 Seam,92,Ball,-
+5,43,3,Jared Horn,Jack Anderson,2 Seam,92.2,Swinging Strike,-
+5,43,4,Jared Horn,Jack Anderson,Curve,77.2,Called Strike,-
+5,44,1,Jared Horn,Zak Taylor,2 Seam,93,Called Strike,-
+5,44,2,Jared Horn,Zak Taylor,Curve,75.5,Called Strike,-
+5,44,3,Jared Horn,Zak Taylor,Curve,78.2,Swinging Strike,-
+5,45,1,Luke Heimlich,Tyrus Greene,Slider,79.1,Ball,-
+5,45,2,Luke Heimlich,Tyrus Greene,4 Seam,90.3,Ball,-
+5,45,3,Luke Heimlich,Tyrus Greene,4 Seam,90.9,Foul,-
+5,45,4,Luke Heimlich,Tyrus Greene,4 Seam,90.7,Ball,-
+5,45,5,Luke Heimlich,Tyrus Greene,4 Seam,89.9,Foul,-
+5,45,6,Luke Heimlich,Tyrus Greene,Cutter,91.1,Hit Into Play - Out,84.3
+5,46,1,Luke Heimlich,Darren Baker,Cutter,91.1,Called Strike,-
+5,46,2,Luke Heimlich,Darren Baker,Curve,76.2,Ball,-
+5,46,3,Luke Heimlich,Darren Baker,4 Seam,91.8,Foul,-
+5,46,4,Luke Heimlich,Darren Baker,Slider,79,Hit Into Play - Out,83.9
+5,47,1,Luke Heimlich,Andrew Vaughn,4 Seam,92,Ball,-
+5,47,2,Luke Heimlich,Andrew Vaughn,Cutter,92.2,Foul,-
+5,47,3,Luke Heimlich,Andrew Vaughn,Changeup,80.4,Foul,55.9
+5,47,4,Luke Heimlich,Andrew Vaughn,Slider,78.4,Hit Into Play,92.7
+5,48,1,Luke Heimlich,Tanner Dodson,Curve,74,Ball,-
+5,48,2,Luke Heimlich,Tanner Dodson,4 Seam,89.6,Foul,-
+5,48,3,Luke Heimlich,Tanner Dodson,Cutter,89.2,Hit Into Play - Out,-
+6,49,1,Jared Horn,Andy Armstrong,2 Seam,90.8,Hit Into Play,83.4
+6,50,1,Jared Horn,Steven Kwan,2 Seam,88.9,Called Strike,-
+6,50,2,Jared Horn,Steven Kwan,Changeup,83,Ball,-
+6,50,3,Jared Horn,Steven Kwan,2 Seam,87.8,Foul,74
+6,50,4,Jared Horn,Steven Kwan,Curve,77.3,Ball,-
+6,50,5,Jared Horn,Steven Kwan,Curve,76.6,Foul,-
+6,50,6,Jared Horn,Steven Kwan,Curve,75.6,Foul,-
+6,50,7,Jared Horn,Steven Kwan,2 Seam,92,Foul,36
+6,50,8,Jared Horn,Steven Kwan,Changeup,84.7,Hit Into Play - Out,65.9
+6,51,1,Jared Horn,Grenier Cadyn,2 Seam,91.7,Ball,-
+6,51,2,Jared Horn,Grenier Cadyn,Curve,75.2,Ball,-
+6,51,3,Jared Horn,Grenier Cadyn,4 Seam,91.4,Ball,-
+6,51,4,Jared Horn,Grenier Cadyn,2 Seam,89.1,Called Strike,-
+6,51,5,Jared Horn,Grenier Cadyn,2 Seam,91.1,Swinging Strike,-
+6,51,6,Jared Horn,Grenier Cadyn,2 Seam,91.4,Called Strike,-
+6,52,1,Jared Horn,Adley Rutschman,Curve,75.6,Called Strike,-
+6,52,2,Jared Horn,Adley Rutschman,2 Seam,93.4,Hit Into Play - Out,93.5
+6,53,1,Luke Heimlich,Tanner Dodson,Changeup,78.6,Ball,-
+6,53,2,Luke Heimlich,Tanner Dodson,Changeup,78.6,Swinging Strike,-
+6,53,3,Luke Heimlich,Tanner Dodson,4 Seam,90.1,Hit Into Play,89.1
+6,54,1,Luke Heimlich,Korey Lee,Cutter,88.9,Called Strike,-
+6,54,2,Luke Heimlich,Korey Lee,Cutter,77,Ball,-
+6,54,3,Luke Heimlich,Korey Lee,Curve,75.8,Called Strike,-
+6,54,4,Luke Heimlich,Korey Lee,4 Seam,90.8,Ball,-
+6,54,5,Luke Heimlich,Korey Lee,Curve,77.2,Swinging Strike,-
+6,55,1,Luke Heimlich,Jonah Davis,Curve,74.9,Ball,-
+6,55,2,Luke Heimlich,Jonah Davis,4 Seam,87.5,Called Strike,-
+6,55,3,Luke Heimlich,Jonah Davis,Cutter,88.2,Swinging Strike,-
+6,55,4,Luke Heimlich,Jonah Davis,Cutter,88.4,Ball,-
+6,55,5,Luke Heimlich,Jonah Davis,4 Seam,89,Hit Into Play,104.1
+6,56,1,Luke Heimlich,Sam Wezniak,Changeup,79.1,Ball,-
+6,56,2,Luke Heimlich,Sam Wezniak,4 Seam,89.7,Called Strike,-
+6,56,3,Luke Heimlich,Sam Wezniak,Curve,75.3,Hit Into Play - Out,78.5
+7,57,1,Zayne Patino,Trevor Larnach,Slider,73.9,Ball,-
+7,57,2,Zayne Patino,Trevor Larnach,Cutter,86.8,Hit Into Play - Out,85.2
+7,58,1,Zayne Patino,Michael Gretler,4 Seam,86.6,Called Strike,-
+7,58,2,Zayne Patino,Michael Gretler,Changeup,79.7,Swinging Strike,-
+7,58,3,Zayne Patino,Michael Gretler,Changeup,81.5,Foul,-
+7,58,4,Zayne Patino,Michael Gretler,4 Seam,88.1,Ball,-
+7,58,5,Zayne Patino,Michael Gretler,Cutter,78.5,Ball,-
+7,58,6,Zayne Patino,Michael Gretler,Changeup,80,Hit Into Play,91.2
+7,59,1,Zayne Patino,Preston Jones,Cutter,85.9,Ball,-
+7,59,2,Zayne Patino,Preston Jones,4 Seam,86,Foul,-
+7,59,3,Zayne Patino,Preston Jones,4 Seam,86.8,Swinging Strike,-
+7,59,4,Zayne Patino,Preston Jones,Slider,77.2,Swinging Strike,-
+7,60,1,Zayne Patino,Jack Anderson,4 Seam,87.9,Ball,-
+7,60,2,Zayne Patino,Jack Anderson,4 Seam,86.2,Ball,-
+7,60,3,Zayne Patino,Jack Anderson,Cutter,77.7,Ball,-
+7,60,4,Zayne Patino,Jack Anderson,4 Seam,86.6,Called Strike,-
+7,60,5,Zayne Patino,Jack Anderson,4 Seam,86.6,Called Strike,-
+7,60,6,Zayne Patino,Jack Anderson,Slider,78.8,Swinging Strike,-
+7,61,1,Luke Heimlich,Cameron Eden,Cutter,88.6,Called Strike,-
+7,61,2,Luke Heimlich,Cameron Eden,4 Seam,89.1,Swinging Strike,-
+7,61,3,Luke Heimlich,Cameron Eden,4 Seam,92.5,Called Strike,-
+7,62,1,Luke Heimlich,Tyrus Greene,Cutter,89.9,Hit Into Play,87.6
+7,63,1,Luke Heimlich,Darren Baker,4 Seam,89.4,Called Strike,-
+7,63,2,Luke Heimlich,Darren Baker,Curve,76,Hit Into Play - Out,58.1
+8,64,1,Zayne Patino,Zak Taylor,4 Seam,83.7,Swinging Strike,-
+8,64,2,Zayne Patino,Zak Taylor,4 Seam,84.8,Foul,-
+8,64,3,Zayne Patino,Zak Taylor,Slider,78.8,Called Strike,-
+8,65,1,Zayne Patino,Andy Armstrong,Changeup,81.1,Called Strike,-
+8,65,2,Zayne Patino,Andy Armstrong,Changeup,80.3,Foul,-
+8,65,3,Zayne Patino,Andy Armstrong,4 Seam,86.6,Ball,-
+8,65,4,Zayne Patino,Andy Armstrong,Slider,77.1,Hit Into Play - Out,53.6
+8,66,1,Zayne Patino,Steven Kwan,4 Seam,84.7,Ball,-
+8,66,2,Zayne Patino,Steven Kwan,4 Seam,85.5,Called Strike,-
+8,66,3,Zayne Patino,Steven Kwan,Slider,77.6,Ball,-
+8,66,4,Zayne Patino,Steven Kwan,4 Seam,84.4,Foul,-
+8,66,5,Zayne Patino,Steven Kwan,Cutter,87.2,Ball,-
+8,66,6,Zayne Patino,Steven Kwan,4 Seam,85,Foul,-
+8,66,7,Zayne Patino,Steven Kwan,4 Seam,86.2,Hit Into Play - Out,81.1
+8,67,1,Cade Warren,Andrew Vaughn,2 Seam,89.1,Hit Into Play,94
+8,68,1,Cade Warren,Tanner Dodson,2 Seam,88.4,Ball,-
+8,68,2,Cade Warren,Tanner Dodson,Changeup,78.1,Ball,-
+8,68,3,Cade Warren,Tanner Dodson,Changeup,78.8,Swinging Strike,-
+8,68,4,Cade Warren,Tanner Dodson,2 Seam,87.9,Hit Into Play,96
+8,69,1,Brandon Eisert,Korey Lee,Cutter,75.4,Hit Into Play - Run Scored,49.1
+8,70,1,Brandon Eisert,Jonah Davis,4 Seam,84.7,Foul,98
+8,70,2,Brandon Eisert,Jonah Davis,Cutter,80.5,Ball,-
+8,70,3,Brandon Eisert,Jonah Davis,4 Seam,86,Hit Into Play - Out,88.6
+8,71,1,Brandon Eisert,Sam Wezniak,Cutter,86.3,Foul,56
+8,71,2,Brandon Eisert,Sam Wezniak,Cutter,80.5,Ball,-
+8,71,3,Brandon Eisert,Sam Wezniak,Cutter,85.1,Foul,-
+8,71,4,Brandon Eisert,Sam Wezniak,4 Seam,83.7,Swinging Strike,-
+9,72,1,Joey Matulovich,Grenier Cadyn,Curve,79.2,Ball,-
+9,72,2,Joey Matulovich,Grenier Cadyn,2 Seam,89.7,Ball,-
+9,72,3,Joey Matulovich,Grenier Cadyn,2 Seam,87.8,Ball,-
+9,72,4,Joey Matulovich,Grenier Cadyn,2 Seam,88.9,Called Strike,-
+9,72,5,Joey Matulovich,Grenier Cadyn,2 Seam,88.6,Ball,-
+9,73,1,Joey Matulovich,Adley Rutschman,2 Seam,86.8,Hit Into Play - Out,22.6
+9,74,1,Joey Matulovich,Trevor Larnach,Changeup,73.8,Ball,-
+9,74,2,Joey Matulovich,Trevor Larnach,Changeup,77.7,Ball,-
+9,74,3,Joey Matulovich,Trevor Larnach,Changeup,74.9,Ball,-
+9,74,4,Joey Matulovich,Trevor Larnach,Changeup,73.1,Ball,-
+9,75,1,Joey Matulovich,Michael Gretler,2 Seam,87.5,Hit Into Play - Out,49
+9,76,1,Joey Matulovich,Preston Jones,2 Seam,88.2,Ball,-
+9,76,2,Joey Matulovich,Preston Jones,2 Seam,88.2,Ball,-
+9,76,3,Joey Matulovich,Preston Jones,2 Seam,87.8,Foul,82.1
+9,76,4,Joey Matulovich,Preston Jones,2 Seam,87.6,Ball,-
+9,76,5,Joey Matulovich,Preston Jones,2 Seam,88.5,Hit Into Play - Out,89.6
+9,77,1,Jake Mulholland,Max Flower,Curve,69.8,Called Strike,-
+9,77,2,Jake Mulholland,Max Flower,Cutter,86.3,Hit Into Play,97.4
+9,78,1,Jake Mulholland,Cameron Eden,Cutter,84.9,Ball,-
+9,78,2,Jake Mulholland,Cameron Eden,Cutter,86.5,Hit Into Play - Out,85.6
+9,79,1,Jake Mulholland,Tyrus Greene,Slider,71.9,Ball,-
+9,79,2,Jake Mulholland,Tyrus Greene,Cutter,85.8,Foul,-
+9,79,3,Jake Mulholland,Tyrus Greene,Slider,76.9,Foul,38
+9,79,4,Jake Mulholland,Tyrus Greene,Slider,78,Hit Into Play - Out,83
+9,80,1,Jake Mulholland,Darren Baker,Slider,71.7,Called Strike,-
+9,80,2,Jake Mulholland,Darren Baker,Slider,78.1,Ball,-
+9,80,3,Jake Mulholland,Darren Baker,Cutter,85.8,Called Strike,-
+9,80,4,Jake Mulholland,Darren Baker,Slider,79,Swinging Strike,-

@@ -1,0 +1,311 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Rogelio Reyes,John Cresto,2 Seam,89.8,Hit Into Play - Run Scored,97.1
+1,2,1,Rogelio Reyes,Joe Becht,2 Seam,88.9,Ball,-
+1,2,2,Rogelio Reyes,Joe Becht,2 Seam,89.1,Ball,-
+1,2,3,Rogelio Reyes,Joe Becht,2 Seam,89.9,Hit Into Play - Out,86
+1,3,1,Rogelio Reyes,Jake Brodt,Changeup,81.3,Foul,-
+1,3,2,Rogelio Reyes,Jake Brodt,Changeup,81.8,Hit Into Play,79.6
+1,4,1,Rogelio Reyes,Evan Haberle,Changeup,81.8,Swinging Strike,-
+1,4,2,Rogelio Reyes,Evan Haberle,2 Seam,89.3,Ball,-
+1,4,3,Rogelio Reyes,Evan Haberle,Curve,72.6,Called Strike,-
+1,4,4,Rogelio Reyes,Evan Haberle,Changeup,81,Ball,-
+1,4,5,Rogelio Reyes,Evan Haberle,Changeup,81.3,Hit Into Play - Out,83.2
+1,5,1,Rogelio Reyes,Jason Dicochea,Curve,73,Ball,-
+1,6,1,Cade Negley,Tyrus Greene,Changeup,79.2,Foul,-
+1,6,2,Cade Negley,Tyrus Greene,2 Seam,82.5,Foul,-
+1,6,3,Cade Negley,Tyrus Greene,Curve,70.9,Ball,-
+1,6,4,Cade Negley,Tyrus Greene,2 Seam,83.3,Hit Into Play - Out,-
+1,7,1,Cade Negley,Tanner Dodson,2 Seam,82.3,L,-
+1,7,2,Cade Negley,Tanner Dodson,2 Seam,83.6,Hit Into Play - Out,-
+1,8,1,Cade Negley,Andrew Vaughn,2 Seam,82.2,Ball,-
+1,8,2,Cade Negley,Andrew Vaughn,Curve,69.6,Called Strike,-
+1,8,3,Cade Negley,Andrew Vaughn,2 Seam,81.4,Foul,-
+1,8,4,Cade Negley,Andrew Vaughn,2 Seam,84,Ball,-
+1,8,5,Cade Negley,Andrew Vaughn,2 Seam,82.2,Foul,47.8
+1,8,6,Cade Negley,Andrew Vaughn,Curve,70.3,Foul,57.8
+1,8,7,Cade Negley,Andrew Vaughn,2 Seam,82.2,Foul,-
+1,8,8,Cade Negley,Andrew Vaughn,2 Seam,82.8,Hit Into Play,106.6
+1,9,1,Cade Negley,Jonah Davis,2 Seam,82.5,Ball,-
+1,9,2,Cade Negley,Jonah Davis,2 Seam,82,Foul,33.5
+1,9,3,Cade Negley,Jonah Davis,2 Seam,83.1,Foul,-
+1,9,4,Cade Negley,Jonah Davis,Curve,72,Ball,-
+1,9,5,Cade Negley,Jonah Davis,2 Seam,82.3,Ball,-
+1,9,6,Cade Negley,Jonah Davis,2 Seam,82.1,Foul,85.1
+1,9,7,Cade Negley,Jonah Davis,2 Seam,81.6,Foul,-
+1,9,8,Cade Negley,Jonah Davis,2 Seam,82.5,Hit Into Play,71.2
+1,10,1,Cade Negley,Jeff Mitchell Jr,2 Seam,82.6,Swinging Strike,-
+1,10,2,Cade Negley,Jeff Mitchell Jr,2 Seam,83.3,Ball,-
+1,10,3,Cade Negley,Jeff Mitchell Jr,2 Seam,82.4,Ball,-
+1,10,4,Cade Negley,Jeff Mitchell Jr,Changeup,81.2,Ball,-
+1,10,5,Cade Negley,Jeff Mitchell Jr,2 Seam,80.7,Swinging Strike,-
+1,10,6,Cade Negley,Jeff Mitchell Jr,Changeup,79.3,Called Strike,-
+2,11,1,Rogelio Reyes,Jason Dicochea,Changeup,81.1,Foul,-
+2,11,2,Rogelio Reyes,Jason Dicochea,2 Seam,89.7,Ball,-
+2,11,3,Rogelio Reyes,Jason Dicochea,Curve,73.4,Ball,-
+2,11,4,Rogelio Reyes,Jason Dicochea,Changeup,79.1,Ball,-
+2,11,5,Rogelio Reyes,Jason Dicochea,2 Seam,88.3,Ball,-
+2,12,1,Rogelio Reyes,Matt Smithwick,2 Seam,89,Hit Into Play,31.3
+2,13,1,Rogelio Reyes,Jake MacNichols,2 Seam,88.6,Ball,-
+2,13,2,Rogelio Reyes,Jake MacNichols,2 Seam,88,Ball,-
+2,13,3,Rogelio Reyes,Jake MacNichols,Changeup,81.8,Ball,-
+2,13,4,Rogelio Reyes,Jake MacNichols,2 Seam,87.8,Hit Into Play - Run Scored,97.7
+2,14,1,Arman Sabouri,Cory Moore,4 Seam,86.1,Ball,-
+2,14,2,Arman Sabouri,Cory Moore,Curve,74.8,Ball,-
+2,14,3,Arman Sabouri,Cory Moore,4 Seam,85.3,Called Strike,-
+2,14,4,Arman Sabouri,Cory Moore,4 Seam,84.9,Hit Into Play - Out,49.9
+2,15,1,Arman Sabouri,Niko Holm,4 Seam,86.2,Ball,-
+2,15,2,Arman Sabouri,Niko Holm,4 Seam,86.6,Ball,-
+2,15,3,Arman Sabouri,Niko Holm,4 Seam,85.7,Called Strike,-
+2,15,4,Arman Sabouri,Niko Holm,4 Seam,86.3,Ball,-
+2,15,5,Arman Sabouri,Niko Holm,4 Seam,85,Called Strike,-
+2,15,6,Arman Sabouri,Niko Holm,4 Seam,86.7,Foul,-
+2,15,7,Arman Sabouri,Niko Holm,4 Seam,88.9,Ball,-
+2,16,1,Arman Sabouri,John Cresto,Slider,77.8,Ball,-
+2,16,2,Arman Sabouri,John Cresto,4 Seam,86.8,Swinging Strike,-
+2,16,3,Arman Sabouri,John Cresto,Slider,77,Foul,-
+2,16,4,Arman Sabouri,John Cresto,4 Seam,89.3,Foul,-
+2,16,5,Arman Sabouri,John Cresto,Slider,77.1,Hit Into Play - Out,84.2
+2,17,1,Arman Sabouri,Joe Becht,2 Seam,87,Called Strike,-
+2,18,1,Cade Negley,Sam Wezniak,2 Seam,80.3,Swinging Strike,-
+2,18,2,Cade Negley,Sam Wezniak,Changeup,79.3,Ball,-
+2,18,3,Cade Negley,Sam Wezniak,2 Seam,82.6,Ball,-
+2,18,4,Cade Negley,Sam Wezniak,2 Seam,80.3,Ball,-
+2,18,5,Cade Negley,Sam Wezniak,2 Seam,81.6,Ball,-
+2,19,2,Cade Negley,Darren Baker,Changeup,80.2,Called Strike,-
+2,19,3,Cade Negley,Darren Baker,2 Seam,80.8,Foul,-
+2,19,4,Cade Negley,Darren Baker,Curve,68.7,Ball,-
+2,19,5,Cade Negley,Darren Baker,Changeup,81.3,Hit Into Play - Out,72.9
+2,20,1,Cade Negley,Korey Lee,2 Seam,81.4,Called Strike,-
+2,20,2,Cade Negley,Korey Lee,2 Seam,80.9,Hit Into Play - Out,84.7
+2,21,1,Cade Negley,Cameron Eden,Curve,70,Called Strike,-
+2,21,2,Cade Negley,Cameron Eden,2 Seam,82.2,Ball,-
+2,21,3,Cade Negley,Cameron Eden,2 Seam,81.5,Foul,92.3
+2,21,4,Cade Negley,Cameron Eden,2 Seam,83.9,Ball,-
+2,21,5,Cade Negley,Cameron Eden,Curve,69.4,Ball,-
+2,21,6,Cade Negley,Cameron Eden,Curve,70.6,Ball,-
+2,22,1,Cade Negley,Tyrus Greene,2 Seam,82.8,Called Strike,-
+2,22,2,Cade Negley,Tyrus Greene,2 Seam,83,Ball,-
+2,22,3,Cade Negley,Tyrus Greene,2 Seam,83.9,Hit Into Play - Run Scored,80.4
+2,23,1,Cade Negley,Tanner Dodson,2 Seam,82.4,Ball,-
+2,23,2,Cade Negley,Tanner Dodson,2 Seam,81.9,Hit Into Play - Out,77.4
+3,24,1,Arman Sabouri,Joe Becht,Curve,72.9,Called Strike,-
+3,24,2,Arman Sabouri,Joe Becht,4 Seam,86,Foul,-
+3,24,3,Arman Sabouri,Joe Becht,Curve,74.2,Ball,-
+3,24,4,Arman Sabouri,Joe Becht,4 Seam,87.7,Ball,-
+3,24,5,Arman Sabouri,Joe Becht,4 Seam,86.2,Foul,-
+3,24,6,Arman Sabouri,Joe Becht,Slider,76.5,Swinging Strike,-
+3,25,1,Arman Sabouri,Jake Brodt,Cutter,77.8,Swinging Strike,-
+3,25,2,Arman Sabouri,Jake Brodt,4 Seam,88.5,Called Strike,-
+3,25,3,Arman Sabouri,Jake Brodt,Slider,76.2,Called Strike,-
+3,26,1,Arman Sabouri,Evan Haberle,4 Seam,86.8,Ball,-
+3,26,2,Arman Sabouri,Evan Haberle,4 Seam,87.2,Ball,-
+3,26,3,Arman Sabouri,Evan Haberle,4 Seam,86.3,Swinging Strike,-
+3,26,4,Arman Sabouri,Evan Haberle,4 Seam,87.7,Foul,66.9
+3,26,5,Arman Sabouri,Evan Haberle,Slider,77.2,Swinging Strike,-
+3,27,1,Cade Negley,Andrew Vaughn,Curve,68.2,Ball,-
+3,27,2,Cade Negley,Andrew Vaughn,2 Seam,80.8,Foul,57.9
+3,27,3,Cade Negley,Andrew Vaughn,2 Seam,81.7,Called Strike,-
+3,27,4,Cade Negley,Andrew Vaughn,2 Seam,80.9,Hit Into Play,104.2
+3,28,1,Cade Negley,Jonah Davis,2 Seam,84.3,Ball,-
+3,28,2,Cade Negley,Jonah Davis,2 Seam,81.7,Ball,-
+3,28,3,Cade Negley,Jonah Davis,Changeup,79.4,Ball,-
+3,28,4,Cade Negley,Jonah Davis,Changeup,80.1,Hit Into Play - Run Scored,107.9
+3,29,1,Cade Negley,Jeff Mitchell Jr,Changeup,79.3,Called Strike,-
+3,29,2,Cade Negley,Jeff Mitchell Jr,2 Seam,80.9,Ball,-
+3,29,3,Cade Negley,Jeff Mitchell Jr,2 Seam,81.1,Hit Into Play - Out,56
+3,30,1,Cade Negley,Sam Wezniak,2 Seam,80.7,Foul,-
+3,30,2,Cade Negley,Sam Wezniak,2 Seam,81.1,Ball,-
+3,30,3,Cade Negley,Sam Wezniak,2 Seam,80.4,Ball,-
+3,30,4,Cade Negley,Sam Wezniak,Changeup,77.6,Foul,-
+3,30,5,Cade Negley,Sam Wezniak,2 Seam,80.8,Foul,-
+3,30,6,Cade Negley,Sam Wezniak,2 Seam,81.7,Swinging Strike,-
+3,31,1,Cade Negley,Darren Baker,2 Seam,81.7,Hit Into Play - Out,38
+4,32,1,Arman Sabouri,Jason Dicochea,4 Seam,86.7,Ball,-
+4,32,2,Arman Sabouri,Jason Dicochea,Changeup,77.6,Called Strike,-
+4,32,3,Arman Sabouri,Jason Dicochea,Changeup,78.5,Ball,-
+4,32,4,Arman Sabouri,Jason Dicochea,4 Seam,87.1,Hit Into Play - Out,94
+4,33,1,Arman Sabouri,Matt Smithwick,4 Seam,87.1,Called Strike,-
+4,33,2,Arman Sabouri,Matt Smithwick,2 Seam,87.3,Ball,-
+4,33,3,Arman Sabouri,Matt Smithwick,Slider,76.7,Called Strike,-
+4,33,4,Arman Sabouri,Matt Smithwick,4 Seam,88,Foul,27.6
+4,33,5,Arman Sabouri,Matt Smithwick,Changeup,80.2,Ball,-
+4,33,6,Arman Sabouri,Matt Smithwick,4 Seam,88.2,Swinging Strike,-
+4,34,1,Arman Sabouri,Jake MacNichols,Changeup,79.8,Ball,-
+4,34,2,Arman Sabouri,Jake MacNichols,4 Seam,88.1,Called Strike,-
+4,34,3,Arman Sabouri,Jake MacNichols,Curve,75.7,Foul,-
+4,34,4,Arman Sabouri,Jake MacNichols,4 Seam,88.9,Swinging Strike,-
+4,35,1,Michael Praszker,Korey Lee,Curve,73.7,Ball,-
+4,35,2,Michael Praszker,Korey Lee,2 Seam,86.8,Ball,-
+4,35,3,Michael Praszker,Korey Lee,2 Seam,87.4,Foul,-
+4,35,4,Michael Praszker,Korey Lee,2 Seam,88.4,Foul,68.1
+4,35,5,Michael Praszker,Korey Lee,4 Seam,88.3,Called Strike,-
+4,36,1,Michael Praszker,Cameron Eden,Curve,74.3,Ball,-
+4,36,2,Michael Praszker,Cameron Eden,Slider,76,Ball,-
+4,36,3,Michael Praszker,Cameron Eden,Slider,76.5,Swinging Strike,-
+4,36,4,Michael Praszker,Cameron Eden,2 Seam,89.4,Called Strike,-
+4,36,5,Michael Praszker,Cameron Eden,2 Seam,90,Ball,-
+4,36,6,Michael Praszker,Cameron Eden,Slider,77.9,Ball,-
+4,37,1,Michael Praszker,Tyrus Greene,2 Seam,86.5,Hit Into Play - Out,70.3
+4,38,1,Michael Praszker,Tanner Dodson,Curve,72.9,Called Strike,-
+4,38,2,Michael Praszker,Tanner Dodson,2 Seam,85.2,Hit Into Play - Out,61
+5,39,1,Arman Sabouri,Ryan McCarthy,Changeup,78.5,Called Strike,-
+5,39,2,Arman Sabouri,Ryan McCarthy,4 Seam,88.1,Ball,-
+5,39,3,Arman Sabouri,Ryan McCarthy,4 Seam,86.1,Hit Into Play - Out,80.9
+5,40,1,Arman Sabouri,Niko Holm,4 Seam,87.3,Called Strike,-
+5,40,2,Arman Sabouri,Niko Holm,Cutter,88,Foul,-
+5,40,3,Arman Sabouri,Niko Holm,Curve,75.6,Hit Into Play,66.7
+5,41,1,Arman Sabouri,John Cresto,4 Seam,87.2,Called Strike,-
+5,41,2,Arman Sabouri,John Cresto,Changeup,78.8,Hit Into Play,78
+5,42,1,Arman Sabouri,Joe Becht,4 Seam,87.3,Hit Into Play - Run Scored,34.3
+5,43,1,Arman Sabouri,Jake Brodt,4 Seam,87.8,Hit Into Play - Run Scored,94.8
+5,44,1,Arman Sabouri,Evan Haberle,Slider,76.6,Called Strike,-
+5,44,2,Arman Sabouri,Evan Haberle,Slider,75.3,Swinging Strike,-
+5,44,3,Arman Sabouri,Evan Haberle,4 Seam,88.3,Ball,-
+5,44,4,Arman Sabouri,Evan Haberle,2 Seam,87.5,Called Strike,-
+5,45,1,Arman Sabouri,Jason Dicochea,4 Seam,87.4,Ball,-
+5,45,2,Arman Sabouri,Jason Dicochea,2 Seam,86.4,Hit Into Play - Out,61.9
+5,46,1,Michael Praszker,Andrew Vaughn,Slider,75.1,Called Strike,-
+5,46,2,Michael Praszker,Andrew Vaughn,Curve,77.6,Ball,-
+5,46,3,Michael Praszker,Andrew Vaughn,Curve,75.3,Ball,-
+5,46,4,Michael Praszker,Andrew Vaughn,Slider,76.5,Called Strike,-
+5,46,5,Michael Praszker,Andrew Vaughn,2 Seam,87,Foul,-
+5,46,6,Michael Praszker,Andrew Vaughn,Slider,79.6,Hit Into Play - Out,90.2
+5,47,1,Michael Praszker,Jonah Davis,Curve,74.5,Called Strike,-
+5,47,2,Michael Praszker,Jonah Davis,Curve,75.1,Hit Into Play - Out,56.5
+5,48,1,Michael Praszker,Jeff Mitchell Jr,Curve,74,Called Strike,-
+5,48,2,Michael Praszker,Jeff Mitchell Jr,Curve,73.2,Called Strike,-
+5,48,3,Michael Praszker,Jeff Mitchell Jr,2 Seam,86.3,Ball,-
+5,48,4,Michael Praszker,Jeff Mitchell Jr,Slider,78,Swinging Strike,-
+6,49,1,Joey Matulovich,Matt Smithwick,2 Seam,89.4,Ball,-
+6,49,2,Joey Matulovich,Matt Smithwick,2 Seam,87.7,Foul,102.7
+6,49,3,Joey Matulovich,Matt Smithwick,2 Seam,89.6,Swinging Strike,-
+6,49,4,Joey Matulovich,Matt Smithwick,2 Seam,90.3,Called Strike,-
+6,50,1,Joey Matulovich,Jake MacNichols,Curve,78.3,Ball,-
+6,50,2,Joey Matulovich,Jake MacNichols,4 Seam,88.8,Ball,-
+6,50,3,Joey Matulovich,Jake MacNichols,2 Seam,89,Foul,-
+6,50,4,Joey Matulovich,Jake MacNichols,2 Seam,90.4,Ball,-
+6,50,5,Joey Matulovich,Jake MacNichols,2 Seam,88.7,Ball,-
+6,51,1,Joey Matulovich,Austin Reyes,2 Seam,88,Hit Into Play - Out,22.9
+6,52,1,Joey Matulovich,Niko Holm,Slider,78.4,Ball,-
+6,52,2,Joey Matulovich,Niko Holm,2 Seam,87,Called Strike,-
+6,52,3,Joey Matulovich,Niko Holm,2 Seam,88.4,Foul,-
+6,52,4,Joey Matulovich,Niko Holm,Slider,79.1,Ball,-
+6,52,5,Joey Matulovich,Niko Holm,Slider,76.7,Foul,-
+6,52,6,Joey Matulovich,Niko Holm,Curve,77.4,Ball,-
+6,52,7,Joey Matulovich,Niko Holm,2 Seam,88.1,Foul,-
+6,52,8,Joey Matulovich,Niko Holm,2 Seam,87.8,Foul,-
+6,52,9,Joey Matulovich,Niko Holm,2 Seam,88.3,Hit Into Play - Out,-
+6,53,1,Michael Praszker,Sam Wezniak,Changeup,78.5,Called Strike,-
+6,53,2,Michael Praszker,Sam Wezniak,2 Seam,88.2,Hit Into Play - Out,55.8
+6,54,1,Michael Praszker,Darren Baker,Curve,73.5,Called Strike,-
+6,54,2,Michael Praszker,Darren Baker,Curve,73.7,Ball,-
+6,54,3,Michael Praszker,Darren Baker,Curve,73.1,Called Strike,-
+6,54,4,Michael Praszker,Darren Baker,2 Seam,89.3,Ball,-
+6,54,5,Michael Praszker,Darren Baker,Curve,73.9,Called Strike,-
+6,55,1,Michael Praszker,Korey Lee,2 Seam,87.9,Ball,-
+6,55,2,Michael Praszker,Korey Lee,2 Seam,86,Ball,-
+6,55,3,Michael Praszker,Korey Lee,2 Seam,84.6,Ball,-
+6,55,4,Michael Praszker,Korey Lee,2 Seam,86,Called Strike,-
+6,55,5,Michael Praszker,Korey Lee,2 Seam,87,Ball,-
+6,56,1,Michael Praszker,Cameron Eden,Slider,75.8,Called Strike,-
+6,56,2,Michael Praszker,Cameron Eden,2 Seam,86.6,Ball,-
+6,56,3,Michael Praszker,Cameron Eden,Curve,70.6,Ball,-
+6,56,4,Michael Praszker,Cameron Eden,Curve,76.5,Swinging Strike,-
+6,56,5,Michael Praszker,Cameron Eden,Changeup,79.8,Ball,-
+6,56,6,Michael Praszker,Cameron Eden,Slider,76.4,Swinging Strike,-
+7,57,1,Joey Matulovich,John Cresto,Changeup,79.3,Ball,-
+7,57,2,Joey Matulovich,John Cresto,2 Seam,86.4,Foul,-
+7,57,3,Joey Matulovich,John Cresto,2 Seam,88.3,Called Strike,-
+7,57,4,Joey Matulovich,John Cresto,Slider,78.8,Foul,-
+7,57,5,Joey Matulovich,John Cresto,Slider,77.8,Hit Into Play - Out,85.7
+7,58,1,Joey Matulovich,Joe Becht,4 Seam,86.9,Swinging Strike,-
+7,58,2,Joey Matulovich,Joe Becht,Slider,75.9,Ball,-
+7,58,3,Joey Matulovich,Joe Becht,2 Seam,88.4,Swinging Strike,-
+7,58,4,Joey Matulovich,Joe Becht,4 Seam,88.4,Hit Into Play - Out,36
+7,59,1,Joey Matulovich,Jake Brodt,2 Seam,89.5,Called Strike,-
+7,59,2,Joey Matulovich,Jake Brodt,Slider,78.5,Ball,-
+7,59,3,Joey Matulovich,Jake Brodt,2 Seam,88.9,Foul Tip,-
+7,59,4,Joey Matulovich,Jake Brodt,2 Seam,88.8,Swinging Strike,-
+7,60,1,Alex Waldsmith,Tyrus Greene,2 Seam,86.3,Hit Into Play - Out,-
+7,61,1,Alex Waldsmith,Tanner Dodson,2 Seam,87.2,Ball,-
+7,61,2,Alex Waldsmith,Tanner Dodson,2 Seam,87.1,Foul,-
+7,61,3,Alex Waldsmith,Tanner Dodson,Changeup,80.3,Ball,-
+7,61,4,Alex Waldsmith,Tanner Dodson,2 Seam,81,Foul,-
+7,61,5,Alex Waldsmith,Tanner Dodson,2 Seam,81.1,Ball,-
+7,61,6,Alex Waldsmith,Tanner Dodson,2 Seam,80.4,Swinging Strike,-
+7,62,1,Alex Waldsmith,Andrew Vaughn,Changeup,79.7,Swinging Strike,-
+7,62,2,Alex Waldsmith,Andrew Vaughn,2 Seam,80.9,Swinging Strike,-
+7,62,3,Alex Waldsmith,Andrew Vaughn,Changeup,81.1,Foul,-
+7,62,4,Alex Waldsmith,Andrew Vaughn,2 Seam,87.5,Ball,-
+7,62,5,Alex Waldsmith,Andrew Vaughn,2 Seam,81.6,Ball,-
+7,62,6,Alex Waldsmith,Andrew Vaughn,Changeup,80.2,Hit Into Play - Run Scored,104.4
+7,63,1,Alex Waldsmith,Jonah Davis,Changeup,79.4,Called Strike,-
+7,63,2,Alex Waldsmith,Jonah Davis,Changeup,80.6,Ball,-
+7,63,3,Alex Waldsmith,Jonah Davis,2 Seam,80.8,Hit Into Play,91.6
+7,64,1,Alex Waldsmith,Jeff Mitchell Jr,2 Seam,85.4,Ball,-
+7,64,2,Alex Waldsmith,Jeff Mitchell Jr,Changeup,79.8,Hit Into Play - Out,92.3
+8,65,1,Joey Matulovich,Evan Haberle,2 Seam,88.2,Foul,-
+8,65,2,Joey Matulovich,Evan Haberle,2 Seam,87.8,Foul,-
+8,65,3,Joey Matulovich,Evan Haberle,2 Seam,88.2,Foul,-
+8,65,4,Joey Matulovich,Evan Haberle,4 Seam,89.1,Foul,-
+8,65,5,Joey Matulovich,Evan Haberle,2 Seam,89.5,Foul,-
+8,65,6,Joey Matulovich,Evan Haberle,2 Seam,89,Foul,-
+8,65,7,Joey Matulovich,Evan Haberle,2 Seam,87.3,Called Strike,-
+8,66,1,Joey Matulovich,Jason Dicochea,2 Seam,87.9,Called Strike,-
+8,66,2,Joey Matulovich,Jason Dicochea,2 Seam,88.6,Foul,-
+8,66,3,Joey Matulovich,Jason Dicochea,Slider,77.1,Hit Into Play,91.1
+8,67,1,Joey Matulovich,Matt Smithwick,2 Seam,86.5,Foul,-
+8,67,2,Joey Matulovich,Matt Smithwick,2 Seam,86.6,Ball,-
+8,67,3,Joey Matulovich,Matt Smithwick,2 Seam,87.2,Foul,-
+8,67,4,Joey Matulovich,Matt Smithwick,2 Seam,88.1,Ball,-
+8,67,5,Joey Matulovich,Matt Smithwick,2 Seam,88.8,Swinging Strike,-
+8,68,1,Joey Matulovich,Jake MacNichols,2 Seam,87.8,Foul,-
+8,68,2,Joey Matulovich,Jake MacNichols,2 Seam,87.8,Ball,-
+8,68,3,Joey Matulovich,Jake MacNichols,Slider,76.9,Ball,-
+8,68,4,Joey Matulovich,Jake MacNichols,2 Seam,88,Ball,-
+8,69,2,Penn Murfee,Sam Wezniak,2 Seam,87.7,Ball,-
+8,69,3,Penn Murfee,Sam Wezniak,2 Seam,87.6,Called Strike,-
+8,69,4,Penn Murfee,Sam Wezniak,2 Seam,87.5,Ball,-
+8,69,5,Penn Murfee,Sam Wezniak,2 Seam,86.8,Hit Into Play - Out,-
+8,70,1,Penn Murfee,Darren Baker,2 Seam,87.9,Foul,-
+8,70,2,Penn Murfee,Darren Baker,2 Seam,86.1,Hit Into Play - Out,-
+8,71,1,Penn Murfee,Korey Lee,2 Seam,87,Called Strike,-
+8,71,2,Penn Murfee,Korey Lee,Curve,74.6,Ball,-
+8,71,3,Penn Murfee,Korey Lee,2 Seam,86.5,Ball,-
+8,71,4,Penn Murfee,Korey Lee,2 Seam,87.1,Ball,-
+8,71,5,Penn Murfee,Korey Lee,2 Seam,86.1,Foul,-
+8,71,6,Penn Murfee,Korey Lee,2 Seam,86.7,Foul,41.1
+8,71,7,Penn Murfee,Korey Lee,2 Seam,85.5,Ball,-
+8,72,1,Penn Murfee,Quentin Selma,2 Seam,85.9,Ball,-
+8,72,2,Penn Murfee,Quentin Selma,2 Seam,86.4,Ball,-
+8,72,3,Penn Murfee,Quentin Selma,2 Seam,85.9,Ball,-
+8,72,4,Penn Murfee,Quentin Selma,2 Seam,84.7,Called Strike,-
+8,72,5,Penn Murfee,Quentin Selma,2 Seam,84.8,Hit Into Play - Out,92.9
+9,73,1,Joey Matulovich,Jake MacNichols,Slider,77.1,Ball,-
+9,73,2,Joey Matulovich,Jake MacNichols,2 Seam,85.8,Ball,-
+9,73,3,Joey Matulovich,Jake MacNichols,4 Seam,87.6,Ball,-
+9,73,4,Joey Matulovich,Jake MacNichols,4 Seam,87.1,Swinging Strike,-
+9,73,5,Joey Matulovich,Jake MacNichols,2 Seam,88,Swinging Strike,-
+9,73,6,Joey Matulovich,Jake MacNichols,2 Seam,88.6,Foul,-
+9,73,7,Joey Matulovich,Jake MacNichols,2 Seam,86.7,Hit Into Play - Out,-
+9,74,1,Joey Matulovich,Austin Reyes,2 Seam,88.2,Called Strike,-
+9,74,2,Joey Matulovich,Austin Reyes,2 Seam,86.9,Ball,-
+9,74,3,Joey Matulovich,Austin Reyes,2 Seam,87.5,Called Strike,-
+9,74,4,Joey Matulovich,Austin Reyes,Slider,78.9,Hit Into Play - Out,72.6
+9,75,1,Joey Matulovich,Niko Holm,2 Seam,90.1,Hit Into Play,90.3
+9,76,1,Joey Matulovich,John Cresto,Slider,77.5,Foul,-
+9,76,2,Joey Matulovich,John Cresto,2 Seam,87.3,Called Strike,-
+9,76,3,Joey Matulovich,John Cresto,Slider,77.3,Swinging Strike,-
+9,77,1,Steven Wilson,Tyrus Greene,2 Seam,90.5,Ball,-
+9,77,2,Steven Wilson,Tyrus Greene,2 Seam,90.2,Called Strike,-
+9,77,3,Steven Wilson,Tyrus Greene,2 Seam,90.5,Foul,-
+9,77,4,Steven Wilson,Tyrus Greene,2 Seam,91.3,Ball,-
+9,77,5,Steven Wilson,Tyrus Greene,2 Seam,90.8,Hit Into Play - Out,93.8
+9,78,1,Steven Wilson,Tanner Dodson,2 Seam,91.1,Hit Into Play - Out,63
+9,79,1,Steven Wilson,Andrew Vaughn,Cutter,80,Called Strike,-
+9,79,2,Steven Wilson,Andrew Vaughn,2 Seam,88,Hit Into Play,97.9
+9,80,1,Steven Wilson,Jonah Davis,Slider,79.3,Swinging Strike,-
+9,80,2,Steven Wilson,Jonah Davis,Slider,76.8,Ball,-
+9,80,3,Steven Wilson,Jonah Davis,2 Seam,90.6,Called Strike,-
+9,80,4,Steven Wilson,Jonah Davis,2 Seam,90.3,Ball,-
+9,80,5,Steven Wilson,Jonah Davis,Slider,80,Swinging Strike,-

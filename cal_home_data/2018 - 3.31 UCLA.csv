@@ -1,0 +1,279 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Aaron Shortridge,Daniel Amaral,-,89.6,Called Strike,-
+1,1,2,Aaron Shortridge,Daniel Amaral,-,90.9,Ball,-
+1,1,3,Aaron Shortridge,Daniel Amaral,-,80.5,Ball,-
+1,1,4,Aaron Shortridge,Daniel Amaral,-,89.9,Called Strike,-
+1,1,5,Aaron Shortridge,Daniel Amaral,-,89.9,Foul,-
+1,1,6,Aaron Shortridge,Daniel Amaral,-,91.1,Ball,-
+1,1,7,Aaron Shortridge,Daniel Amaral,-,91.2,Hit Into Play - Out,96.8
+1,2,1,Aaron Shortridge,Kevin Kendall,-,91.7,Called Strike,-
+1,2,2,Aaron Shortridge,Kevin Kendall,-,81.8,Ball,-
+1,2,3,Aaron Shortridge,Kevin Kendall,-,90.9,Called Strike,-
+1,2,4,Aaron Shortridge,Kevin Kendall,-,91.8,Hit Into Play - Out,-
+1,3,1,Aaron Shortridge,Jack Stronach,-,91.8,Called Strike,-
+1,3,2,Aaron Shortridge,Jack Stronach,-,90.5,Foul,-
+1,3,3,Aaron Shortridge,Jack Stronach,-,90.8,Foul,-
+1,3,4,Aaron Shortridge,Jack Stronach,-,90.8,Foul,-
+1,3,5,Aaron Shortridge,Jack Stronach,-,82.5,Hit Into Play - Out,-
+1,4,1,Jack Ralston,Tyrus Greene,-,89,Called Strike,-
+1,4,2,Jack Ralston,Tyrus Greene,-,89.3,Swinging Strike,-
+1,4,3,Jack Ralston,Tyrus Greene,-,89,Ball,-
+1,4,4,Jack Ralston,Tyrus Greene,-,89.1,Ball,-
+1,4,5,Jack Ralston,Tyrus Greene,-,88.1,Foul,-
+1,4,6,Jack Ralston,Tyrus Greene,-,88.3,Ball,-
+1,4,7,Jack Ralston,Tyrus Greene,-,90.2,Foul,-
+1,4,8,Jack Ralston,Tyrus Greene,-,88.6,Hit Into Play - Out,-
+1,5,1,Jack Ralston,Tanner Dodson,-,72.4,Ball,-
+1,5,2,Jack Ralston,Tanner Dodson,-,88.4,Swinging Strike,-
+1,5,3,Jack Ralston,Tanner Dodson,-,88.4,Hit Into Play,-
+1,6,1,Jack Ralston,Andrew Vaughn,-,89.3,Ball,-
+1,6,2,Jack Ralston,Andrew Vaughn,-,89.4,Foul,-
+1,6,3,Jack Ralston,Andrew Vaughn,-,86.9,Ball,-
+1,6,4,Jack Ralston,Andrew Vaughn,-,87.5,Ball,-
+1,6,5,Jack Ralston,Andrew Vaughn,-,89.4,Hit Into Play - Run Scored,-
+1,7,1,Jack Ralston,Jonah Davis,-,89.5,Swinging Strike,-
+1,7,2,Jack Ralston,Jonah Davis,-,89.6,Swinging Strike,-
+1,7,3,Jack Ralston,Jonah Davis,-,88.3,Called Strike,-
+1,8,1,Jack Ralston,Jeffery Mitchell Jr.,-,72.2,Called Strike,-
+1,8,2,Jack Ralston,Jeffery Mitchell Jr.,-,89.9,Ball,-
+1,8,3,Jack Ralston,Jeffery Mitchell Jr.,-,72.9,Called Strike,-
+1,8,4,Jack Ralston,Jeffery Mitchell Jr.,-,88.7,Swinging Strike,-
+2,9,1,Aaron Shortridge,Chase Strumpf,-,89.5,Hit Into Play,97.2
+2,10,1,Aaron Shortridge,Michael Toglia,-,78.4,Called Strike,-
+2,10,2,Aaron Shortridge,Michael Toglia,-,78.3,Foul Tip,-
+2,10,3,Aaron Shortridge,Michael Toglia,-,88,Ball,-
+2,10,4,Aaron Shortridge,Michael Toglia,-,77,Foul,94.7
+2,10,5,Aaron Shortridge,Michael Toglia,-,79.2,Hit Into Play - Out,-
+2,11,1,Aaron Shortridge,RJ Teijeiro,-,89.4,Hit Into Play - Out,-
+2,12,1,Aaron Shortridge,Jake Hirabayashi,-,89.5,Called Strike,-
+2,12,2,Aaron Shortridge,Jake Hirabayashi,-,88,Swinging Strike,-
+2,12,3,Aaron Shortridge,Jake Hirabayashi,-,77.1,Foul,-
+2,12,4,Aaron Shortridge,Jake Hirabayashi,-,76.7,Ball,-
+2,12,5,Aaron Shortridge,Jake Hirabayashi,-,89.4,Swinging Strike,-
+2,13,1,Jack Ralston,Sam Wezniak,-,87.8,Hit Into Play - Out,48.7
+2,14,1,Jack Ralston,Darren Baker,-,88.2,Hit Into Play - Out,-
+2,15,1,Jack Ralston,Max Flower,-,88.6,Ball,-
+2,15,2,Jack Ralston,Max Flower,-,87,Called Strike,-
+2,15,3,Jack Ralston,Max Flower,-,88.4,Ball,-
+2,15,4,Jack Ralston,Max Flower,-,86.7,Ball,-
+2,15,5,Jack Ralston,Max Flower,-,87.3,Hit Into Play,82.9
+2,16,1,Jack Ralston,Ripken Reyes,-,85.6,Ball,-
+2,16,2,Jack Ralston,Ripken Reyes,-,88,Called Strike,-
+2,16,3,Jack Ralston,Ripken Reyes,-,88.1,Ball,-
+2,16,4,Jack Ralston,Ripken Reyes,-,86.5,Hit Into Play - Out,-
+3,17,1,Aaron Shortridge,Garrett Mitchell,-,88.9,Ball,-
+3,17,2,Aaron Shortridge,Garrett Mitchell,-,89.4,Foul,-
+3,17,3,Aaron Shortridge,Garrett Mitchell,-,89.7,Ball,-
+3,17,4,Aaron Shortridge,Garrett Mitchell,-,89.4,Hit Into Play,49.2
+3,18,1,Aaron Shortridge,Daniel Rosica,-,87.1,Ball,-
+3,18,2,Aaron Shortridge,Daniel Rosica,-,87.4,Hit Into Play - Out,25
+3,19,1,Aaron Shortridge,Daniel Amaral,-,88.8,Called Strike,-
+3,19,2,Aaron Shortridge,Daniel Amaral,-,76.6,Ball,-
+3,19,3,Aaron Shortridge,Daniel Amaral,-,88.6,Hit Into Play - Out,88.3
+3,20,1,Aaron Shortridge,Kevin Kendall,-,89.2,Called Strike,-
+3,20,2,Aaron Shortridge,Kevin Kendall,-,89.9,Hit By Pitch,-
+3,21,1,Aaron Shortridge,Jack Stronach,-,89,Called Strike,-
+3,21,2,Aaron Shortridge,Jack Stronach,-,79.9,Ball,-
+3,21,3,Aaron Shortridge,Jack Stronach,-,79.7,Foul,-
+3,21,4,Aaron Shortridge,Jack Stronach,-,90.1,Called Strike,-
+3,22,1,Jack Ralston,Tyrus Greene,-,81.1,Ball,-
+3,22,2,Jack Ralston,Tyrus Greene,-,86.4,Ball,-
+3,22,3,Jack Ralston,Tyrus Greene,-,87.5,Swinging Strike,-
+3,22,4,Jack Ralston,Tyrus Greene,-,86.7,Called Strike,-
+3,22,5,Jack Ralston,Tyrus Greene,-,88.7,Hit Into Play,96.6
+3,23,1,Ryan Garcia,Tanner Dodson,-,76.9,Swinging Strike,-
+3,23,2,Ryan Garcia,Tanner Dodson,-,77.6,Foul,-
+3,23,3,Ryan Garcia,Tanner Dodson,-,87.5,Hit Into Play - Out,58.2
+3,24,1,Ryan Garcia,Andrew Vaughn,-,77.3,Called Strike,-
+3,24,2,Ryan Garcia,Andrew Vaughn,-,88.2,Ball,-
+3,24,3,Ryan Garcia,Andrew Vaughn,-,86.7,Hit Into Play - Out,88.8
+3,25,1,Ryan Garcia,Jonah Davis,-,87.8,Swinging Strike,-
+3,25,2,Ryan Garcia,Jonah Davis,-,87.9,Ball,-
+3,25,3,Ryan Garcia,Jonah Davis,-,86.9,Swinging Strike,-
+3,25,4,Ryan Garcia,Jonah Davis,-,89.7,Foul,-
+3,25,5,Ryan Garcia,Jonah Davis,-,88.1,Foul,88.1
+3,25,6,Ryan Garcia,Jonah Davis,-,88.4,Called Strike,-
+4,26,1,Aaron Shortridge,Chase Strumpf,-,77.6,Ball,-
+4,26,2,Aaron Shortridge,Chase Strumpf,-,88.7,Foul,-
+4,26,3,Aaron Shortridge,Chase Strumpf,-,75.6,Ball,-
+4,26,4,Aaron Shortridge,Chase Strumpf,-,88.6,Ball,-
+4,26,5,Aaron Shortridge,Chase Strumpf,-,88.7,Called Strike,-
+4,26,6,Aaron Shortridge,Chase Strumpf,-,89.6,Hit Into Play - Out,95.5
+4,27,1,Aaron Shortridge,Michael Toglia,-,89.4,Ball,-
+4,27,2,Aaron Shortridge,Michael Toglia,-,88.7,Called Strike,-
+4,27,3,Aaron Shortridge,Michael Toglia,-,89.1,Foul,-
+4,27,4,Aaron Shortridge,Michael Toglia,-,77.5,Foul,-
+4,27,5,Aaron Shortridge,Michael Toglia,-,90.3,Foul,-
+4,27,6,Aaron Shortridge,Michael Toglia,-,80.7,Foul,-
+4,27,7,Aaron Shortridge,Michael Toglia,-,82.2,Ball,-
+4,27,8,Aaron Shortridge,Michael Toglia,-,90.2,Hit Into Play,66.6
+4,28,1,Aaron Shortridge,RJ Teijeiro,-,87.3,Called Strike,-
+4,28,2,Aaron Shortridge,RJ Teijeiro,-,87.7,Hit Into Play - Out,68.4
+4,29,1,Aaron Shortridge,Jake Hirabayashi,-,88.1,Ball,-
+4,29,2,Aaron Shortridge,Jake Hirabayashi,-,88,Called Strike,-
+4,29,3,Aaron Shortridge,Jake Hirabayashi,-,87.9,Hit Into Play - Out,-
+4,30,1,Ryan Garcia,Jeffery Mitchell Jr.,-,74.4,Called Strike,-
+4,30,2,Ryan Garcia,Jeffery Mitchell Jr.,-,84.8,Called Strike,-
+4,30,3,Ryan Garcia,Jeffery Mitchell Jr.,-,76.6,Hit Into Play - Out,89.6
+4,31,1,Ryan Garcia,Sam Wezniak,-,76.2,Ball,-
+4,31,2,Ryan Garcia,Sam Wezniak,-,85.3,Called Strike,-
+4,31,3,Ryan Garcia,Sam Wezniak,-,77.3,Called Strike,-
+4,31,4,Ryan Garcia,Sam Wezniak,-,79.1,Ball,-
+4,31,5,Ryan Garcia,Sam Wezniak,-,76.8,Swinging Strike,-
+4,32,1,Ryan Garcia,Darren Baker,-,86.1,Ball,-
+4,32,2,Ryan Garcia,Darren Baker,-,80.2,Ball,-
+4,32,3,Ryan Garcia,Darren Baker,-,87.7,Foul,70.7
+4,32,4,Ryan Garcia,Darren Baker,-,87.1,Hit Into Play,93.9
+4,33,1,Ryan Garcia,Max Flower,-,87.2,Ball,-
+4,33,2,Ryan Garcia,Max Flower,-,86.8,Ball,-
+4,33,3,Ryan Garcia,Max Flower,-,88.2,Swinging Strike,-
+4,33,4,Ryan Garcia,Max Flower,-,88.4,Called Strike,-
+4,33,5,Ryan Garcia,Max Flower,-,88.1,Hit Into Play - Out,82.1
+5,34,1,Aaron Shortridge,Garrett Mitchell,-,88.4,Foul,-
+5,34,2,Aaron Shortridge,Garrett Mitchell,-,88.8,Hit Into Play,79.3
+5,35,1,Aaron Shortridge,Daniel Rosica,-,84.4,Ball,-
+5,35,2,Aaron Shortridge,Daniel Rosica,-,87.1,Hit Into Play - Out,-
+5,36,1,Aaron Shortridge,Daniel Amaral,-,76.9,Ball,-
+5,36,2,Aaron Shortridge,Daniel Amaral,-,88,Hit Into Play - Out,92.2
+5,37,1,Aaron Shortridge,Kevin Kendall,-,88.2,Hit Into Play - Run Scored,90
+5,38,1,Aaron Shortridge,Jack Stronach,-,78.3,Ball,-
+5,38,2,Aaron Shortridge,Jack Stronach,-,88.2,Hit Into Play - Out,95.1
+5,39,1,Ryan Garcia,Ripken Reyes,-,86,Ball,-
+5,39,2,Ryan Garcia,Ripken Reyes,-,86.5,Ball,-
+5,39,3,Ryan Garcia,Ripken Reyes,-,85.4,Called Strike,-
+5,39,4,Ryan Garcia,Ripken Reyes,-,84.6,Hit Into Play - Out,89.5
+5,40,1,Ryan Garcia,Tyrus Greene,-,79.4,Called Strike,-
+5,40,2,Ryan Garcia,Tyrus Greene,-,87.5,Ball,-
+5,40,3,Ryan Garcia,Tyrus Greene,-,87.6,Swinging Strike,-
+5,40,4,Ryan Garcia,Tyrus Greene,-,88.5,Foul,-
+5,40,5,Ryan Garcia,Tyrus Greene,-,87.6,Hit Into Play - Out,85.1
+5,41,1,Ryan Garcia,Tanner Dodson,-,80.6,Foul,69.1
+5,41,2,Ryan Garcia,Tanner Dodson,-,86.9,Called Strike,-
+5,41,3,Ryan Garcia,Tanner Dodson,-,88.6,Hit Into Play,58
+5,42,1,Ryan Garcia,Andrew Vaughn,-,90,Ball,-
+5,42,2,Ryan Garcia,Andrew Vaughn,-,79.5,Called Strike,-
+5,42,3,Ryan Garcia,Andrew Vaughn,-,71.8,Ball,-
+5,42,4,Ryan Garcia,Andrew Vaughn,-,79.2,Ball,-
+5,42,5,Ryan Garcia,Andrew Vaughn,-,79.5,Ball,-
+5,43,1,Ryan Garcia,Jonah Davis,-,87.7,Called Strike,-
+5,43,2,Ryan Garcia,Jonah Davis,-,87.7,Foul,-
+5,43,3,Ryan Garcia,Jonah Davis,-,72.2,Ball,-
+5,43,4,Ryan Garcia,Jonah Davis,-,73.9,Ball,-
+5,43,5,Ryan Garcia,Jonah Davis,-,72.1,Hit By Pitch,-
+5,44,1,Ryan Garcia,Jeffery Mitchell Jr.,-,88.2,Hit Into Play - Out,63.4
+6,45,1,Aaron Shortridge,Chase Strumpf,-,88.9,Ball,-
+6,45,2,Aaron Shortridge,Chase Strumpf,-,86.4,Ball,-
+6,45,3,Aaron Shortridge,Chase Strumpf,-,87.8,Called Strike,-
+6,45,4,Aaron Shortridge,Chase Strumpf,-,88.2,Called Strike,-
+6,45,5,Aaron Shortridge,Chase Strumpf,-,89.5,Swinging Strike,-
+6,46,1,Aaron Shortridge,Michael Toglia,-,89.6,Foul,-
+6,46,2,Aaron Shortridge,Michael Toglia,-,90.2,Called Strike,-
+6,46,3,Aaron Shortridge,Michael Toglia,-,80.9,Ball,-
+6,46,4,Aaron Shortridge,Michael Toglia,-,80.8,Hit Into Play - Out,25.1
+6,47,1,Aaron Shortridge,RJ Teijeiro,-,88.3,Ball,-
+6,47,2,Aaron Shortridge,RJ Teijeiro,-,88.6,Hit Into Play,93.6
+6,48,1,Aaron Shortridge,Jake Hirabayashi,-,86.6,Called Strike,-
+6,48,2,Aaron Shortridge,Jake Hirabayashi,-,87.5,Hit Into Play - Out,81.8
+6,49,1,Ryan Garcia,Sam Wezniak,-,84.7,Ball,-
+6,49,2,Ryan Garcia,Sam Wezniak,-,74.4,Ball,-
+6,49,3,Ryan Garcia,Sam Wezniak,-,83.6,Ball,-
+6,49,4,Ryan Garcia,Sam Wezniak,-,85.4,Called Strike,-
+6,49,5,Ryan Garcia,Sam Wezniak,-,86,Foul,-
+6,49,6,Ryan Garcia,Sam Wezniak,-,85.9,Foul,-
+6,49,7,Ryan Garcia,Sam Wezniak,-,85.8,Foul,-
+6,49,8,Ryan Garcia,Sam Wezniak,-,85.5,Foul,-
+6,49,9,Ryan Garcia,Sam Wezniak,-,87.2,Swinging Strike,-
+6,50,1,Nick Scheidler,Darren Baker,-,75.2,Hit Into Play - Out,90.3
+6,51,1,Nick Scheidler,Max Flower,-,86.6,Called Strike,-
+6,51,2,Nick Scheidler,Max Flower,-,84.4,Ball,-
+6,51,3,Nick Scheidler,Max Flower,-,86.7,Ball,-
+6,51,4,Nick Scheidler,Max Flower,-,86.1,Called Strike,-
+6,51,5,Nick Scheidler,Max Flower,-,86.6,Foul,-
+6,51,6,Nick Scheidler,Max Flower,-,85.7,Ball,-
+6,51,7,Nick Scheidler,Max Flower,-,86.5,Foul,-
+6,51,8,Nick Scheidler,Max Flower,-,86.3,Foul,16.1
+6,51,9,Nick Scheidler,Max Flower,-,86.6,Hit Into Play - Out,63.3
+7,52,1,Aaron Shortridge,Garrett Mitchell,-,87,Foul,-
+7,52,2,Aaron Shortridge,Garrett Mitchell,-,89.1,Foul,84.5
+7,52,3,Aaron Shortridge,Garrett Mitchell,-,88.7,Ball,-
+7,52,4,Aaron Shortridge,Garrett Mitchell,-,89.4,Foul,-
+7,52,5,Aaron Shortridge,Garrett Mitchell,-,77.5,Hit Into Play,18.2
+7,53,1,Aaron Shortridge,Jarron Silva,-,87.4,Foul,75.1
+7,53,2,Aaron Shortridge,Jarron Silva,-,78.8,Foul,76.8
+7,53,3,Aaron Shortridge,Jarron Silva,-,80.1,Foul,-
+7,53,4,Aaron Shortridge,Jarron Silva,-,79.7,Ball,-
+7,53,5,Aaron Shortridge,Jarron Silva,-,79.8,Ball,-
+7,53,6,Aaron Shortridge,Jarron Silva,-,89.9,Hit Into Play - Run Scored,64.1
+7,54,1,Aaron Shortridge,Daniel Amaral,-,86.6,Hit Into Play - Out,16.1
+7,55,1,Tanner Dodson,Kevin Kendall,-,91.6,Hit Into Play,98
+7,56,1,Tanner Dodson,Jack Stronach,-,92.8,Hit Into Play - Run Scored,85.5
+7,57,1,Tanner Dodson,Chase Strumpf,-,93.6,Ball,-
+7,57,2,Tanner Dodson,Chase Strumpf,-,93.8,Ball,-
+7,57,3,Tanner Dodson,Chase Strumpf,-,92.9,Foul Tip,-
+7,57,4,Tanner Dodson,Chase Strumpf,-,93.1,Ball,-
+7,57,5,Tanner Dodson,Chase Strumpf,-,93.2,Ball,-
+7,58,1,Tanner Dodson,Michael Toglia,-,92.9,Ball,-
+7,58,2,Tanner Dodson,Michael Toglia,-,92.3,Foul,91
+7,58,3,Tanner Dodson,Michael Toglia,-,83.4,Hit Into Play - Out,96.2
+7,59,1,Nick Scheidler,Ripken Reyes,-,83.6,Ball,-
+7,59,2,Nick Scheidler,Ripken Reyes,-,83.4,Ball,-
+7,59,3,Nick Scheidler,Ripken Reyes,-,84.3,Called Strike,-
+7,59,4,Nick Scheidler,Ripken Reyes,-,84.4,Called Strike,-
+7,59,5,Nick Scheidler,Ripken Reyes,-,85.5,Hit Into Play - Out,69.5
+7,60,1,Nick Scheidler,Tyrus Greene,-,76.4,Called Strike,-
+7,60,2,Nick Scheidler,Tyrus Greene,-,86.2,Foul,-
+7,60,3,Nick Scheidler,Tyrus Greene,-,77.9,Swinging Strike,-
+7,61,1,Nick Scheidler,Tanner Dodson,-,86.7,Called Strike,-
+7,61,2,Nick Scheidler,Tanner Dodson,-,85.2,Hit Into Play,98.9
+7,62,1,Nathan Hadley,Andrew Vaughn,-,90.1,Hit Into Play - Out,92.7
+8,63,1,Tanner Dodson,RJ Teijeiro,-,90.4,Foul,-
+8,63,2,Tanner Dodson,RJ Teijeiro,-,92.9,Hit Into Play - Out,47.6
+8,64,1,Tanner Dodson,Jake Hirabayashi,-,92.1,Hit Into Play,55.2
+8,65,1,Tanner Dodson,Garrett Mitchell,-,93.2,Hit Into Play - Out,66.6
+8,66,1,Tanner Dodson,Will McInerny,-,93.9,Called Strike,-
+8,66,2,Tanner Dodson,Will McInerny,-,94.9,Ball,-
+8,66,3,Tanner Dodson,Will McInerny,-,91.5,Hit Into Play - Out,58.8
+8,67,1,Nathan Hadley,Jonah Davis,-,88.9,Called Strike,-
+8,67,2,Nathan Hadley,Jonah Davis,-,90.4,Ball,-
+8,67,3,Nathan Hadley,Jonah Davis,-,90.7,Called Strike,-
+8,67,4,Nathan Hadley,Jonah Davis,-,90.4,Hit By Pitch,-
+8,68,1,Nathan Hadley,Jeffery Mitchell Jr.,-,88.5,Hit Into Play,22.2
+8,69,1,Nathan Hadley,Sam Wezniak,-,85.9,Ball,-
+8,69,2,Nathan Hadley,Sam Wezniak,-,85.2,L,-
+8,69,3,Nathan Hadley,Sam Wezniak,-,85.5,Ball,-
+8,69,4,Nathan Hadley,Sam Wezniak,-,85.2,L,-
+8,69,5,Nathan Hadley,Sam Wezniak,-,88.3,Hit Into Play,8
+8,70,1,Garrett Barker,Darren Baker,-,78.3,Swinging Strike,-
+8,70,2,Garrett Barker,Darren Baker,-,79.6,Ball,-
+8,70,3,Garrett Barker,Darren Baker,-,79.3,Ball,-
+8,70,4,Garrett Barker,Darren Baker,-,80.3,Hit Into Play - Run Scored,35.1
+8,71,1,Holden Powell,Max Flower,-,92,Ball,-
+8,71,2,Holden Powell,Max Flower,-,80.2,Called Strike,-
+8,71,3,Holden Powell,Max Flower,-,91.9,Hit Into Play - Out,88.7
+8,72,1,Holden Powell,Ripken Reyes,-,92,Ball,-
+8,72,2,Holden Powell,Ripken Reyes,-,90.9,Ball,-
+8,72,3,Holden Powell,Ripken Reyes,-,91.4,Called Strike,-
+8,72,4,Holden Powell,Ripken Reyes,-,91,Foul,78.2
+8,72,5,Holden Powell,Ripken Reyes,-,92.5,Foul,85.9
+8,72,6,Holden Powell,Ripken Reyes,-,78.7,Foul Tip,-
+8,72,7,Holden Powell,Ripken Reyes,-,92.1,Ball,-
+8,72,8,Holden Powell,Ripken Reyes,-,92.4,Hit Into Play - Out,58.1
+8,73,1,Holden Powell,Tyrus Greene,-,91.2,Foul,-
+8,73,2,Holden Powell,Tyrus Greene,-,89,Called Strike,-
+8,73,3,Holden Powell,Tyrus Greene,-,91.3,Hit Into Play - Run Scored,96.6
+8,74,1,Kyle Mora,Tanner Dodson,-,77.8,Ball,-
+8,74,2,Kyle Mora,Tanner Dodson,-,77.4,Hit Into Play,97.9
+8,75,1,Kyle Mora,Andrew Vaughn,-,76.4,Called Strike,-
+8,75,2,Kyle Mora,Andrew Vaughn,-,84.8,Hit Into Play - Run Scored,90.9
+8,76,1,Kyle Mora,Jonah Davis,-,83.2,Foul,51.1
+8,76,2,Kyle Mora,Jonah Davis,-,85.1,Swinging Strike,-
+8,76,3,Kyle Mora,Jonah Davis,-,76.7,Called Strike,-
+9,77,1,Tanner Dodson,Daniel Amaral,-,89.3,Called Strike,-
+9,77,2,Tanner Dodson,Daniel Amaral,-,92.4,Hit Into Play,97.5
+9,78,1,Tanner Dodson,Kevin Kendall,-,91.6,Hit Into Play - Out,66.3
+9,79,1,Tanner Dodson,Jack Stronach,-,91.6,Ball,-
+9,79,2,Tanner Dodson,Jack Stronach,-,91.1,Hit Into Play,95.1
+9,80,1,Tanner Dodson,Chase Strumpf,-,72.3,Ball,-
+9,80,2,Tanner Dodson,Chase Strumpf,-,91.9,Ball,-
+9,80,3,Tanner Dodson,Chase Strumpf,-,91.3,Called Strike,-
+9,80,4,Tanner Dodson,Chase Strumpf,-,92.6,Hit Into Play - Out,91.6

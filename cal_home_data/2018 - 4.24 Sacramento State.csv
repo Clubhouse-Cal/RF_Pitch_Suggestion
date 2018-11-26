@@ -1,0 +1,279 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Andrew Buckley,Ian Dawkins,2 Seam,85.1,Ball,-
+1,1,2,Andrew Buckley,Ian Dawkins,2 Seam,84.3,Called Strike,-
+1,1,3,Andrew Buckley,Ian Dawkins,2 Seam,85.1,Foul,-
+1,1,4,Andrew Buckley,Ian Dawkins,2 Seam,85.6,Hit Into Play,94.2
+1,2,1,Andrew Buckley,Andrew McWilliam,2 Seam,83.6,Swinging Strike,-
+1,2,2,Andrew Buckley,Andrew McWilliam,2 Seam,85.3,Hit Into Play - Out,92.6
+1,3,1,Andrew Buckley,James Outman,2 Seam,85.3,Ball,-
+1,3,2,Andrew Buckley,James Outman,2 Seam,84.9,Foul,-
+1,3,3,Andrew Buckley,James Outman,2 Seam,81.3,Swinging Strike,-
+1,3,4,Andrew Buckley,James Outman,Changeup,81.5,Ball,-
+1,3,5,Andrew Buckley,James Outman,2 Seam,81.8,Ball,-
+1,3,6,Andrew Buckley,James Outman,2 Seam,84,Called Strike,-
+1,4,1,Andrew Buckley,Matt Smith,2 Seam,86.1,Called Strike,-
+1,4,2,Andrew Buckley,Matt Smith,2 Seam,85,Hit Into Play - Out,60.2
+1,5,1,Ty Fox,Tyrus Greene,4 Seam,88.1,Swinging Strike,-
+1,5,2,Ty Fox,Tyrus Greene,4 Seam,88.6,Foul,-
+1,5,3,Ty Fox,Tyrus Greene,Changeup,83.5,Ball,-
+1,5,4,Ty Fox,Tyrus Greene,4 Seam,88.4,Ball,-
+1,5,5,Ty Fox,Tyrus Greene,2 Seam,87.4,Ball,-
+1,5,6,Ty Fox,Tyrus Greene,4 Seam,87.9,Hit Into Play - Out,87.3
+1,6,1,Ty Fox,Tanner Dodson,2 Seam,90.1,Hit Into Play,87.9
+1,7,1,Ty Fox,Andrew Vaughn,4 Seam,88.4,Hit Into Play - Out,77.3
+1,8,1,Ty Fox,Jonah Davis,Changeup,82.9,Foul,-
+1,8,2,Ty Fox,Jonah Davis,2 Seam,88.4,Foul,-
+1,8,3,Ty Fox,Jonah Davis,Changeup,83.7,Swinging Strike,-
+2,9,1,Andrew Buckley,PJ Floyd,Changeup,81.5,Ball,-
+2,9,2,Andrew Buckley,PJ Floyd,2 Seam,84.4,Ball,-
+2,9,3,Andrew Buckley,PJ Floyd,2 Seam,84.9,Ball,-
+2,9,4,Andrew Buckley,PJ Floyd,2 Seam,84.4,Called Strike,-
+2,9,5,Andrew Buckley,PJ Floyd,2 Seam,85.3,Foul,-
+2,9,6,Andrew Buckley,PJ Floyd,2 Seam,84.9,Foul,-
+2,9,7,Andrew Buckley,PJ Floyd,Changeup,79.8,Ball,-
+2,10,1,Andrew Buckley,Steven Moretto,2 Seam,83.2,Ball,-
+2,10,2,Andrew Buckley,Steven Moretto,2 Seam,82.4,Ball,-
+2,10,3,Andrew Buckley,Steven Moretto,2 Seam,83.9,Foul,-
+2,10,4,Andrew Buckley,Steven Moretto,2 Seam,81.7,Ball,-
+2,10,5,Andrew Buckley,Steven Moretto,2 Seam,81.8,Hit Into Play,72.3
+2,11,1,Andrew Buckley,Raul Ortiz,2 Seam,82.3,Called Strike,-
+2,11,2,Andrew Buckley,Raul Ortiz,2 Seam,83,Hit Into Play,92.4
+2,12,1,Andrew Buckley,Josh Urps,2 Seam,83.1,Called Strike,-
+2,12,2,Andrew Buckley,Josh Urps,Changeup,75.6,Ball,-
+2,12,3,Andrew Buckley,Josh Urps,2 Seam,83,Ball,-
+2,12,4,Andrew Buckley,Josh Urps,2 Seam,83.1,Hit Into Play - Run Scored,89.1
+2,13,1,Andrew Buckley,Bronson Grubbs,2 Seam,83.4,Called Strike,-
+2,13,2,Andrew Buckley,Bronson Grubbs,2 Seam,82.4,Ball,-
+2,13,3,Andrew Buckley,Bronson Grubbs,2 Seam,83.3,Ball,-
+2,13,4,Andrew Buckley,Bronson Grubbs,2 Seam,82.7,Hit Into Play - Run Scored,64.4
+2,14,1,Andrew Buckley,Ian Dawkins,Changeup,78,Foul,-
+2,14,2,Andrew Buckley,Ian Dawkins,2 Seam,82.9,Ball,-
+2,14,3,Andrew Buckley,Ian Dawkins,Changeup,74.5,Ball,-
+2,14,4,Andrew Buckley,Ian Dawkins,2 Seam,83.2,Ball,-
+2,14,5,Andrew Buckley,Ian Dawkins,Changeup,78,Foul,-
+2,14,6,Andrew Buckley,Ian Dawkins,Changeup,78.5,Hit Into Play - Run Scored,-
+2,15,1,Arman Sabouri,Andrew McWilliam,4 Seam,84.6,Called Strike,-
+2,15,2,Arman Sabouri,Andrew McWilliam,Curve,73.4,Hit Into Play - Out,72.1
+2,16,1,Arman Sabouri,James Outman,4 Seam,86.6,Swinging Strike,-
+2,16,2,Arman Sabouri,James Outman,4 Seam,86,Called Strike,-
+2,16,3,Arman Sabouri,James Outman,4 Seam,86.8,Foul,-
+2,16,4,Arman Sabouri,James Outman,4 Seam,86.8,Called Strike,-
+2,17,1,Ty Fox,Max Flower,4 Seam,87.1,Hit Into Play - Out,55.5
+2,18,1,Ty Fox,Sam Wezniak,4 Seam,88.2,Called Strike,-
+2,18,2,Ty Fox,Sam Wezniak,Changeup,76.7,Ball,-
+2,18,3,Ty Fox,Sam Wezniak,4 Seam,86.6,Hit Into Play - Out,96.7
+2,19,1,Ty Fox,Darren Baker,2 Seam,88.5,Ball,-
+2,19,2,Ty Fox,Darren Baker,4 Seam,85.8,Ball,-
+2,19,3,Ty Fox,Darren Baker,4 Seam,85,Foul,-
+2,19,4,Ty Fox,Darren Baker,4 Seam,86.9,Foul,-
+2,19,5,Ty Fox,Darren Baker,Changeup,83,Hit Into Play - Out,65.5
+3,20,1,Arman Sabouri,Matt Smith,4 Seam,85.9,Called Strike,-
+3,20,2,Arman Sabouri,Matt Smith,Slider,75.3,Swinging Strike,-
+3,20,3,Arman Sabouri,Matt Smith,2 Seam,87.2,Foul Tip,-
+3,21,1,Arman Sabouri,PJ Floyd,2 Seam,86.8,Ball,-
+3,21,2,Arman Sabouri,PJ Floyd,Changeup,85.1,Hit Into Play - Out,64.7
+3,22,1,Arman Sabouri,Steven Moretto,2 Seam,86.5,Ball,-
+3,22,2,Arman Sabouri,Steven Moretto,Cutter,77,Ball,-
+3,22,3,Arman Sabouri,Steven Moretto,4 Seam,86.1,Foul,-
+3,22,4,Arman Sabouri,Steven Moretto,Slider,74.9,Ball,-
+3,22,5,Arman Sabouri,Steven Moretto,4 Seam,86.7,Foul,90.4
+3,22,6,Arman Sabouri,Steven Moretto,Curve,73.8,Called Strike,-
+3,23,1,Ty Fox,Korey Lee,Slider,77.2,Ball,-
+3,23,2,Ty Fox,Korey Lee,2 Seam,86.2,Hit Into Play - Run Scored,100.6
+3,24,1,Ty Fox,Cameron Eden,4 Seam,88.2,Called Strike,-
+3,24,2,Ty Fox,Cameron Eden,Changeup,76.4,Ball,-
+3,24,3,Ty Fox,Cameron Eden,4 Seam,87.9,Hit Into Play - Out,93.4
+3,25,1,Ty Fox,Tyrus Greene,2 Seam,84.3,Ball,-
+3,25,2,Ty Fox,Tyrus Greene,4 Seam,87.2,Swinging Strike,-
+3,25,3,Ty Fox,Tyrus Greene,Changeup,82.3,Swinging Strike,-
+3,25,4,Ty Fox,Tyrus Greene,4 Seam,87.5,Ball,-
+3,25,5,Ty Fox,Tyrus Greene,Changeup,83,Hit Into Play - Out,89.4
+3,26,1,Ty Fox,Tanner Dodson,Changeup,83.4,Ball,-
+3,26,2,Ty Fox,Tanner Dodson,4 Seam,88.3,Ball,-
+3,26,3,Ty Fox,Tanner Dodson,4 Seam,87.2,Called Strike,-
+3,26,4,Ty Fox,Tanner Dodson,2 Seam,86.7,Foul,-
+3,26,5,Ty Fox,Tanner Dodson,Changeup,82.4,Swinging Strike,-
+4,27,1,Arman Sabouri,Raul Ortiz,4 Seam,86.7,Called Strike,-
+4,27,2,Arman Sabouri,Raul Ortiz,4 Seam,86.5,Foul,35.4
+4,27,3,Arman Sabouri,Raul Ortiz,2 Seam,87.4,Foul,82.6
+4,27,4,Arman Sabouri,Raul Ortiz,Curve,74.7,Ball,-
+4,27,5,Arman Sabouri,Raul Ortiz,Curve,75,Called Strike,-
+4,28,1,Arman Sabouri,Josh Urps,2 Seam,86.4,Ball,-
+4,28,2,Arman Sabouri,Josh Urps,4 Seam,85.5,Hit Into Play - Out,59.6
+4,29,1,Arman Sabouri,Bronson Grubbs,4 Seam,86.8,Ball,-
+4,29,2,Arman Sabouri,Bronson Grubbs,4 Seam,87.2,Ball,-
+4,29,3,Arman Sabouri,Bronson Grubbs,2 Seam,85,Called Strike,-
+4,29,4,Arman Sabouri,Bronson Grubbs,2 Seam,86.1,Foul,-
+4,29,5,Arman Sabouri,Bronson Grubbs,4 Seam,87.7,Ball,-
+4,29,6,Arman Sabouri,Bronson Grubbs,4 Seam,86,Hit Into Play - Out,71.3
+4,30,1,Austin Roberts,Andrew Vaughn,2 Seam,92.3,Hit Into Play - Out,100.3
+4,31,1,Austin Roberts,Jonah Davis,2 Seam,92.2,Ball,-
+4,31,2,Austin Roberts,Jonah Davis,2 Seam,91.6,Ball,-
+4,31,3,Austin Roberts,Jonah Davis,2 Seam,91.3,Swinging Strike,-
+4,31,4,Austin Roberts,Jonah Davis,2 Seam,91.3,Called Strike,-
+4,31,5,Austin Roberts,Jonah Davis,Changeup,84.2,Foul,-
+4,31,6,Austin Roberts,Jonah Davis,2 Seam,91.8,Foul,-
+4,31,7,Austin Roberts,Jonah Davis,Curve,79.4,Ball,-
+4,31,8,Austin Roberts,Jonah Davis,2 Seam,91,Foul,-
+4,31,9,Austin Roberts,Jonah Davis,2 Seam,92.3,Foul,-
+4,31,10,Austin Roberts,Jonah Davis,2 Seam,93,Ball,-
+4,32,1,Austin Roberts,Max Flower,Slider,80.7,Swinging Strike,-
+4,32,2,Austin Roberts,Max Flower,2 Seam,92,Swinging Strike,-
+4,32,3,Austin Roberts,Max Flower,Curve,79.9,Ball,-
+4,32,4,Austin Roberts,Max Flower,Slider,80.4,Ball,-
+4,32,5,Austin Roberts,Max Flower,2 Seam,92.3,Foul,-
+4,32,6,Austin Roberts,Max Flower,2 Seam,93.7,Ball,-
+4,32,7,Austin Roberts,Max Flower,2 Seam,92.4,Foul,-
+4,32,8,Austin Roberts,Max Flower,Slider,80.8,Hit Into Play - Out,-
+4,33,1,Austin Roberts,Sam Wezniak,2 Seam,91.1,Ball,-
+4,33,2,Austin Roberts,Sam Wezniak,Curve,80,Ball,-
+4,33,3,Austin Roberts,Sam Wezniak,2 Seam,90.9,Ball,-
+4,33,4,Austin Roberts,Sam Wezniak,2 Seam,91.5,Called Strike,-
+4,33,5,Austin Roberts,Sam Wezniak,2 Seam,91.3,Foul,88.6
+4,33,6,Austin Roberts,Sam Wezniak,Curve,80,Ball,-
+4,34,1,Austin Roberts,Darren Baker,2 Seam,91.2,Ball,-
+4,34,2,Austin Roberts,Darren Baker,2 Seam,90,Ball,-
+4,34,3,Austin Roberts,Darren Baker,2 Seam,90.8,Ball,-
+4,34,4,Austin Roberts,Darren Baker,2 Seam,89.8,Called Strike,-
+4,34,5,Austin Roberts,Darren Baker,2 Seam,90.3,Foul,81.4
+4,34,6,Austin Roberts,Darren Baker,2 Seam,90.3,Foul,-
+4,34,7,Austin Roberts,Darren Baker,2 Seam,91.4,Hit Into Play - Out,83.4
+5,35,1,Arman Sabouri,Ian Dawkins,Changeup,83.4,Ball,-
+5,35,2,Arman Sabouri,Ian Dawkins,2 Seam,83.7,Ball,-
+5,35,3,Arman Sabouri,Ian Dawkins,Changeup,82.4,Ball,-
+5,35,4,Arman Sabouri,Ian Dawkins,2 Seam,83.7,Called Strike,-
+5,35,5,Arman Sabouri,Ian Dawkins,2 Seam,84.3,Ball,-
+5,36,1,Arman Sabouri,Andrew McWilliam,2 Seam,85.7,Called Strike,-
+5,36,2,Arman Sabouri,Andrew McWilliam,4 Seam,85.7,Swinging Strike,-
+5,36,3,Arman Sabouri,Andrew McWilliam,Curve,73.9,Called Strike,-
+5,37,1,Arman Sabouri,James Outman,Curve,74.7,Called Strike,-
+5,37,2,Arman Sabouri,James Outman,4 Seam,86.1,Swinging Strike,-
+5,37,3,Arman Sabouri,James Outman,4 Seam,85.8,Ball,-
+5,37,4,Arman Sabouri,James Outman,Curve,74.1,Foul,-
+5,37,5,Arman Sabouri,James Outman,2 Seam,87.2,Foul,-
+5,37,6,Arman Sabouri,James Outman,Slider,76.3,Ball,-
+5,37,7,Arman Sabouri,James Outman,Changeup,78.3,Called Strike,-
+5,38,1,Arman Sabouri,Matt Smith,4 Seam,86.2,Foul,-
+5,38,2,Arman Sabouri,Matt Smith,4 Seam,87.1,Called Strike,-
+5,38,3,Arman Sabouri,Matt Smith,Cutter,76.9,Ball,-
+5,38,4,Arman Sabouri,Matt Smith,4 Seam,89,Ball,-
+5,38,5,Arman Sabouri,Matt Smith,4 Seam,87.8,Foul,-
+5,38,6,Arman Sabouri,Matt Smith,Curve,73.1,Ball,-
+5,38,7,Arman Sabouri,Matt Smith,4 Seam,86.6,Foul,-
+5,38,8,Arman Sabouri,Matt Smith,Changeup,77.1,Hit Into Play - Out,83.1
+5,39,1,Travis Martizia,Korey Lee,2 Seam,84.2,Called Strike,-
+5,39,2,Travis Martizia,Korey Lee,Slider,74.4,Hit By Pitch,-
+5,40,1,Travis Martizia,Cameron Eden,2 Seam,83.8,Hit Into Play - Out,63.4
+5,41,1,Travis Martizia,Tyrus Greene,2 Seam,84,Hit By Pitch,-
+5,42,1,Travis Martizia,Tanner Dodson,2 Seam,84.7,Foul,73.2
+5,42,2,Travis Martizia,Tanner Dodson,2 Seam,82.7,Ball,-
+5,42,3,Travis Martizia,Tanner Dodson,2 Seam,83.6,Hit Into Play - Out,61
+6,43,1,Erik Martinez,PJ Floyd,4 Seam,82.5,Called Strike,-
+6,43,2,Erik Martinez,PJ Floyd,Cutter,82.5,Ball,-
+6,43,3,Erik Martinez,PJ Floyd,Curve,72.1,Ball,-
+6,43,4,Erik Martinez,PJ Floyd,Cutter,81.9,Foul,-
+6,43,5,Erik Martinez,PJ Floyd,Curve,72.1,Hit Into Play,94.8
+6,44,1,Erik Martinez,Steven Moretto,Slider,76.5,Ball,-
+6,44,2,Erik Martinez,Steven Moretto,Cutter,81.2,Hit By Pitch,-
+6,45,1,Erik Martinez,Raul Ortiz,Cutter,81.6,Ball,-
+6,45,2,Erik Martinez,Raul Ortiz,Cutter,81.2,Hit Into Play - Out,21.9
+6,46,1,Erik Martinez,Josh Urps,Cutter,84.2,Ball,-
+6,46,2,Erik Martinez,Josh Urps,Curve,74.4,Ball,-
+6,46,3,Erik Martinez,Josh Urps,Cutter,81.1,Called Strike,-
+6,46,4,Erik Martinez,Josh Urps,Cutter,82.8,Hit Into Play - Out,88.7
+6,47,1,Alex Dentoni,Andrew Vaughn,2 Seam,86.8,Called Strike,-
+6,47,2,Alex Dentoni,Andrew Vaughn,Changeup,81.5,Hit By Pitch,-
+6,48,1,Alex Dentoni,Jonah Davis,2 Seam,85.8,Swinging Strike,-
+6,48,2,Alex Dentoni,Jonah Davis,Changeup,80.3,Ball,-
+6,48,3,Alex Dentoni,Jonah Davis,Changeup,80.9,Ball,-
+6,48,4,Alex Dentoni,Jonah Davis,2 Seam,85.9,Ball,-
+6,48,5,Alex Dentoni,Jonah Davis,2 Seam,85.4,Called Strike,-
+6,48,6,Alex Dentoni,Jonah Davis,2 Seam,86.1,Called Strike,-
+6,49,1,Alex Dentoni,Max Flower,Changeup,76.8,Ball,-
+6,49,2,Alex Dentoni,Max Flower,2 Seam,86.3,Called Strike,-
+6,49,3,Alex Dentoni,Max Flower,2 Seam,85.9,Foul,-
+6,49,4,Alex Dentoni,Max Flower,Changeup,77.3,Swinging Strike,-
+6,50,1,Alex Dentoni,Sam Wezniak,2 Seam,86.6,Called Strike,-
+6,50,2,Alex Dentoni,Sam Wezniak,Curve,75.4,Ball,-
+6,50,3,Alex Dentoni,Sam Wezniak,2 Seam,86.8,Swinging Strike,-
+6,50,4,Alex Dentoni,Sam Wezniak,2 Seam,86.5,Foul,-
+6,50,5,Alex Dentoni,Sam Wezniak,Changeup,78.4,Ball,-
+6,50,6,Alex Dentoni,Sam Wezniak,2 Seam,87.1,Foul,-
+6,50,7,Alex Dentoni,Sam Wezniak,Changeup,75.5,Foul,86.9
+6,50,8,Alex Dentoni,Sam Wezniak,2 Seam,86.5,Hit Into Play - Out,48.5
+7,51,1,Erik Martinez,Bronson Grubbs,Cutter,81,Called Strike,-
+7,51,2,Erik Martinez,Bronson Grubbs,Cutter,82.3,Hit By Pitch,-
+7,52,1,Erik Martinez,Ian Dawkins,4 Seam,80.9,Ball,-
+7,52,2,Erik Martinez,Ian Dawkins,Slider,73.9,Ball,-
+7,52,3,Erik Martinez,Ian Dawkins,2 Seam,82.3,Ball,-
+7,52,4,Erik Martinez,Ian Dawkins,Changeup,79.5,Ball,-
+7,53,1,Erik Martinez,Andrew McWilliam,2 Seam,82.2,Hit Into Play - Out,23.1
+7,54,1,Erik Martinez,James Outman,Cutter,83.1,Hit Into Play - Out,53.4
+7,55,1,Erik Martinez,Matt Smith,Cutter,83,Ball,-
+7,55,2,Erik Martinez,Matt Smith,Cutter,80.5,Foul,-
+7,55,3,Erik Martinez,Matt Smith,Cutter,82.9,Foul,-
+7,55,4,Erik Martinez,Matt Smith,4 Seam,83.2,Foul,-
+7,55,5,Erik Martinez,Matt Smith,Cutter,81.1,Swinging Strike,-
+7,56,1,Stone Churby,Darren Baker,2 Seam,86.2,Swinging Strike,-
+7,56,2,Stone Churby,Darren Baker,2 Seam,85.8,L,-
+7,56,3,Stone Churby,Darren Baker,Curve,76.4,Ball,-
+7,56,4,Stone Churby,Darren Baker,2 Seam,86.4,Foul,16.7
+7,56,5,Stone Churby,Darren Baker,Curve,74.1,Ball,-
+7,56,6,Stone Churby,Darren Baker,2 Seam,85.4,Hit Into Play - Out,59.9
+7,57,1,Stone Churby,Korey Lee,2 Seam,87.2,Foul,-
+7,57,2,Stone Churby,Korey Lee,Curve,74.1,Foul,-
+7,57,3,Stone Churby,Korey Lee,Slider,74.6,Ball,-
+7,57,4,Stone Churby,Korey Lee,2 Seam,87.7,Called Strike,-
+7,58,1,Stone Churby,Cameron Eden,2 Seam,85,Swinging Strike,-
+7,58,2,Stone Churby,Cameron Eden,Slider,73.8,Ball,-
+7,58,3,Stone Churby,Cameron Eden,Changeup,85.9,Hit Into Play - Out,90.2
+8,59,1,Erik Martinez,PJ Floyd,2 Seam,81.7,Ball,-
+8,59,2,Erik Martinez,PJ Floyd,4 Seam,81.7,Swinging Strike,-
+8,59,3,Erik Martinez,PJ Floyd,Changeup,79.8,Foul,-
+8,59,4,Erik Martinez,PJ Floyd,Cutter,84.4,Ball,-
+8,59,5,Erik Martinez,PJ Floyd,Cutter,82.1,Foul,-
+8,59,6,Erik Martinez,PJ Floyd,Cutter,81.1,Ball,-
+8,59,7,Erik Martinez,PJ Floyd,4 Seam,82,Foul,-
+8,59,8,Erik Martinez,PJ Floyd,Cutter,82.1,Swinging Strike,-
+8,60,1,Erik Martinez,Steven Moretto,4 Seam,80.9,Ball,-
+8,60,2,Erik Martinez,Steven Moretto,4 Seam,80.5,Ball,-
+8,60,3,Erik Martinez,Steven Moretto,Cutter,79.3,Swinging Strike,-
+8,60,4,Erik Martinez,Steven Moretto,Cutter,81.1,Ball,-
+8,60,5,Erik Martinez,Steven Moretto,Cutter,81.1,Foul,67.8
+8,60,6,Erik Martinez,Steven Moretto,Cutter,81.8,Swinging Strike,-
+8,61,1,Erik Martinez,Raul Ortiz,Cutter,81.5,Swinging Strike,-
+8,61,2,Erik Martinez,Raul Ortiz,Cutter,80.9,Swinging Strike,-
+8,61,3,Erik Martinez,Raul Ortiz,Slider,77.2,Ball,-
+8,61,4,Erik Martinez,Raul Ortiz,Cutter,81.8,Called Strike,-
+8,62,1,Tanner Dalton,Tyrus Greene,2 Seam,87.7,Swinging Strike,-
+8,62,2,Tanner Dalton,Tyrus Greene,Changeup,79.2,Foul,70.6
+8,62,3,Tanner Dalton,Tyrus Greene,2 Seam,87.9,Ball,-
+8,62,4,Tanner Dalton,Tyrus Greene,2 Seam,87.5,Hit Into Play - Out,91.8
+8,63,1,Tanner Dalton,Tanner Dodson,Curve,76.4,Ball,-
+8,63,2,Tanner Dalton,Tanner Dodson,2 Seam,87.5,Ball,-
+8,63,3,Tanner Dalton,Tanner Dodson,2 Seam,87.1,Swinging Strike,-
+8,63,4,Tanner Dalton,Tanner Dodson,2 Seam,88.2,Foul,-
+8,63,5,Tanner Dalton,Tanner Dodson,Changeup,77.1,Ball,-
+8,63,6,Tanner Dalton,Tanner Dodson,2 Seam,88.1,Foul,-
+8,63,7,Tanner Dalton,Tanner Dodson,2 Seam,87.6,Hit Into Play - Out,87.5
+8,64,1,Tanner Dalton,Andrew Vaughn,Changeup,77.3,Ball,-
+8,64,2,Tanner Dalton,Andrew Vaughn,2 Seam,88.1,Hit Into Play - Out,63.3
+9,65,1,Erik Martinez,Josh Urps,Cutter,81.1,Hit Into Play - Out,-
+9,66,1,Erik Martinez,Bronson Grubbs,Cutter,81.2,Ball,-
+9,66,2,Erik Martinez,Bronson Grubbs,Slider,79.5,Called Strike,-
+9,67,2,Erik Martinez,Ian Dawkins,Changeup,79,Ball,-
+9,66,3,Erik Martinez,Bronson Grubbs,4 Seam,81.8,Foul Tip,-
+9,67,3,Erik Martinez,Ian Dawkins,Changeup,79,Foul,-
+9,66,4,Erik Martinez,Bronson Grubbs,Curve,73.9,Called Strike,-
+9,67,4,Erik Martinez,Ian Dawkins,Cutter,80.5,Swinging Strike,-
+9,67,1,Erik Martinez,Ian Dawkins,Cutter,81.3,Ball,-
+9,67,5,Erik Martinez,Ian Dawkins,Cutter,81,Swinging Strike,-
+9,68,1,Tanner Dalton,Jonah Davis,2 Seam,86.9,Hit Into Play - Out,71
+9,69,1,Tanner Dalton,Max Flower,2 Seam,86.9,Ball,-
+9,69,2,Tanner Dalton,Max Flower,2 Seam,88.2,Ball,-
+9,69,3,Tanner Dalton,Max Flower,2 Seam,87.5,Called Strike,-
+9,69,4,Tanner Dalton,Max Flower,2 Seam,87.3,Hit Into Play - Out,46.5
+9,70,1,Tanner Dalton,Sam Wezniak,Slider,76.6,Ball,-
+9,70,2,Tanner Dalton,Sam Wezniak,2 Seam,87.8,Ball,-
+9,70,3,Tanner Dalton,Sam Wezniak,2 Seam,85.9,Called Strike,-
+9,70,4,Tanner Dalton,Sam Wezniak,4 Seam,86.6,Hit Into Play - Out,87.5

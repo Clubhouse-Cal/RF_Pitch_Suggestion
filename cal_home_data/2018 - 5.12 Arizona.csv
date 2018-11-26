@@ -1,0 +1,330 @@
+Inn,AB,Pitch,Pitcher,Batter,Type,Pitch Spd,Result,Hit Spd
+1,1,1,Jared Horn,Cal Stevenson,2 Seam,89.7,Ball,-
+1,1,2,Jared Horn,Cal Stevenson,2 Seam,90,Called Strike,-
+1,1,3,Jared Horn,Cal Stevenson,2 Seam,84.6,Called Strike,-
+1,1,5,Jared Horn,Cal Stevenson,2 Seam,89.7,Hit Into Play - Out,-
+1,2,1,Jared Horn,Alfonso Rivas III,Changeup,83.5,Ball,-
+1,2,2,Jared Horn,Alfonso Rivas III,2 Seam,89.4,Called Strike,-
+1,2,4,Jared Horn,Alfonso Rivas III,2 Seam,90.5,Ball,-
+1,2,5,Jared Horn,Alfonso Rivas III,2 Seam,89.6,Ball,-
+1,3,1,Jared Horn,Nick Quintana,2 Seam,91.8,Called Strike,-
+1,3,2,Jared Horn,Nick Quintana,2 Seam,90.4,Ball,-
+1,3,3,Jared Horn,Nick Quintana,Curve,77,Swinging Strike,-
+1,3,4,Jared Horn,Nick Quintana,Curve,76.7,Foul,-
+1,3,5,Jared Horn,Nick Quintana,Curve,77.1,Ball,-
+1,3,6,Jared Horn,Nick Quintana,2 Seam,91,Hit Into Play - Out,-
+1,4,1,Michael Flynn,Tyrus Greene,2 Seam,91.2,Ball,-
+1,4,2,Michael Flynn,Tyrus Greene,2 Seam,89.9,Hit Into Play,-
+1,5,1,Michael Flynn,Andrew Vaughn,Curve,79.6,Ball,-
+1,5,2,Michael Flynn,Andrew Vaughn,2 Seam,90.7,Ball,-
+1,5,3,Michael Flynn,Andrew Vaughn,2 Seam,90.9,Foul,-
+1,5,4,Michael Flynn,Andrew Vaughn,2 Seam,91.8,Ball,-
+1,5,5,Michael Flynn,Andrew Vaughn,2 Seam,90.3,Ball,-
+1,6,1,Michael Flynn,Tanner Dodson,2 Seam,90.8,Ball,-
+1,6,2,Michael Flynn,Tanner Dodson,Changeup,82.4,Swinging Strike,-
+1,6,3,Michael Flynn,Tanner Dodson,2 Seam,91.5,Foul,-
+1,6,4,Michael Flynn,Tanner Dodson,Slider,80.4,Foul,-
+1,6,5,Michael Flynn,Tanner Dodson,2 Seam,91.8,Foul,-
+1,6,6,Michael Flynn,Tanner Dodson,Changeup,83.2,Foul,70.4
+1,6,7,Michael Flynn,Tanner Dodson,2 Seam,91.8,Swinging Strike,-
+1,7,1,Michael Flynn,Jonah Davis,2 Seam,91.5,Ball,-
+1,7,2,Michael Flynn,Jonah Davis,Curve,80.8,Called Strike,-
+1,7,3,Michael Flynn,Jonah Davis,2 Seam,90.9,Ball,-
+1,7,4,Michael Flynn,Jonah Davis,Curve,78.7,Foul,-
+1,7,5,Michael Flynn,Jonah Davis,2 Seam,92,Ball,-
+1,7,6,Michael Flynn,Jonah Davis,2 Seam,91,Swinging Strike,-
+1,8,1,Michael Flynn,Sam Wezniak,Curve,79.6,Ball,-
+1,8,2,Michael Flynn,Sam Wezniak,2 Seam,89.5,Foul,97.6
+1,8,3,Michael Flynn,Sam Wezniak,2 Seam,90.4,Hit Into Play - Out,-
+2,9,1,Jared Horn,Cesar Salazar,2 Seam,88.2,Called Strike,-
+2,9,2,Jared Horn,Cesar Salazar,2 Seam,82.1,Ball,-
+2,9,3,Jared Horn,Cesar Salazar,2 Seam,91,Foul,-
+2,9,4,Jared Horn,Cesar Salazar,4 Seam,83.8,Foul,-
+2,9,5,Jared Horn,Cesar Salazar,4 Seam,89.7,Foul,-
+2,9,6,Jared Horn,Cesar Salazar,Curve,76.9,Foul,-
+2,9,7,Jared Horn,Cesar Salazar,Curve,75.5,Hit Into Play - Out,48.2
+2,10,1,Jared Horn,Cameron Cannon,2 Seam,91,Ball,-
+2,10,2,Jared Horn,Cameron Cannon,2 Seam,88.8,Called Strike,-
+2,10,3,Jared Horn,Cameron Cannon,2 Seam,88.2,Called Strike,-
+2,10,4,Jared Horn,Cameron Cannon,2 Seam,93.2,Ball,-
+2,10,5,Jared Horn,Cameron Cannon,Curve,76.9,Foul,45.1
+2,10,6,Jared Horn,Cameron Cannon,Curve,76.1,Ball,-
+2,10,7,Jared Horn,Cameron Cannon,2 Seam,88.8,Hit Into Play - Out,77.8
+2,11,1,Jared Horn,Tate Soderstrom,2 Seam,91,Called Strike,-
+2,11,2,Jared Horn,Tate Soderstrom,2 Seam,90.3,Called Strike,-
+2,11,3,Jared Horn,Tate Soderstrom,Changeup,83.3,Ball,-
+2,11,4,Jared Horn,Tate Soderstrom,Curve,77.2,Foul,-
+2,11,5,Jared Horn,Tate Soderstrom,2 Seam,91.2,Foul,-
+2,11,6,Jared Horn,Tate Soderstrom,Curve,76.6,Hit Into Play - Out,-
+2,12,1,Michael Flynn,Max Flower,2 Seam,89.5,Ball,-
+2,12,2,Michael Flynn,Max Flower,2 Seam,89.2,Foul,-
+2,12,3,Michael Flynn,Max Flower,2 Seam,91.2,Called Strike,-
+2,12,4,Michael Flynn,Max Flower,2 Seam,91.1,Hit Into Play - Out,-
+2,13,1,Michael Flynn,Jeffery Mitchell Jr.,Slider,80.8,Called Strike,-
+2,13,2,Michael Flynn,Jeffery Mitchell Jr.,2 Seam,91.2,Ball,-
+2,13,3,Michael Flynn,Jeffery Mitchell Jr.,2 Seam,90.7,Called Strike,-
+2,13,4,Michael Flynn,Jeffery Mitchell Jr.,Curve,80.2,Ball,-
+2,13,5,Michael Flynn,Jeffery Mitchell Jr.,Curve,81,Ball,-
+2,13,6,Michael Flynn,Jeffery Mitchell Jr.,2 Seam,91.3,Swinging Strike,-
+2,14,1,Michael Flynn,Cameron Eden,2 Seam,91.3,Foul,-
+2,14,2,Michael Flynn,Cameron Eden,2 Seam,90.2,Ball,-
+2,14,3,Michael Flynn,Cameron Eden,2 Seam,90.9,Ball,-
+2,14,4,Michael Flynn,Cameron Eden,2 Seam,91.2,Foul,-
+2,14,5,Michael Flynn,Cameron Eden,2 Seam,91.2,Foul,78.9
+2,14,6,Michael Flynn,Cameron Eden,Slider,82.9,Swinging Strike,-
+3,15,1,Jared Horn,Donta Williams,2 Seam,87.5,Ball,-
+3,15,2,Jared Horn,Donta Williams,2 Seam,88.6,Ball,-
+3,15,3,Jared Horn,Donta Williams,4 Seam,88.3,Ball,-
+3,15,4,Jared Horn,Donta Williams,2 Seam,87.1,Ball,-
+3,16,1,Jared Horn,Matt Frazier,2 Seam,89.2,Called Strike,-
+3,16,2,Jared Horn,Matt Frazier,4 Seam,88.4,Hit By Pitch,-
+3,17,1,Jared Horn,Jacob Blas,2 Seam,86.4,Ball,-
+3,17,2,Jared Horn,Jacob Blas,2 Seam,87.4,Ball,-
+3,17,3,Jared Horn,Jacob Blas,2 Seam,87.6,Hit Into Play - Run Scored,20.2
+3,18,1,Jared Horn,Cal Stevenson,2 Seam,90.4,Hit Into Play - Run Scored,85.5
+3,19,1,Jared Horn,Alfonso Rivas III,Curve,74.2,Ball,-
+3,19,2,Jared Horn,Alfonso Rivas III,Changeup,81.1,Ball,-
+3,19,3,Jared Horn,Alfonso Rivas III,2 Seam,90.2,Ball,-
+3,19,4,Jared Horn,Alfonso Rivas III,4 Seam,90.4,Ball,-
+3,20,1,Jared Horn,Nick Quintana,Curve,73.4,Ball,-
+3,20,2,Jared Horn,Nick Quintana,2 Seam,87.9,Ball,-
+3,20,3,Jared Horn,Nick Quintana,4 Seam,88.1,Swinging Strike,-
+3,20,4,Jared Horn,Nick Quintana,2 Seam,89.4,Hit Into Play - Run Scored,-
+3,21,1,Jared Horn,Cesar Salazar,2 Seam,89,Hit Into Play - Run Scored,93.8
+3,22,1,Jared Horn,Cameron Cannon,2 Seam,90.4,Ball,-
+3,22,2,Jared Horn,Cameron Cannon,2 Seam,88.8,Called Strike,-
+3,22,3,Jared Horn,Cameron Cannon,Curve,74.6,Ball,-
+3,22,4,Jared Horn,Cameron Cannon,2 Seam,89.7,Hit Into Play - Out,88.4
+3,23,1,Michael Flynn,Ripken Reyes,2 Seam,88.7,Ball,-
+3,23,2,Michael Flynn,Ripken Reyes,2 Seam,88.6,Ball,-
+3,23,3,Michael Flynn,Ripken Reyes,2 Seam,90.3,Foul,-
+3,23,4,Michael Flynn,Ripken Reyes,2 Seam,91.7,Called Strike,-
+3,23,5,Michael Flynn,Ripken Reyes,2 Seam,91.4,Ball,-
+3,23,6,Michael Flynn,Ripken Reyes,2 Seam,91.5,Foul,-
+3,23,7,Michael Flynn,Ripken Reyes,2 Seam,92.3,Foul,-
+3,23,8,Michael Flynn,Ripken Reyes,2 Seam,92.2,Ball,-
+3,24,1,Michael Flynn,Tyrus Greene,Changeup,84.1,Foul,-
+3,24,2,Michael Flynn,Tyrus Greene,Changeup,82.3,Ball,-
+3,24,3,Michael Flynn,Tyrus Greene,2 Seam,91.3,Ball,-
+3,24,4,Michael Flynn,Tyrus Greene,2 Seam,92.4,Ball,-
+3,24,5,Michael Flynn,Tyrus Greene,2 Seam,90.8,Ball,-
+3,25,1,Michael Flynn,Andrew Vaughn,2 Seam,90.8,Called Strike,-
+3,25,2,Michael Flynn,Andrew Vaughn,Slider,84.1,Called Strike,-
+3,25,3,Michael Flynn,Andrew Vaughn,Slider,83.6,Hit Into Play,-
+3,26,1,Michael Flynn,Tanner Dodson,2 Seam,90.7,Foul,83.7
+3,26,2,Michael Flynn,Tanner Dodson,2 Seam,92.2,Foul,-
+3,26,3,Michael Flynn,Tanner Dodson,2 Seam,92.8,Foul,-
+3,26,4,Michael Flynn,Tanner Dodson,Curve,81.4,Called Strike,-
+3,27,1,Michael Flynn,Jonah Davis,Changeup,83.9,Swinging Strike,-
+3,27,2,Michael Flynn,Jonah Davis,Changeup,83.7,Hit Into Play - Run Scored,106.7
+3,28,1,Michael Flynn,Sam Wezniak,2 Seam,90.4,Foul,-
+3,28,2,Michael Flynn,Sam Wezniak,Slider,80,Called Strike,-
+3,28,3,Michael Flynn,Sam Wezniak,Slider,80.6,Foul,-
+3,28,4,Michael Flynn,Sam Wezniak,2 Seam,92.9,Ball,-
+3,28,5,Michael Flynn,Sam Wezniak,Slider,83.3,Called Strike,-
+3,29,1,Michael Flynn,Max Flower,Cutter,84.4,Swinging Strike,-
+3,29,2,Michael Flynn,Max Flower,Slider,83.8,Foul,-
+3,29,3,Michael Flynn,Max Flower,Slider,80.6,Hit Into Play - Run Scored,92
+3,30,1,Michael Flynn,Jeffery Mitchell Jr.,2 Seam,90.7,Ball,-
+3,30,2,Michael Flynn,Jeffery Mitchell Jr.,2 Seam,91.4,Ball,-
+3,30,3,Michael Flynn,Jeffery Mitchell Jr.,2 Seam,91.1,Called Strike,-
+3,30,4,Michael Flynn,Jeffery Mitchell Jr.,2 Seam,91.8,Swinging Strike,-
+3,30,5,Michael Flynn,Jeffery Mitchell Jr.,Slider,83.6,Hit Into Play - Out,67
+4,31,1,Jared Horn,Tate Soderstrom,4 Seam,87.5,Hit Into Play,97.8
+4,32,1,Jared Horn,Donta Williams,4 Seam,88.5,Called Strike,-
+4,32,2,Jared Horn,Donta Williams,4 Seam,89.7,Ball,-
+4,32,3,Jared Horn,Donta Williams,2 Seam,88.2,Hit Into Play - Out,78.5
+4,33,1,Jared Horn,Matt Frazier,4 Seam,90.6,Foul,-
+4,33,2,Jared Horn,Matt Frazier,Changeup,81.7,Ball,-
+4,33,3,Jared Horn,Matt Frazier,2 Seam,88.3,Hit Into Play - Out,71.7
+4,34,1,Jared Horn,Jacob Blas,2 Seam,88.5,Hit Into Play - Out,64.7
+4,35,1,Michael Flynn,Cameron Eden,Cutter,82.2,Called Strike,-
+4,35,2,Michael Flynn,Cameron Eden,2 Seam,89.8,Hit Into Play - Out,84.4
+4,36,1,Michael Flynn,Ripken Reyes,Changeup,83,Ball,-
+4,36,2,Michael Flynn,Ripken Reyes,2 Seam,88.8,Ball,-
+4,36,3,Michael Flynn,Ripken Reyes,2 Seam,90.2,Ball,-
+4,36,4,Michael Flynn,Ripken Reyes,2 Seam,90.8,Called Strike,-
+4,36,5,Michael Flynn,Ripken Reyes,2 Seam,90.7,Hit Into Play - Out,95.1
+4,37,1,Michael Flynn,Tyrus Greene,2 Seam,91.1,Ball,-
+4,37,2,Michael Flynn,Tyrus Greene,2 Seam,90,Ball,-
+4,37,3,Michael Flynn,Tyrus Greene,2 Seam,91.3,Called Strike,-
+4,37,4,Michael Flynn,Tyrus Greene,2 Seam,90.7,Swinging Strike,-
+4,37,5,Michael Flynn,Tyrus Greene,2 Seam,92.4,Hit Into Play,91.6
+4,38,1,Michael Flynn,Andrew Vaughn,Slider,79,Ball,-
+4,38,2,Michael Flynn,Andrew Vaughn,2 Seam,90.4,Foul,82.9
+4,38,3,Michael Flynn,Andrew Vaughn,Changeup,83.1,Foul,-
+4,38,4,Michael Flynn,Andrew Vaughn,Slider,84.3,Foul,-
+4,38,5,Michael Flynn,Andrew Vaughn,2 Seam,90.3,Hit Into Play - Out,83.1
+5,39,1,Jared Horn,Cal Stevenson,4 Seam,87.8,Ball,-
+5,39,2,Jared Horn,Cal Stevenson,2 Seam,86.8,Called Strike,-
+5,39,3,Jared Horn,Cal Stevenson,2 Seam,87,Ball,-
+5,39,4,Jared Horn,Cal Stevenson,4 Seam,87.7,Ball,-
+5,39,5,Jared Horn,Cal Stevenson,4 Seam,87.6,Ball,-
+5,40,1,Arman Sabouri,Alfonso Rivas III,2 Seam,87,Ball,-
+5,40,2,Arman Sabouri,Alfonso Rivas III,4 Seam,86.1,Hit By Pitch,-
+5,41,1,Arman Sabouri,Nick Quintana,4 Seam,87.9,Called Strike,-
+5,41,2,Arman Sabouri,Nick Quintana,Slider,74.9,Called Strike,-
+5,41,3,Arman Sabouri,Nick Quintana,Cutter,79.1,Swinging Strike,-
+5,42,1,Arman Sabouri,Cesar Salazar,Slider,74.8,Foul,-
+5,42,2,Arman Sabouri,Cesar Salazar,4 Seam,88.5,Ball,-
+5,42,3,Arman Sabouri,Cesar Salazar,Slider,75.5,Foul,-
+5,42,4,Arman Sabouri,Cesar Salazar,Slider,75.6,Foul,-
+5,42,5,Arman Sabouri,Cesar Salazar,Curve,74.1,Foul,-
+5,42,6,Arman Sabouri,Cesar Salazar,Changeup,79.2,Ball,-
+5,42,7,Arman Sabouri,Cesar Salazar,Slider,76.9,Foul,-
+5,42,8,Arman Sabouri,Cesar Salazar,4 Seam,88.9,Swinging Strike,-
+5,43,1,Arman Sabouri,Cameron Cannon,Curve,73.7,Swinging Strike,-
+5,43,2,Arman Sabouri,Cameron Cannon,Changeup,77.3,Ball,-
+5,43,3,Arman Sabouri,Cameron Cannon,4 Seam,89.6,Foul Tip,-
+5,43,4,Arman Sabouri,Cameron Cannon,4 Seam,90.7,Ball,-
+5,43,5,Arman Sabouri,Cameron Cannon,Curve,75.4,Hit Into Play - Out,83.3
+5,44,1,Michael Flynn,Tanner Dodson,Curve,77.7,Ball,-
+5,44,2,Michael Flynn,Tanner Dodson,2 Seam,88.9,Foul,-
+5,44,3,Michael Flynn,Tanner Dodson,2 Seam,89.1,Hit Into Play - Out,89.3
+5,45,1,Michael Flynn,Jonah Davis,2 Seam,89.2,Ball,-
+5,45,2,Michael Flynn,Jonah Davis,2 Seam,90.5,Ball,-
+5,45,3,Michael Flynn,Jonah Davis,2 Seam,89.8,Ball,-
+5,45,4,Michael Flynn,Jonah Davis,2 Seam,88.9,Foul,-
+5,45,5,Michael Flynn,Jonah Davis,2 Seam,91.2,Swinging Strike,-
+5,45,6,Michael Flynn,Jonah Davis,2 Seam,91.9,Called Strike,-
+5,46,1,Michael Flynn,Sam Wezniak,Curve,81.4,Called Strike,-
+5,46,2,Michael Flynn,Sam Wezniak,Slider,80.1,Swinging Strike,-
+5,46,3,Michael Flynn,Sam Wezniak,2 Seam,91.5,Ball,-
+5,46,4,Michael Flynn,Sam Wezniak,Slider,82.5,Swinging Strike,-
+6,47,1,Arman Sabouri,Seve Romo,4 Seam,89.1,Ball,-
+6,47,2,Arman Sabouri,Seve Romo,4 Seam,85.9,Hit Into Play - Run Scored,92.1
+6,48,1,Arman Sabouri,Donta Williams,2 Seam,87.9,Ball,-
+6,48,2,Arman Sabouri,Donta Williams,2 Seam,87.2,Called Strike,-
+6,48,3,Arman Sabouri,Donta Williams,4 Seam,86.4,Ball,-
+6,48,4,Arman Sabouri,Donta Williams,4 Seam,87.6,Called Strike,-
+6,48,5,Arman Sabouri,Donta Williams,4 Seam,88.8,Hit Into Play,31.3
+6,49,1,Arman Sabouri,Matt Frazier,2 Seam,86.1,Called Strike,-
+6,49,2,Arman Sabouri,Matt Frazier,2 Seam,87.4,Hit Into Play - Out,15.1
+6,50,1,Arman Sabouri,Jacob Blas,4 Seam,88.4,Foul,-
+6,50,2,Arman Sabouri,Jacob Blas,Slider,76.5,Called Strike,-
+6,50,3,Arman Sabouri,Jacob Blas,Curve,79.1,Ball,-
+6,50,4,Arman Sabouri,Jacob Blas,Slider,76.3,Hit Into Play - Run Scored,83.4
+6,51,1,Arman Sabouri,Cal Stevenson,4 Seam,86.8,Called Strike,-
+6,51,2,Arman Sabouri,Cal Stevenson,4 Seam,86.5,Foul,-
+6,51,3,Arman Sabouri,Cal Stevenson,4 Seam,88.4,Swinging Strike,-
+6,52,1,Arman Sabouri,Alfonso Rivas III,Curve,75.8,Called Strike,-
+6,52,2,Arman Sabouri,Alfonso Rivas III,4 Seam,88.6,Hit Into Play - Out,57.2
+6,53,1,Michael Flynn,Max Flower,Slider,80.2,Ball,-
+6,53,2,Michael Flynn,Max Flower,2 Seam,90.5,Ball,-
+6,53,3,Michael Flynn,Max Flower,2 Seam,90.3,Called Strike,-
+6,53,4,Michael Flynn,Max Flower,2 Seam,91.3,Ball,-
+6,53,5,Michael Flynn,Max Flower,2 Seam,90.8,Hit Into Play,100.3
+6,54,1,Zach Stone,Jeffery Mitchell Jr.,Slider,76.3,Ball,-
+6,54,2,Zach Stone,Jeffery Mitchell Jr.,Slider,74.6,Foul,-
+6,54,3,Zach Stone,Jeffery Mitchell Jr.,4 Seam,85.5,Ball,-
+6,54,4,Zach Stone,Jeffery Mitchell Jr.,Slider,77.3,Hit Into Play - Out,57.5
+6,55,1,Zach Stone,Cameron Eden,4 Seam,87.3,Called Strike,-
+6,55,2,Zach Stone,Cameron Eden,4 Seam,87.8,Hit Into Play,93.5
+6,56,1,Zach Stone,Ripken Reyes,Slider,79.3,Swinging Strike,-
+6,56,2,Zach Stone,Ripken Reyes,Slider,77.4,Ball,-
+6,56,3,Zach Stone,Ripken Reyes,Slider,76.2,Called Strike,-
+6,56,4,Zach Stone,Ripken Reyes,Slider,78.3,Hit Into Play - Run Scored,86.9
+6,57,1,Zach Stone,Tyrus Greene,Slider,77.7,Ball,-
+6,57,2,Zach Stone,Tyrus Greene,4 Seam,87.8,Called Strike,-
+6,57,3,Zach Stone,Tyrus Greene,4 Seam,88.4,Ball,-
+6,57,4,Zach Stone,Tyrus Greene,Slider,77.9,Called Strike,-
+6,57,5,Zach Stone,Tyrus Greene,2 Seam,88.5,Swinging Strike,-
+6,58,1,Tylor Megill,Andrew Vaughn,Changeup,80.2,Called Strike,-
+6,58,2,Tylor Megill,Andrew Vaughn,4 Seam,89.5,Ball,-
+6,58,3,Tylor Megill,Andrew Vaughn,2 Seam,90.8,Called Strike,-
+6,58,4,Tylor Megill,Andrew Vaughn,2 Seam,90.3,Foul,-
+6,58,5,Tylor Megill,Andrew Vaughn,Changeup,82.6,Ball,-
+6,58,6,Tylor Megill,Andrew Vaughn,4 Seam,90.3,Hit Into Play - Run Scored,107
+6,59,1,Tylor Megill,Tanner Dodson,2 Seam,90.1,Ball,-
+6,59,2,Tylor Megill,Tanner Dodson,4 Seam,88.8,Foul,-
+6,59,3,Tylor Megill,Tanner Dodson,2 Seam,84.3,Ball,-
+6,59,4,Tylor Megill,Tanner Dodson,2 Seam,89.4,Swinging Strike,-
+6,59,5,Tylor Megill,Tanner Dodson,4 Seam,90.2,Called Strike,-
+7,60,1,Arman Sabouri,Nick Quintana,4 Seam,87.4,Ball,-
+7,60,2,Arman Sabouri,Nick Quintana,2 Seam,85.2,Foul,-
+7,60,3,Arman Sabouri,Nick Quintana,2 Seam,88.2,Foul,-
+7,60,4,Arman Sabouri,Nick Quintana,4 Seam,89.5,Swinging Strike,-
+7,61,1,Arman Sabouri,Cesar Salazar,2 Seam,88.8,Called Strike,-
+7,61,2,Arman Sabouri,Cesar Salazar,4 Seam,89.4,Ball,-
+7,61,3,Arman Sabouri,Cesar Salazar,Slider,76.1,Swinging Strike,-
+7,61,4,Arman Sabouri,Cesar Salazar,4 Seam,90.6,Called Strike,-
+7,62,1,Arman Sabouri,Cameron Cannon,4 Seam,89.4,Ball,-
+7,62,2,Arman Sabouri,Cameron Cannon,4 Seam,87.9,Hit Into Play - Out,94.1
+7,63,1,Tylor Megill,Jonah Davis,2 Seam,88.2,Swinging Strike,-
+7,63,2,Tylor Megill,Jonah Davis,2 Seam,89.1,Ball,-
+7,63,3,Tylor Megill,Jonah Davis,4 Seam,84.1,Foul,-
+7,63,4,Tylor Megill,Jonah Davis,2 Seam,90,Hit Into Play,93
+7,64,1,Tylor Megill,Sam Wezniak,Cutter,80.4,Ball,-
+7,64,2,Tylor Megill,Sam Wezniak,2 Seam,88.7,Ball,-
+7,64,3,Tylor Megill,Sam Wezniak,2 Seam,89.2,Hit Into Play - Out,-
+7,65,1,Tylor Megill,Max Flower,2 Seam,89.1,Called Strike,-
+7,65,2,Tylor Megill,Max Flower,4 Seam,89.2,Ball,-
+7,65,3,Tylor Megill,Max Flower,Cutter,80.8,Hit Into Play - Run Scored,93
+7,66,1,Tylor Megill,Jeffery Mitchell Jr.,2 Seam,85.6,Ball,-
+7,66,2,Tylor Megill,Jeffery Mitchell Jr.,Cutter,80.7,Called Strike,-
+7,66,3,Tylor Megill,Jeffery Mitchell Jr.,Changeup,79,Foul,56.5
+7,66,4,Tylor Megill,Jeffery Mitchell Jr.,2 Seam,89,Called Strike,-
+7,67,1,Tylor Megill,Cameron Eden,Slider,78.5,Called Strike,-
+7,67,2,Tylor Megill,Cameron Eden,2 Seam,89.3,Called Strike,-
+7,67,3,Tylor Megill,Cameron Eden,Slider,79.3,Foul,-
+7,67,4,Tylor Megill,Cameron Eden,Changeup,80,Ball,-
+7,67,5,Tylor Megill,Cameron Eden,2 Seam,89.5,Swinging Strike,-
+8,68,1,Arman Sabouri,Seve Romo,2 Seam,88.3,Ball,-
+8,68,2,Arman Sabouri,Seve Romo,2 Seam,87.5,Hit Into Play - Out,41.5
+8,69,1,Arman Sabouri,Donta Williams,4 Seam,86.6,Ball,-
+8,69,2,Arman Sabouri,Donta Williams,4 Seam,86.8,Hit Into Play - Out,43.1
+8,70,1,Arman Sabouri,Matt Frazier,4 Seam,88.3,Called Strike,-
+8,70,2,Arman Sabouri,Matt Frazier,Curve,74.7,Ball,-
+8,70,3,Arman Sabouri,Matt Frazier,Changeup,78.5,Swinging Strike,-
+8,70,4,Arman Sabouri,Matt Frazier,4 Seam,89.5,Foul,-
+8,70,5,Arman Sabouri,Matt Frazier,Cutter,87.3,Ball,-
+8,70,6,Arman Sabouri,Matt Frazier,Curve,74.8,Ball,-
+8,70,7,Arman Sabouri,Matt Frazier,4 Seam,88.4,Foul,62.3
+8,70,8,Arman Sabouri,Matt Frazier,4 Seam,88.3,Hit Into Play - Out,80.1
+8,71,1,Robby Medel,Ripken Reyes,2 Seam,85.5,Called Strike,-
+8,71,2,Robby Medel,Ripken Reyes,Changeup,78.1,Ball,-
+8,71,3,Robby Medel,Ripken Reyes,Changeup,72.5,Hit Into Play,83.4
+8,72,1,Robby Medel,Tyrus Greene,2 Seam,84.5,Hit Into Play - Out,97.6
+8,73,1,Robby Medel,Andrew Vaughn,Slider,72,Ball,-
+8,73,2,Robby Medel,Andrew Vaughn,2 Seam,85.8,Ball,-
+8,73,3,Robby Medel,Andrew Vaughn,Changeup,76.3,Called Strike,-
+8,73,4,Robby Medel,Andrew Vaughn,2 Seam,86.5,Hit Into Play - Run Scored,98.8
+8,74,1,Robby Medel,Tanner Dodson,2 Seam,85.3,Ball,-
+8,74,2,Robby Medel,Tanner Dodson,Changeup,77.6,Swinging Strike,-
+8,74,3,Robby Medel,Tanner Dodson,4 Seam,79.8,Ball,-
+8,74,4,Robby Medel,Tanner Dodson,Slider,75.5,Ball,-
+8,74,5,Robby Medel,Tanner Dodson,2 Seam,83.9,Foul,-
+8,74,6,Robby Medel,Tanner Dodson,2 Seam,85.9,Ball,-
+8,75,1,Robby Medel,Jonah Davis,Curve,70.2,Ball,-
+8,75,2,Robby Medel,Jonah Davis,2 Seam,85.4,Hit Into Play - Out,99.4
+8,76,1,Robby Medel,Sam Wezniak,Changeup,71.5,Hit Into Play - Run Scored,94.2
+8,77,1,Ryan Gowens,Max Flower,4 Seam,90.5,Called Strike,-
+8,77,2,Ryan Gowens,Max Flower,4 Seam,89.9,Hit Into Play - Run Scored,49.4
+8,78,1,Ryan Gowens,Jeffery Mitchell Jr.,2 Seam,89.6,Hit Into Play - Run Scored,62.9
+8,79,1,Ryan Gowens,Cameron Eden,4 Seam,90.7,Ball,-
+8,79,2,Ryan Gowens,Cameron Eden,4 Seam,90,Ball,-
+8,79,3,Ryan Gowens,Cameron Eden,2 Seam,89.4,Ball,-
+8,79,4,Ryan Gowens,Cameron Eden,2 Seam,89.9,Called Strike,-
+8,79,5,Ryan Gowens,Cameron Eden,2 Seam,89.5,Foul,63.5
+8,79,6,Ryan Gowens,Cameron Eden,2 Seam,90.1,Ball,-
+8,80,1,Ryan Gowens,Ripken Reyes,4 Seam,90.9,Called Strike,-
+8,80,2,Ryan Gowens,Ripken Reyes,4 Seam,89.8,Ball,-
+8,80,3,Ryan Gowens,Ripken Reyes,Slider,78.2,Ball,-
+8,80,4,Ryan Gowens,Ripken Reyes,2 Seam,89.9,Called Strike,-
+8,80,5,Ryan Gowens,Ripken Reyes,2 Seam,89.9,Ball,-
+8,80,6,Ryan Gowens,Ripken Reyes,4 Seam,90.4,Hit Into Play - Run Scored,59.8
+8,81,1,Ryan Gowens,Tyrus Greene,4 Seam,87.9,Called Strike,-
+8,81,2,Ryan Gowens,Tyrus Greene,Curve,76.4,Foul,-
+8,81,3,Ryan Gowens,Tyrus Greene,2 Seam,89.7,Ball,-
+8,81,4,Ryan Gowens,Tyrus Greene,2 Seam,89.3,Called Strike,-
+9,82,1,Arman Sabouri,Jacob Blas,4 Seam,85.4,Hit Into Play - Out,88.8
+9,83,1,Arman Sabouri,Mitchell Morimoto,4 Seam,87,Called Strike,-
+9,83,2,Arman Sabouri,Mitchell Morimoto,4 Seam,87.7,Called Strike,-
+9,83,3,Arman Sabouri,Mitchell Morimoto,4 Seam,88.2,Ball,-
+9,83,4,Arman Sabouri,Mitchell Morimoto,2 Seam,89.2,Called Strike,-
+9,84,1,Arman Sabouri,Blake Paugh,4 Seam,86.4,Ball,-
+9,84,2,Arman Sabouri,Blake Paugh,2 Seam,86.6,Ball,-
+9,84,3,Arman Sabouri,Blake Paugh,Changeup,85.1,Called Strike,-
+9,84,4,Arman Sabouri,Blake Paugh,2 Seam,87.4,Ball,-
+9,84,5,Arman Sabouri,Blake Paugh,4 Seam,86.7,Swinging Strike,-
+9,84,6,Arman Sabouri,Blake Paugh,4 Seam,89.5,Swinging Strike,-
